@@ -23,9 +23,7 @@ jobs:
       - name: Generate calendar file
         env:
           SEASON: ${{ vars.SEASON }}
-          LEAGUE: ${{ vars.LEAGUE }}
-          TEAM_ID: ${{ vars.TEAM_ID }}
-          TEAM_NAME: ${{ vars.TEAM_NAME }}
+          TEAMS: ${{ vars.TEAMS }}
           OUTPUT_ROOT: ${{ github.workspace }}
           API_SPORTS_API_KEY: ${{ secrets.API_SPORTS_API_KEY }}
         run: |-
