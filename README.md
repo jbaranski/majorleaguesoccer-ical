@@ -1,5 +1,5 @@
-# Major League Soccer iCal generator
-Generates an iCal file for each Major League Soccer team's fixture schedule for the current season.
+# Major League Soccer iCalendar generator
+Generates an iCalendar file for each Major League Soccer team's fixture schedule for the current season.
 
 
 ### How to subscribe?
