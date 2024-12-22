@@ -103,13 +103,14 @@ class FootballCalendar:
 
     def to_calendar(self) -> Calendar:
         if self.cal is None:
+            team_name_modified = self.team_name.replace(".", "").replace(" ", "").lower()
             cal = Calendar()
             # https://en.wikipedia.org/wiki/ICalendar
             cal.add('X-WR-CALNAME', self.team_name)
             cal.add('X-WR-CALDESC', f'All {self.team_name} fixtures for {self.season} season')
-            cal.add('X-WR-RELCALID', f'{self.team_name}-{self.season}'.replace(' ', ''))
+            cal.add('X-WR-RELCALID', f'{team_name_modified}-{self.season}'.replace(' ', ''))
             cal.add('X-PUBLISHED-TTL', 'PT6H')
-            cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{self.team_name.replace(".", "").replace(" ", "").lower()}.ics')
+            cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}.ics')
             cal.add('METHOD', 'PUBLISH')
             cal.add('VERSION', '2.0')
             cal.add('PRODID', 'mls-ical.jeffsoftware.com')
