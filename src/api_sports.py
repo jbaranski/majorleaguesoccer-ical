@@ -65,6 +65,8 @@ class APISports:
                 logging.debug(json.dumps(rj, indent=2))
             if rj['paging']['total'] > 1:
                 raise Exception('Unexpected response from a non paging request (make a paging request instead?)')
+            if 'requests' in rj.get('errors', {}):
+                raise Exception('Daily limit breached')
             response = rj['response']
             return response
 
