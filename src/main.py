@@ -16,6 +16,7 @@ OUTPUT_ROOT = os.getenv('OUTPUT_ROOT')
 LOG_LEVEL = os.getenv('LOG_LEVEL')
 
 assert SEASON
+assert TEAMS
 assert OUTPUT_ROOT
 
 logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == 'DEBUG' else logging.INFO)
