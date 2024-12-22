@@ -6,7 +6,11 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "prettier:check": "prettier --check .",
+    "prettier:fix": "prettier --write .",
+    "prod:build": "ng build --c=production",
+    "prod:start": "http-server -a localhost -p 4200 dist/client/browser"
   },
   "private": true,
   "dependencies": {
@@ -33,6 +37,8 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "prettier": "^3.4.2",
+    "tailwindcss": "^3.4.17",
     "typescript": "~5.6.2"
   }
 }
