@@ -113,7 +113,7 @@ class FootballCalendar:
             cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}.ics')
             cal.add('METHOD', 'PUBLISH')
             cal.add('VERSION', '2.0')
-            cal.add('PRODID', 'mls-ical.jeffsoftware.com')
+            cal.add('PRODID', 'mlscalendar.jeffsoftware.com')
             cal.add('CALSCALE', 'GREGORIAN')
             cal.add('X-MICROSOFT-CALSCALE', 'GREGORIAN')
             for x in self.events:
