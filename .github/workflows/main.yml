@@ -29,7 +29,6 @@ jobs:
         run: |-
           cd $GITHUB_WORKSPACE
           python -m src.main
-          cat $GITHUB_WORKSPACE/calendar.ics
       - name: Commit calendar file if changed
         run: |-
           git diff
