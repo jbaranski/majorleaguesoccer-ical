@@ -109,10 +109,10 @@ class FootballCalendar:
             cal.add('X-WR-CALDESC', f'All {self.team_name} fixtures for {self.season} season')
             cal.add('X-WR-RELCALID', f'{self.team_name}-{self.season}'.replace(' ', ''))
             cal.add('X-PUBLISHED-TTL', 'PT6H')
-            cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/dcunited-ical/refs/heads/main/calendar.ics')
+            cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{self.team_name.replace(".", "").replace(" ", "").lower()}.ics')
             cal.add('METHOD', 'PUBLISH')
             cal.add('VERSION', '2.0')
-            cal.add('PRODID', 'soccercalendar.jeffsoftware.com')
+            cal.add('PRODID', 'mls-ical.jeffsoftware.com')
             cal.add('CALSCALE', 'GREGORIAN')
             cal.add('X-MICROSOFT-CALSCALE', 'GREGORIAN')
             for x in self.events:
