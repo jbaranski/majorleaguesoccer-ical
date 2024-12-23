@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:soccercalendar.jeffsoftware.com
+PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-URL:https://raw.githubusercontent.com/jbaranski/dcunited-ical/refs/heads/m
- ain/calendar.ics
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/sanjoseearthquakes.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-CALDESC:All San Jose Earthquakes fixtures for 2025 season
 X-WR-CALNAME:San Jose Earthquakes
-X-WR-RELCALID:SanJoseEarthquakes-2025
+X-WR-RELCALID:sanjoseearthquakes-2025
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Real Salt Lake
 DTSTART:20250223T033000Z

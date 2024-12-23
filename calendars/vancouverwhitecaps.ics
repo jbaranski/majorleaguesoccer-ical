@@ -1,0 +1,312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/vancouverwhitecaps.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Vancouver Whitecaps fixtures for 2025 season
+X-WR-CALNAME:Vancouver Whitecaps
+X-WR-RELCALID:vancouverwhitecaps-2025
+BEGIN:VEVENT
+SUMMARY:Deportivo Saprissa vs. Vancouver Whitecaps
+DTSTART:20250204T000000Z
+DTEND:20250204T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Deportivo Saprissa vs. Vancouver W
+ hitecaps
+LOCATION:Estadio Ricardo Saprissa Aymá\, San José
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Deportivo Saprissa
+DTSTART:20250218T000000Z
+DTEND:20250218T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Vancouver Whitecaps vs. Deportivo 
+ Saprissa
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Vancouver Whitecaps
+DTSTART:20250223T210000Z
+DTEND:20250223T230000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. Vancouver Whitecaps
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Los Angeles Galaxy
+DTSTART:20250302T220000Z
+DTEND:20250303T000000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Los Angeles Gala
+ xy
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. CF Montreal
+DTSTART:20250309T023000Z
+DTEND:20250309T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. CF Montreal
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Vancouver Whitecaps
+DTSTART:20250316T003000Z
+DTEND:20250316T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. Vancouver Whitecaps
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Chicago Fire
+DTSTART:20250323T023000Z
+DTEND:20250323T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Chicago Fire
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. Vancouver Whitecaps
+DTSTART:20250329T183000Z
+DTEND:20250329T203000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Toronto FC vs. Vancouver Whitecaps
+LOCATION:BMO Field\, Toronto\, Ontario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Colorado Rapids
+DTSTART:20250406T013000Z
+DTEND:20250406T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Colorado Rapids
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Austin
+DTSTART:20250412T233000Z
+DTEND:20250413T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Austin
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Vancouver Whitecaps
+DTSTART:20250420T003000Z
+DTEND:20250420T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Vancouver Whitecaps
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. Vancouver Whitecaps
+DTSTART:20250427T003000Z
+DTEND:20250427T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. Vancouver Whitec
+ aps
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Real Salt Lake
+DTSTART:20250504T013000Z
+DTEND:20250504T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Real Salt Lake
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Los Angeles FC
+DTSTART:20250511T230000Z
+DTEND:20250512T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Los Angeles FC
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Vancouver Whitecaps
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Vancouver Whitecaps
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Vancouver Whitecaps
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Minnesota United FC
+DTSTART:20250529T023000Z
+DTEND:20250529T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Minnesota United
+  FC
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Portland Timbers
+DTSTART:20250601T013000Z
+DTEND:20250601T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Portland Timbers
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Seattle Sounders
+DTSTART:20250609T010000Z
+DTEND:20250609T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Seattle Sounders
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. Vancouver Whitecaps
+DTSTART:20250614T233000Z
+DTEND:20250615T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Columbus Crew vs. Vancouver Whitecaps
+LOCATION:Lower.com Field\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Vancouver Whitecaps
+DTSTART:20250629T023000Z
+DTEND:20250629T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. Vancouver Whitecaps
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. Vancouver Whitecaps
+DTSTART:20250705T023000Z
+DTEND:20250705T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Vancouver Whiteca
+ ps
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Vancouver Whitecaps
+DTSTART:20250713T013000Z
+DTEND:20250713T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Vancouver Whitecaps
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. Vancouver Whitecaps
+DTSTART:20250717T003000Z
+DTEND:20250717T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. Vancouver Whitecaps
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Sporting Kansas City
+DTSTART:20250727T023000Z
+DTEND:20250727T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Sporting Kansas 
+ City
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps
+DTSTART:20250810T023000Z
+DTEND:20250810T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Vancouver White
+ caps
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Houston Dynamo
+DTSTART:20250819T010000Z
+DTEND:20250819T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Houston Dynamo
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. St. Louis City
+DTSTART:20250824T013000Z
+DTEND:20250824T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. St. Louis City
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City SC vs. Vancouver Whitecaps
+DTSTART:20250830T233000Z
+DTEND:20250831T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Orlando City SC vs. Vancouver Whitecaps
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Philadelphia Union
+DTSTART:20250914T013000Z
+DTEND:20250914T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Philadelphia Uni
+ on
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Vancouver Whitecaps
+DTSTART:20250921T003000Z
+DTEND:20250921T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Vancouver White
+ caps
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Vancouver Whitecaps
+DTSTART:20250928T023000Z
+DTEND:20250928T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Vancouver Whitecaps
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. San Jose Earthquakes
+DTSTART:20251006T010000Z
+DTEND:20251006T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. San Jose Earthqu
+ akes
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. FC Dallas
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. FC Dallas
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. San Diego
+DTSTART:20250626T023000Z
+DTEND:20250626T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. San Diego
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Vancouver Whitecaps
+DTSTART:20250720T023000Z
+DTEND:20250720T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Vancouver Whitecaps
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+END:VCALENDAR

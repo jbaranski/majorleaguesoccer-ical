@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:soccercalendar.jeffsoftware.com
+PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-URL:https://raw.githubusercontent.com/jbaranski/dcunited-ical/refs/heads/m
- ain/calendar.ics
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/seattlesounders.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-CALDESC:All Seattle Sounders fixtures for 2025 season
 X-WR-CALNAME:Seattle Sounders
-X-WR-RELCALID:SeattleSounders-2025
+X-WR-RELCALID:seattlesounders-2025
 BEGIN:VEVENT
 SUMMARY:Botafogo vs. Seattle Sounders
 DTSTART:20250616T020000Z

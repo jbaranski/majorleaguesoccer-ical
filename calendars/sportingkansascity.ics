@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/sportingkansascity.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Sporting Kansas City fixtures for 2025 season
+X-WR-CALNAME:Sporting Kansas City
+X-WR-RELCALID:sportingkansascity-2025
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Inter Miami
+DTSTART:20250204T000000Z
+DTEND:20250204T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Sporting Kansas City vs. Inter Mia
+ mi
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami vs. Sporting Kansas City
+DTSTART:20250218T000000Z
+DTEND:20250218T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Inter Miami vs. Sporting Kansas Ci
+ ty
+LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Sporting Kansas City
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Sporting Kansas City
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. San Jose Earthquakes
+DTSTART:20250302T013000Z
+DTEND:20250302T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. San Jose Earthq
+ uakes
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Sporting Kansas City
+DTSTART:20250309T003000Z
+DTEND:20250309T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Sporting Kansas City
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Minnesota United FC
+DTSTART:20250316T000000Z
+DTEND:20250316T020000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Minnesota Unite
+ d FC
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Los Angeles FC
+DTSTART:20250323T003000Z
+DTEND:20250323T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Los Angeles FC
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Sporting Kansas City
+DTSTART:20250329T233000Z
+DTEND:20250330T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. Sporting Kansas City
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. St. Louis City
+DTSTART:20250406T003000Z
+DTEND:20250406T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. St. Louis City
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Portland Timbers
+DTSTART:20250413T180000Z
+DTEND:20250413T200000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Portland Timber
+ s
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Sporting Kansas City
+DTSTART:20250420T023000Z
+DTEND:20250420T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Sporting Kansas
+  City
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. Sporting Kansas City
+DTSTART:20250426T183000Z
+DTEND:20250426T203000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Cincinnati vs. Sporting Kansas City
+LOCATION:TQL Stadium\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Los Angeles Galaxy
+DTSTART:20250504T230000Z
+DTEND:20250505T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Los Angeles Gal
+ axy
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Sporting Kansas City
+DTSTART:20250511T023000Z
+DTEND:20250511T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. Sporting Kansas Cit
+ y
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Sporting Kansas City
+DTSTART:20250515T003000Z
+DTEND:20250515T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Sporting Kansas City
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. New England Revolution
+DTSTART:20250525T003000Z
+DTEND:20250525T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. New England Rev
+ olution
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Sporting Kansas City
+DTSTART:20250529T023000Z
+DTEND:20250529T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. Sporting Kansas City
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. Sporting Kansas City
+DTSTART:20250601T003000Z
+DTEND:20250601T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. Sporting Kansas City
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. FC Dallas
+DTSTART:20250615T003000Z
+DTEND:20250615T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. FC Dallas
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Charlotte
+DTSTART:20250626T003000Z
+DTEND:20250626T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Charlotte
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Real Salt Lake
+DTSTART:20250629T003000Z
+DTEND:20250629T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Real Salt Lake
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Sporting Kansas City
+DTSTART:20250705T013000Z
+DTEND:20250705T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Sporting Kansas City
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Seattle Sounders
+DTSTART:20250713T003000Z
+DTEND:20250713T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Seattle Sounder
+ s
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. New York City FC
+DTSTART:20250720T003000Z
+DTEND:20250720T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. New York City F
+ C
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Sporting Kansas City
+DTSTART:20250727T023000Z
+DTEND:20250727T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Sporting Kansas 
+ City
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City SC vs. Sporting Kansas City
+DTSTART:20250816T233000Z
+DTEND:20250817T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Orlando City SC vs. Sporting Kansas City
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Sporting Kansas City
+DTSTART:20250825T010000Z
+DTEND:20250825T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Sporting Kansas Cit
+ y
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Colorado Rapids
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Colorado Rapids
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Austin
+DTSTART:20250906T230000Z
+DTEND:20250907T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Austin
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Sporting Kansas City
+DTSTART:20250914T013000Z
+DTEND:20250914T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Sporting Kansas City
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Vancouver Whitecaps
+DTSTART:20250921T003000Z
+DTEND:20250921T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Vancouver White
+ caps
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. Sporting Kansas City
+DTSTART:20250928T023000Z
+DTEND:20250928T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Sporting Kansas C
+ ity
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. Sporting Kansas City
+DTSTART:20251005T003000Z
+DTEND:20251005T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. Sporting Kansas 
+ City
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Houston Dynamo
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Houston Dynamo
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Sporting Kansas City
+DTSTART:20250518T023000Z
+DTEND:20250518T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Sporting Kansas City
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. San Diego
+DTSTART:20250810T003000Z
+DTEND:20250810T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. San Diego
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+END:VCALENDAR

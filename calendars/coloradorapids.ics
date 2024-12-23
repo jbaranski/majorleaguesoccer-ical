@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/coloradorapids.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Colorado Rapids fixtures for 2025 season
+X-WR-CALNAME:Colorado Rapids
+X-WR-RELCALID:coloradorapids-2025
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Los Angeles FC
+DTSTART:20250204T000000Z
+DTEND:20250204T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Colorado Rapids vs. Los Angeles FC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Colorado Rapids
+DTSTART:20250218T000000Z
+DTEND:20250218T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Los Angeles FC vs. Colorado Rapids
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Colorado Rapids
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Colorado Rapids
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. FC Dallas
+DTSTART:20250302T023000Z
+DTEND:20250302T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. FC Dallas
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Colorado Rapids
+DTSTART:20250309T013000Z
+DTEND:20250309T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Colorado Rapids
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Colorado Rapids
+DTSTART:20250316T023000Z
+DTEND:20250316T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Colorado Rapids
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Portland Timbers
+DTSTART:20250323T013000Z
+DTEND:20250323T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Portland Timbers
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Charlotte
+DTSTART:20250329T203000Z
+DTEND:20250329T223000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Charlotte
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Colorado Rapids
+DTSTART:20250406T013000Z
+DTEND:20250406T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Colorado Rapids
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. Colorado Rapids
+DTSTART:20250420T003000Z
+DTEND:20250420T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. Colorado Rapids
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Seattle Sounders
+DTSTART:20250427T013000Z
+DTEND:20250427T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Seattle Sounders
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Colorado Rapids
+DTSTART:20250503T233000Z
+DTEND:20250504T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Colorado Rapids
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+DTSTART:20250511T013000Z
+DTEND:20250511T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. San Jose Earthquakes
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Real Salt Lake
+DTSTART:20250518T013000Z
+DTEND:20250518T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Real Salt Lake
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. St. Louis City
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. St. Louis City
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Colorado Rapids
+DTSTART:20250529T023000Z
+DTEND:20250529T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. Colorado Rapids
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Colorado Rapids
+DTSTART:20250601T023000Z
+DTEND:20250601T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. Colorado Rapids
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Austin
+DTSTART:20250608T013000Z
+DTEND:20250608T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Austin
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Orlando City SC
+DTSTART:20250615T013000Z
+DTEND:20250615T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Orlando City SC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Los Angeles Galaxy
+DTSTART:20250626T013000Z
+DTEND:20250626T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Los Angeles Galaxy
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Colorado Rapids
+DTSTART:20250628T233000Z
+DTEND:20250629T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New England Revolution vs. Colorado Rapi
+ ds
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Sporting Kansas City
+DTSTART:20250705T013000Z
+DTEND:20250705T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Sporting Kansas City
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Vancouver Whitecaps
+DTSTART:20250713T013000Z
+DTEND:20250713T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Vancouver Whitecaps
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Colorado Rapids
+DTSTART:20250717T013000Z
+DTEND:20250717T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Colorado Rapids
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. Colorado Rapids
+DTSTART:20250726T233000Z
+DTEND:20250727T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Philadelphia Union vs. Colorado Rapids
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. Colorado Rapids
+DTSTART:20250810T220000Z
+DTEND:20250811T000000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. Colorado Rapids
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Atlanta United FC
+DTSTART:20250817T013000Z
+DTEND:20250817T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Atlanta United FC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. Colorado Rapids
+DTSTART:20250824T023000Z
+DTEND:20250824T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Colorado Rapids
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Colorado Rapids
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Colorado Rapids
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Houston Dynamo
+DTSTART:20250914T013000Z
+DTEND:20250914T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Houston Dynamo
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Colorado Rapids
+DTSTART:20250921T003000Z
+DTEND:20250921T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. Colorado Rapids
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Minnesota United FC
+DTSTART:20250928T013000Z
+DTEND:20250928T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Minnesota United FC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Colorado Rapids
+DTSTART:20251005T013000Z
+DTEND:20251005T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Colorado Rapids
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Los Angeles FC
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Los Angeles FC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. San Diego
+DTSTART:20250413T013000Z
+DTEND:20250413T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. San Diego
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Colorado Rapids
+DTSTART:20250515T023000Z
+DTEND:20250515T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Colorado Rapids
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+END:VCALENDAR

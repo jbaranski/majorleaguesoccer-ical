@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/austin.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Austin fixtures for 2025 season
+X-WR-CALNAME:Austin
+X-WR-RELCALID:austin-2025
+BEGIN:VEVENT
+SUMMARY:Austin vs. Sporting Kansas City
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Sporting Kansas City
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Austin
+DTSTART:20250302T033000Z
+DTEND:20250302T053000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. Austin
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Colorado Rapids
+DTSTART:20250309T013000Z
+DTEND:20250309T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Colorado Rapids
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Austin
+DTSTART:20250315T193000Z
+DTEND:20250315T213000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. Austin
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Austin
+DTSTART:20250330T180000Z
+DTEND:20250330T200000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Austin
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Portland Timbers
+DTSTART:20250405T233000Z
+DTEND:20250406T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Portland Timbers
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Austin
+DTSTART:20250412T233000Z
+DTEND:20250413T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Austin
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Los Angeles Galaxy
+DTSTART:20250419T173000Z
+DTEND:20250419T193000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Los Angeles Galaxy
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. Austin
+DTSTART:20250427T003000Z
+DTEND:20250427T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. Austin
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Minnesota United FC
+DTSTART:20250504T003000Z
+DTEND:20250504T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Minnesota United FC
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. Austin
+DTSTART:20250510T233000Z
+DTEND:20250511T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Cincinnati vs. Austin
+LOCATION:TQL Stadium\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Atlanta United FC
+DTSTART:20250515T003000Z
+DTEND:20250515T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Atlanta United FC
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Vancouver Whitecaps
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Vancouver Whitecaps
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. Austin
+DTSTART:20250525T003000Z
+DTEND:20250525T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. Austin
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Real Salt Lake
+DTSTART:20250529T003000Z
+DTEND:20250529T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Real Salt Lake
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Austin
+DTSTART:20250608T013000Z
+DTEND:20250608T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Austin
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. New York Red Bulls
+DTSTART:20250615T003000Z
+DTEND:20250615T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. New York Red Bulls
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Austin
+DTSTART:20250629T023000Z
+DTEND:20250629T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Austin
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Los Angeles FC
+DTSTART:20250706T003000Z
+DTEND:20250706T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Los Angeles FC
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. New England Revolution
+DTSTART:20250713T003000Z
+DTEND:20250713T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. New England Revolution
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. Austin
+DTSTART:20250717T023000Z
+DTEND:20250717T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Austin
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Austin
+DTSTART:20250726T233000Z
+DTEND:20250727T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Austin
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Houston Dynamo
+DTSTART:20250810T003000Z
+DTEND:20250810T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Houston Dynamo
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. FC Dallas
+DTSTART:20250817T003000Z
+DTEND:20250817T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. FC Dallas
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. Austin
+DTSTART:20250823T233000Z
+DTEND:20250824T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - CF Montreal vs. Austin
+LOCATION:Stade Saputo\, Montreal\, Quebec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. San Jose Earthquakes
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. San Jose Earthquakes
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Austin
+DTSTART:20250906T230000Z
+DTEND:20250907T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Austin
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Austin
+DTSTART:20250914T003000Z
+DTEND:20250914T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. Austin
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Seattle Sounders
+DTSTART:20250921T003000Z
+DTEND:20250921T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Seattle Sounders
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Austin
+DTSTART:20250928T013000Z
+DTEND:20250928T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Austin
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. St. Louis City
+DTSTART:20251005T003000Z
+DTEND:20251005T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. St. Louis City
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Austin
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Austin
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. San Diego
+DTSTART:20250323T200000Z
+DTEND:20250323T220000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. San Diego
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Austin
+DTSTART:20250601T023000Z
+DTEND:20250601T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Austin
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+END:VCALENDAR

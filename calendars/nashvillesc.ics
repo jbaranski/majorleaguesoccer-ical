@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/nashvillesc.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Nashville SC fixtures for 2025 season
+X-WR-CALNAME:Nashville SC
+X-WR-RELCALID:nashvillesc-2025
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. New England Revolution
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. New England Revolution
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. Nashville SC
+DTSTART:20250302T003000Z
+DTEND:20250302T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New York Red Bulls vs. Nashville SC
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Portland Timbers
+DTSTART:20250309T013000Z
+DTEND:20250309T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Portland Timbers
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. Nashville SC
+DTSTART:20250316T180000Z
+DTEND:20250316T200000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Philadelphia Union vs. Nashville SC
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. CF Montreal
+DTSTART:20250323T003000Z
+DTEND:20250323T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. CF Montreal
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. FC Cincinnati
+DTSTART:20250329T233000Z
+DTEND:20250330T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. FC Cincinnati
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte vs. Nashville SC
+DTSTART:20250405T183000Z
+DTEND:20250405T203000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Charlotte vs. Nashville SC
+LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Real Salt Lake
+DTSTART:20250413T003000Z
+DTEND:20250413T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Real Salt Lake
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Nashville SC
+DTSTART:20250419T233000Z
+DTEND:20250420T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Nashville SC
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Chicago Fire
+DTSTART:20250427T003000Z
+DTEND:20250427T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Chicago Fire
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta United FC vs. Nashville SC
+DTSTART:20250503T183000Z
+DTEND:20250503T203000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Atlanta United FC vs. Nashville SC
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Charlotte
+DTSTART:20250511T003000Z
+DTEND:20250511T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Charlotte
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. New York Red Bulls
+DTSTART:20250515T003000Z
+DTEND:20250515T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. New York Red Bulls
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. DC United
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. DC United
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. Nashville SC
+DTSTART:20250524T233000Z
+DTEND:20250525T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Toronto FC vs. Nashville SC
+LOCATION:BMO Field\, Toronto\, Ontario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. Nashville SC
+DTSTART:20250529T000000Z
+DTEND:20250529T020000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Columbus Crew vs. Nashville SC
+LOCATION:Lower.com Field\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. New York City FC
+DTSTART:20250531T203000Z
+DTEND:20250531T223000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. New York City FC
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire vs. Nashville SC
+DTSTART:20250615T003000Z
+DTEND:20250615T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Chicago Fire vs. Nashville SC
+LOCATION:Soldier Field\, Chicago\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Nashville SC
+DTSTART:20250625T233000Z
+DTEND:20250626T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New England Revolution vs. Nashville SC
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC United vs. Nashville SC
+DTSTART:20250628T233000Z
+DTEND:20250629T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - DC United vs. Nashville SC
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Philadelphia Union
+DTSTART:20250706T003000Z
+DTEND:20250706T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Philadelphia Union
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami vs. Nashville SC
+DTSTART:20250712T233000Z
+DTEND:20250713T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Inter Miami vs. Nashville SC
+LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Columbus Crew
+DTSTART:20250717T003000Z
+DTEND:20250717T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Columbus Crew
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Toronto FC
+DTSTART:20250720T003000Z
+DTEND:20250720T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Toronto FC
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Nashville SC
+DTSTART:20250810T003000Z
+DTEND:20250810T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Nashville SC
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. Nashville SC
+DTSTART:20250817T210000Z
+DTEND:20250817T230000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New York City FC vs. Nashville SC
+LOCATION:Yankee Stadium\, New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Orlando City SC
+DTSTART:20250824T003000Z
+DTEND:20250824T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Orlando City SC
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Atlanta United FC
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Atlanta United FC
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. Nashville SC
+DTSTART:20250913T233000Z
+DTEND:20250914T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Cincinnati vs. Nashville SC
+LOCATION:TQL Stadium\, Cincinnati\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City SC vs. Nashville SC
+DTSTART:20250920T233000Z
+DTEND:20250921T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Orlando City SC vs. Nashville SC
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Houston Dynamo
+DTSTART:20250928T003000Z
+DTEND:20250928T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Houston Dynamo
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. Nashville SC
+DTSTART:20251004T233000Z
+DTEND:20251005T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - CF Montreal vs. Nashville SC
+LOCATION:Stade Saputo\, Montreal\, Quebec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Inter Miami
+DTSTART:20251018T220000Z
+DTEND:20251019T000000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Inter Miami
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Nashville SC
+DTSTART:20250726T023000Z
+DTEND:20250726T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Nashville SC
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+END:VCALENDAR

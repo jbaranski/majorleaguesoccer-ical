@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/realsaltlake.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Real Salt Lake fixtures for 2025 season
+X-WR-CALNAME:Real Salt Lake
+X-WR-RELCALID:realsaltlake-2025
+BEGIN:VEVENT
+SUMMARY:CS Herediano vs. Real Salt Lake
+DTSTART:20250204T000000Z
+DTEND:20250204T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - CS Herediano vs. Real Salt Lake
+LOCATION:Estadio Carlos Alvarado\, Santa Bárbara
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. CS Herediano
+DTSTART:20250218T000000Z
+DTEND:20250218T020000Z
+COMPETITION:CONCACAF Champions League
+DESCRIPTION:CONCACAF Champions League - Real Salt Lake vs. CS Herediano
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Real Salt Lake
+DTSTART:20250223T033000Z
+DTEND:20250223T053000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Real Salt Lake
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Seattle Sounders
+DTSTART:20250301T213000Z
+DTEND:20250301T233000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Seattle Sounders
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. Real Salt Lake
+DTSTART:20250316T003000Z
+DTEND:20250316T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. Real Salt Lake
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. FC Dallas
+DTSTART:20250323T013000Z
+DTEND:20250323T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. FC Dallas
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. Real Salt Lake
+DTSTART:20250329T233000Z
+DTEND:20250330T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. Real Salt Lake
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Los Angeles Galaxy
+DTSTART:20250405T203000Z
+DTEND:20250405T223000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Los Angeles Galaxy
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Real Salt Lake
+DTSTART:20250413T003000Z
+DTEND:20250413T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Nashville SC vs. Real Salt Lake
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Toronto FC
+DTSTART:20250420T013000Z
+DTEND:20250420T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Toronto FC
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Real Salt Lake
+DTSTART:20250504T013000Z
+DTEND:20250504T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Real Salt Lake
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Real Salt Lake
+DTSTART:20250511T003000Z
+DTEND:20250511T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. Real Salt Lake
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Portland Timbers
+DTSTART:20250515T013000Z
+DTEND:20250515T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Portland Timbers
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Real Salt Lake
+DTSTART:20250518T013000Z
+DTEND:20250518T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. Real Salt Lake
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Vancouver Whitecaps
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. Real Salt Lake
+DTSTART:20250529T003000Z
+DTEND:20250529T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. Real Salt Lake
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. Real Salt Lake
+DTSTART:20250601T023000Z
+DTEND:20250601T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Real Salt Lake
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. DC United
+DTSTART:20250615T013000Z
+DTEND:20250615T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. DC United
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Los Angeles FC
+DTSTART:20250626T013000Z
+DTEND:20250626T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Los Angeles FC
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Real Salt Lake
+DTSTART:20250629T003000Z
+DTEND:20250629T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Real Salt Lake
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. St. Louis City
+DTSTART:20250706T013000Z
+DTEND:20250706T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. St. Louis City
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Houston Dynamo
+DTSTART:20250713T013000Z
+DTEND:20250713T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Houston Dynamo
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Real Salt Lake
+DTSTART:20250717T023000Z
+DTEND:20250717T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. Real Salt Lake
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. FC Cincinnati
+DTSTART:20250720T013000Z
+DTEND:20250720T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. FC Cincinnati
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. San Jose Earthquakes
+DTSTART:20250727T013000Z
+DTEND:20250727T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. San Jose Earthquakes
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. Real Salt Lake
+DTSTART:20250810T220000Z
+DTEND:20250811T000000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - New York Red Bulls vs. Real Salt Lake
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte vs. Real Salt Lake
+DTSTART:20250816T233000Z
+DTEND:20250817T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Charlotte vs. Real Salt Lake
+LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Minnesota United FC
+DTSTART:20250824T013000Z
+DTEND:20250824T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Minnesota United FC
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. Real Salt Lake
+DTSTART:20250831T023000Z
+DTEND:20250831T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. Real Salt Lake
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Sporting Kansas City
+DTSTART:20250914T013000Z
+DTEND:20250914T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Sporting Kansas City
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Real Salt Lake
+DTSTART:20250922T010000Z
+DTEND:20250922T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. Real Salt Lake
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Austin
+DTSTART:20250928T013000Z
+DTEND:20250928T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Austin
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Colorado Rapids
+DTSTART:20251005T013000Z
+DTEND:20251005T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. Colorado Rapids
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Real Salt Lake
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Real Salt Lake
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. San Diego
+DTSTART:20250309T023000Z
+DTEND:20250309T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. San Diego
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. Real Salt Lake
+DTSTART:20250426T233000Z
+DTEND:20250427T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. Real Salt Lake
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/stlouiscity.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All St. Louis City fixtures for 2025 season
+X-WR-CALNAME:St. Louis City
+X-WR-RELCALID:stlouiscity-2025
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Colorado Rapids
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Colorado Rapids
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Galaxy vs. St. Louis City
+DTSTART:20250309T230000Z
+DTEND:20250310T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. St. Louis City
+LOCATION:Dignity Health Sports Park\, Carson\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Seattle Sounders
+DTSTART:20250316T003000Z
+DTEND:20250316T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Seattle Sounders
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. St. Louis City
+DTSTART:20250322T233000Z
+DTEND:20250323T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Philadelphia Union vs. St. Louis City
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Austin
+DTSTART:20250330T180000Z
+DTEND:20250330T200000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Austin
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. St. Louis City
+DTSTART:20250406T003000Z
+DTEND:20250406T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Sporting Kansas City vs. St. Louis City
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Columbus Crew
+DTSTART:20250413T230000Z
+DTEND:20250414T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Columbus Crew
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Vancouver Whitecaps
+DTSTART:20250420T003000Z
+DTEND:20250420T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Vancouver Whitecaps
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. St. Louis City
+DTSTART:20250427T230000Z
+DTEND:20250428T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Los Angeles FC vs. St. Louis City
+LOCATION:BMO Stadium\, Los Angeles\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders vs. St. Louis City
+DTSTART:20250504T023000Z
+DTEND:20250504T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Seattle Sounders vs. St. Louis City
+LOCATION:Lumen Field\, Seattle\, Washington
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Sporting Kansas City
+DTSTART:20250515T003000Z
+DTEND:20250515T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Sporting Kansas City
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United FC vs. St. Louis City
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Minnesota United FC vs. St. Louis City
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. St. Louis City
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Colorado Rapids vs. St. Louis City
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. San Jose Earthquakes
+DTSTART:20250531T183000Z
+DTEND:20250531T203000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. San Jose Earthquakes
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. St. Louis City
+DTSTART:20250608T230000Z
+DTEND:20250609T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Portland Timbers vs. St. Louis City
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Los Angeles Galaxy
+DTSTART:20250614T203000Z
+DTEND:20250614T223000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Los Angeles Galaxy
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Orlando City SC
+DTSTART:20250626T003000Z
+DTEND:20250626T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Orlando City SC
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo vs. St. Louis City
+DTSTART:20250629T003000Z
+DTEND:20250629T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Houston Dynamo vs. St. Louis City
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. St. Louis City
+DTSTART:20250706T013000Z
+DTEND:20250706T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Real Salt Lake vs. St. Louis City
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Portland Timbers
+DTSTART:20250713T230000Z
+DTEND:20250714T010000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Portland Timbers
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. St. Louis City
+DTSTART:20250720T003000Z
+DTEND:20250720T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - FC Dallas vs. St. Louis City
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Minnesota United FC
+DTSTART:20250727T003000Z
+DTEND:20250727T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Minnesota United FC
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Nashville SC
+DTSTART:20250810T003000Z
+DTEND:20250810T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Nashville SC
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire vs. St. Louis City
+DTSTART:20250817T003000Z
+DTEND:20250817T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Chicago Fire vs. St. Louis City
+LOCATION:Soldier Field\, Chicago\, Illinois
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. St. Louis City
+DTSTART:20250824T013000Z
+DTEND:20250824T033000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. St. Louis City
+LOCATION:BC Place\, Vancouver\, British Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Houston Dynamo
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Houston Dynamo
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. FC Dallas
+DTSTART:20250907T003000Z
+DTEND:20250907T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. FC Dallas
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. St. Louis City
+DTSTART:20250913T233000Z
+DTEND:20250914T013000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - CF Montreal vs. St. Louis City
+LOCATION:Stade Saputo\, Montreal\, Quebec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. St. Louis City
+DTSTART:20250921T023000Z
+DTEND:20250921T043000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. St. Louis City
+LOCATION:PayPal Park\, San Jose\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Los Angeles FC
+DTSTART:20250928T003000Z
+DTEND:20250928T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Los Angeles FC
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin vs. St. Louis City
+DTSTART:20251005T003000Z
+DTEND:20251005T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - Austin vs. St. Louis City
+LOCATION:Q2 Stadium\, Austin\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. Real Salt Lake
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. Real Salt Lake
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego vs. St. Louis City
+DTSTART:20250302T033000Z
+DTEND:20250302T053000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - San Diego vs. St. Louis City
+LOCATION:Snapdragon Stadium\, San Diego\, California
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City vs. San Diego
+DTSTART:20250511T003000Z
+DTEND:20250511T023000Z
+COMPETITION:Major League Soccer
+DESCRIPTION:Major League Soccer - St. Louis City vs. San Diego
+LOCATION:CITYPARK\, St. Louis\, Missouri
+END:VEVENT
+END:VCALENDAR
