@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -40,8 +39,17 @@ export class AppComponent {
     'Toronto FC',
     'Vancouver Whitecaps'
   ];
+  copyToClipboardText = Array(30).fill('Copy to clipboard');
 
   getCalendarUrl(team: string): string {
     return `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${team.replaceAll('.', '').replaceAll(' ', '').toLowerCase()}.ics`;
+  }
+
+  onCopyToClipboard(event: Event, team: string, i: number) {
+    navigator.clipboard.writeText(this.getCalendarUrl(team));
+    this.copyToClipboardText[i] = 'Copied!';
+    setTimeout(() => {
+      this.copyToClipboardText[i] = 'Copy to clipboard';
+    }, 2500);
   }
 }

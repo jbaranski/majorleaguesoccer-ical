@@ -2,37 +2,47 @@
   <h1 class="text-3xl font-bold mb-2 text-center">Major League Soccer iCalendar</h1>
   <hr class="mt-6" />
   <div class="mt-4">
-    <p>
-      <a class="text-blue-500" href="https://github.com/jbaranski/majorleaguesoccer-ical" target="_blank"
-        >Calendar generator source code</a
-      >
-      is free and open source :)
-    </p>
-    <br />
     <p>Each Major League Soccer team's fixture schedule for the current season.</p>
     <br />
-    <p>
+    <p class="mb-6">
       Find your favorite team in the table below. Copy the iCalendar url to your clipboard. Paste the iCalendar url from
       your clipboard into your calendar's subscription field.
     </p>
-    <table class="w-full mt-4 border-double border-4">
-      <thead>
-        <tr class="border-double border-4">
-          <th class="border-double border-4 px-0 py-0">Team</th>
-          <th class="border-double border-4 px-0 py-0">iCalendar URL</th>
-        </tr>
-      </thead>
-      <tbody>
-        @for (team of teams; track team) {
-          <tr class="border-double border-4 text-center">
-            <td class="px-0 py-0 border-double border-4">{{ team }}</td>
-            <td class="px-0 py-0 border-double border-4">{{ getCalendarUrl(team) }}
-            </td>
-          </tr>
-        }
-      </tbody>
-    </table>
+    @for (team of teams; track team; let i = $index) {
+      <div class="flex flex-row border-2 mt-4 mb-4">
+        <div class="basis-1/3 border-2">
+          <p class="px-3 py-2 text-sm">
+            <b>{{ team }}</b>
+          </p>
+          <p class="px-3 pb-2">
+            <button
+              (click)="onCopyToClipboard($event, team, i)"
+              class="bg-gray-100 px-1 text-sm border border-gray-300 rounded-md"
+              type="button"
+            >
+              {{ copyToClipboardText[i] }}
+            </button>
+          </p>
+        </div>
+        <div class="basis-2/3 border-2">
+          <textarea
+            rows="2"
+            class="bg-purple-100 w-full h-full px-3 py-2 focus:outline-none focus:ring-2 cursor-auto text-sm text-pretty"
+            type="text"
+            formControlName="icsUrl"
+            readonly
+            >{{ getCalendarUrl(team) }}</textarea
+          >
+        </div>
+      </div>
+    }
   </div>
+  <p class="mt-4">
+    <a class="text-blue-500" href="https://github.com/jbaranski/majorleaguesoccer-ical" target="_blank"
+      >Calendar generator source code</a
+    >
+    is free and open source :)
+  </p>
   <hr class="mt-4" />
   <p class="mt-4 text-xs font-light text-gray-600 text-center">
     Copyright 2024 Jeff Software | admin&commat;jeffsoftware.com |
