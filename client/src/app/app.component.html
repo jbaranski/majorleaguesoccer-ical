@@ -26,10 +26,7 @@
         @for (team of teams; track team) {
           <tr class="border-double border-4 text-center">
             <td class="px-0 py-0 border-double border-4">{{ team }}</td>
-            <td class="px-0 py-0 border-double border-4">
-              https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{{
-                team.replaceAll('.', '').replaceAll(' ', '').toLowerCase()
-              }}.ics
+            <td class="px-0 py-0 border-double border-4">{{ getCalendarUrl(team) }}
             </td>
           </tr>
         }

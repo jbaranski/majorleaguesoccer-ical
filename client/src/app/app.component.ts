@@ -40,4 +40,8 @@ export class AppComponent {
     'Toronto FC',
     'Vancouver Whitecaps'
   ];
+
+  getCalendarUrl(team: string): string {
+    return `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${team.replaceAll('.', '').replaceAll(' ', '').toLowerCase()}.ics`;
+  }
 }
