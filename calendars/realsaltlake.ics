@@ -298,4 +298,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - San Diego vs. Real Salt Lake
 LOCATION:Snapdragon Stadium\, San Diego\, California
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. New York City FC
+DTSTART:20250123T230100Z
+DTEND:20250124T010100Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Real Salt Lake vs. New York City FC
+END:VEVENT
 END:VCALENDAR

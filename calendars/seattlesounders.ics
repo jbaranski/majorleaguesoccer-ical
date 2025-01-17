@@ -325,4 +325,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - Seattle Sounders vs. San Diego
 LOCATION:Lumen Field\, Seattle\, Washington
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puskas Academy vs. Seattle Sounders
+DTSTART:20250123T150000Z
+DTEND:20250123T170000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Puskas Academy vs. Seattle Sounders
+END:VEVENT
 END:VCALENDAR

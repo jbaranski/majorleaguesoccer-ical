@@ -314,4 +314,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - Sporting Kansas City vs. San Diego
 LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIU Panthers vs. Sporting Kansas City
+DTSTART:20250118T160000Z
+DTEND:20250118T180000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - FIU Panthers vs. Sporting Kansas City
+END:VEVENT
 END:VCALENDAR

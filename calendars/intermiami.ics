@@ -324,4 +324,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - Nashville SC vs. Inter Miami
 LOCATION:GEODIS Park\, Nashville\, Tennessee
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami vs. Club America
+DTSTART:20250119T030000Z
+DTEND:20250119T050000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Inter Miami vs. Club America
+END:VEVENT
 END:VCALENDAR

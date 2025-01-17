@@ -282,4 +282,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - Chicago Fire vs. San Diego
 LOCATION:Soldier Field\, Chicago\, Illinois
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire vs. Fortaleza EC
+DTSTART:20250119T170000Z
+DTEND:20250119T190000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Chicago Fire vs. Fortaleza EC
+END:VEVENT
 END:VCALENDAR
