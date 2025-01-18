@@ -282,4 +282,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - Charlotte vs. San Diego
 LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Charlotte
+DTSTART:20250124T183000Z
+DTEND:20250124T203000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Nashville SC vs. Charlotte
+END:VEVENT
 END:VCALENDAR

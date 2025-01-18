@@ -297,4 +297,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - New England Revolution vs. Chicago Fire
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Austin
+DTSTART:20250121T180000Z
+DTEND:20250121T200000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - New England Revolution vs. Austin
+END:VEVENT
 END:VCALENDAR

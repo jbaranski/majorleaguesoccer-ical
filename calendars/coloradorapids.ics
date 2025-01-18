@@ -299,4 +299,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - San Diego vs. Colorado Rapids
 LOCATION:Snapdragon Stadium\, San Diego\, California
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celaya vs. Colorado Rapids
+DTSTART:20250119T170000Z
+DTEND:20250119T190000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Celaya vs. Colorado Rapids
+END:VEVENT
 END:VCALENDAR

@@ -309,4 +309,11 @@ COMPETITION:Major League Soccer
 DESCRIPTION:Major League Soccer - San Diego vs. Vancouver Whitecaps
 LOCATION:Snapdragon Stadium\, San Diego\, California
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps vs. Raków Częstochowa
+DTSTART:20250124T110000Z
+DTEND:20250124T130000Z
+COMPETITION:Friendly
+DESCRIPTION:Friendly - Vancouver Whitecaps vs. Raków Częstochowa
+END:VEVENT
 END:VCALENDAR
