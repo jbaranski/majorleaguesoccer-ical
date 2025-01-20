@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/stlouiscitysc.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All St. Louis City SC fixtures for 2025 season
+X-WR-CALNAME:St. Louis City SC
+X-WR-RELCALID:stlouiscitysc-2025
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Colorado Rapids
+DTSTART:20250223T013000Z
+DTEND:20250223T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Colorado Rapids
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego FC vs. St. Louis City SC
+DTSTART:20250302T033000Z
+DTEND:20250302T053000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Diego FC vs. St. Louis City SC
+LOCATION:Snapdragon Stadium\, San Diego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA Galaxy vs. St. Louis City SC
+DTSTART:20250309T230000Z
+DTEND:20250310T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - LA Galaxy vs. St. Louis City SC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Seattle Sounders FC
+DTSTART:20250316T003000Z
+DTEND:20250316T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Seattle Sounders FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. St. Louis City SC
+DTSTART:20250322T233000Z
+DTEND:20250323T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Philadelphia Union vs. St. Louis City SC
+LOCATION:Subaru Park\, Chester\, PA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Austin FC
+DTSTART:20250330T180000Z
+DTEND:20250330T200000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Austin FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. St. Louis City SC
+DTSTART:20250406T003000Z
+DTEND:20250406T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. St. Louis City S
+ C
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Columbus Crew
+DTSTART:20250413T230000Z
+DTEND:20250414T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Columbus Crew
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Vancouver Whitecaps FC
+DTSTART:20250420T003000Z
+DTEND:20250420T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Vancouver Whitecaps
+  FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. St. Louis City SC
+DTSTART:20250427T230000Z
+DTEND:20250428T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Los Angeles FC vs. St. Louis City SC
+LOCATION:BMO Stadium\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. St. Louis City SC
+DTSTART:20250504T023000Z
+DTEND:20250504T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. St. Louis City SC
+LOCATION:Lumen Field\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. San Diego FC
+DTSTART:20250511T003000Z
+DTEND:20250511T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. San Diego FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Sporting Kansas City
+DTSTART:20250515T003000Z
+DTEND:20250515T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Sporting Kansas Cit
+ y
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. St. Louis City SC
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Minnesota United vs. St. Louis City SC
+LOCATION:Allianz Field\, St. Paul\, MN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. St. Louis City SC
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Colorado Rapids vs. St. Louis City SC
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. San Jose Earthquakes
+DTSTART:20250531T183000Z
+DTEND:20250531T203000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. San Jose Earthquake
+ s
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. St. Louis City SC
+DTSTART:20250608T230000Z
+DTEND:20250609T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. St. Louis City SC
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. LA Galaxy
+DTSTART:20250614T203000Z
+DTEND:20250614T223000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. LA Galaxy
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Orlando City
+DTSTART:20250626T003000Z
+DTEND:20250626T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Orlando City
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo FC vs. St. Louis City SC
+DTSTART:20250629T003000Z
+DTEND:20250629T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. St. Louis City SC
+LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. St. Louis City SC
+DTSTART:20250706T013000Z
+DTEND:20250706T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Real Salt Lake vs. St. Louis City SC
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Portland Timbers
+DTSTART:20250713T230000Z
+DTEND:20250714T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Portland Timbers
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. St. Louis City SC
+DTSTART:20250720T003000Z
+DTEND:20250720T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Dallas vs. St. Louis City SC
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Minnesota United
+DTSTART:20250727T003000Z
+DTEND:20250727T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Minnesota United
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Nashville SC
+DTSTART:20250810T003000Z
+DTEND:20250810T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Nashville SC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. St. Louis City SC
+DTSTART:20250817T003000Z
+DTEND:20250817T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. St. Louis City SC
+LOCATION:Soldier Field\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. St. Louis City SC
+DTSTART:20250824T013000Z
+DTEND:20250824T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. St. Louis City
+  SC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+DTSTART:20250831T003000Z
+DTEND:20250831T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Houston Dynamo FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. FC Dallas
+DTSTART:20250907T003000Z
+DTEND:20250907T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. FC Dallas
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. St. Louis City SC
+DTSTART:20250913T233000Z
+DTEND:20250914T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. St. Louis City SC
+LOCATION:Stade Saputo\, Montreal\, QC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. St. Louis City SC
+DTSTART:20250921T023000Z
+DTEND:20250921T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. St. Louis City S
+ C
+LOCATION:PayPal Park\, San Jose\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Los Angeles FC
+DTSTART:20250928T003000Z
+DTEND:20250928T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Los Angeles FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin FC vs. St. Louis City SC
+DTSTART:20251005T003000Z
+DTEND:20251005T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Austin FC vs. St. Louis City SC
+LOCATION:Q2 Stadium\, Austin\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Real Salt Lake
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Real Salt Lake
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+END:VCALENDAR

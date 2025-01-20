@@ -1,41 +1,10 @@
 from dataclasses import dataclass, field
-from datetime import datetime, timedelta
-from functools import cache
+from datetime import datetime
 from typing import List
 
 from icalendar import Calendar, Event
 
-COMPETITION_TRANSLATE = {
-    'Friendlies Clubs': 'Friendly'
-}
-
-TEAMS_FIX = {
-}
-
-
-@cache
-def get_datetime_from_str(input_str: str) -> datetime:
-    return datetime.fromisoformat(input_str)
-
-
-@cache
-def get_end_datetime(start_time: datetime, delta_hours: int) -> datetime:
-    return start_time + timedelta(hours=delta_hours)
-
-
-@cache
-def get_competition_txt(input_str: str) -> str:
-    return COMPETITION_TRANSLATE[input_str] if input_str in COMPETITION_TRANSLATE else input_str
-
-
-@cache
-def get_correct_team_name(input_team_name: str) -> str:
-    return TEAMS_FIX[input_team_name] if input_team_name in TEAMS_FIX else input_team_name
-
-
-@cache
-def get_correct_venue_name(name: str, city: str) -> str | None:
-    return f"{name}, {city}" if name and city else None
+from src.utils import get_datetime_from_str, get_competition_txt, get_correct_team_name, get_correct_venue_name, get_end_datetime
 
 
 @dataclass(frozen=True)
@@ -53,10 +22,10 @@ class FootballCalendarEvent:
 
     @staticmethod
     def to_football_calendar_event(fixture: dict):
-        start_date = get_datetime_from_str(fixture['fixture']['date'])
-        competition = get_competition_txt(fixture['league']['name'])
-        summary = f"{get_correct_team_name(fixture['teams']['home']['name'])} vs. {get_correct_team_name(fixture['teams']['away']['name'])}"
-        venue = get_correct_venue_name(fixture['fixture']['venue']['name'], fixture['fixture']['venue']['city'])
+        start_date = get_datetime_from_str(fixture['matchDate'])
+        competition = get_competition_txt(fixture['competition']['name'])
+        summary = f"{get_correct_team_name(fixture.get('home', {}).get('fullName'))} vs. {get_correct_team_name(fixture.get('away', {}).get('fullName'))}"
+        venue = get_correct_venue_name(fixture['venue']['name'], fixture['venue']['city'])
         return FootballCalendarEvent(
             summary=summary,
             location=venue,
@@ -88,7 +57,6 @@ class FootballCalendar:
     cal_sha256_str: str | None = field(init=False)
 
     def __post_init__(self):
-        self.team_name = get_correct_team_name(self.team_name)
         self.cal = None
         self.cal_bytes = None
         self.cal_sha256_str = None

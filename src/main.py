@@ -1,66 +1,55 @@
-import asyncio
-import json
 import logging
 import os
-import time
-from collections import deque
+from collections import defaultdict
 
-import aiohttp
+import requests
 
-from src.api_sports import APISports
 from src.football_calendar import FootballCalendar, FootballCalendarEvent
+from src.utils import get_correct_team_name
 
 SEASON = int(os.getenv('SEASON', 0))
-TEAMS = deque(json.loads(os.getenv('TEAMS')))
+LEAGUE = int(os.getenv('LEAGUE'))
 OUTPUT_ROOT = os.getenv('OUTPUT_ROOT')
 LOG_LEVEL = os.getenv('LOG_LEVEL')
 
 assert SEASON
-assert TEAMS
+assert LEAGUE
 assert OUTPUT_ROOT
 
 logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == 'DEBUG' else logging.INFO)
 
-api_sports_client = APISports()
 
-
-async def fetch_data() -> list[tuple[str, str, list[dict]]]:
-    conn = aiohttp.TCPConnector(limit=10)
-    async with aiohttp.ClientSession(connector=conn) as client:
-        teams_fixtures = []
-        while len(TEAMS) > 0:
-            time.sleep(1)
-            futures = deque([])
-            async with asyncio.TaskGroup() as tg:
-                for t in TEAMS:
-                    team_id, team_name = t['id'], t['name']
-                    future = tg.create_task(api_sports_client.get_fixtures(client, team_id, SEASON))
-                    futures.append((team_id, team_name, future))
-            for _ in range(len(TEAMS)):
-                team_id, team_name, future = futures[0]
-                fixtures = future.result()
-                if len(fixtures) > 0:
-                    teams_fixtures.append((team_id, team_name, fixtures))
-                    TEAMS.popleft()
-                else:
-                    TEAMS.rotate(-1)
-                futures.popleft()
-        return teams_fixtures
-    raise Exception('Unable to fetch fixtures from API provider')
+def get_data():
+    teams = {}
+    fixtures = defaultdict(list)
+    response = requests.get(f'https://stats-api.mlssoccer.com/v1/clubs?&competition_opta_id={LEAGUE}&season_opta_id={SEASON}&order_by=club_name').json()
+    for team in response:
+        teams[team['opta_id']] = team['name']
+    response = requests.get(f'https://sportapi.mlssoccer.com/api/matches?culture=en-us&dateFrom={SEASON}-01-01&dateTo={SEASON + 1}-12-31').json()
+    for fixture in response:
+        # NOTE: For some reason the schedule may be incomplete and a team not available for a fixture
+        home_id = fixture.get('home', {}).get('optaId')
+        away_id = fixture.get('away', {}).get('optaId')
+        if home_id in teams:
+            fixtures[home_id].append(fixture)
+        if away_id in teams:
+            fixtures[away_id].append(fixture)
+    return teams, fixtures
 
 
 def main() -> None:
-    teams_fixtures = asyncio.run(fetch_data())
-    for team_id, team_name, fixtures in teams_fixtures:
+    teams, team_fixtures = get_data()
+    for t_id, f in team_fixtures.items():
+        team_name = get_correct_team_name(teams[t_id])
         cal = FootballCalendar.to_football_calendar(
             team_name,
             SEASON,
-            FootballCalendarEvent.to_football_calendar_events(fixtures)
+            FootballCalendarEvent.to_football_calendar_events(f)
         )
         calendar_path = f'{OUTPUT_ROOT}/calendars/{team_name.replace(".", "").replace(" ", "").lower()}.ics'
-        with open(calendar_path, 'wb') as f:
-            f.write(cal.to_bytes())
-        logging.info(f'Calendar generated: num_fixtures={len(fixtures)}, team={team_id}|{team_name}, season={SEASON}, path={calendar_path}')
+        with open(calendar_path, 'wb') as cf:
+            cf.write(cal.to_bytes())
+        logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, season={SEASON}, path={calendar_path}')
 
 
 if __name__ == '__main__':

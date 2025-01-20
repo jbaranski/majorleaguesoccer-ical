@@ -1,0 +1,341 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/intermiamicf.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Inter Miami CF fixtures for 2025 season
+X-WR-CALNAME:Inter Miami CF
+X-WR-RELCALID:intermiamicf-2025
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Club América
+DTSTART:20250119T030000Z
+DTEND:20250119T050000Z
+COMPETITION:Club Friendly Matches
+DESCRIPTION:Club Friendly Matches - Inter Miami CF vs. Club América
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City vs. Inter Miami CF
+DTSTART:20250215T003000Z
+DTEND:20250215T023000Z
+COMPETITION:Club Friendly Matches
+DESCRIPTION:Club Friendly Matches - Orlando City vs. Inter Miami CF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Inter Miami CF
+DTSTART:20250219T010000Z
+DTEND:20250219T030000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Sporting Kansas City vs. Inter Miami 
+ CF
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. New York City FC
+DTSTART:20250222T193000Z
+DTEND:20250222T213000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New York City FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Sporting Kansas City
+DTSTART:20250226T010000Z
+DTEND:20250226T030000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Inter Miami CF vs. Sporting Kansas Ci
+ ty
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo FC vs. Inter Miami CF
+DTSTART:20250303T000000Z
+DTEND:20250303T020000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Inter Miami CF
+LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Charlotte FC
+DTSTART:20250309T210000Z
+DTEND:20250309T230000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Charlotte FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta United vs. Inter Miami CF
+DTSTART:20250316T230000Z
+DTEND:20250317T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Atlanta United vs. Inter Miami CF
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Philadelphia Union
+DTSTART:20250329T233000Z
+DTEND:20250330T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Philadelphia Union
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Toronto FC
+DTSTART:20250406T230000Z
+DTEND:20250407T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Toronto FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. Inter Miami CF
+DTSTART:20250413T203000Z
+DTEND:20250413T223000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Inter Miami CF
+LOCATION:Soldier Field\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. Inter Miami CF
+DTSTART:20250419T203000Z
+DTEND:20250419T223000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Columbus Crew vs. Inter Miami CF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. FC Dallas
+DTSTART:20250426T233000Z
+DTEND:20250427T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. FC Dallas
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. New York Red Bulls
+DTSTART:20250503T233000Z
+DTEND:20250504T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New York Red Bulls
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. Inter Miami CF
+DTSTART:20250510T203000Z
+DTEND:20250510T223000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Inter Miami CF
+LOCATION:Allianz Field\, St. Paul\, MN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Inter Miami CF
+DTSTART:20250515T023000Z
+DTEND:20250515T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Inter Miami CF
+LOCATION:PayPal Park\, San Jose\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Orlando City
+DTSTART:20250518T230000Z
+DTEND:20250519T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Orlando City
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. Inter Miami CF
+DTSTART:20250524T233000Z
+DTEND:20250525T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Inter Miami CF
+LOCATION:Subaru Park\, Chester\, PA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. CF Montreal
+DTSTART:20250528T233000Z
+DTEND:20250529T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. CF Montreal
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Columbus Crew
+DTSTART:20250531T233000Z
+DTEND:20250601T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Columbus Crew
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Ahly FC vs. Inter Miami CF
+DTSTART:20250615T000000Z
+DTEND:20250615T020000Z
+COMPETITION:FIFA Club World Cup
+DESCRIPTION:FIFA Club World Cup - Al Ahly FC vs. Inter Miami CF
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. FC Porto
+DTSTART:20250619T190000Z
+DTEND:20250619T210000Z
+COMPETITION:FIFA Club World Cup
+DESCRIPTION:FIFA Club World Cup - Inter Miami CF vs. FC Porto
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. ???
+DTSTART:20250624T010000Z
+DTEND:20250624T030000Z
+COMPETITION:FIFA Club World Cup
+DESCRIPTION:FIFA Club World Cup - Inter Miami CF vs. ???
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Atlanta United
+DTSTART:20250628T233000Z
+DTEND:20250629T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Atlanta United
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. Inter Miami CF
+DTSTART:20250705T233000Z
+DTEND:20250706T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Inter Miami CF
+LOCATION:Stade Saputo\, Montreal\, QC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Inter Miami CF
+DTSTART:20250709T233000Z
+DTEND:20250710T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New England Revolution vs. Inter Miami CF
+LOCATION:Gillette Stadium\, Foxborough\, MA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Nashville SC
+DTSTART:20250712T233000Z
+DTEND:20250713T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Nashville SC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. Inter Miami CF
+DTSTART:20250716T233000Z
+DTEND:20250717T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Inter Miami CF
+LOCATION:TQL Stadium\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. Inter Miami CF
+DTSTART:20250719T233000Z
+DTEND:20250720T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Inter Miami CF
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. FC Cincinnati
+DTSTART:20250726T230000Z
+DTEND:20250727T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. FC Cincinnati
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City vs. Inter Miami CF
+DTSTART:20250811T000000Z
+DTEND:20250811T020000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Orlando City vs. Inter Miami CF
+LOCATION:Inter&Co Stadium\, Orlando\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. LA Galaxy
+DTSTART:20250816T233000Z
+DTEND:20250817T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. LA Galaxy
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.C. United vs. Inter Miami CF
+DTSTART:20250823T233000Z
+DTEND:20250824T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - D.C. United vs. Inter Miami CF
+LOCATION:Audi Field\, Washington\, District of Columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Chicago Fire FC
+DTSTART:20250830T233000Z
+DTEND:20250831T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Chicago Fire FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte FC vs. Inter Miami CF
+DTSTART:20250913T233000Z
+DTEND:20250914T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Charlotte FC vs. Inter Miami CF
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. Seattle Sounders FC
+DTSTART:20250916T233000Z
+DTEND:20250917T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Seattle Sounders FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. D.C. United
+DTSTART:20250920T233000Z
+DTEND:20250921T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. D.C. United
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. Inter Miami CF
+DTSTART:20250924T233000Z
+DTEND:20250925T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York City FC vs. Inter Miami CF
+LOCATION:Citi Field\, Queens\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. Inter Miami CF
+DTSTART:20250927T203000Z
+DTEND:20250927T223000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Inter Miami CF
+LOCATION:BMO Field\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF vs. New England Revolution
+DTSTART:20251004T233000Z
+DTEND:20251005T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New England Revolution
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Inter Miami CF
+DTSTART:20251018T220000Z
+DTEND:20251019T000000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Nashville SC vs. Inter Miami CF
+LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+END:VCALENDAR
