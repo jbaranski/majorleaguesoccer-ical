@@ -11,275 +11,275 @@ X-WR-CALDESC:All Toronto FC fixtures for 2025 season
 X-WR-CALNAME:Toronto FC
 X-WR-RELCALID:torontofc-2025
 BEGIN:VEVENT
-SUMMARY:DC United vs. Toronto FC
+SUMMARY:D.C. United vs. Toronto FC
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - DC United vs. Toronto FC
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - D.C. United vs. Toronto FC
 LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City SC vs. Toronto FC
+SUMMARY:Orlando City vs. Toronto FC
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Orlando City SC vs. Toronto FC
-LOCATION:Inter&Co Stadium\, Orlando\, Florida
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Orlando City vs. Toronto FC
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Toronto FC
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - FC Cincinnati vs. Toronto FC
-LOCATION:TQL Stadium\, Cincinnati\, Ohio
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Toronto FC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Chicago Fire
+SUMMARY:Toronto FC vs. Chicago Fire FC
 DTSTART:20250315T183000Z
 DTEND:20250315T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Chicago Fire
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Chicago Fire FC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Toronto FC
 DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New York Red Bulls vs. Toronto FC
-LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Toronto FC
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Vancouver Whitecaps
+SUMMARY:Toronto FC vs. Vancouver Whitecaps FC
 DTSTART:20250329T183000Z
 DTEND:20250329T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Vancouver Whitecaps
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Vancouver Whitecaps FC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami vs. Toronto FC
+SUMMARY:Inter Miami CF vs. Toronto FC
 DTSTART:20250406T230000Z
 DTEND:20250407T010000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Inter Miami vs. Toronto FC
-LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Toronto FC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Minnesota United FC
+SUMMARY:Toronto FC vs. Minnesota United
 DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Minnesota United FC
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Minnesota United
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Toronto FC
 DTSTART:20250420T013000Z
 DTEND:20250420T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Real Salt Lake vs. Toronto FC
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Toronto FC
 LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New York City FC
 DTSTART:20250426T183000Z
 DTEND:20250426T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. New York City FC
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. New York City FC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New England Revolution
 DTSTART:20250503T203000Z
 DTEND:20250503T223000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. New England Revolution
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. New England Revolution
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. DC United
+SUMMARY:Toronto FC vs. D.C. United
 DTSTART:20250510T203000Z
 DTEND:20250510T223000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. DC United
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. D.C. United
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. FC Cincinnati
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. FC Cincinnati
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. FC Cincinnati
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Toronto FC
 DTSTART:20250517T183000Z
 DTEND:20250517T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Toronto FC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Toronto FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Nashville SC
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Nashville SC
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Nashville SC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Philadelphia Union
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Philadelphia Union
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Philadelphia Union
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Charlotte
+SUMMARY:Toronto FC vs. Charlotte FC
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Charlotte
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Charlotte FC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Toronto FC
 DTSTART:20250614T023000Z
 DTEND:20250614T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Los Angeles FC vs. Toronto FC
-LOCATION:BMO Stadium\, Los Angeles\, California
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Toronto FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New York Red Bulls
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. New York Red Bulls
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. New York Red Bulls
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Portland Timbers
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Portland Timbers
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Portland Timbers
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Toronto FC
 DTSTART:20250703T233000Z
 DTEND:20250704T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New York City FC vs. Toronto FC
-LOCATION:Yankee Stadium\, New York City
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York City FC vs. Toronto FC
+LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Atlanta United FC
+SUMMARY:Toronto FC vs. Atlanta United
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Atlanta United FC
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Atlanta United
+LOCATION:BMO Field\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego FC vs. Toronto FC
+DTSTART:20250717T023000Z
+DTEND:20250717T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Diego FC vs. Toronto FC
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Toronto FC
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Nashville SC vs. Toronto FC
-LOCATION:GEODIS Park\, Nashville\, Tennessee
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Nashville SC vs. Toronto FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte vs. Toronto FC
+SUMMARY:Charlotte FC vs. Toronto FC
 DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Charlotte vs. Toronto FC
-LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Charlotte FC vs. Toronto FC
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Toronto FC
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Philadelphia Union vs. Toronto FC
-LOCATION:Subaru Park\, Chester\, Pennsylvania
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Toronto FC
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Columbus Crew
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Columbus Crew
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Columbus Crew
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United FC vs. Toronto FC
+SUMMARY:Atlanta United vs. Toronto FC
 DTSTART:20250824T210000Z
 DTEND:20250824T230000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Atlanta United FC vs. Toronto FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Atlanta United vs. Toronto FC
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. CF Montreal
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. CF Montreal
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. CF Montreal
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Toronto FC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New England Revolution vs. Toronto FC
-LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New England Revolution vs. Toronto FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Toronto FC
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Columbus Crew vs. Toronto FC
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Columbus Crew vs. Toronto FC
 LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Inter Miami
+SUMMARY:Toronto FC vs. Inter Miami CF
 DTSTART:20250927T203000Z
 DTEND:20250927T223000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Inter Miami
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Inter Miami CF
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire vs. Toronto FC
+SUMMARY:Chicago Fire FC vs. Toronto FC
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Chicago Fire vs. Toronto FC
-LOCATION:Soldier Field\, Chicago\, Illinois
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Toronto FC
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Orlando City SC
+SUMMARY:Toronto FC vs. Orlando City
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Orlando City SC
-LOCATION:BMO Field\, Toronto\, Ontario
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Diego vs. Toronto FC
-DTSTART:20250717T023000Z
-DTEND:20250717T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - San Diego vs. Toronto FC
-LOCATION:Snapdragon Stadium\, San Diego\, California
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Orlando City
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,321 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/vancouverwhitecapsfc.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All Vancouver Whitecaps FC fixtures for 2025 season
+X-WR-CALNAME:Vancouver Whitecaps FC
+X-WR-RELCALID:vancouverwhitecapsfc-2025
+BEGIN:VEVENT
+SUMMARY:Deportivo Saprissa vs. Vancouver Whitecaps FC
+DTSTART:20250221T010000Z
+DTEND:20250221T030000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Deportivo Saprissa vs. Vancouver Whit
+ ecaps FC
+LOCATION:Ricardo Saprissa Stadium\, San Juan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC
+DTSTART:20250223T210000Z
+DTEND:20250223T230000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Vancouver Whitecaps 
+ FC
+LOCATION:Providence Park\, Portland\, Oregon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Deportivo Saprissa
+DTSTART:20250228T030000Z
+DTEND:20250228T050000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Vancouver Whitecaps FC vs. Deportivo 
+ Saprissa
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. LA Galaxy
+DTSTART:20250302T220000Z
+DTEND:20250303T000000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. LA Galaxy
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. CF Montreal
+DTSTART:20250309T023000Z
+DTEND:20250309T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. CF Montreal
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
+DTSTART:20250316T003000Z
+DTEND:20250316T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Dallas vs. Vancouver Whitecaps FC
+LOCATION:Toyota Stadium\, Frisco\, Texas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Chicago Fire FC
+DTSTART:20250323T023000Z
+DTEND:20250323T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Chicago Fire F
+ C
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. Vancouver Whitecaps FC
+DTSTART:20250329T183000Z
+DTEND:20250329T203000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Vancouver Whitecaps FC
+LOCATION:BMO Field\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Colorado Rapids
+DTSTART:20250406T013000Z
+DTEND:20250406T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Colorado Rapid
+ s
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Austin FC
+DTSTART:20250412T233000Z
+DTEND:20250413T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Austin FC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Vancouver Whitecaps FC
+DTSTART:20250420T003000Z
+DTEND:20250420T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Vancouver Whitecaps
+  FC
+LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. Vancouver Whitecaps FC
+DTSTART:20250427T003000Z
+DTEND:20250427T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Vancouver Whitecaps 
+ FC
+LOCATION:Allianz Field\, St. Paul\, MN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+DTSTART:20250504T013000Z
+DTEND:20250504T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Real Salt Lake
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Los Angeles FC
+DTSTART:20250511T230000Z
+DTEND:20250512T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Los Angeles FC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin FC vs. Vancouver Whitecaps FC
+DTSTART:20250518T003000Z
+DTEND:20250518T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Austin FC vs. Vancouver Whitecaps FC
+LOCATION:Q2 Stadium\, Austin\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC
+DTSTART:20250525T013000Z
+DTEND:20250525T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Vancouver Whitecaps FC
+LOCATION:America First Field\, Sandy\, Utah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
+DTSTART:20250529T023000Z
+DTEND:20250529T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Minnesota Unit
+ ed
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
+DTSTART:20250601T013000Z
+DTEND:20250601T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Portland Timbe
+ rs
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+DTSTART:20250609T010000Z
+DTEND:20250609T030000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Seattle Sounde
+ rs FC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. Vancouver Whitecaps FC
+DTSTART:20250614T233000Z
+DTEND:20250615T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Columbus Crew vs. Vancouver Whitecaps FC
+LOCATION:Lower.com Field\, Columbus\, Ohio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. San Diego FC
+DTSTART:20250626T023000Z
+DTEND:20250626T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. San Diego FC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC
+DTSTART:20250629T023000Z
+DTEND:20250629T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Vancouver Whitecaps FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
+DTSTART:20250705T023000Z
+DTEND:20250705T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - LA Galaxy vs. Vancouver Whitecaps FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC
+DTSTART:20250713T013000Z
+DTEND:20250713T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Vancouver Whitecaps F
+ C
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo FC vs. Vancouver Whitecaps FC
+DTSTART:20250717T003000Z
+DTEND:20250717T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Vancouver Whitecaps
+  FC
+LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego FC vs. Vancouver Whitecaps FC
+DTSTART:20250720T023000Z
+DTEND:20250720T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Diego FC vs. Vancouver Whitecaps FC
+LOCATION:Snapdragon Stadium\, San Diego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Sporting Kansas City
+DTSTART:20250727T023000Z
+DTEND:20250727T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Sporting Kansa
+ s City
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
+DTSTART:20250810T023000Z
+DTEND:20250810T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Vancouver Whitec
+ aps FC
+LOCATION:PayPal Park\, San Jose\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC
+DTSTART:20250818T010000Z
+DTEND:20250818T030000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Houston Dynamo
+  FC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. St. Louis City SC
+DTSTART:20250824T013000Z
+DTEND:20250824T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. St. Louis City
+  SC
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City vs. Vancouver Whitecaps FC
+DTSTART:20250830T233000Z
+DTEND:20250831T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Orlando City vs. Vancouver Whitecaps FC
+LOCATION:Inter&Co Stadium\, Orlando\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Philadelphia Union
+DTSTART:20250914T013000Z
+DTEND:20250914T033000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Philadelphia U
+ nion
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. Vancouver Whitecaps FC
+DTSTART:20250921T003000Z
+DTEND:20250921T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Vancouver Whitec
+ aps FC
+LOCATION:Children's Mercy Park\, Kansas City\, Kansas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
+DTSTART:20250928T023000Z
+DTEND:20250928T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Vancouver Whiteca
+ ps FC
+LOCATION:Lumen Field\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. San Jose Earthquakes
+DTSTART:20251006T010000Z
+DTEND:20251006T030000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. San Jose Earth
+ quakes
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. FC Dallas
+DTSTART:20251019T010000Z
+DTEND:20251019T030000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. FC Dallas
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+END:VCALENDAR

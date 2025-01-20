@@ -11,275 +11,275 @@ X-WR-CALDESC:All CF Montreal fixtures for 2025 season
 X-WR-CALNAME:CF Montreal
 X-WR-RELCALID:cfmontreal-2025
 BEGIN:VEVENT
-SUMMARY:Atlanta United FC vs. CF Montreal
+SUMMARY:Atlanta United vs. CF Montreal
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Atlanta United FC vs. CF Montreal
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Atlanta United vs. CF Montreal
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. CF Montreal
+SUMMARY:Minnesota United vs. CF Montreal
 DTSTART:20250302T013000Z
 DTEND:20250302T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Minnesota United FC vs. CF Montreal
-LOCATION:Allianz Field\, Saint Paul\, Minnesota
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Minnesota United vs. CF Montreal
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps vs. CF Montreal
+SUMMARY:Vancouver Whitecaps FC vs. CF Montreal
 DTSTART:20250309T023000Z
 DTEND:20250309T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. CF Montreal
-LOCATION:BC Place\, Vancouver\, British Columbia
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. CF Montreal
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DC United vs. CF Montreal
+SUMMARY:D.C. United vs. CF Montreal
 DTSTART:20250315T233000Z
 DTEND:20250316T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - DC United vs. CF Montreal
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - D.C. United vs. CF Montreal
 LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. CF Montreal
 DTSTART:20250323T003000Z
 DTEND:20250323T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Nashville SC vs. CF Montreal
-LOCATION:GEODIS Park\, Nashville\, Tennessee
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Nashville SC vs. CF Montreal
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire vs. CF Montreal
-DTSTART:20250329T233000Z
-DTEND:20250330T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Chicago Fire vs. CF Montreal
-LOCATION:Soldier Field\, Chicago\, Illinois
+SUMMARY:Chicago Fire FC vs. CF Montreal
+DTSTART:20250330T003000Z
+DTEND:20250330T023000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. CF Montreal
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. CF Montreal
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Columbus Crew vs. CF Montreal
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Columbus Crew vs. CF Montreal
 LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Charlotte
-DTSTART:20250413T013000Z
-DTEND:20250413T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Charlotte
-LOCATION:Stade Saputo\, Montreal\, Quebec
+SUMMARY:CF Montreal vs. Charlotte FC
+DTSTART:20250412T233000Z
+DTEND:20250413T013000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Charlotte FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Orlando City SC
+SUMMARY:CF Montreal vs. Orlando City
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Orlando City SC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Orlando City
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. CF Montreal
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New York Red Bulls vs. CF Montreal
-LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York Red Bulls vs. CF Montreal
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Philadelphia Union
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Philadelphia Union
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Philadelphia Union
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. CF Montreal
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New York City FC vs. CF Montreal
-LOCATION:Yankee Stadium\, New York City
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New York City FC vs. CF Montreal
+LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Columbus Crew
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Columbus Crew
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Columbus Crew
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Toronto FC
 DTSTART:20250517T183000Z
 DTEND:20250517T203000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Toronto FC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Toronto FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Los Angeles FC
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Los Angeles FC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Los Angeles FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami vs. CF Montreal
+SUMMARY:Inter Miami CF vs. CF Montreal
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Inter Miami vs. CF Montreal
-LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Inter Miami CF vs. CF Montreal
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New England Revolution
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. New England Revolution
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. New England Revolution
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo vs. CF Montreal
+SUMMARY:Houston Dynamo FC vs. CF Montreal
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Houston Dynamo vs. CF Montreal
-LOCATION:Shell Energy Stadium\, Houston\, Texas
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. CF Montreal
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. FC Cincinnati
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. FC Cincinnati
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. FC Cincinnati
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New York City FC
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. New York City FC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. New York City FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Inter Miami
+SUMMARY:CF Montreal vs. Inter Miami CF
 DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Inter Miami
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Inter Miami CF
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City SC vs. CF Montreal
+SUMMARY:Orlando City vs. CF Montreal
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Orlando City SC vs. CF Montreal
-LOCATION:Inter&Co Stadium\, Orlando\, Florida
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Orlando City vs. CF Montreal
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. CF Montreal
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Philadelphia Union vs. CF Montreal
-LOCATION:Subaru Park\, Chester\, Pennsylvania
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Philadelphia Union vs. CF Montreal
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Chicago Fire
+SUMMARY:CF Montreal vs. Chicago Fire FC
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Chicago Fire
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Chicago Fire FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. CF Montreal
 DTSTART:20250725T233000Z
 DTEND:20250726T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - New England Revolution vs. CF Montreal
-LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - New England Revolution vs. CF Montreal
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Atlanta United FC
+SUMMARY:CF Montreal vs. Atlanta United
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Atlanta United FC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Atlanta United
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. DC United
+SUMMARY:CF Montreal vs. D.C. United
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. DC United
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. D.C. United
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Austin
+SUMMARY:CF Montreal vs. Austin FC
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Austin
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Austin FC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. CF Montreal
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. CF Montreal
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. CF Montreal
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. St. Louis City
+SUMMARY:CF Montreal vs. St. Louis City SC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. St. Louis City
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. St. Louis City SC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New York Red Bulls
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. New York Red Bulls
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. New York Red Bulls
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte vs. CF Montreal
+SUMMARY:Charlotte FC vs. CF Montreal
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Charlotte vs. CF Montreal
-LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Charlotte FC vs. CF Montreal
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Nashville SC
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - CF Montreal vs. Nashville SC
-LOCATION:Stade Saputo\, Montreal\, Quebec
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - CF Montreal vs. Nashville SC
+LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. CF Montreal
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - FC Cincinnati vs. CF Montreal
-LOCATION:TQL Stadium\, Cincinnati\, Ohio
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Cincinnati vs. CF Montreal
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR

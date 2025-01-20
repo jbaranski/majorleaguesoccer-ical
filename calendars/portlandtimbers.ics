@@ -11,280 +11,278 @@ X-WR-CALDESC:All Portland Timbers fixtures for 2025 season
 X-WR-CALNAME:Portland Timbers
 X-WR-RELCALID:portlandtimbers-2025
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Vancouver Whitecaps
+SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC
 DTSTART:20250223T210000Z
 DTEND:20250223T230000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Vancouver Whitecaps
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Vancouver Whitecaps 
+ FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Austin
+SUMMARY:Portland Timbers vs. Austin FC
 DTSTART:20250302T033000Z
 DTEND:20250302T053000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Austin
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Austin FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Portland Timbers
 DTSTART:20250309T013000Z
 DTEND:20250309T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Nashville SC vs. Portland Timbers
-LOCATION:GEODIS Park\, Nashville\, Tennessee
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Nashville SC vs. Portland Timbers
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Los Angeles Galaxy
+SUMMARY:Portland Timbers vs. LA Galaxy
 DTSTART:20250316T203000Z
 DTEND:20250316T223000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Los Angeles Galaxy
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. LA Galaxy
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Portland Timbers
 DTSTART:20250323T013000Z
 DTEND:20250323T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Colorado Rapids vs. Portland Timbers
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Portland Timbers
 LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Houston Dynamo
-DTSTART:20250330T233000Z
-DTEND:20250331T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Houston Dynamo
+SUMMARY:Portland Timbers vs. Houston Dynamo FC
+DTSTART:20250330T230000Z
+DTEND:20250331T010000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Houston Dynamo FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin vs. Portland Timbers
+SUMMARY:Austin FC vs. Portland Timbers
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Austin vs. Portland Timbers
-LOCATION:Q2 Stadium\, Austin\, Texas
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Austin FC vs. Portland Timbers
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Portland Timbers
 DTSTART:20250413T180000Z
 DTEND:20250413T200000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Sporting Kansas City vs. Portland Timber
- s
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Portland Timbers
 LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Los Angeles FC
 DTSTART:20250420T020000Z
 DTEND:20250420T040000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Los Angeles FC
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Los Angeles FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles Galaxy vs. Portland Timbers
+SUMMARY:LA Galaxy vs. Portland Timbers
 DTSTART:20250427T210000Z
 DTEND:20250427T230000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Los Angeles Galaxy vs. Portland Timbers
-LOCATION:Dignity Health Sports Park\, Carson\, California
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - LA Galaxy vs. Portland Timbers
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Portland Timbers
 DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - San Jose Earthquakes vs. Portland Timber
- s
-LOCATION:PayPal Park\, San Jose\, California
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Portland Timbers
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Sporting Kansas City
 DTSTART:20250511T023000Z
 DTEND:20250511T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Sporting Kansas Cit
- y
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Sporting Kansas City
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Portland Timbers
 DTSTART:20250515T013000Z
 DTEND:20250515T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Real Salt Lake vs. Portland Timbers
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Portland Timbers
 LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Seattle Sounders
+SUMMARY:Portland Timbers vs. Seattle Sounders FC
 DTSTART:20250518T013000Z
 DTEND:20250518T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Seattle Sounders
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Seattle Sounders FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City SC vs. Portland Timbers
+SUMMARY:Orlando City vs. Portland Timbers
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Orlando City SC vs. Portland Timbers
-LOCATION:Inter&Co Stadium\, Orlando\, Florida
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Orlando City vs. Portland Timbers
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Colorado Rapids
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Colorado Rapids
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Colorado Rapids
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps vs. Portland Timbers
+SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
 DTSTART:20250601T013000Z
 DTEND:20250601T033000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Vancouver Whitecaps vs. Portland Timbers
-LOCATION:BC Place\, Vancouver\, British Columbia
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Portland Timbe
+ rs
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. St. Louis City
+SUMMARY:Portland Timbers vs. St. Louis City SC
 DTSTART:20250608T230000Z
 DTEND:20250609T010000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. St. Louis City
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. St. Louis City SC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. San Jose Earthquakes
 DTSTART:20250614T023000Z
 DTEND:20250614T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. San Jose Earthquake
- s
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. San Jose Earthquakes
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Portland Timbers
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Toronto FC vs. Portland Timbers
-LOCATION:BMO Field\, Toronto\, Ontario
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Toronto FC vs. Portland Timbers
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. New England Revolution
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. New England Revolut
- ion
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. New England Revoluti
+ on
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City vs. Portland Timbers
+SUMMARY:St. Louis City SC vs. Portland Timbers
 DTSTART:20250713T230000Z
 DTEND:20250714T010000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - St. Louis City vs. Portland Timbers
-LOCATION:CITYPARK\, St. Louis\, Missouri
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Portland Timbers
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Real Salt Lake
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Real Salt Lake
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Real Salt Lake
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Minnesota United FC
+SUMMARY:Portland Timbers vs. Minnesota United
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. Minnesota United FC
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. Minnesota United
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Portland Timbers
 DTSTART:20250726T023000Z
 DTEND:20250726T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Los Angeles FC vs. Portland Timbers
-LOCATION:BMO Stadium\, Los Angeles\, California
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Portland Timbers
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Portland Timbers
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - FC Dallas vs. Portland Timbers
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - FC Dallas vs. Portland Timbers
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. FC Cincinnati
 DTSTART:20250817T023000Z
 DTEND:20250817T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. FC Cincinnati
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. FC Cincinnati
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. Portland Timbers
+SUMMARY:San Diego FC vs. Portland Timbers
+DTSTART:20250824T023000Z
+DTEND:20250824T043000Z
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - San Diego FC vs. Portland Timbers
+LOCATION:Snapdragon Stadium\, San Diego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. Portland Timbers
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Minnesota United FC vs. Portland Timbers
-LOCATION:Allianz Field\, Saint Paul\, Minnesota
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Portland Timbers
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. New York Red Bulls
 DTSTART:20250914T023000Z
 DTEND:20250914T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. New York Red Bulls
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. New York Red Bulls
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo vs. Portland Timbers
+SUMMARY:Houston Dynamo FC vs. Portland Timbers
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Houston Dynamo vs. Portland Timbers
-LOCATION:Shell Energy Stadium\, Houston\, Texas
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Portland Timbers
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. FC Dallas
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. FC Dallas
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. FC Dallas
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders vs. Portland Timbers
+SUMMARY:Seattle Sounders FC vs. Portland Timbers
 DTSTART:20251005T023000Z
 DTEND:20251005T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Seattle Sounders vs. Portland Timbers
-LOCATION:Lumen Field\, Seattle\, Washington
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Portland Timbers
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego vs. Portland Timbers
-DTSTART:20250824T023000Z
-DTEND:20250824T043000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - San Diego vs. Portland Timbers
-LOCATION:Snapdragon Stadium\, San Diego\, California
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Diego
+SUMMARY:Portland Timbers vs. San Diego FC
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
-COMPETITION:Major League Soccer
-DESCRIPTION:Major League Soccer - Portland Timbers vs. San Diego
+COMPETITION:MLS Regular Season
+DESCRIPTION:MLS Regular Season - Portland Timbers vs. San Diego FC
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 END:VCALENDAR
