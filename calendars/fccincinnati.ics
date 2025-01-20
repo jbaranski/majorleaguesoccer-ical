@@ -11,29 +11,12 @@ X-WR-CALDESC:All FC Cincinnati fixtures for 2025 season
 X-WR-CALNAME:FC Cincinnati
 X-WR-RELCALID:fccincinnati-2025
 BEGIN:VEVENT
-<<<<<<< HEAD
-SUMMARY:CD Motagua vs. FC Cincinnati
-DTSTART:20250220T030000Z
-DTEND:20250220T050000Z
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - CD Motagua vs. FC Cincinnati
-LOCATION:Estadio José de la Paz Herrera Uclés\, Tegucigalpa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. CD Motagua
-DTSTART:20250226T233000Z
-DTEND:20250227T013000Z
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - FC Cincinnati vs. CD Motagua
-LOCATION:TQL Stadium\, Cincinnati\, Ohio
-=======
 SUMMARY:Motagua vs. FC Cincinnati
 DTSTART:20250220T030000Z
 DTEND:20250220T050000Z
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - Motagua vs. FC Cincinnati
 LOCATION:Estadio Chelato Uclés\, Tegucigalpa
->>>>>>> 83c9ad1 (change data provider)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. New York Red Bulls

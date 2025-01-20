@@ -14,29 +14,12 @@ BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Los Angeles FC
 DTSTART:20250219T030000Z
 DTEND:20250219T050000Z
-<<<<<<< HEAD
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - Colorado Rapids vs. Los Angeles FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Colorado Rapids
-DTSTART:20250226T030000Z
-DTEND:20250226T050000Z
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - Los Angeles FC vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, California
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Minnesota United FC
-=======
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - Colorado Rapids vs. Los Angeles FC
 LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Minnesota United
->>>>>>> 83c9ad1 (change data provider)
 DTSTART:20250222T213000Z
 DTEND:20250222T233000Z
 COMPETITION:MLS Regular Season

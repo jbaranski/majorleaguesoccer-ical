@@ -11,29 +11,12 @@ X-WR-CALDESC:All Real Salt Lake fixtures for 2025 season
 X-WR-CALNAME:Real Salt Lake
 X-WR-RELCALID:realsaltlake-2025
 BEGIN:VEVENT
-<<<<<<< HEAD
-SUMMARY:CS Herediano vs. Real Salt Lake
-DTSTART:20250219T233000Z
-DTEND:20250220T013000Z
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - CS Herediano vs. Real Salt Lake
-LOCATION:Estadio Nacional de Costa Rica\, San José
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. CS Herediano
-DTSTART:20250227T013000Z
-DTEND:20250227T033000Z
-COMPETITION:CONCACAF Champions League
-DESCRIPTION:CONCACAF Champions League - Real Salt Lake vs. CS Herediano
-LOCATION:America First Field\, Sandy\, Utah
-=======
 SUMMARY:C.S. Herediano vs. Real Salt Lake
 DTSTART:20250219T233000Z
 DTEND:20250220T013000Z
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - C.S. Herediano vs. Real Salt Lake
 LOCATION:Estadio Nacional\, San José
->>>>>>> 83c9ad1 (change data provider)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Real Salt Lake
@@ -314,12 +297,5 @@ DTEND:20251019T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Real Salt Lake
 LOCATION:Energizer Park\, St. Louis\, MO
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. New York City FC
-DTSTART:20250123T230100Z
-DTEND:20250124T010100Z
-COMPETITION:Friendly
-DESCRIPTION:Friendly - Real Salt Lake vs. New York City FC
 END:VEVENT
 END:VCALENDAR

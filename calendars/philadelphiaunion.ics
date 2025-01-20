@@ -285,11 +285,4 @@ COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Philadelphia Union
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slavia Praha vs. Philadelphia Union
-DTSTART:20250119T143000Z
-DTEND:20250119T163000Z
-COMPETITION:Friendly
-DESCRIPTION:Friendly - Slavia Praha vs. Philadelphia Union
-END:VEVENT
 END:VCALENDAR

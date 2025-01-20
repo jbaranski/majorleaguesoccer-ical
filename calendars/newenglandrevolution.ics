@@ -294,11 +294,4 @@ DESCRIPTION:MLS Regular Season - New England Revolution vs. Chicago Fire F
  C
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Austin
-DTSTART:20250121T180000Z
-DTEND:20250121T200000Z
-COMPETITION:Friendly
-DESCRIPTION:Friendly - New England Revolution vs. Austin
-END:VEVENT
 END:VCALENDAR
