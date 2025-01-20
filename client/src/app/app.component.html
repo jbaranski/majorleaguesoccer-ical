@@ -8,9 +8,17 @@
       Find your favorite team in the table below. Copy the iCalendar url to your clipboard. Paste the iCalendar url from
       your clipboard into your calendar's subscription field.
     </p>
-    <br/>
+    <br />
+    <p>
+      When you subscribe to a calendar, it will auto update when team fixtures are added or modified. We check for and
+      publish any fixture changes twice a day.
+    </p>
+    <br />
     <p class="mb-6">
-      When you subscribe to a calendar, it will auto update when team fixtures are added or modified. We check for and publish any fixture changes twice a day.
+      <a class="text-blue-500" href="https://github.com/jbaranski/majorleaguesoccer-ical" target="_blank"
+        >Calendar generator source code</a
+      >
+      is free and open source :)
     </p>
     @for (team of teams; track team; let i = $index) {
       <div class="flex flex-row border-2 mt-4 mb-4">
@@ -41,12 +49,6 @@
       </div>
     }
   </div>
-  <p class="mt-4">
-    <a class="text-blue-500" href="https://github.com/jbaranski/majorleaguesoccer-ical" target="_blank"
-      >Calendar generator source code</a
-    >
-    is free and open source :)
-  </p>
   <hr class="mt-4" />
   <p class="mt-4 text-xs font-light text-gray-600 text-center">
     Copyright 2024 Jeff Software | admin&commat;jeffsoftware.com |
