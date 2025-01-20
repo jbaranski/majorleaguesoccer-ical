@@ -40,7 +40,7 @@ Find your favorite team in the table below. Copy the iCalendar url to your clipb
 | Vancouver Whitecaps FC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/vancouverwhitecapsfc.ics |
 
 ### Will my calendar auto update when team fixtures are added or modified?
-Yes. When you subscribe to the url above, your calendar will auto update when team fixtures are added or modified. We check for and publish any fixture changes twice a day.
+Yes. When you subscribe to a calendar, it will auto update when team fixtures are added or modified. We check for and publish any fixture changes twice a day.
 
 
 ### What team fixtures do you support?
