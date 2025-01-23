@@ -118,11 +118,11 @@ DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Sporting Kansas Cit
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. St. Louis City SC
+SUMMARY:Minnesota United FC vs. St. Louis City SC
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. St. Louis City SC
+DESCRIPTION:MLS Regular Season - Minnesota United FC vs. St. Louis City SC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -199,11 +199,11 @@ DESCRIPTION:MLS Regular Season - FC Dallas vs. St. Louis City SC
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Minnesota United
+SUMMARY:St. Louis City SC vs. Minnesota United FC
 DTSTART:20250727T003000Z
 DTEND:20250727T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Minnesota United
+DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Minnesota United FC
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

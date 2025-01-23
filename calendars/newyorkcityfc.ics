@@ -60,11 +60,11 @@ DESCRIPTION:MLS Regular Season - Atlanta United vs. New York City FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Minnesota United
+SUMMARY:New York City FC vs. Minnesota United FC
 DTSTART:20250406T210000Z
 DTEND:20250406T230000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. Minnesota United
+DESCRIPTION:MLS Regular Season - New York City FC vs. Minnesota United FC
 LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

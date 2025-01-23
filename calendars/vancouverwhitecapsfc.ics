@@ -105,12 +105,12 @@ DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Vancouver Whitecaps
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Vancouver Whitecaps FC
+SUMMARY:Minnesota United FC vs. Vancouver Whitecaps FC
 DTSTART:20250427T003000Z
 DTEND:20250427T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Vancouver Whitecaps 
- FC
+DESCRIPTION:MLS Regular Season - Minnesota United FC vs. Vancouver Whiteca
+ ps FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -146,12 +146,12 @@ DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Vancouver Whitecaps FC
 LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
+SUMMARY:Vancouver Whitecaps FC vs. Minnesota United FC
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Minnesota Unit
- ed
+ ed FC
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
