@@ -11,6 +11,14 @@ X-WR-CALDESC:All Los Angeles FC fixtures for 2025 season
 X-WR-CALNAME:Los Angeles FC
 X-WR-RELCALID:losangelesfc-2025
 BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Club América
+DTSTART:20250212T033000Z
+DTEND:20250212T053000Z
+COMPETITION:Club Friendly Matches
+DESCRIPTION:Club Friendly Matches - Los Angeles FC vs. Club América
+LOCATION:BMO Stadium\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Los Angeles FC
 DTSTART:20250219T030000Z
 DTEND:20250219T050000Z
