@@ -43,11 +43,11 @@ DESCRIPTION:MLS Regular Season - Portland Timbers vs. LA Galaxy
 LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. LA Galaxy
+SUMMARY:Minnesota United vs. LA Galaxy
 DTSTART:20250322T203000Z
 DTEND:20250322T223000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. LA Galaxy
+DESCRIPTION:MLS Regular Season - Minnesota United vs. LA Galaxy
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -275,11 +275,11 @@ DESCRIPTION:MLS Regular Season - FC Dallas vs. LA Galaxy
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Minnesota United FC
+SUMMARY:LA Galaxy vs. Minnesota United
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Minnesota United FC
+DESCRIPTION:MLS Regular Season - LA Galaxy vs. Minnesota United
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 END:VCALENDAR

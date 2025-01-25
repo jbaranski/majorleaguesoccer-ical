@@ -91,11 +91,11 @@ DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Austin FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Minnesota United FC
+SUMMARY:Austin FC vs. Minnesota United
 DTSTART:20250504T003000Z
 DTEND:20250504T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. Minnesota United FC
+DESCRIPTION:MLS Regular Season - Austin FC vs. Minnesota United
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -123,11 +123,11 @@ DESCRIPTION:MLS Regular Season - Austin FC vs. Vancouver Whitecaps FC
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. Austin FC
+SUMMARY:Minnesota United vs. Austin FC
 DTSTART:20250525T003000Z
 DTEND:20250525T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. Austin FC
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Austin FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

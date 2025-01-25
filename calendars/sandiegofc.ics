@@ -147,11 +147,11 @@ DESCRIPTION:MLS Regular Season - San Diego FC vs. Austin FC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. San Diego FC
+SUMMARY:Minnesota United vs. San Diego FC
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. San Diego FC
+DESCRIPTION:MLS Regular Season - Minnesota United vs. San Diego FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -243,11 +243,11 @@ DESCRIPTION:MLS Regular Season - Los Angeles FC vs. San Diego FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Minnesota United FC
+SUMMARY:San Diego FC vs. Minnesota United
 DTSTART:20250914T023000Z
 DTEND:20250914T043000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. Minnesota United FC
+DESCRIPTION:MLS Regular Season - San Diego FC vs. Minnesota United
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

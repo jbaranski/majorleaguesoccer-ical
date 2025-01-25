@@ -67,11 +67,11 @@ DESCRIPTION:MLS Regular Season - Real Salt Lake vs. FC Dallas
 LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. Real Salt Lake
+SUMMARY:Minnesota United vs. Real Salt Lake
 DTSTART:20250330T003000Z
 DTEND:20250330T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. Real Salt Lake
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Real Salt Lake
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -243,11 +243,11 @@ DESCRIPTION:MLS Regular Season - Charlotte FC vs. Real Salt Lake
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Minnesota United FC
+SUMMARY:Real Salt Lake vs. Minnesota United
 DTSTART:20250824T013000Z
 DTEND:20250824T033000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Minnesota United FC
+DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Minnesota United
 LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT

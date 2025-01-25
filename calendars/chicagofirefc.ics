@@ -253,11 +253,11 @@ DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. New York City FC
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. Chicago Fire FC
+SUMMARY:Minnesota United vs. Chicago Fire FC
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. Chicago Fire FC
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Chicago Fire FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

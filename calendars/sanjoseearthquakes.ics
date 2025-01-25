@@ -28,12 +28,11 @@ DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. San Jose Earthqu
 LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United FC
+SUMMARY:San Jose Earthquakes vs. Minnesota United
 DTSTART:20250309T033000Z
 DTEND:20250309T053000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Minnesota United
-  FC
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -187,12 +186,11 @@ DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. New York Red Bul
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. San Jose Earthquakes
+SUMMARY:Minnesota United vs. San Jose Earthquakes
 DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. San Jose Earthqua
- kes
+DESCRIPTION:MLS Regular Season - Minnesota United vs. San Jose Earthquakes
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

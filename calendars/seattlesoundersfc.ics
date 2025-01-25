@@ -155,12 +155,11 @@ DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. San Diego FC
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Minnesota United FC
+SUMMARY:Seattle Sounders FC vs. Minnesota United
 DTSTART:20250601T220000Z
 DTEND:20250602T000000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Minnesota United 
- FC
+DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Minnesota United
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -257,12 +256,11 @@ DESCRIPTION:MLS Regular Season - LA Galaxy vs. Seattle Sounders FC
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. Seattle Sounders FC
+SUMMARY:Minnesota United vs. Seattle Sounders FC
 DTSTART:20250817T003000Z
 DTEND:20250817T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS Regular Season - Minnesota United vs. Seattle Sounders FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

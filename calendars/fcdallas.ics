@@ -75,11 +75,11 @@ DESCRIPTION:MLS Regular Season - FC Dallas vs. Seattle Sounders FC
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United FC vs. FC Dallas
+SUMMARY:Minnesota United vs. FC Dallas
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United FC vs. FC Dallas
+DESCRIPTION:MLS Regular Season - Minnesota United vs. FC Dallas
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -163,11 +163,11 @@ DESCRIPTION:MLS Regular Season - FC Dallas vs. San Diego FC
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Minnesota United FC
+SUMMARY:FC Dallas vs. Minnesota United
 DTSTART:20250705T003000Z
 DTEND:20250705T023000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Minnesota United FC
+DESCRIPTION:MLS Regular Season - FC Dallas vs. Minnesota United
 LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT

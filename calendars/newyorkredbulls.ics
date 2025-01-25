@@ -164,12 +164,11 @@ DESCRIPTION:MLS Regular Season - Toronto FC vs. New York Red Bulls
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Minnesota United FC
+SUMMARY:New York Red Bulls vs. Minnesota United
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Minnesota United F
- C
+DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Minnesota United
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
