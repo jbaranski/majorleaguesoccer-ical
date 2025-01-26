@@ -46,7 +46,7 @@ def main() -> None:
             SEASON,
             FootballCalendarEvent.to_football_calendar_events(f)
         )
-        calendar_path = f'{OUTPUT_ROOT}/calendars/{team_name.replace(".", "").replace(" ", "").lower()}.ics'
+        calendar_path = f'{OUTPUT_ROOT}/calendars/{team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()}.ics'
         with open(calendar_path, 'wb') as cf:
             cf.write(cal.to_bytes())
         logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, season={SEASON}, path={calendar_path}')

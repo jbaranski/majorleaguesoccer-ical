@@ -71,7 +71,7 @@ class FootballCalendar:
 
     def to_calendar(self) -> Calendar:
         if self.cal is None:
-            team_name_modified = self.team_name.replace(".", "").replace(" ", "").lower()
+            team_name_modified = self.team_name.replace('.', '').replace(' ', '').replace('\n', '').lower()
             cal = Calendar()
             # https://en.wikipedia.org/wiki/ICalendar
             cal.add('X-WR-CALNAME', self.team_name)
