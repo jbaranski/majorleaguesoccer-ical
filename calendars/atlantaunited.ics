@@ -228,8 +228,8 @@ LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Toronto FC
-DTSTART:20250824T210000Z
-DTEND:20250824T230000Z
+DTSTART:20250824T200000Z
+DTEND:20250824T220000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Toronto FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
