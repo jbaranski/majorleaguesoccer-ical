@@ -29,7 +29,7 @@ def get_competition_txt(input_str: str) -> str:
 
 @cache
 def get_correct_team_name(input_team_name: str) -> str:
-    correct_name = TEAMS_FIX[input_team_name] if input_team_name in TEAMS_FIX else input_team_name
+    correct_name = TEAMS_FIX[input_team_name] if input_team_name in TEAMS_FIX else (input_team_name or '')
     return correct_name.replace('\n', '') or '???'
 
 
