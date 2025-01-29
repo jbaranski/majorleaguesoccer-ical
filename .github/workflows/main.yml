@@ -1,9 +1,9 @@
 name: generate_calendar
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: "0 */12 * * *"
 
