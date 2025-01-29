@@ -16,7 +16,6 @@ DTSTART:20250223T033000Z
 DTEND:20250223T053000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Charlotte FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Atlanta United
@@ -24,7 +23,6 @@ DTSTART:20250301T190000Z
 DTEND:20250301T210000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Atlanta United
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Charlotte FC
@@ -32,7 +30,6 @@ DTSTART:20250309T200000Z
 DTEND:20250309T220000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Charlotte FC
-LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. FC Cincinnati
@@ -40,7 +37,6 @@ DTSTART:20250315T233000Z
 DTEND:20250316T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. FC Cincinnati
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. San Jose Earthquakes
@@ -48,7 +44,6 @@ DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. San Jose Earthquakes
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Charlotte FC
@@ -56,7 +51,6 @@ DTSTART:20250329T203000Z
 DTEND:20250329T223000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Charlotte FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Nashville SC
@@ -64,7 +58,6 @@ DTSTART:20250405T183000Z
 DTEND:20250405T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Nashville SC
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Charlotte FC
@@ -72,7 +65,6 @@ DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - CF Montreal vs. Charlotte FC
-LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. San Diego FC
@@ -80,7 +72,6 @@ DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. San Diego FC
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New England Revolution
@@ -88,7 +79,6 @@ DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. New England Revolution
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Charlotte FC
@@ -96,7 +86,6 @@ DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Columbus Crew vs. Charlotte FC
-LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Charlotte FC
@@ -104,7 +93,6 @@ DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Nashville SC vs. Charlotte FC
-LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Charlotte FC
@@ -112,7 +100,6 @@ DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Orlando City vs. Charlotte FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Chicago Fire FC
@@ -120,7 +107,6 @@ DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Chicago Fire FC
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Columbus Crew
@@ -128,7 +114,6 @@ DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Columbus Crew
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Charlotte FC
@@ -136,7 +121,6 @@ DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Charlotte FC
-LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Charlotte FC
@@ -144,7 +128,6 @@ DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Toronto FC vs. Charlotte FC
-LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Charlotte FC
@@ -152,7 +135,6 @@ DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Charlotte FC
-LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Charlotte FC
@@ -160,7 +142,6 @@ DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Charlotte FC
-LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Charlotte FC
@@ -168,7 +149,6 @@ DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Charlotte FC
-LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Orlando City
@@ -176,7 +156,6 @@ DTSTART:20250705T230000Z
 DTEND:20250706T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Orlando City
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New York City FC
@@ -184,7 +163,6 @@ DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. New York City FC
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. D.C. United
@@ -192,7 +170,6 @@ DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. D.C. United
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Charlotte FC
@@ -200,7 +177,6 @@ DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Charlotte FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Toronto FC
@@ -208,7 +184,6 @@ DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Toronto FC
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Charlotte FC
@@ -216,7 +191,6 @@ DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Charlotte FC
-LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Real Salt Lake
@@ -224,7 +198,6 @@ DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Real Salt Lake
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New York Red Bulls
@@ -232,7 +205,6 @@ DTSTART:20250824T230000Z
 DTEND:20250825T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. New York Red Bulls
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Charlotte FC
@@ -240,7 +212,6 @@ DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Charlotte FC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Inter Miami CF
@@ -248,7 +219,6 @@ DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Inter Miami CF
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Charlotte FC
@@ -256,7 +226,6 @@ DTSTART:20250919T233000Z
 DTEND:20250920T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York City FC vs. Charlotte FC
-LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. CF Montreal
@@ -264,7 +233,6 @@ DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. CF Montreal
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Charlotte FC
@@ -272,7 +240,6 @@ DTSTART:20251004T183000Z
 DTEND:20251004T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - D.C. United vs. Charlotte FC
-LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Philadelphia Union
@@ -280,6 +247,5 @@ DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Philadelphia Union
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 END:VCALENDAR

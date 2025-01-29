@@ -16,7 +16,6 @@ DTSTART:20250223T013000Z
 DTEND:20250223T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Nashville SC vs. New England Revolution
-LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Columbus Crew
@@ -24,7 +23,6 @@ DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Columbus Crew
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Philadelphia Union
@@ -33,7 +31,6 @@ DTEND:20250309T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Philadelphia U
  nion
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. New England Revolution
@@ -42,7 +39,6 @@ DTEND:20250316T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York City FC vs. New England Revoluti
  on
-LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. New York Red Bulls
@@ -51,7 +47,6 @@ DTEND:20250329T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. New York Red B
  ulls
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. New England Revolution
@@ -59,7 +54,6 @@ DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New England Revolution
-LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New England Revolution
@@ -67,7 +61,6 @@ DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. New England Revolution
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. New York City FC
@@ -76,7 +69,6 @@ DTEND:20250420T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. New York City 
  FC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New England Revolution
@@ -84,7 +76,6 @@ DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. New England Revolution
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New England Revolution
@@ -92,7 +83,6 @@ DTSTART:20250503T203000Z
 DTEND:20250503T223000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Toronto FC vs. New England Revolution
-LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. New England Revolution
@@ -100,7 +90,6 @@ DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Orlando City vs. New England Revolution
-LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. San Jose Earthquakes
@@ -109,7 +98,6 @@ DTEND:20250518T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. San Jose Earth
  quakes
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. New England Revolution
@@ -118,7 +106,6 @@ DTEND:20250525T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. New England Revo
  lution
-LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. New England Revolution
@@ -126,7 +113,6 @@ DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - D.C. United vs. New England Revolution
-LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New England Revolution
@@ -134,7 +120,6 @@ DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - CF Montreal vs. New England Revolution
-LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. FC Cincinnati
@@ -142,7 +127,6 @@ DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. FC Cincinnati
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Nashville SC
@@ -150,7 +134,6 @@ DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Nashville SC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Colorado Rapids
@@ -159,7 +142,6 @@ DTEND:20250629T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Colorado Rapid
  s
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. New England Revolution
@@ -168,7 +150,6 @@ DTEND:20250706T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Portland Timbers vs. New England Revoluti
  on
-LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Inter Miami CF
@@ -176,7 +157,6 @@ DTSTART:20250709T233000Z
 DTEND:20250710T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Inter Miami CF
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. New England Revolution
@@ -184,7 +164,6 @@ DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Austin FC vs. New England Revolution
-LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. New England Revolution
@@ -193,7 +172,6 @@ DTEND:20250717T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York Red Bulls vs. New England Revolu
  tion
-LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Orlando City
@@ -201,7 +179,6 @@ DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Orlando City
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. CF Montreal
@@ -209,7 +186,6 @@ DTSTART:20250725T233000Z
 DTEND:20250726T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. CF Montreal
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. D.C. United
@@ -217,7 +193,6 @@ DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. D.C. United
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Los Angeles FC
@@ -225,7 +200,6 @@ DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Los Angeles FC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. New England Revolution
@@ -233,7 +207,6 @@ DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Columbus Crew vs. New England Revolution
-LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Charlotte FC
@@ -241,7 +214,6 @@ DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Charlotte FC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. New England Revolution
@@ -250,7 +222,6 @@ DTEND:20250907T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. New England Revolutio
  n
-LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Toronto FC
@@ -258,7 +229,6 @@ DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Toronto FC
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New England Revolution
@@ -267,7 +237,6 @@ DTEND:20250920T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New England Revolu
  tion
-LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Atlanta United
@@ -275,7 +244,6 @@ DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Atlanta United
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. New England Revolution
@@ -283,7 +251,6 @@ DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New England Revolution
-LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Chicago Fire FC
@@ -292,6 +259,5 @@ DTEND:20251019T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Chicago Fire F
  C
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 END:VCALENDAR

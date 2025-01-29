@@ -16,7 +16,6 @@ DTSTART:20250219T030000Z
 DTEND:20250219T050000Z
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - Colorado Rapids vs. Los Angeles FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Colorado Rapids
@@ -24,7 +23,6 @@ DTSTART:20250223T013000Z
 DTEND:20250223T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Colorado Rapids
-LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Colorado Rapids
@@ -32,7 +30,6 @@ DTSTART:20250226T030000Z
 DTEND:20250226T050000Z
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - Los Angeles FC vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. FC Dallas
@@ -40,7 +37,6 @@ DTSTART:20250302T023000Z
 DTEND:20250302T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. FC Dallas
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Colorado Rapids
@@ -48,7 +44,6 @@ DTSTART:20250309T013000Z
 DTEND:20250309T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Austin FC vs. Colorado Rapids
-LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Colorado Rapids
@@ -56,7 +51,6 @@ DTSTART:20250316T023000Z
 DTEND:20250316T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Colorado Rapids
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Portland Timbers
@@ -64,7 +58,6 @@ DTSTART:20250323T013000Z
 DTEND:20250323T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Portland Timbers
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Charlotte FC
@@ -72,7 +65,6 @@ DTSTART:20250329T203000Z
 DTEND:20250329T223000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Charlotte FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Colorado Rapids
@@ -81,7 +73,6 @@ DTEND:20250406T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Colorado Rapid
  s
-LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. San Diego FC
@@ -89,7 +80,6 @@ DTSTART:20250413T013000Z
 DTEND:20250413T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. San Diego FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Colorado Rapids
@@ -97,7 +87,6 @@ DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Colorado Rapids
-LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Seattle Sounders FC
@@ -105,7 +94,6 @@ DTSTART:20250427T013000Z
 DTEND:20250427T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Seattle Sounders FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Colorado Rapids
@@ -113,7 +101,6 @@ DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - D.C. United vs. Colorado Rapids
-LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. San Jose Earthquakes
@@ -121,7 +108,6 @@ DTSTART:20250511T013000Z
 DTEND:20250511T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. San Jose Earthquakes
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Colorado Rapids
@@ -129,7 +115,6 @@ DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Diego FC vs. Colorado Rapids
-LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Real Salt Lake
@@ -137,7 +122,6 @@ DTSTART:20250518T013000Z
 DTEND:20250518T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Real Salt Lake
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. St. Louis City SC
@@ -145,7 +129,6 @@ DTSTART:20250525T013000Z
 DTEND:20250525T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. St. Louis City SC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Colorado Rapids
@@ -153,7 +136,6 @@ DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Portland Timbers vs. Colorado Rapids
-LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Colorado Rapids
@@ -161,7 +143,6 @@ DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Austin FC
@@ -169,7 +150,6 @@ DTSTART:20250608T013000Z
 DTEND:20250608T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Austin FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Orlando City
@@ -177,7 +157,6 @@ DTSTART:20250615T013000Z
 DTEND:20250615T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Orlando City
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. LA Galaxy
@@ -185,7 +164,6 @@ DTSTART:20250626T013000Z
 DTEND:20250626T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. LA Galaxy
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Colorado Rapids
@@ -194,7 +172,6 @@ DTEND:20250629T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Colorado Rapid
  s
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Sporting Kansas City
@@ -202,7 +179,6 @@ DTSTART:20250705T013000Z
 DTEND:20250705T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Sporting Kansas City
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC
@@ -211,7 +187,6 @@ DTEND:20250713T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Vancouver Whitecaps F
  C
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Colorado Rapids
@@ -219,7 +194,6 @@ DTSTART:20250717T013000Z
 DTEND:20250717T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Colorado Rapids
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Colorado Rapids
@@ -227,7 +201,6 @@ DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Colorado Rapids
-LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Colorado Rapids
@@ -235,7 +208,6 @@ DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Minnesota United vs. Colorado Rapids
-LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Atlanta United
@@ -243,7 +215,6 @@ DTSTART:20250817T013000Z
 DTEND:20250817T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Atlanta United
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Colorado Rapids
@@ -251,7 +222,6 @@ DTSTART:20250824T023000Z
 DTEND:20250824T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - LA Galaxy vs. Colorado Rapids
-LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Colorado Rapids
@@ -259,7 +229,6 @@ DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Colorado Rapids
-LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Houston Dynamo FC
@@ -267,7 +236,6 @@ DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Houston Dynamo FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Colorado Rapids
@@ -275,7 +243,6 @@ DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Dallas vs. Colorado Rapids
-LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Minnesota United
@@ -283,7 +250,6 @@ DTSTART:20250928T013000Z
 DTEND:20250928T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Minnesota United
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Colorado Rapids
@@ -291,7 +257,6 @@ DTSTART:20251005T013000Z
 DTEND:20251005T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Colorado Rapids
-LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Los Angeles FC
@@ -299,6 +264,5 @@ DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Los Angeles FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 END:VCALENDAR

@@ -16,7 +16,6 @@ DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. CF Montreal
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Atlanta United
@@ -24,7 +23,6 @@ DTSTART:20250301T190000Z
 DTEND:20250301T210000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. Atlanta United
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New York Red Bulls
@@ -32,7 +30,6 @@ DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. New York Red Bulls
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Inter Miami CF
@@ -40,7 +37,6 @@ DTSTART:20250316T230000Z
 DTEND:20250317T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Inter Miami CF
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Atlanta United
@@ -48,7 +44,6 @@ DTSTART:20250322T183000Z
 DTEND:20250322T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Atlanta United
-LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New York City FC
@@ -56,7 +51,6 @@ DTSTART:20250329T233000Z
 DTEND:20250330T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. New York City FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. FC Dallas
@@ -64,7 +58,6 @@ DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. FC Dallas
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New England Revolution
@@ -72,7 +65,6 @@ DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. New England Revolution
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Atlanta United
@@ -80,7 +72,6 @@ DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Atlanta United
-LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Atlanta United
@@ -88,7 +79,6 @@ DTSTART:20250426T230000Z
 DTEND:20250427T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Orlando City vs. Atlanta United
-LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Nashville SC
@@ -96,7 +86,6 @@ DTSTART:20250503T183000Z
 DTEND:20250503T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Nashville SC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Atlanta United
@@ -104,7 +93,6 @@ DTSTART:20250510T183000Z
 DTEND:20250510T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Atlanta United
-LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Atlanta United
@@ -112,7 +100,6 @@ DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Austin FC vs. Atlanta United
-LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Philadelphia Union
@@ -120,7 +107,6 @@ DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Philadelphia Union
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. FC Cincinnati
@@ -128,7 +114,6 @@ DTSTART:20250525T230000Z
 DTEND:20250526T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. FC Cincinnati
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Orlando City
@@ -136,7 +121,6 @@ DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Orlando City
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Atlanta United
@@ -144,7 +128,6 @@ DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Atlanta United
-LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Atlanta United
@@ -152,7 +135,6 @@ DTSTART:20250612T233000Z
 DTEND:20250613T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York City FC vs. Atlanta United
-LOCATION:Yankee Stadium\, The Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Atlanta United
@@ -160,7 +142,6 @@ DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Columbus Crew vs. Atlanta United
-LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Atlanta United
@@ -168,7 +149,6 @@ DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Atlanta United
-LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Atlanta United
@@ -176,7 +156,6 @@ DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - D.C. United vs. Atlanta United
-LOCATION:Audi Field\, Washington\, District of Columbia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Atlanta United
@@ -184,7 +163,6 @@ DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Toronto FC vs. Atlanta United
-LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Chicago Fire FC
@@ -192,7 +170,6 @@ DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Chicago Fire FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Charlotte FC
@@ -200,7 +177,6 @@ DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Charlotte FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Seattle Sounders FC
@@ -208,7 +184,6 @@ DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Seattle Sounders FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Atlanta United
@@ -216,7 +191,6 @@ DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - CF Montreal vs. Atlanta United
-LOCATION:Stade Saputo\, Montreal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Atlanta United
@@ -224,7 +198,6 @@ DTSTART:20250817T013000Z
 DTEND:20250817T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Atlanta United
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Toronto FC
@@ -232,7 +205,6 @@ DTSTART:20250824T200000Z
 DTEND:20250824T220000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Toronto FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Atlanta United
@@ -240,7 +212,6 @@ DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Nashville SC vs. Atlanta United
-LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Columbus Crew
@@ -248,7 +219,6 @@ DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Columbus Crew
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. San Diego FC
@@ -256,7 +226,6 @@ DTSTART:20250920T203000Z
 DTEND:20250920T223000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. San Diego FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Atlanta United
@@ -264,7 +233,6 @@ DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. Atlanta United
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Atlanta United
@@ -272,7 +240,6 @@ DTSTART:20251006T023000Z
 DTEND:20251006T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Atlanta United
-LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. D.C. United
@@ -280,6 +247,5 @@ DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. D.C. United
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 END:VCALENDAR

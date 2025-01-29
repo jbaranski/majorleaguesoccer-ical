@@ -16,7 +16,6 @@ DTSTART:20250223T033000Z
 DTEND:20250223T053000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Real Salt Lake
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. San Jose Earthquakes
@@ -25,7 +24,6 @@ DTEND:20250302T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. San Jose Earthqu
  akes
-LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Minnesota United
@@ -33,7 +31,6 @@ DTSTART:20250309T033000Z
 DTEND:20250309T053000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Minnesota United
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Colorado Rapids
@@ -41,7 +38,6 @@ DTSTART:20250316T023000Z
 DTEND:20250316T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Colorado Rapids
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. San Jose Earthquakes
@@ -49,7 +45,6 @@ DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Charlotte FC vs. San Jose Earthquakes
-LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC
@@ -58,7 +53,6 @@ DTEND:20250330T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Seattle Sounders
   FC
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. D.C. United
@@ -66,7 +60,6 @@ DTSTART:20250406T210000Z
 DTEND:20250406T230000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. D.C. United
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. San Jose Earthquakes
@@ -74,7 +67,6 @@ DTSTART:20250413T023000Z
 DTEND:20250413T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Los Angeles FC vs. San Jose Earthquakes
-LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Sporting Kansas City
@@ -83,7 +75,6 @@ DTEND:20250420T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Sporting Kansas 
  City
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. San Jose Earthquakes
@@ -91,7 +82,6 @@ DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Columbus Crew vs. San Jose Earthquakes
-LOCATION:Lower.com Field\, Columbus\, Ohio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Portland Timbers
@@ -99,7 +89,6 @@ DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Portland Timbers
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. San Jose Earthquakes
@@ -107,7 +96,6 @@ DTSTART:20250511T013000Z
 DTEND:20250511T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. San Jose Earthquakes
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Inter Miami CF
@@ -115,7 +103,6 @@ DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Inter Miami CF
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. San Jose Earthquakes
@@ -124,7 +111,6 @@ DTEND:20250518T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New England Revolution vs. San Jose Earth
  quakes
-LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Houston Dynamo FC
@@ -133,7 +119,6 @@ DTEND:20250525T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Houston Dynamo F
  C
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. San Jose Earthquakes
@@ -141,7 +126,6 @@ DTSTART:20250529T020000Z
 DTEND:20250529T040000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - LA Galaxy vs. San Jose Earthquakes
-LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. San Jose Earthquakes
@@ -150,7 +134,6 @@ DTEND:20250531T203000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - St. Louis City SC vs. San Jose Earthquake
  s
-LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. San Jose Earthquakes
@@ -158,7 +141,6 @@ DTSTART:20250614T023000Z
 DTEND:20250614T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Portland Timbers vs. San Jose Earthquakes
-LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. San Jose Earthquakes
@@ -166,7 +148,6 @@ DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Dallas vs. San Jose Earthquakes
-LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. LA Galaxy
@@ -174,7 +155,6 @@ DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. LA Galaxy
-LOCATION:Stanford Stadium\, Palo Alto
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. New York Red Bulls
@@ -183,7 +163,6 @@ DTEND:20250706T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. New York Red Bul
  ls
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. San Jose Earthquakes
@@ -191,7 +170,6 @@ DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Minnesota United vs. San Jose Earthquakes
-LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. FC Dallas
@@ -199,7 +177,6 @@ DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. FC Dallas
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. San Jose Earthquakes
@@ -208,7 +185,6 @@ DTEND:20250720T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. San Jose Earthqua
  kes
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. San Jose Earthquakes
@@ -216,7 +192,6 @@ DTSTART:20250727T013000Z
 DTEND:20250727T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Real Salt Lake vs. San Jose Earthquakes
-LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
@@ -225,7 +200,6 @@ DTEND:20250810T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Vancouver Whitec
  aps FC
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. San Diego FC
@@ -233,7 +207,6 @@ DTSTART:20250817T230000Z
 DTEND:20250818T010000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. San Diego FC
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
@@ -242,7 +215,6 @@ DTEND:20250824T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. San Jose Earthquake
  s
-LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. San Jose Earthquakes
@@ -250,7 +222,6 @@ DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Austin FC vs. San Jose Earthquakes
-LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Los Angeles FC
@@ -258,7 +229,6 @@ DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Los Angeles FC
-LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. St. Louis City SC
@@ -267,7 +237,6 @@ DTEND:20250921T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. St. Louis City S
  C
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. San Jose Earthquakes
@@ -275,7 +244,6 @@ DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Diego FC vs. San Jose Earthquakes
-LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. San Jose Earthquakes
@@ -284,7 +252,6 @@ DTEND:20251006T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. San Jose Earth
  quakes
-LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Austin FC
@@ -292,6 +259,5 @@ DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Austin FC
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 END:VCALENDAR

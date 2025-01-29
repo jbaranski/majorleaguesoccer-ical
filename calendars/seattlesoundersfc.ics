@@ -23,7 +23,6 @@ DTSTART:20250223T033000Z
 DTEND:20250223T053000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Charlotte FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Antigua GFC
@@ -31,7 +30,6 @@ DTSTART:20250227T033000Z
 DTEND:20250227T053000Z
 COMPETITION:CONCACAF Champions Cup
 DESCRIPTION:CONCACAF Champions Cup - Seattle Sounders FC vs. Antigua GFC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Seattle Sounders FC
@@ -39,7 +37,6 @@ DTSTART:20250301T213000Z
 DTEND:20250301T233000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Seattle Sounders FC
-LOCATION:America First Field\, Sandy\, Utah
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Los Angeles FC
@@ -47,7 +44,6 @@ DTSTART:20250308T213000Z
 DTEND:20250308T233000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Los Angeles FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Seattle Sounders FC
@@ -55,7 +51,6 @@ DTSTART:20250316T003000Z
 DTEND:20250316T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Seattle Sounders FC
-LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Houston Dynamo FC
@@ -63,7 +58,6 @@ DTSTART:20250323T023000Z
 DTEND:20250323T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Houston Dynamo FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC
@@ -72,7 +66,6 @@ DTEND:20250330T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Seattle Sounders
   FC
-LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Seattle Sounders FC
@@ -80,7 +73,6 @@ DTSTART:20250406T023000Z
 DTEND:20250406T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - San Diego FC vs. Seattle Sounders FC
-LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Seattle Sounders FC
@@ -88,7 +80,6 @@ DTSTART:20250413T003000Z
 DTEND:20250413T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - FC Dallas vs. Seattle Sounders FC
-LOCATION:Toyota Stadium\, Frisco\, Texas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Nashville SC
@@ -96,7 +87,6 @@ DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Nashville SC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Seattle Sounders FC
@@ -104,7 +94,6 @@ DTSTART:20250427T013000Z
 DTEND:20250427T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Seattle Sounders FC
-LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. St. Louis City SC
@@ -112,7 +101,6 @@ DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. St. Louis City SC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Seattle Sounders FC
@@ -120,7 +108,6 @@ DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Seattle Sounders FC
-LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Seattle Sounders FC
@@ -128,7 +115,6 @@ DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Seattle Sounders FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Seattle Sounders FC
@@ -136,7 +122,6 @@ DTSTART:20250518T013000Z
 DTEND:20250518T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Portland Timbers vs. Seattle Sounders FC
-LOCATION:Providence Park\, Portland\, Oregon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. FC Dallas
@@ -144,7 +129,6 @@ DTSTART:20250524T190000Z
 DTEND:20250524T210000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. FC Dallas
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. San Diego FC
@@ -152,7 +136,6 @@ DTSTART:20250529T003000Z
 DTEND:20250529T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. San Diego FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Minnesota United
@@ -160,7 +143,6 @@ DTSTART:20250601T220000Z
 DTEND:20250602T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Minnesota United
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
@@ -169,7 +151,6 @@ DTEND:20250609T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Seattle Sounde
  rs FC
-LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:??? vs. Seattle Sounders FC
@@ -177,7 +158,6 @@ DTSTART:20250615T230000Z
 DTEND:20250616T010000Z
 COMPETITION:FIFA Club World Cup
 DESCRIPTION:FIFA Club World Cup - ??? vs. Seattle Sounders FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Atlético de Madrid
@@ -186,7 +166,6 @@ DTEND:20250619T210000Z
 COMPETITION:FIFA Club World Cup
 DESCRIPTION:FIFA Club World Cup - Seattle Sounders FC vs. Atlético de Mad
  rid
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Paris Saint-Germain
@@ -195,7 +174,6 @@ DTEND:20250623T180000Z
 COMPETITION:FIFA Club World Cup
 DESCRIPTION:FIFA Club World Cup - Seattle Sounders FC vs. Paris Saint-Germ
  ain
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Austin FC
@@ -203,7 +181,6 @@ DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Austin FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Columbus Crew
@@ -211,7 +188,6 @@ DTSTART:20250706T210000Z
 DTEND:20250706T230000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Columbus Crew
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Seattle Sounders FC
@@ -220,7 +196,6 @@ DTEND:20250713T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Seattle Sounders
   FC
-LOCATION:Children's Mercy Park\, Kansas City\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Colorado Rapids
@@ -228,7 +203,6 @@ DTSTART:20250717T013000Z
 DTEND:20250717T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Colorado Rapids
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. San Jose Earthquakes
@@ -237,7 +211,6 @@ DTEND:20250720T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. San Jose Earthqua
  kes
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Seattle Sounders FC
@@ -245,7 +218,6 @@ DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Atlanta United vs. Seattle Sounders FC
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Seattle Sounders FC
@@ -253,7 +225,6 @@ DTSTART:20250811T020000Z
 DTEND:20250811T040000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - LA Galaxy vs. Seattle Sounders FC
-LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Seattle Sounders FC
@@ -261,7 +232,6 @@ DTSTART:20250817T003000Z
 DTEND:20250817T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Minnesota United vs. Seattle Sounders FC
-LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
@@ -270,7 +240,6 @@ DTEND:20250825T030000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Sporting Kansas C
  ity
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Real Salt Lake
@@ -278,7 +247,6 @@ DTSTART:20250831T023000Z
 DTEND:20250831T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Real Salt Lake
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. LA Galaxy
@@ -286,7 +254,6 @@ DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. LA Galaxy
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Seattle Sounders FC
@@ -294,7 +261,6 @@ DTSTART:20250916T233000Z
 DTEND:20250917T013000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Seattle Sounders FC
-LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Seattle Sounders FC
@@ -302,7 +268,6 @@ DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Austin FC vs. Seattle Sounders FC
-LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
@@ -311,7 +276,6 @@ DTEND:20250928T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Vancouver Whiteca
  ps FC
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Portland Timbers
@@ -319,7 +283,6 @@ DTSTART:20251005T023000Z
 DTEND:20251005T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Portland Timbers
-LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Seattle Sounders FC
@@ -327,6 +290,5 @@ DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - New York City FC vs. Seattle Sounders FC
-LOCATION:TBC\, TBC
 END:VEVENT
 END:VCALENDAR
