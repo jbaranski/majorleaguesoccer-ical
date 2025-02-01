@@ -153,11 +153,11 @@ DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Seattle Sounde
  rs FC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:??? vs. Seattle Sounders FC
+SUMMARY:Botafogo vs. Seattle Sounders FC
 DTSTART:20250615T230000Z
 DTEND:20250616T010000Z
 COMPETITION:FIFA Club World Cup
-DESCRIPTION:FIFA Club World Cup - ??? vs. Seattle Sounders FC
+DESCRIPTION:FIFA Club World Cup - Botafogo vs. Seattle Sounders FC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Atlético de Madrid
