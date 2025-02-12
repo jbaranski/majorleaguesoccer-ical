@@ -196,11 +196,25 @@ COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Colorado Rapids
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Colorado Rapids
-DTSTART:20250726T233000Z
-DTEND:20250727T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Colorado Rapids
+SUMMARY:Colorado Rapids vs. Club Santos Laguna
+DTSTART:20250801T023000Z
+DTEND:20250801T043000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - Colorado Rapids vs. Club Santos Laguna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Club Tijuana
+DTSTART:20250804T013000Z
+DTEND:20250804T033000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - Colorado Rapids vs. Club Tijuana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cruz Azul vs. Colorado Rapids
+DTSTART:20250808T003000Z
+DTEND:20250808T023000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup - Cruz Azul vs. Colorado Rapids
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Colorado Rapids
