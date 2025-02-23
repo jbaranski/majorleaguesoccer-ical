@@ -33,8 +33,8 @@ DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Minnesota United
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Minnesota United
-DTSTART:20250316T000000Z
-DTEND:20250316T020000Z
+DTSTART:20250316T002500Z
+DTEND:20250316T022500Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Minnesota United
 END:VEVENT
