@@ -42,11 +42,27 @@ COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. LA Galaxy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. CF Monterrey
+DTSTART:20250306T033000Z
+DTEND:20250306T053000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Vancouver Whitecaps FC vs. CF Monterr
+ ey
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. CF Montreal
 DTSTART:20250309T023000Z
 DTEND:20250309T043000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. CF Montreal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Monterrey vs. Vancouver Whitecaps FC
+DTSTART:20250313T003000Z
+DTEND:20250313T023000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - CF Monterrey vs. Vancouver Whitecaps 
+ FC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
