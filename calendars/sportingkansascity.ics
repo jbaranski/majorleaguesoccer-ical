@@ -50,8 +50,8 @@ DESCRIPTION:MLS Regular Season - D.C. United vs. Sporting Kansas City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Minnesota United
-DTSTART:20250316T002500Z
-DTEND:20250316T022500Z
+DTSTART:20250316T001500Z
+DTEND:20250316T021500Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Minnesota United
 END:VEVENT
@@ -218,8 +218,8 @@ DESCRIPTION:MLS Regular Season - Orlando City vs. Sporting Kansas City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
-DTSTART:20250825T010000Z
-DTEND:20250825T030000Z
+DTSTART:20250825T011500Z
+DTEND:20250825T031500Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Sporting Kansas C
  ity
