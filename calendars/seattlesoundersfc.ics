@@ -227,13 +227,6 @@ DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. San Jose Earthqua
  kes
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Seattle Sounders FC
-DTSTART:20250726T233000Z
-DTEND:20250727T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. Seattle Sounders FC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cruz Azul vs. Seattle Sounders FC
 DTSTART:20250801T023000Z
 DTEND:20250801T043000Z
