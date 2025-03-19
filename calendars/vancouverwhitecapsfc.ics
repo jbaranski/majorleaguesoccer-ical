@@ -87,12 +87,26 @@ COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Toronto FC vs. Vancouver Whitecaps FC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Pumas
+DTSTART:20250403T013000Z
+DTEND:20250403T033000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Vancouver Whitecaps FC vs. Pumas
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Colorado Rapids
 DTSTART:20250406T013000Z
 DTEND:20250406T033000Z
 COMPETITION:MLS Regular Season
 DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Colorado Rapid
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumas vs. Vancouver Whitecaps FC
+DTSTART:20250410T023000Z
+DTEND:20250410T043000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup - Pumas vs. Vancouver Whitecaps FC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Austin FC
