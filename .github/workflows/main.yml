@@ -36,3 +36,4 @@ jobs:
           git add -A
           git commit -m "Updated calendars" || exit 0
           git push
+
