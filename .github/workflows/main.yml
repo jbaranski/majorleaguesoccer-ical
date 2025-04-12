@@ -23,8 +23,11 @@ jobs:
       - name: Generate calendar files
         env:
           SEASON: ${{ vars.SEASON }}
+          SEASON_YEAR: ${{ vars.SEASON_YEAR }}
           LEAGUE: ${{ vars.LEAGUE }}
           OUTPUT_ROOT: ${{ github.workspace }}
+          NUM_TEAMS_EXPECTED: ${{ vars.NUM_TEAMS_EXPECTED }}
+          EXCLUDED_COMPETITIONS: ${{ vars.EXCLUDED_COMPETITIONS }}
         run: |-
           cd $GITHUB_WORKSPACE
           python -m src.main
