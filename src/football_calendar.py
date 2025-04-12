@@ -1,9 +1,7 @@
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from typing import List
-
 from icalendar import Calendar, Event
-
 from src.utils import get_datetime_from_str, get_competition_txt, get_correct_team_name, get_correct_venue_name, get_end_datetime
 
 
@@ -22,17 +20,45 @@ class FootballCalendarEvent:
 
     @staticmethod
     def to_football_calendar_event(fixture: dict):
-        start_date = get_datetime_from_str(fixture['matchDate'])
-        competition = get_competition_txt(fixture['competition']['name'])
-        summary = f"{get_correct_team_name(fixture.get('home', {}).get('fullName'))} vs. {get_correct_team_name(fixture.get('away', {}).get('fullName'))}"
-        venue = get_correct_venue_name(fixture['venue']['name'], fixture['venue']['city'])
+        start_date = get_datetime_from_str(fixture['planned_kickoff_time'])
+        competition = get_competition_txt(fixture['competition_name'])
+        home_team_name = get_correct_team_name(fixture.get('home_team_name'))
+        away_team_name = get_correct_team_name(fixture.get('away_team_name'))
+        summary = f'{home_team_name} vs. {away_team_name}'
+        result = None
+        if start_date + timedelta(days=1) < datetime.now(timezone.utc):
+            if fixture.get('match_status') == 'finalWhistle' and fixture.get('result'):
+                home_team_goals = fixture.get('home_team_goals', 0)
+                away_team_goals = fixture.get('away_team_goals', 0)
+                home_team_penalty_goals = fixture.get('home_team_penalty_goals', 0)
+                away_team_penalty_goals = fixture.get('away_team_penalty_goals', 0)
+                if home_team_penalty_goals > 0 or away_team_penalty_goals > 0 and home_team_goals == away_team_goals:
+                    if home_team_penalty_goals > away_team_penalty_goals:
+                        summary = summary.replace(home_team_name, f'{home_team_name}*')
+                    else:
+                        summary = summary.replace(away_team_name, f'{away_team_name}*')
+                    result = f'{home_team_name} {home_team_goals} (penalties: {home_team_penalty_goals}) - {away_team_name} {away_team_goals} (penalties: {away_team_penalty_goals})'
+                else:
+                    if home_team_goals > away_team_goals:
+                        summary = summary.replace(home_team_name, f'{home_team_name}*')
+                    elif away_team_goals > home_team_goals:
+                        summary = summary.replace(away_team_name, f'{away_team_name}*')
+                    else:
+                        summary = f'{home_team_name}* vs. {away_team_name}*'
+                    result = f'{home_team_name} {home_team_goals} - {away_team_name} {away_team_goals}'
+            else:
+                summary += ' (result unknown)'
+                result = f'{home_team_name} ??? - {away_team_name} ???'
+
+        venue = get_correct_venue_name(fixture['stadium_name'], fixture['stadium_city'])
+        description = f'{competition}\n\n{result}' if result else f'{competition}\n\n{summary}'
         return FootballCalendarEvent(
             summary=summary,
             location=venue,
             start_date=start_date,
             end_date=get_end_datetime(start_date, 2),
             competition=competition,
-            description=f'{competition} - {summary}'
+            description=description
         )
 
     def to_event(self) -> Event:

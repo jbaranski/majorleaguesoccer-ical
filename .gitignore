@@ -4,3 +4,4 @@
 *.bak
 *.dat
 scratch/
+*.log
