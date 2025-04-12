@@ -11,265 +11,310 @@ X-WR-CALDESC:All New York Red Bulls fixtures for 2025 season
 X-WR-CALNAME:New York Red Bulls
 X-WR-RELCALID:newyorkredbulls-2025
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New York Red Bulls
+SUMMARY:FC Cincinnati* vs. New York Red Bulls
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New York Red Bulls 0
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Nashville SC
+SUMMARY:New York Red Bulls* vs. Nashville SC
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Nashville SC 0
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. New York Red Bulls
+SUMMARY:Atlanta United* vs. New York Red Bulls*
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - New York Red Bulls 
+ 0
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Orlando City
+SUMMARY:New York Red Bulls* vs. Orlando City*
 DTSTART:20250315T183000Z
 DTEND:20250315T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Orlando City 2
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Toronto FC
+SUMMARY:New York Red Bulls* vs. Toronto FC
 DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Toronto FC 1
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. New York Red Bulls
+SUMMARY:New England Revolution* vs. New York Red Bulls
 DTSTART:20250329T183000Z
 DTEND:20250329T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. New York Red B
- ulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - New York Re
+ d Bulls 1
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Chicago Fire FC
+SUMMARY:New York Red Bulls* vs. Chicago Fire FC
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Chicago Fire FC
+  1
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. New York Red Bulls
 DTSTART:20250412T203000Z
 DTEND:20250412T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Orlando City vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York Red Bulls
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. D.C. United
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. D.C. United
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. CF Montreal
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. CF Montreal
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. New York Red Bulls
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New York Red Bulls
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. LA Galaxy
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. LA Galaxy
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. New York Red Bulls
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York Red Bulls
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. New York Red Bulls
 DTSTART:20250517T203000Z
 DTEND:20250517T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. New York Red Bull
+ s
+LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. New York Red Bulls
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - D.C. United vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York Red Bulls
+LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Charlotte FC
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Charlotte FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Charlotte FC
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Atlanta United
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Atlanta United
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. New York Red Bulls
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. New York Red Bulls
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New York Red Bulls
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New York Red Bulls
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Minnesota United
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Minnesota Unite
+ d
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. New York Red Bulls
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. New York Red Bul
- ls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. New York Red 
+ Bulls
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New York Red Bulls
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York Red Bu
+ lls
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. New England Revolution
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. New England Revolu
- tion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New England Rev
+ olution
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Inter Miami CF
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Inter Miami CF
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. New York Red Bulls
 DTSTART:20250727T003000Z
 DTEND:20250727T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York Red Bulls
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chivas de Guadalajara vs. New York Red Bulls
 DTSTART:20250731T233000Z
 DTEND:20250801T013000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Chivas de Guadalajara vs. New York Red Bulls
+DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. New York Red Bulls
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Monterrey vs. New York Red Bulls
 DTSTART:20250803T213000Z
 DTEND:20250803T233000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - CF Monterrey vs. New York Red Bulls
+DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. New York Red Bulls
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. FC Juárez
 DTSTART:20250807T233000Z
 DTEND:20250808T013000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - New York Red Bulls vs. FC Juárez
+DESCRIPTION:Leagues Cup\n\nNew York Red Bulls vs. FC Juárez
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Real Salt Lake
 DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Real Salt Lake
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Philadelphia Union
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Philadelphia Un
+ ion
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New York Red Bulls
 DTSTART:20250824T230000Z
 DTEND:20250825T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Charlotte FC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York Red Bulls
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Columbus Crew
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Columbus Crew
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Columbus Crew
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. New York Red Bulls
 DTSTART:20250914T023000Z
 DTEND:20250914T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. New York Red Bull
+ s
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New York Red Bulls
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York Red Bulls
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. New York City FC
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New York City F
+ C
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. FC Cincinnati
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. FC Cincinnati
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. New York Red Bulls
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Columbus Crew vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New York Red Bulls
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 END:VCALENDAR

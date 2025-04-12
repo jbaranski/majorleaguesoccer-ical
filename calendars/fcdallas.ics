@@ -11,241 +11,275 @@ X-WR-CALDESC:All FC Dallas fixtures for 2025 season
 X-WR-CALNAME:FC Dallas
 X-WR-RELCALID:fcdallas-2025
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. FC Dallas
+SUMMARY:Houston Dynamo FC vs. FC Dallas*
 DTSTART:20250223T013000Z
 DTEND:20250223T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - FC Dallas 2
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. FC Dallas
+SUMMARY:Colorado Rapids* vs. FC Dallas*
 DTSTART:20250302T023000Z
 DTEND:20250302T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Colorado Rapids vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - FC Dallas 3
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Chicago Fire FC
+SUMMARY:FC Dallas vs. Chicago Fire FC*
 DTSTART:20250309T013000Z
 DTEND:20250309T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Chicago Fire FC 3
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
+SUMMARY:FC Dallas vs. Vancouver Whitecaps FC*
 DTSTART:20250316T003000Z
 DTEND:20250316T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Vancouver Whitecaps FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Vancouver Whitecaps FC 1
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. FC Dallas
+SUMMARY:Real Salt Lake vs. FC Dallas*
 DTSTART:20250323T013000Z
 DTEND:20250323T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - FC Dallas 1
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Sporting Kansas City
+SUMMARY:FC Dallas* vs. Sporting Kansas City
 DTSTART:20250330T003000Z
 DTEND:20250330T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Sporting Kansas City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Sporting Kansas City 1
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. FC Dallas
+SUMMARY:Atlanta United* vs. FC Dallas*
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - FC Dallas 1
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Seattle Sounders FC
 DTSTART:20250413T003000Z
 DTEND:20250413T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Seattle Sounders FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Seattle Sounders FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. FC Dallas
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Dallas
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. FC Dallas
 DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Dallas
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. FC Dallas
 DTSTART:20250504T011500Z
 DTEND:20250504T031500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. FC Dallas
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Real Salt Lake
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Real Salt Lake
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Houston Dynamo FC
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Houston Dynamo FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Houston Dynamo FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. FC Dallas
 DTSTART:20250524T190000Z
 DTEND:20250524T210000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. FC Dallas
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. FC Dallas
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. FC Dallas
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Philadelphia Union
 DTSTART:20250601T003000Z
 DTEND:20250601T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Philadelphia Union
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. FC Dallas
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. FC Dallas
+LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. San Jose Earthquakes
 DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. San Jose Earthquakes
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. San Jose Earthquakes
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. San Diego FC
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. San Diego FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. San Diego FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Minnesota United
 DTSTART:20250705T003000Z
 DTEND:20250705T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Minnesota United
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. FC Dallas
 DTSTART:20250713T023000Z
 DTEND:20250713T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. FC Dallas
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. FC Dallas
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. St. Louis City SC
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. St. Louis City SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. St. Louis City SC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. New York City FC
 DTSTART:20250726T003000Z
 DTEND:20250726T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. New York City FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Portland Timbers
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Portland Timbers
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Portland Timbers
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. FC Dallas
 DTSTART:20250817T003000Z
 DTEND:20250817T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. FC Dallas
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Los Angeles FC
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Los Angeles FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. FC Dallas
 DTSTART:20250831T023000Z
 DTEND:20250831T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Dallas
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. FC Dallas
 DTSTART:20250907T003000Z
 DTEND:20250907T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. FC Dallas
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Austin FC
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Austin FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Austin FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Colorado Rapids
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Colorado Rapids
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Colorado Rapids
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. FC Dallas
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Dallas
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. LA Galaxy
 DTSTART:20251004T203000Z
 DTEND:20251004T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. LA Galaxy
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. FC Dallas
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. FC Dallas
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 END:VCALENDAR

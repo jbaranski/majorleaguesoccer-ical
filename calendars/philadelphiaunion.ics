@@ -11,244 +11,285 @@ X-WR-CALDESC:All Philadelphia Union fixtures for 2025 season
 X-WR-CALNAME:Philadelphia Union
 X-WR-RELCALID:philadelphiaunion-2025
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Philadelphia Union
+SUMMARY:Orlando City vs. Philadelphia Union*
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Orlando City vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Philadelphia Union 4
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. FC Cincinnati
+SUMMARY:Philadelphia Union* vs. FC Cincinnati
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - FC Cincinnati 1
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Philadelphia Union
+SUMMARY:New England Revolution vs. Philadelphia Union*
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Philadelphia U
- nion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Philadelphi
+ a Union 2
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Nashville SC
+SUMMARY:Philadelphia Union vs. Nashville SC*
 DTSTART:20250316T182500Z
 DTEND:20250316T202500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Nashville SC 3
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. St. Louis City SC
+SUMMARY:Philadelphia Union* vs. St. Louis City SC
 DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. St. Louis City SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - St. Louis City 
+ SC 0
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Philadelphia Union
+SUMMARY:Inter Miami CF* vs. Philadelphia Union
 DTSTART:20250329T233000Z
 DTEND:20250330T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Philadelphia Union 
+ 1
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Orlando City
+SUMMARY:Philadelphia Union* vs. Orlando City*
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Orlando City 0
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Philadelphia Union
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Philadelphia Unio
+ n
+LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Atlanta United
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Atlanta United
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. D.C. United
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. D.C. United
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Philadelphia Union
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Columbus Crew
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Columbus Crew
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Columbus Crew
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. LA Galaxy
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. LA Galaxy
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Philadelphia Union
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Inter Miami CF
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Inter Miami CF
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Philadelphia Union
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Philadelphia Union
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Philadelphia Union
 DTSTART:20250601T003000Z
 DTEND:20250601T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Philadelphia Union
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Charlotte FC
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Charlotte FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Charlotte FC
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Philadelphia Union
 DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Philadelphia Union
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Philadelphia Union
 DTSTART:20250629T220000Z
 DTEND:20250630T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Columbus Crew vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Philadelphia Union
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Philadelphia Union
 DTSTART:20250706T003000Z
 DTEND:20250706T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New York Red Bulls
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York Red Bu
+ lls
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. CF Montreal
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. CF Montreal
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Philadelphia Union
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Philadelphia Uni
+ on
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Colorado Rapids
 DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Colorado Rapids
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Colorado Rapids
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Toronto FC
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Toronto FC
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Philadelphia Union
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Philadelphia Un
+ ion
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Chicago Fire FC
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Chicago Fire FC
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Philadelphia Union
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Philadelphia Union
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Philadelphia Union
 DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Philadelphia U
- nion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Philadelphi
+ a Union
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New England Revolution
 DTSTART:20250920T183000Z
 DTEND:20250920T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New England Revolu
- tion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New England Rev
+ olution
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Philadelphia Union
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - D.C. United vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Philadelphia Union
+LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New York City FC
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
+ C
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Philadelphia Union
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Charlotte FC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Philadelphia Union
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 END:VCALENDAR

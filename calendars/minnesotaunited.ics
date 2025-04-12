@@ -11,264 +11,309 @@ X-WR-CALDESC:All Minnesota United fixtures for 2025 season
 X-WR-CALNAME:Minnesota United
 X-WR-RELCALID:minnesotaunited-2025
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Minnesota United
+SUMMARY:Los Angeles FC* vs. Minnesota United
 DTSTART:20250222T214500Z
 DTEND:20250222T234500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Minnesota United 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. CF Montreal
+SUMMARY:Minnesota United* vs. CF Montreal
 DTSTART:20250302T013000Z
 DTEND:20250302T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - CF Montreal 0
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United
+SUMMARY:San Jose Earthquakes vs. Minnesota United*
 DTSTART:20250309T033000Z
 DTEND:20250309T053000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Minnesota Uni
+ ted 1
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Minnesota United
+SUMMARY:Sporting Kansas City* vs. Minnesota United*
 DTSTART:20250316T001500Z
 DTEND:20250316T021500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - Minnesota Uni
+ ted 3
+LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. LA Galaxy
+SUMMARY:Minnesota United* vs. LA Galaxy*
 DTSTART:20250322T203000Z
 DTEND:20250322T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - LA Galaxy 2
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Real Salt Lake
+SUMMARY:Minnesota United* vs. Real Salt Lake
 DTSTART:20250330T003000Z
 DTEND:20250330T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Real Salt Lake 0
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Minnesota United
+SUMMARY:New York City FC vs. Minnesota United*
 DTSTART:20250406T190000Z
 DTEND:20250406T210000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Minnesota United 
+ 2
+LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Minnesota United
 DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Minnesota United
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. FC Dallas
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Dallas
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Vancouver Whitecaps FC
-DTSTART:20250427T003000Z
-DTEND:20250427T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Vancouver Whitecaps 
- FC
+DTSTART:20250427T190000Z
+DTEND:20250427T210000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Vancouver Whiteca
+ ps FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Minnesota United
 DTSTART:20250504T003000Z
 DTEND:20250504T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Minnesota United
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Inter Miami CF
 DTSTART:20250510T203000Z
 DTEND:20250510T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Inter Miami CF
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Minnesota United
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Minnesota United
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. St. Louis City SC
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. St. Louis City SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. St. Louis City SC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Austin FC
 DTSTART:20250525T003000Z
 DTEND:20250525T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Austin FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Austin FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Minnesota Unit
- ed
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Minnesota U
+ nited
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Minnesota United
 DTSTART:20250601T220000Z
 DTEND:20250602T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Minnesota Unit
+ ed
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. San Diego FC
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. San Diego FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. San Diego FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Houston Dynamo FC
 DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Houston Dynamo FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Houston Dynamo FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. Minnesota United
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Minnesota Unite
+ d
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Minnesota United
 DTSTART:20250705T003000Z
 DTEND:20250705T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Minnesota United
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. San Jose Earthquakes
 DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. San Jose Earthquakes
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. San Jose Earthqua
+ kes
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Los Angeles FC
 DTSTART:20250717T003000Z
 DTEND:20250717T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Minnesota United
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Minnesota United
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Minnesota United
 DTSTART:20250727T003000Z
 DTEND:20250727T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Minnesota United
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Club Querétaro
 DTSTART:20250731T003000Z
 DTEND:20250731T023000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Minnesota United vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nMinnesota United vs. Club Querétaro
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club América vs. Minnesota United
 DTSTART:20250803T010000Z
 DTEND:20250803T030000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Club América vs. Minnesota United
+DESCRIPTION:Leagues Cup\n\nClub América vs. Minnesota United
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Atlético de San Luis
 DTSTART:20250807T003000Z
 DTEND:20250807T023000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Minnesota United vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nMinnesota United vs. Atlético de San Luis
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Colorado Rapids
 DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Colorado Rapids
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Colorado Rapids
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Seattle Sounders FC
 DTSTART:20250817T003000Z
 DTEND:20250817T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Seattle Sounders FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Seattle Sounders 
+ FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Minnesota United
 DTSTART:20250824T013000Z
 DTEND:20250824T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Minnesota United
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Portland Timbers
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Portland Timbers
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Portland Timbers
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Minnesota United
 DTSTART:20250914T023000Z
 DTEND:20250914T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Minnesota United
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Chicago Fire FC
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Chicago Fire FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Minnesota United
 DTSTART:20250928T013000Z
 DTEND:20250928T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Minnesota United
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Sporting Kansas City
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Sporting Kansas City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Sporting Kansas C
+ ity
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Minnesota United
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Minnesota United
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 END:VCALENDAR

@@ -11,290 +11,333 @@ X-WR-CALDESC:All FC Cincinnati fixtures for 2025 season
 X-WR-CALNAME:FC Cincinnati
 X-WR-RELCALID:fccincinnati-2025
 BEGIN:VEVENT
-SUMMARY:Motagua vs. FC Cincinnati
+SUMMARY:Motagua vs. FC Cincinnati*
 DTSTART:20250220T030000Z
 DTEND:20250220T050000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Motagua vs. FC Cincinnati
+DESCRIPTION:CONCACAF Champions Cup\n\nMotagua 1 - FC Cincinnati 4
+LOCATION:Estadio Chelato Uclés\, Tegucigalpa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New York Red Bulls
+SUMMARY:FC Cincinnati* vs. New York Red Bulls
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New York Red Bulls 0
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Motagua
+SUMMARY:FC Cincinnati* vs. Motagua*
 DTSTART:20250226T233000Z
 DTEND:20250227T013000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - FC Cincinnati vs. Motagua
+DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 1 - Motagua 1
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. FC Cincinnati
+SUMMARY:Philadelphia Union* vs. FC Cincinnati
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - FC Cincinnati 1
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Club Tigres
+SUMMARY:FC Cincinnati* vs. Club Tigres*
 DTSTART:20250304T233000Z
 DTEND:20250305T013000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - FC Cincinnati vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 1 - Club Tigres 1
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Toronto FC
+SUMMARY:FC Cincinnati* vs. Toronto FC
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Toronto FC 0
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. FC Cincinnati
+SUMMARY:Club Tigres* vs. FC Cincinnati
 DTSTART:20250312T023000Z
 DTEND:20250312T043000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Club Tigres vs. FC Cincinnati
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 3 - FC Cincinnati 1
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. FC Cincinnati
+SUMMARY:Charlotte FC* vs. FC Cincinnati
 DTSTART:20250315T233000Z
 DTEND:20250316T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Charlotte FC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - FC Cincinnati 0
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Atlanta United
+SUMMARY:FC Cincinnati* vs. Atlanta United*
 DTSTART:20250322T183000Z
 DTEND:20250322T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Atlanta United 2
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. FC Cincinnati
+SUMMARY:Nashville SC vs. FC Cincinnati*
 DTSTART:20250330T003000Z
 DTEND:20250330T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - FC Cincinnati 2
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New England Revolution
+SUMMARY:FC Cincinnati* vs. New England Revolution
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New England Revoluti
+ on 0
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. FC Cincinnati
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - D.C. United vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Cincinnati
+LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. FC Cincinnati
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. FC Cincinnati
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Sporting Kansas City
 DTSTART:20250426T183000Z
 DTEND:20250426T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Sporting Kansas City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Sporting Kansas City
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. FC Cincinnati
 DTSTART:20250504T190000Z
 DTEND:20250504T210000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. FC Cincinnati
+LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Austin FC
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Austin FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Austin FC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. FC Cincinnati
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. FC Cincinnati
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. FC Cincinnati
 DTSTART:20250517T230000Z
 DTEND:20250518T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Columbus Crew vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. FC Cincinnati
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. FC Cincinnati
 DTSTART:20250525T230000Z
 DTEND:20250526T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. FC Cincinnati
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. FC Dallas
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. FC Dallas
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. D.C. United
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. D.C. United
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. FC Cincinnati
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
+ ti
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. FC Cincinnati
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. FC Cincinnati
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. FC Cincinnati
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Orlando City vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. FC Cincinnati
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Chicago Fire FC
 DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Chicago Fire FC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Columbus Crew
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Columbus Crew
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Columbus Crew
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Inter Miami CF
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Inter Miami CF
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. FC Cincinnati
 DTSTART:20250720T013000Z
 DTEND:20250720T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. FC Cincinnati
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. FC Cincinnati
 DTSTART:20250726T230000Z
 DTEND:20250727T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Cincinnati
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Monterrey vs. FC Cincinnati
 DTSTART:20250731T233000Z
 DTEND:20250801T013000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - CF Monterrey vs. FC Cincinnati
+DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. FC Cincinnati
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. FC Juárez
 DTSTART:20250804T000000Z
 DTEND:20250804T020000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - FC Cincinnati vs. FC Juárez
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. FC Juárez
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Chivas de Guadalajara
 DTSTART:20250807T233000Z
 DTEND:20250808T013000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - FC Cincinnati vs. Chivas de Guadalajara
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. Chivas de Guadalajara
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Charlotte FC
 DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Charlotte FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Charlotte FC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. FC Cincinnati
 DTSTART:20250817T023000Z
 DTEND:20250817T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Cincinnati
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. New York City FC
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New York City FC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Philadelphia Union
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Philadelphia Union
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Nashville SC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Nashville SC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. FC Cincinnati
 DTSTART:20250921T023000Z
 DTEND:20250921T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Cincinnati
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Orlando City
 DTSTART:20250927T183000Z
 DTEND:20250927T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Orlando City
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. FC Cincinnati
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. FC Cincinnati
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. CF Montreal
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. CF Montreal
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR

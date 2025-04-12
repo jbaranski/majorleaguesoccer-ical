@@ -11,311 +11,363 @@ X-WR-CALDESC:All Los Angeles FC fixtures for 2025 season
 X-WR-CALNAME:Los Angeles FC
 X-WR-RELCALID:losangelesfc-2025
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club América
+SUMMARY:Los Angeles FC* vs. Club América
 DTSTART:20250212T033000Z
 DTEND:20250212T053000Z
 COMPETITION:Club Friendly Matches
-DESCRIPTION:Club Friendly Matches - Los Angeles FC vs. Club América
+DESCRIPTION:Club Friendly Matches\n\nLos Angeles FC 2 - Club América 1
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Los Angeles FC
+SUMMARY:Colorado Rapids* vs. Los Angeles FC
 DTSTART:20250219T030000Z
 DTEND:20250219T050000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Colorado Rapids vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nColorado Rapids 2 - Los Angeles FC 1
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Minnesota United
+SUMMARY:Los Angeles FC* vs. Minnesota United
 DTSTART:20250222T214500Z
 DTEND:20250222T234500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Minnesota United 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Colorado Rapids
+SUMMARY:Los Angeles FC* vs. Colorado Rapids
 DTSTART:20250226T030000Z
 DTEND:20250226T050000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Los Angeles FC vs. Colorado Rapids
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Colorado Rapids 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. New York City FC
+SUMMARY:Los Angeles FC* vs. New York City FC
 DTSTART:20250302T033000Z
 DTEND:20250302T053000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - New York City FC 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Columbus Crew
+SUMMARY:Los Angeles FC* vs. Columbus Crew
 DTSTART:20250305T033000Z
 DTEND:20250305T053000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Los Angeles FC vs. Columbus Crew
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 3 - Columbus Crew 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Los Angeles FC
+SUMMARY:Seattle Sounders FC* vs. Los Angeles FC
 DTSTART:20250308T214500Z
 DTEND:20250308T234500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 5 - Los Angeles FC
+  2
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Los Angeles FC
+SUMMARY:Columbus Crew* vs. Los Angeles FC
 DTSTART:20250312T003000Z
 DTEND:20250312T023000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Columbus Crew vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nColumbus Crew 2 - Los Angeles FC 1
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Austin FC
+SUMMARY:Los Angeles FC vs. Austin FC*
 DTSTART:20250315T194500Z
 DTEND:20250315T214500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Austin FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Austin FC 1
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Los Angeles FC
+SUMMARY:Sporting Kansas City vs. Los Angeles FC*
 DTSTART:20250323T003000Z
 DTEND:20250323T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Los Angeles F
+ C 2
+LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Los Angeles FC
+SUMMARY:San Diego FC* vs. Los Angeles FC
 DTSTART:20250330T023000Z
 DTEND:20250330T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Los Angeles FC 2
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Inter Miami CF
+SUMMARY:Los Angeles FC* vs. Inter Miami CF
 DTSTART:20250403T033000Z
 DTEND:20250403T053000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Los Angeles FC vs. Inter Miami CF
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Inter Miami CF 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Los Angeles FC
+SUMMARY:Houston Dynamo FC* vs. Los Angeles FC
 DTSTART:20250406T010800Z
 DTEND:20250406T030800Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Los Angeles FC 0
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Los Angeles FC
+SUMMARY:Inter Miami CF* vs. Los Angeles FC
 DTSTART:20250410T000000Z
 DTEND:20250410T020000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Inter Miami CF vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 3 - Los Angeles FC 1
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. San Jose Earthquakes
 DTSTART:20250413T023000Z
 DTEND:20250413T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. San Jose Earthquakes
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Jose Earthquake
+ s
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Los Angeles FC
 DTSTART:20250420T021500Z
 DTEND:20250420T041500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Los Angeles FC
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. St. Louis City SC
 DTSTART:20250427T230000Z
 DTEND:20250428T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. St. Louis City SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. St. Louis City SC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Houston Dynamo FC
 DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Houston Dynamo FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Houston Dynamo FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Los Angeles FC
 DTSTART:20250511T230000Z
 DTEND:20250512T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Los Angeles
+  FC
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Seattle Sounders FC
 DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Seattle Sounders FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Seattle Sounders FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Los Angeles FC
 DTSTART:20250519T010000Z
 DTEND:20250519T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Los Angeles FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Los Angeles FC
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Los Angeles FC
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Sporting Kansas City
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Sporting Kansas City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
+ y
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Colorado Rapids
 DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Colorado Rapids
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Toronto FC
 DTSTART:20250614T023000Z
 DTEND:20250614T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Toronto FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Los Angeles FC
 DTSTART:20250626T013000Z
 DTEND:20250626T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Los Angeles FC
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC
 DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Vancouver Whitecaps FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Vancouver Whitecaps
+  FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Los Angeles FC
 DTSTART:20250706T003000Z
 DTEND:20250706T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Los Angeles FC
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. FC Dallas
 DTSTART:20250713T023000Z
 DTEND:20250713T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Los Angeles FC
 DTSTART:20250717T003000Z
 DTEND:20250717T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. LA Galaxy
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. LA Galaxy
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Portland Timbers
 DTSTART:20250726T023000Z
 DTEND:20250726T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Portland Timbers
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Mazatlán FC
 DTSTART:20250730T023000Z
 DTEND:20250730T043000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Los Angeles FC vs. Mazatlán FC
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Mazatlán FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Club Pachuca
 DTSTART:20250802T023000Z
 DTEND:20250802T043000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Los Angeles FC vs. Club Pachuca
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club Pachuca
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Tigres vs. Los Angeles FC
 DTSTART:20250806T023000Z
 DTEND:20250806T043000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - Club Tigres vs. Los Angeles FC
+DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Los Angeles FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Los Angeles FC
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Los Angeles FC
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Los Angeles FC
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Los Angeles
+  FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Los Angeles FC
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Los Angeles FC
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. San Diego FC
 DTSTART:20250901T023000Z
 DTEND:20250901T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. San Diego FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Diego FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Los Angeles FC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Los Angeles F
+ C
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Real Salt Lake
 DTSTART:20250922T010000Z
 DTEND:20250922T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Los Angeles FC
 DTSTART:20250928T003000Z
 DTEND:20250928T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Los Angeles FC
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Atlanta United
 DTSTART:20251006T023000Z
 DTEND:20251006T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Atlanta United
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Los Angeles FC
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Colorado Rapids vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Los Angeles FC
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 END:VCALENDAR

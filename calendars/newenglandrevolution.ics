@@ -11,253 +11,302 @@ X-WR-CALDESC:All New England Revolution fixtures for 2025 season
 X-WR-CALNAME:New England Revolution
 X-WR-RELCALID:newenglandrevolution-2025
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New England Revolution
+SUMMARY:Nashville SC* vs. New England Revolution*
 DTSTART:20250223T013000Z
 DTEND:20250223T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - New England Revolutio
+ n 0
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Columbus Crew
+SUMMARY:New England Revolution vs. Columbus Crew*
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Columbus Crew
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Columbus Cr
+ ew 1
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Philadelphia Union
+SUMMARY:New England Revolution vs. Philadelphia Union*
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Philadelphia U
- nion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Philadelphi
+ a Union 2
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. New England Revolution
+SUMMARY:New York City FC* vs. New England Revolution
 DTSTART:20250315T233000Z
 DTEND:20250316T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. New England Revoluti
- on
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - New England Revol
+ ution 1
+LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. New York Red Bulls
+SUMMARY:New England Revolution* vs. New York Red Bulls
 DTSTART:20250329T183000Z
 DTEND:20250329T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. New York Red B
- ulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - New York Re
+ d Bulls 1
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New England Revolution
+SUMMARY:FC Cincinnati* vs. New England Revolution
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New England Revoluti
+ on 0
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New England Revolution
 DTSTART:20250412T184500Z
 DTEND:20250412T204500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New England Revolut
+ ion
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. New York City FC
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. New York City 
- FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. New York Ci
+ ty FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New England Revolution
 DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Charlotte FC vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New England Revolutio
+ n
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New England Revolution
 DTSTART:20250503T203000Z
 DTEND:20250503T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New England Revolution
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. New England Revolution
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Orlando City vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
+ n
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. San Jose Earthquakes
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. San Jose Earth
- quakes
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. San Jose Ea
+ rthquakes
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. New England Revolution
 DTSTART:20250525T003000Z
 DTEND:20250525T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. New England Revo
- lution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New England R
+ evolution
+LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. New England Revolution
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - D.C. United vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New England Revolution
+LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. New England Revolution
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New England Revolution
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. FC Cincinnati
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
+ ti
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Nashville SC
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Nashville S
+ C
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Colorado Rapids
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Colorado Rapid
- s
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Colorado Ra
+ pids
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. New England Revolution
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. New England Revoluti
- on
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. New England Revol
+ ution
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Inter Miami CF
 DTSTART:20250709T233000Z
 DTEND:20250710T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Inter Miami
+  CF
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. New England Revolution
 DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. New England Revolution
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. New England Revolution
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. New England Revolu
- tion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New England Rev
+ olution
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Orlando City
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Orlando Cit
+ y
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. CF Montreal
 DTSTART:20250725T233000Z
 DTEND:20250726T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. CF Montreal
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. D.C. United
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. D.C. United
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Los Angeles FC
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Los Angeles
+  FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. New England Revolution
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Columbus Crew vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
+ on
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Charlotte FC
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Charlotte FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Charlotte F
+ C
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. New England Revolution
 DTSTART:20250907T003000Z
 DTEND:20250907T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. New England Revolutio
- n
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New England Revolu
+ tion
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Toronto FC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Toronto FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New England Revolution
 DTSTART:20250920T183000Z
 DTEND:20250920T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. New England Revolu
- tion
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New England Rev
+ olution
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Atlanta United
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Atlanta Uni
+ ted
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. New England Revolution
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New England Revolut
+ ion
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Chicago Fire FC
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Chicago Fire F
- C
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Chicago Fir
+ e FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 END:VCALENDAR

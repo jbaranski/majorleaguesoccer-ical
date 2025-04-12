@@ -11,241 +11,285 @@ X-WR-CALDESC:All Nashville SC fixtures for 2025 season
 X-WR-CALNAME:Nashville SC
 X-WR-RELCALID:nashvillesc-2025
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New England Revolution
+SUMMARY:Austin FC* vs. Nashville SC
+DTSTART:20250215T200000Z
+DTEND:20250215T220000Z
+COMPETITION:Club Friendly Matches
+DESCRIPTION:Club Friendly Matches\n\nAustin FC 2 - Nashville SC 1
+LOCATION:Q2 Stadium\, Austin\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC* vs. New England Revolution*
 DTSTART:20250223T013000Z
 DTEND:20250223T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. New England Revolution
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - New England Revolutio
+ n 0
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Nashville SC
+SUMMARY:New York Red Bulls* vs. Nashville SC
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Nashville SC 0
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Portland Timbers
+SUMMARY:Nashville SC* vs. Portland Timbers
 DTSTART:20250309T013000Z
 DTEND:20250309T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Portland Timbers
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Portland Timbers 0
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Nashville SC
+SUMMARY:Philadelphia Union vs. Nashville SC*
 DTSTART:20250316T182500Z
 DTEND:20250316T202500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Nashville SC 3
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. CF Montreal
+SUMMARY:Nashville SC* vs. CF Montreal
 DTSTART:20250323T003000Z
 DTEND:20250323T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. CF Montreal
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - CF Montreal 0
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. FC Cincinnati
+SUMMARY:Nashville SC vs. FC Cincinnati*
 DTSTART:20250330T003000Z
 DTEND:20250330T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - FC Cincinnati 2
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Nashville SC
+SUMMARY:Charlotte FC* vs. Nashville SC
 DTSTART:20250405T183000Z
 DTEND:20250405T203000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Charlotte FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Nashville SC 1
+LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Real Salt Lake
 DTSTART:20250413T003000Z
 DTEND:20250413T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Real Salt Lake
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Nashville SC
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Nashville SC
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Chicago Fire FC
 DTSTART:20250427T003000Z
 DTEND:20250427T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Chicago Fire FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Chicago Fire FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Nashville SC
 DTSTART:20250503T184500Z
 DTEND:20250503T204500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Atlanta United vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Nashville SC
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Charlotte FC
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Charlotte FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Charlotte FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. New York Red Bulls
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. New York Red Bulls
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York Red Bulls
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. D.C. United
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. D.C. United
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Nashville SC
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Toronto FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Nashville SC
+LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Nashville SC
 DTSTART:20250529T000000Z
 DTEND:20250529T020000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Columbus Crew vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Nashville SC
+LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. New York City FC
 DTSTART:20250531T203000Z
 DTEND:20250531T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. New York City FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York City FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Nashville SC
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Chicago Fire FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Nashville SC
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Nashville SC
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New England Revolution vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Nashville S
+ C
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Nashville SC
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - D.C. United vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Nashville SC
+LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Philadelphia Union
 DTSTART:20250706T003000Z
 DTEND:20250706T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Philadelphia Union
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Nashville SC
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Nashville SC
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Columbus Crew
 DTSTART:20250717T003000Z
 DTEND:20250717T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Columbus Crew
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Columbus Crew
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Toronto FC
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Toronto FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Toronto FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Nashville SC
 DTSTART:20250726T023000Z
 DTEND:20250726T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Nashville SC
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Nashville SC
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Nashville SC
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Nashville SC
 DTSTART:20250817T210000Z
 DTEND:20250817T230000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York City FC vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Nashville SC
+LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Orlando City
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Orlando City
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Atlanta United
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Atlanta United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Atlanta United
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Nashville SC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Cincinnati vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Nashville SC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Nashville SC
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Orlando City vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Houston Dynamo FC
 DTSTART:20250928T003000Z
 DTEND:20250928T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Houston Dynamo FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Houston Dynamo FC
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Nashville SC
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - CF Montreal vs. Nashville SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Nashville SC
+LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Inter Miami CF
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Nashville SC vs. Inter Miami CF
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Inter Miami CF
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 END:VCALENDAR

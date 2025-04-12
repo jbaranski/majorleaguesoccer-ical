@@ -11,290 +11,331 @@ X-WR-CALDESC:All LA Galaxy fixtures for 2025 season
 X-WR-CALNAME:LA Galaxy
 X-WR-RELCALID:lagalaxy-2025
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. San Diego FC
+SUMMARY:LA Galaxy vs. San Diego FC*
 DTSTART:20250224T000000Z
 DTEND:20250224T020000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. San Diego FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - San Diego FC 2
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. LA Galaxy
+SUMMARY:Vancouver Whitecaps FC* vs. LA Galaxy
 DTSTART:20250302T220000Z
 DTEND:20250303T000000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Vancouver Whitecaps FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - LA Galaxy 1
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:C.S. Herediano vs. LA Galaxy
+SUMMARY:C.S. Herediano* vs. LA Galaxy
 DTSTART:20250306T013000Z
 DTEND:20250306T033000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - C.S. Herediano vs. LA Galaxy
+DESCRIPTION:CONCACAF Champions Cup\n\nC.S. Herediano 1 - LA Galaxy 0
+LOCATION:Estadio Fello Meza\, Cartago
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. St. Louis City SC
+SUMMARY:LA Galaxy vs. St. Louis City SC*
 DTSTART:20250309T230000Z
 DTEND:20250310T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. St. Louis City SC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - St. Louis City SC 3
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. C.S. Herediano
+SUMMARY:LA Galaxy* vs. C.S. Herediano
 DTSTART:20250313T023000Z
 DTEND:20250313T043000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - LA Galaxy vs. C.S. Herediano
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 4 - C.S. Herediano 1
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. LA Galaxy
+SUMMARY:Portland Timbers* vs. LA Galaxy*
 DTSTART:20250316T204500Z
 DTEND:20250316T224500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Portland Timbers vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - LA Galaxy 1
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. LA Galaxy
+SUMMARY:Minnesota United* vs. LA Galaxy*
 DTSTART:20250322T203000Z
 DTEND:20250322T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Minnesota United vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - LA Galaxy 2
+LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Orlando City
+SUMMARY:LA Galaxy vs. Orlando City*
 DTSTART:20250330T023000Z
 DTEND:20250330T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Orlando City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Orlando City 2
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Club Tigres
+SUMMARY:LA Galaxy* vs. Club Tigres*
 DTSTART:20250402T031500Z
 DTEND:20250402T051500Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - LA Galaxy vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 0 - Club Tigres 0
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. LA Galaxy
+SUMMARY:Real Salt Lake* vs. LA Galaxy
 DTSTART:20250405T203000Z
 DTEND:20250405T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Real Salt Lake vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - LA Galaxy 0
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. LA Galaxy
+SUMMARY:Club Tigres* vs. LA Galaxy
 DTSTART:20250409T010000Z
 DTEND:20250409T030000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup - Club Tigres vs. LA Galaxy
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 3 - LA Galaxy 2
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Houston Dynamo FC
 DTSTART:20250413T023000Z
 DTEND:20250413T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Houston Dynamo FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Houston Dynamo FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. LA Galaxy
 DTSTART:20250419T174500Z
 DTEND:20250419T194500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Austin FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. LA Galaxy
+LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Portland Timbers
 DTSTART:20250428T010000Z
 DTEND:20250428T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Portland Timbers
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. LA Galaxy
 DTSTART:20250504T230000Z
 DTEND:20250505T010000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Sporting Kansas City vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. LA Galaxy
+LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Red Bulls vs. LA Galaxy
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - New York Red Bulls vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. LA Galaxy
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. LA Galaxy
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Philadelphia Union vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. LA Galaxy
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Los Angeles FC
 DTSTART:20250519T010000Z
 DTEND:20250519T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Los Angeles FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Los Angeles FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. LA Galaxy
 DTSTART:20250524T204500Z
 DTEND:20250524T224500Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Diego FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. LA Galaxy
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. San Jose Earthquakes
 DTSTART:20250529T020000Z
 DTEND:20250529T040000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. San Jose Earthquakes
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Jose Earthquakes
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Real Salt Lake
 DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Real Salt Lake
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. LA Galaxy
 DTSTART:20250614T203000Z
 DTEND:20250614T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - St. Louis City SC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. LA Galaxy
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. LA Galaxy
 DTSTART:20250626T013000Z
 DTEND:20250626T033000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Colorado Rapids vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. LA Galaxy
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. LA Galaxy
 DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - San Jose Earthquakes vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. LA Galaxy
+LOCATION:Stanford Stadium\, Stanford\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
 DTSTART:20250705T023000Z
 DTEND:20250705T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Vancouver Whitecaps FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. D.C. United
 DTSTART:20250713T023000Z
 DTEND:20250713T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. D.C. United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. D.C. United
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Austin FC
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Austin FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Austin FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. LA Galaxy
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Los Angeles FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. LA Galaxy
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. LA Galaxy
 DTSTART:20250726T003000Z
 DTEND:20250726T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Houston Dynamo FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. LA Galaxy
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Club Tijuana
 DTSTART:20250801T023000Z
 DTEND:20250801T043000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - LA Galaxy vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Club Tijuana
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Cruz Azul
 DTSTART:20250804T023000Z
 DTEND:20250804T043000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - LA Galaxy vs. Cruz Azul
+DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Cruz Azul
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Club Santos Laguna
 DTSTART:20250808T030000Z
 DTEND:20250808T050000Z
 COMPETITION:Leagues Cup
-DESCRIPTION:Leagues Cup - LA Galaxy vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Club Santos Laguna
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Seattle Sounders FC
 DTSTART:20250811T020000Z
 DTEND:20250811T040000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Seattle Sounders FC
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. LA Galaxy
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Inter Miami CF vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. LA Galaxy
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Colorado Rapids
 DTSTART:20250824T023000Z
 DTEND:20250824T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Colorado Rapids
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. FC Dallas
 DTSTART:20250831T023000Z
 DTEND:20250831T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. FC Dallas
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Dallas
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. LA Galaxy
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - Seattle Sounders FC vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. LA Galaxy
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. FC Cincinnati
 DTSTART:20250921T023000Z
 DTEND:20250921T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. FC Cincinnati
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Cincinnati
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Sporting Kansas City
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Sporting Kansas City
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. LA Galaxy
 DTSTART:20251004T203000Z
 DTEND:20251004T223000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - FC Dallas vs. LA Galaxy
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. LA Galaxy
+LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Minnesota United
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
-COMPETITION:MLS Regular Season
-DESCRIPTION:MLS Regular Season - LA Galaxy vs. Minnesota United
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Minnesota United
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 END:VCALENDAR
