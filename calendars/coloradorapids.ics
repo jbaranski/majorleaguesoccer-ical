@@ -86,11 +86,11 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - Colorado Ra
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Diego FC
+SUMMARY:Colorado Rapids* vs. San Diego FC
 DTSTART:20250413T013000Z
 DTEND:20250413T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - San Diego FC 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

@@ -78,11 +78,11 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Los Angeles FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Houston Dynamo FC
+SUMMARY:LA Galaxy* vs. Houston Dynamo FC*
 DTSTART:20250413T023000Z
 DTEND:20250413T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Houston Dynamo FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

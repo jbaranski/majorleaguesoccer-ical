@@ -73,12 +73,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 6 - D.C. United 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. San Jose Earthquakes
+SUMMARY:Los Angeles FC* vs. San Jose Earthquakes
 DTSTART:20250413T023000Z
 DTEND:20250413T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Jose Earthquake
- s
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - San Jose Earthquake
+ s 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
