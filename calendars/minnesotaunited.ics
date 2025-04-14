@@ -70,11 +70,11 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Minnesota United
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Minnesota United
+SUMMARY:Toronto FC* vs. Minnesota United*
 DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - Minnesota United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

@@ -67,11 +67,11 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 6 - D.C. United 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. FC Cincinnati
+SUMMARY:D.C. United vs. FC Cincinnati*
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

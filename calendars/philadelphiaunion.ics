@@ -70,12 +70,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Orlando City 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Philadelphia Union
+SUMMARY:New York City FC* vs. Philadelphia Union
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Philadelphia Unio
- n
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Philadelphia Unio
+ n 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

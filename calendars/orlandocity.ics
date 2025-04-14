@@ -84,11 +84,11 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Orlando City 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New York Red Bulls
+SUMMARY:Orlando City* vs. New York Red Bulls*
 DTSTART:20250412T203000Z
 DTEND:20250412T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - New York Red Bulls 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -85,11 +85,11 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - LA Galaxy 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Real Salt Lake
+SUMMARY:Nashville SC* vs. Real Salt Lake
 DTSTART:20250413T003000Z
 DTEND:20250413T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Real Salt Lake 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

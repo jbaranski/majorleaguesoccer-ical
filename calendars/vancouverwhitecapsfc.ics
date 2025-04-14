@@ -124,11 +124,11 @@ DESCRIPTION:CONCACAF Champions Cup\n\nPumas 2 - Vancouver Whitecaps FC 2
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Austin FC
+SUMMARY:Vancouver Whitecaps FC* vs. Austin FC
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 5 - Austin FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

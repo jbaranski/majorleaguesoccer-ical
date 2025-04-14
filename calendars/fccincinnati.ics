@@ -100,11 +100,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New England Revoluti
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. FC Cincinnati
+SUMMARY:D.C. United vs. FC Cincinnati*
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

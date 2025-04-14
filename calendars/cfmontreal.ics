@@ -68,11 +68,11 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - CF Montreal 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Charlotte FC
+SUMMARY:CF Montreal vs. Charlotte FC*
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Charlotte FC 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

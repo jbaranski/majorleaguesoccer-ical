@@ -68,11 +68,11 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 1 - Toronto FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Minnesota United
+SUMMARY:Toronto FC* vs. Minnesota United*
 DTSTART:20250412T183000Z
 DTEND:20250412T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - Minnesota United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

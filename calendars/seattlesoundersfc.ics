@@ -106,11 +106,11 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Seattle Sounders FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Seattle Sounders FC
+SUMMARY:FC Dallas vs. Seattle Sounders FC*
 DTSTART:20250413T003000Z
 DTEND:20250413T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Seattle Sounders FC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

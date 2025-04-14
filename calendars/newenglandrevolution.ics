@@ -65,12 +65,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - New England Revoluti
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. New England Revolution
+SUMMARY:Atlanta United vs. New England Revolution*
 DTSTART:20250412T184500Z
 DTEND:20250412T204500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New England Revolut
- ion
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - New England Revolut
+ ion 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
