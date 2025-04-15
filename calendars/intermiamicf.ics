@@ -136,11 +136,11 @@ DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 3 - Los Angeles FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Inter Miami CF
+SUMMARY:Chicago Fire FC* vs. Inter Miami CF*
 DTSTART:20250413T203000Z
 DTEND:20250413T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Inter Miami CF 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

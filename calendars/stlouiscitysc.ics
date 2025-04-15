@@ -71,11 +71,11 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - St. Louis Cit
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Columbus Crew
+SUMMARY:St. Louis City SC vs. Columbus Crew*
 DTSTART:20250413T230000Z
 DTEND:20250414T010000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Columbus Crew 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

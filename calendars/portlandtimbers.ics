@@ -69,12 +69,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Portland Timbers 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Portland Timbers
+SUMMARY:Sporting Kansas City vs. Portland Timbers*
 DTSTART:20250413T181500Z
 DTEND:20250413T201500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Portland Timb
- ers
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Portland Timb
+ ers 4
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
