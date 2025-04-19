@@ -108,6 +108,14 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Nashville SC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nashville SC vs. Chattanooga Red Wolves SC
+DTSTART:20250507T000000Z
+DTEND:20250507T020000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nNashville SC vs. Chattanooga Red Wolves SC
+LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Charlotte FC
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z

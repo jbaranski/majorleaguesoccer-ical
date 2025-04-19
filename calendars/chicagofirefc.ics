@@ -101,6 +101,14 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Orlando City
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. Detroit City FC
+DTSTART:20250508T000000Z
+DTEND:20250508T020000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC vs. Detroit City FC
+LOCATION:SeatGeek Stadium\, Bridgeview\, IL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Atlanta United
 DTSTART:20250510T183000Z
 DTEND:20250510T203000Z

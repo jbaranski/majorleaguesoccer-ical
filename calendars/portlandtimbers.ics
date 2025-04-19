@@ -103,6 +103,14 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Portland Timb
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tacoma Defiance vs. Portland Timbers
+DTSTART:20250507T020000Z
+DTEND:20250507T040000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nTacoma Defiance vs. Portland Timbers
+LOCATION:Starfire Sports Complex\, Tukwila\, WA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Sporting Kansas City
 DTSTART:20250511T023000Z
 DTEND:20250511T043000Z

@@ -103,6 +103,15 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. FC Cincinnati
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pittsburgh Riverhounds SC vs. New York City FC
+DTSTART:20250507T230000Z
+DTEND:20250508T010000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. New York City F
+ C
+LOCATION:Highmark Stadium\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York City FC vs. CF Montreal
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z

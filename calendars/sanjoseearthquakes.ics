@@ -108,6 +108,15 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Portland Timb
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Sacramento Republic FC
+DTSTART:20250508T023000Z
+DTEND:20250508T043000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Sacramento Republic 
+ FC
+LOCATION:PayPal Park\, San Jose\, CA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. San Jose Earthquakes
 DTSTART:20250511T013000Z
 DTEND:20250511T033000Z

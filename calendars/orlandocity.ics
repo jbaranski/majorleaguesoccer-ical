@@ -116,6 +116,14 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Orlando City
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tampa Bay Rowdies vs. Orlando City
+DTSTART:20250507T233000Z
+DTEND:20250508T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nTampa Bay Rowdies vs. Orlando City
+LOCATION:Al Lang Stadium\, St. Petersburg\, FL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando City vs. New England Revolution
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z

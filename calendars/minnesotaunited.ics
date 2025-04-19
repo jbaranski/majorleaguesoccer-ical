@@ -103,6 +103,14 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Minnesota United
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Louisville City FC vs. Minnesota United
+DTSTART:20250507T233000Z
+DTEND:20250508T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nLouisville City FC vs. Minnesota United
+LOCATION:Lynn Family Stadium\, Louisville\, KY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Inter Miami CF
 DTSTART:20250510T203000Z
 DTEND:20250510T223000Z

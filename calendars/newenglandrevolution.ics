@@ -100,6 +100,14 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New England Revolution
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rhode Island FC vs. New England Revolution
+DTSTART:20250507T233000Z
+DTEND:20250508T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nRhode Island FC vs. New England Revolution
+LOCATION:TBC\, unknown
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando City vs. New England Revolution
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
