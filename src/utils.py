@@ -38,7 +38,7 @@ def get_correct_team_name(input_team_name: str) -> str:
 
 
 @cache
-def get_correct_venue_name(name: str, city: str) -> str | None:
+def get_correct_venue_name(name: str | None, city: str | None) -> str | None:
     if city and name:
         return f"{name}, {city}"
     if name and not city:

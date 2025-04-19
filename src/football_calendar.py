@@ -50,7 +50,7 @@ class FootballCalendarEvent:
                 summary += ' (result unknown)'
                 result = f'{home_team_name} ??? - {away_team_name} ???'
 
-        venue = get_correct_venue_name(fixture['stadium_name'], fixture['stadium_city'])
+        venue = get_correct_venue_name(fixture.get('stadium_name'), fixture.get('stadium_city'))
         description = f'{competition}\n\n{result}' if result else f'{competition}\n\n{summary}'
         return FootballCalendarEvent(
             summary=summary,
