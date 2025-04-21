@@ -82,12 +82,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - San Jose Earthquake
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Sporting Kansas City
+SUMMARY:San Jose Earthquakes vs. Sporting Kansas City*
 DTSTART:20250420T023000Z
 DTEND:20250420T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Sporting Kans
- as City
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Sporting Kans
+ as City 5
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

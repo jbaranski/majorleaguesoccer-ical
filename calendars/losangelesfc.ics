@@ -134,11 +134,11 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - San Jose Earthquake
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Los Angeles FC
+SUMMARY:Portland Timbers* vs. Los Angeles FC*
 DTSTART:20250420T021500Z
 DTEND:20250420T041500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Los Angeles FC 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

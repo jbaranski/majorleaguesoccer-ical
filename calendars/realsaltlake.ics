@@ -93,11 +93,11 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Real Salt Lake 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Toronto FC
+SUMMARY:Real Salt Lake vs. Toronto FC*
 DTSTART:20250420T013000Z
 DTEND:20250420T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Toronto FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
