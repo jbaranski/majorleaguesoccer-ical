@@ -132,12 +132,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 5 - Austin FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Vancouver Whitecaps FC
+SUMMARY:St. Louis City SC* vs. Vancouver Whitecaps FC*
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Vancouver Whitec
- aps FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Vancouver Whitec
+ aps FC 0
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

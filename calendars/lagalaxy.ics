@@ -107,11 +107,11 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Houston Dynamo FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. LA Galaxy
+SUMMARY:Austin FC* vs. LA Galaxy
 DTSTART:20250419T174500Z
 DTEND:20250419T194500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - LA Galaxy 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

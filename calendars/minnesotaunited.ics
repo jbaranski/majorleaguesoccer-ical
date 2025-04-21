@@ -78,11 +78,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - Minnesota United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Dallas
+SUMMARY:Minnesota United* vs. FC Dallas*
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - FC Dallas 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

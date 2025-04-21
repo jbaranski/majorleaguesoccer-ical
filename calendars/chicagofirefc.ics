@@ -77,11 +77,11 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Inter Miami CF 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. FC Cincinnati
+SUMMARY:Chicago Fire FC vs. FC Cincinnati*
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - FC Cincinnati 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

@@ -108,11 +108,11 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. FC Cincinnati
+SUMMARY:Chicago Fire FC vs. FC Cincinnati*
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - FC Cincinnati 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

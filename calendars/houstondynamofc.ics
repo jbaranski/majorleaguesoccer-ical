@@ -86,11 +86,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Houston Dynamo FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Colorado Rapids
+SUMMARY:Houston Dynamo FC* vs. Colorado Rapids*
 DTSTART:20250420T003000Z
 DTEND:20250420T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Colorado Rapids 
+ 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

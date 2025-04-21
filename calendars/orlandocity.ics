@@ -92,11 +92,11 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - New York Red Bulls 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Orlando City
+SUMMARY:CF Montreal* vs. Orlando City*
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Orlando City 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
