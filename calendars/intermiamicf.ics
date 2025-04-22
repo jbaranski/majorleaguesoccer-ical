@@ -251,11 +251,12 @@ DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF vs. FC Porto
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Palmeiras
+SUMMARY:Inter Miami CF vs. Sociedade Esportiva Palmeiras
 DTSTART:20250624T010000Z
 DTEND:20250624T030000Z
 COMPETITION:FIFA Club World Cup
-DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF vs. Palmeiras
+DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF vs. Sociedade Esportiva 
+ Palmeiras
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT
