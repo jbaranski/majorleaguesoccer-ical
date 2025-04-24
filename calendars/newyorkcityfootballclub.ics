@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/newyorkcityfootballclub.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:All New York City Football Club fixtures for 2025 season
+X-WR-CALNAME:New York City Football Club
+X-WR-RELCALID:newyorkcityfootballclub-2025
+BEGIN:VEVENT
+SUMMARY:Inter Miami CF* vs. New York City Football Club*
+DTSTART:20250223T003000Z
+DTEND:20250223T023000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - New York City Footb
+ all Club 2
+LOCATION:Chase Stadium\, Fort Lauderdale\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC* vs. New York City Football Club
+DTSTART:20250302T033000Z
+DTEND:20250302T053000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - New York City Footb
+ all Club 0
+LOCATION:BMO Stadium\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club* vs. Orlando City
+DTSTART:20250309T003000Z
+DTEND:20250309T023000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 2 - Orland
+ o City 1
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club* vs. New England Revolution
+DTSTART:20250315T233000Z
+DTEND:20250316T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 2 - New En
+ gland Revolution 1
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew* vs. New York City Football Club*
+DTSTART:20250322T233000Z
+DTEND:20250323T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - New York City Footba
+ ll Club 0
+LOCATION:Lower.com Field\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta United* vs. New York City Football Club
+DTSTART:20250329T233000Z
+DTEND:20250330T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 4 - New York City Footb
+ all Club 3
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Minnesota United*
+DTSTART:20250406T190000Z
+DTEND:20250406T210000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 1 - Minnes
+ ota United 2
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club* vs. Philadelphia Union
+DTSTART:20250412T233000Z
+DTEND:20250413T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 1 - Philad
+ elphia Union 0
+LOCATION:Citi Field\, Flushing\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution* vs. New York City Football Club
+DTSTART:20250419T233000Z
+DTEND:20250420T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - New York Ci
+ ty Football Club 0
+LOCATION:Gillette Stadium\, Foxborough\, MA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto FC vs. New York City Football Club
+DTSTART:20250426T183000Z
+DTEND:20250426T203000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New York City Football 
+ Club
+LOCATION:BMO Field\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. FC Cincinnati
+DTSTART:20250504T190000Z
+DTEND:20250504T210000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. FC Cin
+ cinnati
+LOCATION:Citi Field\, Flushing\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Riverhounds SC vs. New York City FC
+DTSTART:20250507T230000Z
+DTEND:20250508T010000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. New York City F
+ C
+LOCATION:Highmark Stadium\, Pittsburgh\, PA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. CF Montreal
+DTSTART:20250510T233000Z
+DTEND:20250511T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. CF Mon
+ treal
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.C. United vs. New York City Football Club
+DTSTART:20250514T233000Z
+DTEND:20250515T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York City Football
+  Club
+LOCATION:Audi Field\, Washington D.C.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. New York Red Bulls
+DTSTART:20250517T203000Z
+DTEND:20250517T223000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. New Yo
+ rk Red Bulls
+LOCATION:Citi Field\, Flushing\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Chicago Fire FC
+DTSTART:20250525T190000Z
+DTEND:20250525T210000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Chicag
+ o Fire FC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Houston Dynamo FC
+DTSTART:20250528T233000Z
+DTEND:20250529T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Housto
+ n Dynamo FC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. New York City Football Club
+DTSTART:20250531T203000Z
+DTEND:20250531T223000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York City Footbal
+ l Club
+LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Atlanta United
+DTSTART:20250612T233000Z
+DTEND:20250613T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Atlant
+ a United
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. New York City Football Club
+DTSTART:20250628T233000Z
+DTEND:20250629T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York City Football
+  Club
+LOCATION:Stade Saputo\, Montréal\, QC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Toronto FC
+DTSTART:20250703T233000Z
+DTEND:20250704T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Toront
+ o FC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte FC vs. New York City Football Club
+DTSTART:20250712T233000Z
+DTEND:20250713T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York City Footbal
+ l Club
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City vs. New York City Football Club
+DTSTART:20250716T233000Z
+DTEND:20250717T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City Footbal
+ l Club
+LOCATION:Inter&Co Stadium\, Orlando\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting Kansas City vs. New York City Football Club
+DTSTART:20250720T003000Z
+DTEND:20250720T023000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New York City
+  Football Club
+LOCATION:Children's Mercy Park\, Kansas City\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Dallas vs. New York City Football Club
+DTSTART:20250726T003000Z
+DTEND:20250726T023000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. New York City Football C
+ lub
+LOCATION:Toyota Stadium\, Frisco\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. Club Puebla
+DTSTART:20250729T233000Z
+DTEND:20250730T013000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club Puebla
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. Club León
+DTSTART:20250801T220000Z
+DTEND:20250802T000000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club León
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toluca FC vs. New York City FC
+DTSTART:20250805T233000Z
+DTEND:20250806T013000Z
+COMPETITION:Leagues Cup
+DESCRIPTION:Leagues Cup\n\nToluca FC vs. New York City FC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Columbus Crew
+DTSTART:20250809T233000Z
+DTEND:20250810T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Columb
+ us Crew
+LOCATION:Citi Field\, Flushing\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Nashville SC
+DTSTART:20250817T210000Z
+DTEND:20250817T230000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Nashvi
+ lle SC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Cincinnati vs. New York City Football Club
+DTSTART:20250823T233000Z
+DTEND:20250824T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New York City Footba
+ ll Club
+LOCATION:TQL Stadium\, Cincinnati\, OH
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. D.C. United
+DTSTART:20250830T233000Z
+DTEND:20250831T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. D.C. U
+ nited
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. New York City Football Club
+DTSTART:20250914T003000Z
+DTEND:20250914T023000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York City Foot
+ ball Club
+LOCATION:Soldier Field\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Charlotte FC
+DTSTART:20250919T233000Z
+DTEND:20250920T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Charlo
+ tte FC
+LOCATION:Yankee Stadium\, Bronx\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Inter Miami CF
+DTSTART:20250924T233000Z
+DTEND:20250925T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Inter 
+ Miami CF
+LOCATION:Citi Field\, Flushing\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. New York City Football Club
+DTSTART:20250927T233000Z
+DTEND:20250928T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New York City F
+ ootball Club
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. New York City Football Club
+DTSTART:20251004T233000Z
+DTEND:20251005T013000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
+ ootball Club
+LOCATION:Subaru Park\, Chester\, PA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Football Club vs. Seattle Sounders FC
+DTSTART:20251018T220000Z
+DTEND:20251019T000000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Seattl
+ e Sounders FC
+LOCATION:TBC\, unknown
+END:VEVENT
+END:VCALENDAR

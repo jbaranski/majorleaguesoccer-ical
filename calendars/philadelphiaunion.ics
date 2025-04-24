@@ -70,12 +70,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Orlando City 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC* vs. Philadelphia Union
+SUMMARY:New York City Football Club* vs. Philadelphia Union
 DTSTART:20250412T233000Z
 DTEND:20250413T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Philadelphia Unio
- n 0
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 1 - Philad
+ elphia Union 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +285,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Philadelphia Union
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York City FC
+SUMMARY:Philadelphia Union vs. New York City Football Club
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
- C
+ ootball Club
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

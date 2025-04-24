@@ -46,11 +46,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nSporting Kansas City 0 - Inter Miami
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF* vs. New York City FC*
+SUMMARY:Inter Miami CF* vs. New York City Football Club*
 DTSTART:20250223T003000Z
 DTEND:20250223T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - New York City FC 2
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - New York City Footb
+ all Club 2
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -397,11 +398,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. D.C. United
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Inter Miami CF
+SUMMARY:New York City Football Club vs. Inter Miami CF
 DTSTART:20250924T233000Z
 DTEND:20250925T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Inter 
+ Miami CF
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

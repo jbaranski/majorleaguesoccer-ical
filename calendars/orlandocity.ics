@@ -44,11 +44,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Toronto FC 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC* vs. Orlando City
+SUMMARY:New York City Football Club* vs. Orlando City
 DTSTART:20250309T003000Z
 DTEND:20250309T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Orlando City 1
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 2 - Orland
+ o City 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -213,11 +214,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. CF Montreal
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New York City FC
+SUMMARY:Orlando City vs. New York City Football Club
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City Footbal
+ l Club
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

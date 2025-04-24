@@ -156,11 +156,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Nashville SC
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New York City FC
+SUMMARY:Nashville SC vs. New York City Football Club
 DTSTART:20250531T203000Z
 DTEND:20250531T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York City Footbal
+ l Club
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -237,11 +238,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Nashville SC
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Nashville SC
+SUMMARY:New York City Football Club vs. Nashville SC
 DTSTART:20250817T210000Z
 DTEND:20250817T230000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Nashvi
+ lle SC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

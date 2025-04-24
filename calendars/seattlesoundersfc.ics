@@ -377,12 +377,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Portland Timbe
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Seattle Sounders FC
+SUMMARY:New York City Football Club vs. Seattle Sounders FC
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Seattl
+ e Sounders FC
 LOCATION:TBC\, unknown
 END:VEVENT
 END:VCALENDAR

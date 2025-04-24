@@ -61,12 +61,12 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Real Salt Lake 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Minnesota United*
+SUMMARY:New York City Football Club vs. Minnesota United*
 DTSTART:20250406T190000Z
 DTEND:20250406T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Minnesota United 
- 2
+DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club 1 - Minnes
+ ota United 2
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
