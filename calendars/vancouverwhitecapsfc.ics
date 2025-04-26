@@ -141,12 +141,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Vancouver Whitec
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Inter Miami CF
+SUMMARY:Vancouver Whitecaps FC* vs. Inter Miami CF
 DTSTART:20250425T023000Z
 DTEND:20250425T043000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Inter Mia
- mi CF
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 2 - Inter Mia
+ mi CF 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
