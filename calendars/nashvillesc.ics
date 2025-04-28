@@ -92,11 +92,11 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - Nashville SC 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Chicago Fire FC
+SUMMARY:Nashville SC* vs. Chicago Fire FC
 DTSTART:20250427T003000Z
 DTEND:20250427T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 7 - Chicago Fire FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

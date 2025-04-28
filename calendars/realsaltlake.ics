@@ -101,11 +101,11 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Toronto FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Real Salt Lake
+SUMMARY:San Diego FC vs. Real Salt Lake*
 DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Real Salt Lake 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

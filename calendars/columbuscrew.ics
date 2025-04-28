@@ -101,11 +101,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Inter Miami CF 1
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. San Jose Earthquakes
+SUMMARY:Columbus Crew* vs. San Jose Earthquakes
 DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - San Jose Earthquakes
+  1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

@@ -101,11 +101,11 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Orlando City 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlanta United
+SUMMARY:Orlando City* vs. Atlanta United
 DTSTART:20250426T231500Z
 DTEND:20250427T011500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Atlanta United 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

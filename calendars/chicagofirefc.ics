@@ -85,11 +85,11 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - FC Cincinnati 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Chicago Fire FC
+SUMMARY:Nashville SC* vs. Chicago Fire FC
 DTSTART:20250427T003000Z
 DTEND:20250427T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 7 - Chicago Fire FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

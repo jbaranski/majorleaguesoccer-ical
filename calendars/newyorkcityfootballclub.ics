@@ -92,12 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - New York Ci
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. New York City Football Club
+SUMMARY:Toronto FC vs. New York City Football Club*
 DTSTART:20250426T183000Z
 DTEND:20250426T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New York City Football 
- Club
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - New York City Football 
+ Club 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

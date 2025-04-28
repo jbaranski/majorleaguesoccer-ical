@@ -83,11 +83,11 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - San Diego FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Real Salt Lake
+SUMMARY:San Diego FC vs. Real Salt Lake*
 DTSTART:20250426T233000Z
 DTEND:20250427T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Real Salt Lake 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

@@ -88,11 +88,11 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Atlanta United
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. D.C. United
+SUMMARY:Philadelphia Union* vs. D.C. United
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - D.C. United 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

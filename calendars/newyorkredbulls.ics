@@ -86,11 +86,11 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - D.C. United 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. CF Montreal
+SUMMARY:New York Red Bulls* vs. CF Montreal
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - CF Montreal 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

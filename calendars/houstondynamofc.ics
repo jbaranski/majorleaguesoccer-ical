@@ -95,11 +95,11 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Colorado Rapids
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Austin FC
+SUMMARY:Houston Dynamo FC* vs. Austin FC
 DTSTART:20250427T003000Z
 DTEND:20250427T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Austin FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

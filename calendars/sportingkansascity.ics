@@ -116,11 +116,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Sporting Kans
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Sporting Kansas City
+SUMMARY:FC Cincinnati* vs. Sporting Kansas City
 DTSTART:20250426T183000Z
 DTEND:20250426T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Sporting Kansas City
+  1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
