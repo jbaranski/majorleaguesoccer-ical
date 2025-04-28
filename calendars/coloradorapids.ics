@@ -103,12 +103,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Colorado Rapids
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Seattle Sounders FC
+SUMMARY:Colorado Rapids* vs. Seattle Sounders FC*
 DTSTART:20250427T013000Z
 DTEND:20250427T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Seattle Sounders F
- C
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Seattle Sounders F
+ C 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
