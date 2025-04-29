@@ -143,11 +143,11 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Los Angeles FC 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. St. Louis City SC
+SUMMARY:Los Angeles FC* vs. St. Louis City SC*
 DTSTART:20250427T230000Z
 DTEND:20250428T010000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - St. Louis City SC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

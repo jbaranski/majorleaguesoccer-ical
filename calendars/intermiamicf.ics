@@ -162,11 +162,11 @@ DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 2 - Inter Mia
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. FC Dallas
+SUMMARY:Inter Miami CF vs. FC Dallas*
 DTSTART:20250427T210000Z
 DTEND:20250427T230000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - FC Dallas 4
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

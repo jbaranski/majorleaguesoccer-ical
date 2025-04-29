@@ -86,11 +86,11 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Los Angeles FC 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Portland Timbers
+SUMMARY:LA Galaxy vs. Portland Timbers*
 DTSTART:20250428T010000Z
 DTEND:20250428T030000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Portland Timbers 4
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

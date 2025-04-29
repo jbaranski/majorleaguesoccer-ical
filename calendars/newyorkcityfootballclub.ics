@@ -110,12 +110,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. FC Cin
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pittsburgh Riverhounds SC vs. New York City FC
+SUMMARY:Pittsburgh Riverhounds SC vs. New York City Football Club
 DTSTART:20250507T230000Z
 DTEND:20250508T010000Z
 COMPETITION:U.S. Open Cup
 DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. New York City F
- C
+ ootball Club
 LOCATION:Highmark Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT

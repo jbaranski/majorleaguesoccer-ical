@@ -115,11 +115,11 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - LA Galaxy 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Portland Timbers
+SUMMARY:LA Galaxy vs. Portland Timbers*
 DTSTART:20250428T010000Z
 DTEND:20250428T030000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Portland Timbers 4
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
