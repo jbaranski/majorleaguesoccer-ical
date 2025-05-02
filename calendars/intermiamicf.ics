@@ -170,12 +170,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - FC Dallas 4
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Vancouver Whitecaps FC
+SUMMARY:Inter Miami CF vs. Vancouver Whitecaps FC*
 DTSTART:20250501T000000Z
 DTEND:20250501T020000Z
 COMPETITION:CONCACAF Champions Cup
-DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Vancouver Whiteca
- ps FC
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 1 - Vancouver Whiteca
+ ps FC 3
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

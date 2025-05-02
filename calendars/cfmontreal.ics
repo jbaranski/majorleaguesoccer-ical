@@ -92,11 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - CF Montreal 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. CF Montreal
+SUMMARY:Toronto FC vs. CF Montreal*
 DTSTART:20250430T230000Z
 DTEND:20250501T010000Z
 COMPETITION:Canadian Championship
-DESCRIPTION:Canadian Championship\n\nToronto FC vs. CF Montreal
+DESCRIPTION:Canadian Championship\n\nToronto FC 2 (penalties: 2) - CF Mont
+ real 2 (penalties: 3)
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
