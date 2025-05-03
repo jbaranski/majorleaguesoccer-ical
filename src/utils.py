@@ -10,7 +10,8 @@ TEAMS_FIX = {
     'CF Montréal': 'CF Montreal',
     'St. Louis CITY SC': 'St. Louis City SC',
     'Minnesota United FC': 'Minnesota United',
-    'San Diego Football Club': 'San Diego FC'
+    'San Diego Football Club': 'San Diego FC',
+    'New York City Football Club': 'New York City FC'
 }
 
 
