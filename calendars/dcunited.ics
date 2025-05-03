@@ -115,12 +115,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. D.C. United
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York City Football Club
+SUMMARY:D.C. United vs. New York City FC
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York City Football
-  Club
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York City FC
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
@@ -244,12 +243,11 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Inter Miami CF
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. D.C. United
+SUMMARY:New York City FC vs. D.C. United
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. D.C. U
- nited
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. D.C. United
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

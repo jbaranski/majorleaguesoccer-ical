@@ -127,12 +127,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York Red Bulls
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. New York Red Bulls
+SUMMARY:New York City FC vs. New York Red Bulls
 DTSTART:20250517T203000Z
 DTEND:20250517T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. New Yo
- rk Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. New York Red Bull
+ s
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -302,12 +302,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York Red Bulls
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New York City Football Club
+SUMMARY:New York Red Bulls vs. New York City FC
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New York City F
- ootball Club
+ C
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

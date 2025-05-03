@@ -125,12 +125,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Sporting Kansas City
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. FC Cincinnati
+SUMMARY:New York City FC vs. FC Cincinnati
 DTSTART:20250504T190000Z
 DTEND:20250504T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. FC Cin
- cinnati
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. FC Cincinnati
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -287,12 +286,11 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Cincinnati
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New York City Football Club
+SUMMARY:FC Cincinnati vs. New York City FC
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New York City Footba
- ll Club
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New York City FC
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

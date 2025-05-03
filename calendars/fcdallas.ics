@@ -203,12 +203,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. St. Louis City SC
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. New York City Football Club
+SUMMARY:FC Dallas vs. New York City FC
 DTSTART:20250726T003000Z
 DTEND:20250726T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. New York City Football C
- lub
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. New York City FC
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

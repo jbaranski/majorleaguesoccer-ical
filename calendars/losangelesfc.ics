@@ -43,12 +43,11 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Colorado Rapids 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC* vs. New York City Football Club
+SUMMARY:Los Angeles FC* vs. New York City FC
 DTSTART:20250302T033000Z
 DTEND:20250302T053000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - New York City Footb
- all Club 0
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - New York City FC 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

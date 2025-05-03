@@ -84,12 +84,11 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Toronto FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. New York City Football Club*
+SUMMARY:Toronto FC vs. New York City FC*
 DTSTART:20250426T183000Z
 DTEND:20250426T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - New York City Football 
- Club 1
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - New York City FC 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
@@ -182,12 +181,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Portland Timbers
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. Toronto FC
+SUMMARY:New York City FC vs. Toronto FC
 DTSTART:20250703T233000Z
 DTEND:20250704T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Toront
- o FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Toronto FC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

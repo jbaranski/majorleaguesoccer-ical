@@ -189,12 +189,11 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Orlando City
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. New York City Football Club
+SUMMARY:Charlotte FC vs. New York City FC
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York City Footbal
- l Club
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York City FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
@@ -287,12 +286,11 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Inter Miami CF
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. Charlotte FC
+SUMMARY:New York City FC vs. Charlotte FC
 DTSTART:20250919T233000Z
 DTEND:20250920T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Charlo
- tte FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Charlotte FC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

@@ -125,12 +125,11 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Chicago Fire FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. Chicago Fire FC
+SUMMARY:New York City FC vs. Chicago Fire FC
 DTSTART:20250525T190000Z
 DTEND:20250525T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Chicag
- o Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Chicago Fire FC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +254,11 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New England Revolu
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. New York City Football Club
+SUMMARY:Chicago Fire FC vs. New York City FC
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York City Foot
- ball Club
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York City FC
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

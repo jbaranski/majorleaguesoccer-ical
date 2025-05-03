@@ -109,12 +109,11 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. CF Montreal
+SUMMARY:New York City FC vs. CF Montreal
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. CF Mon
- treal
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. CF Montreal
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -174,12 +173,11 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. FC Cincinnati
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York City Football Club
+SUMMARY:CF Montreal vs. New York City FC
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York City Football
-  Club
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York City FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

@@ -60,12 +60,11 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Columbus Crew 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew* vs. New York City Football Club*
+SUMMARY:Columbus Crew* vs. New York City FC*
 DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - New York City Footba
- ll Club 0
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - New York City FC 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +254,11 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Club León
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Football Club vs. Columbus Crew
+SUMMARY:New York City FC vs. Columbus Crew
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City Football Club vs. Columb
- us Crew
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Columbus Crew
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

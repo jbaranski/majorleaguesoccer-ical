@@ -229,12 +229,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Seattle Sound
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. New York City Football Club
+SUMMARY:Sporting Kansas City vs. New York City FC
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New York City
-  Football Club
+  FC
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
