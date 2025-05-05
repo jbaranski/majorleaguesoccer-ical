@@ -94,12 +94,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Portland Timbers 4
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Portland Timbers
+SUMMARY:San Jose Earthquakes* vs. Portland Timbers
 DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Portland Timb
- ers
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 4 - Portland Timb
+ ers 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -150,11 +150,11 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - St. Louis City SC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Houston Dynamo FC
+SUMMARY:Los Angeles FC* vs. Houston Dynamo FC
 DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - Houston Dynamo FC 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

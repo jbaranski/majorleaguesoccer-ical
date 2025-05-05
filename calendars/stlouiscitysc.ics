@@ -96,12 +96,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - St. Louis City SC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. St. Louis City SC
+SUMMARY:Seattle Sounders FC* vs. St. Louis City SC
 DTSTART:20250504T023000Z
 DTEND:20250504T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. St. Louis City
-  SC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 4 - St. Louis City
+  SC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

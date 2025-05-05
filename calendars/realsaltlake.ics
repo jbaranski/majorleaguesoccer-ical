@@ -109,12 +109,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Real Salt Lake 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+SUMMARY:Vancouver Whitecaps FC* vs. Real Salt Lake
 DTSTART:20250504T013000Z
 DTEND:20250504T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Real Salt L
- ake
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - Real Salt L
+ ake 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
