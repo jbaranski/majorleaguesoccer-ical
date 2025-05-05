@@ -94,11 +94,11 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Atlanta United 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Nashville SC
+SUMMARY:Atlanta United* vs. Nashville SC*
 DTSTART:20250503T184500Z
 DTEND:20250503T204500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - Nashville SC 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

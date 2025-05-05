@@ -93,11 +93,11 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 7 - Chicago Fire FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Orlando City
+SUMMARY:Chicago Fire FC* vs. Orlando City*
 DTSTART:20250504T003000Z
 DTEND:20250504T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Orlando City 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

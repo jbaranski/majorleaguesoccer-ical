@@ -93,11 +93,11 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 0 - New England Revolutio
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Charlotte FC
+SUMMARY:Columbus Crew* vs. Charlotte FC
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 4 - Charlotte FC 2
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

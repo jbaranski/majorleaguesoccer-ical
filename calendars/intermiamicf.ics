@@ -178,11 +178,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 1 - Vancouver Whiteca
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New York Red Bulls
+SUMMARY:Inter Miami CF* vs. New York Red Bulls
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New York Red Bulls 
+ 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

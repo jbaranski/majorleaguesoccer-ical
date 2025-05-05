@@ -96,11 +96,11 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - D.C. United 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Philadelphia Union
+SUMMARY:CF Montreal vs. Philadelphia Union*
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

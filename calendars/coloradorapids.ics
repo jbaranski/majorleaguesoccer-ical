@@ -112,11 +112,11 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Seattle Sounders F
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Colorado Rapids
+SUMMARY:D.C. United* vs. Colorado Rapids
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Colorado Rapids 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

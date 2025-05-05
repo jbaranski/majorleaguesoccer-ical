@@ -101,11 +101,11 @@ DESCRIPTION:Canadian Championship\n\nToronto FC 2 (penalties: 2) - CF Mont
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Philadelphia Union
+SUMMARY:CF Montreal vs. Philadelphia Union*
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

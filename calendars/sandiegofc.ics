@@ -91,11 +91,11 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Real Salt Lake 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. FC Dallas
+SUMMARY:San Diego FC* vs. FC Dallas
 DTSTART:20250504T011500Z
 DTEND:20250504T031500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - FC Dallas 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

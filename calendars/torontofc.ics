@@ -101,11 +101,12 @@ DESCRIPTION:Canadian Championship\n\nToronto FC 2 (penalties: 2) - CF Mont
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. New England Revolution
+SUMMARY:Toronto FC vs. New England Revolution*
 DTSTART:20250503T203000Z
 DTEND:20250503T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New England Revolution
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - New England Revolution 
+ 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
