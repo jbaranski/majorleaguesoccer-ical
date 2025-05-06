@@ -221,6 +221,14 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cruz Azul vs. Vancouver Whitecaps FC
+DTSTART:20250602T010000Z
+DTEND:20250602T030000Z
+COMPETITION:CONCACAF Champions Cup
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Vancouver Whitecaps FC
+LOCATION:Estadio Olímpico Universitario\, Mexico City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
 DTSTART:20250609T010000Z
 DTEND:20250609T030000Z

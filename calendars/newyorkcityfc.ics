@@ -95,11 +95,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - New York City FC 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. FC Cincinnati
+SUMMARY:New York City FC* vs. FC Cincinnati
 DTSTART:20250504T190000Z
 DTEND:20250504T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - FC Cincinnati 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

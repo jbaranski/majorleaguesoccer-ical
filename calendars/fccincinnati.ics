@@ -125,11 +125,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Sporting Kansas City
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. FC Cincinnati
+SUMMARY:New York City FC* vs. FC Cincinnati
 DTSTART:20250504T190000Z
 DTEND:20250504T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - FC Cincinnati 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

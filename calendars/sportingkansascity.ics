@@ -125,11 +125,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Sporting Kansas City
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. LA Galaxy
+SUMMARY:Sporting Kansas City* vs. LA Galaxy
 DTSTART:20250504T230000Z
 DTEND:20250505T010000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - LA Galaxy 0
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
