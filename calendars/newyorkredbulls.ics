@@ -103,12 +103,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New York Red Bulls
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Springs Switchbacks vs. New York Red Bulls
+SUMMARY:Colorado Springs Switchbacks vs. New York Red Bulls*
 DTSTART:20250507T013000Z
 DTEND:20250507T033000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks vs. New York Red
-  Bulls
+DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks 1 - New York Red
+  Bulls 4
 LOCATION:Weidner Field\, Colorado Springs\, CO
 END:VEVENT
 BEGIN:VEVENT
