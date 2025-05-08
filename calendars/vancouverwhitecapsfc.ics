@@ -212,15 +212,6 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Minnesota U
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
-DTSTART:20250601T013000Z
-DTEND:20250601T033000Z
-COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
- mbers
-LOCATION:BC Place\, Vancouver\, BC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cruz Azul vs. Vancouver Whitecaps FC
 DTSTART:20250602T010000Z
 DTEND:20250602T030000Z
@@ -361,6 +352,15 @@ COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Vancouver Whi
  tecaps FC
 LOCATION:Children's Mercy Park\, Kansas City\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
+DTSTART:20250925T023000Z
+DTEND:20250925T043000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
+ mbers
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC

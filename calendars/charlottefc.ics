@@ -101,11 +101,11 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 4 - Charlotte FC 2
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:North Carolina FC vs. Charlotte FC
+SUMMARY:North Carolina FC vs. Charlotte FC*
 DTSTART:20250506T230000Z
 DTEND:20250507T010000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nNorth Carolina FC vs. Charlotte FC
+DESCRIPTION:U.S. Open Cup\n\nNorth Carolina FC 1 - Charlotte FC 4
 LOCATION:WakeMed Soccer Park\, Cary\, NC
 END:VEVENT
 BEGIN:VEVENT

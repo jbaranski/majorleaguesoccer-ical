@@ -153,15 +153,6 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Colorado Rapids
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
-DTSTART:20250601T013000Z
-DTEND:20250601T033000Z
-COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
- mbers
-LOCATION:BC Place\, Vancouver\, BC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. St. Louis City SC
 DTSTART:20250608T230000Z
 DTEND:20250609T010000Z
@@ -299,6 +290,15 @@ DTEND:20250921T023000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Portland Timbers
 LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
+DTSTART:20250925T023000Z
+DTEND:20250925T043000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
+ mbers
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. FC Dallas
