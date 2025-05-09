@@ -107,11 +107,11 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Minnesota United 3
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. El Paso Locomotive
+SUMMARY:Austin FC* vs. El Paso Locomotive
 DTSTART:20250508T003000Z
 DTEND:20250508T023000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nAustin FC vs. El Paso Locomotive
+DESCRIPTION:U.S. Open Cup\n\nAustin FC 3 - El Paso Locomotive 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

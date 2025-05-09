@@ -105,11 +105,11 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 4 - St. Louis City
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Union Omaha
+SUMMARY:St. Louis City SC* vs. Union Omaha
 DTSTART:20250508T000000Z
 DTEND:20250508T020000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Union Omaha
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC 2 - Union Omaha 0
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

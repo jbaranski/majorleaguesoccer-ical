@@ -104,11 +104,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Indy Eleven
+SUMMARY:Philadelphia Union* vs. Indy Eleven
 DTSTART:20250507T233000Z
 DTEND:20250508T013000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union vs. Indy Eleven
+DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union 1 (penalties: 5) - Indy El
+ even 1 (penalties: 4)
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
