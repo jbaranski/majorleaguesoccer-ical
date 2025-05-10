@@ -123,6 +123,14 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Houston Dynamo FC
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. FC Dallas
+DTSTART:20250521T233000Z
+DTEND:20250522T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls vs. FC Dallas
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. FC Dallas
 DTSTART:20250524T190000Z
 DTEND:20250524T210000Z

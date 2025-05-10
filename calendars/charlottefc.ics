@@ -133,6 +133,14 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Chicago Fire FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D.C. United vs. Charlotte FC
+DTSTART:20250521T233000Z
+DTEND:20250522T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nD.C. United vs. Charlotte FC
+LOCATION:Audi Field\, Washington D.C.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Columbus Crew
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z

@@ -137,6 +137,15 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. Pittsburgh Riverhounds SC
+DTSTART:20250521T233000Z
+DTEND:20250522T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union vs. Pittsburgh Riverhounds
+  SC
+LOCATION:Subaru Park\, Chester\, PA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Inter Miami CF
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z

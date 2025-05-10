@@ -149,6 +149,14 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Orlando City
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Orlando City vs. Nashville SC
+DTSTART:20250521T233000Z
+DTEND:20250522T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nOrlando City vs. Nashville SC
+LOCATION:Inter&Co Stadium\, Orlando\, FL
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando City vs. Portland Timbers
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z

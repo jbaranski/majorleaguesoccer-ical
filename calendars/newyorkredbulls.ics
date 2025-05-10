@@ -137,6 +137,14 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. New York Red Bull
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York Red Bulls vs. FC Dallas
+DTSTART:20250521T233000Z
+DTEND:20250522T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls vs. FC Dallas
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D.C. United vs. New York Red Bulls
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z

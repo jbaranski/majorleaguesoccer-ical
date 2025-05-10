@@ -127,6 +127,14 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. San Jose Ea
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Chicago Fire FC
+DTSTART:20250520T233000Z
+DTEND:20250521T013000Z
+COMPETITION:U.S. Open Cup
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Chicago Fire FC
+LOCATION:Chapey Field at Anderson Stadium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. New England Revolution
 DTSTART:20250525T003000Z
 DTEND:20250525T023000Z
