@@ -119,12 +119,12 @@ DESCRIPTION:U.S. Open Cup\n\nPhoenix Rising FC 1 - Houston Dynamo FC 4
 LOCATION:Phoenix Rising Stadium\, Phoenix\, AZ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Seattle Sounders FC
+SUMMARY:Houston Dynamo FC vs. Seattle Sounders FC*
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Seattle Sounders
-  FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Seattle Sounders
+  FC 3
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

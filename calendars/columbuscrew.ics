@@ -117,11 +117,11 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 4 - Charlotte FC 2
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Columbus Crew
+SUMMARY:Philadelphia Union* vs. Columbus Crew*
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Columbus Crew 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

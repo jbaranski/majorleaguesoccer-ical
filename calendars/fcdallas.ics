@@ -107,11 +107,11 @@ DESCRIPTION:U.S. Open Cup\n\nFC Dallas 3 - AV ALTA FC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Real Salt Lake
+SUMMARY:FC Dallas* vs. Real Salt Lake*
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Real Salt Lake 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

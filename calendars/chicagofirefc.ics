@@ -109,11 +109,11 @@ DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC 4 - Detroit City FC 0
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Atlanta United
+SUMMARY:Chicago Fire FC* vs. Atlanta United
 DTSTART:20250510T183000Z
 DTEND:20250510T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Atlanta United 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

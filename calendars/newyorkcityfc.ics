@@ -112,11 +112,11 @@ DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC 1 - New York City F
 LOCATION:Highmark Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. CF Montreal
+SUMMARY:New York City FC vs. CF Montreal*
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - CF Montreal 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

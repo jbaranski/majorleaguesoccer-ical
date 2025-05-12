@@ -113,11 +113,11 @@ DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union 1 (penalties: 5) - Indy El
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Columbus Crew
+SUMMARY:Philadelphia Union* vs. Columbus Crew*
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Columbus Crew 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

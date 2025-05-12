@@ -133,11 +133,11 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - FC Cincinnati 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Austin FC
+SUMMARY:FC Cincinnati* vs. Austin FC
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Austin FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

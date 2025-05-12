@@ -109,11 +109,11 @@ DESCRIPTION:U.S. Open Cup\n\nNorth Carolina FC 1 - Charlotte FC 4
 LOCATION:WakeMed Soccer Park\, Cary\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Charlotte FC
+SUMMARY:Nashville SC* vs. Charlotte FC
 DTSTART:20250511T003000Z
 DTEND:20250511T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Charlotte FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

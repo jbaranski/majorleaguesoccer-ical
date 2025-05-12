@@ -109,12 +109,12 @@ DESCRIPTION:U.S. Open Cup\n\nRhode Island FC 1 - New England Revolution 2
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New England Revolution
+SUMMARY:Orlando City* vs. New England Revolution*
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
- n
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - New England Revolutio
+ n 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

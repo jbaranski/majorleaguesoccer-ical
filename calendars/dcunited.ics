@@ -107,11 +107,11 @@ DESCRIPTION:U.S. Open Cup\n\nD.C. United 2 - Charleston Battery 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. D.C. United
+SUMMARY:Toronto FC* vs. D.C. United
 DTSTART:20250510T203000Z
 DTEND:20250510T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - D.C. United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
