@@ -133,12 +133,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - LA Galaxy 0
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Sporting Kansas City
+SUMMARY:Portland Timbers* vs. Sporting Kansas City
 DTSTART:20250511T023000Z
 DTEND:20250511T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Sporting Kansas C
- ity
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Sporting Kansas C
+ ity 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

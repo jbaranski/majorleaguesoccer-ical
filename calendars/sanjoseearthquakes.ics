@@ -118,12 +118,12 @@ DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 2 - Sacramento Republic
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+SUMMARY:Colorado Rapids vs. San Jose Earthquakes*
 DTSTART:20250511T013000Z
 DTEND:20250511T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. San Jose Earthquak
- es
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - San Jose Earthquak
+ es 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
