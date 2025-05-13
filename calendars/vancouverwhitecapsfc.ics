@@ -177,12 +177,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - Real Salt L
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Los Angeles FC
+SUMMARY:Vancouver Whitecaps FC* vs. Los Angeles FC*
 DTSTART:20250511T230000Z
 DTEND:20250512T010000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Los Angeles
-  FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - Los Angeles
+  FC 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
