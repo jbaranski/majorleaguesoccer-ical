@@ -200,11 +200,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Seattle Sou
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botafogo vs. Seattle Sounders FC
+SUMMARY:Botafogo de Futebol e Regatas vs. Seattle Sounders FC
 DTSTART:20250616T020000Z
 DTEND:20250616T040000Z
 COMPETITION:FIFA Club World Cup
-DESCRIPTION:FIFA Club World Cup\n\nBotafogo vs. Seattle Sounders FC
+DESCRIPTION:FIFA Club World Cup\n\nBotafogo de Futebol e Regatas vs. Seatt
+ le Sounders FC
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -217,12 +218,12 @@ DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Atlético de Ma
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Paris Saint-Germain
+SUMMARY:Seattle Sounders FC vs. Paris Saint-Germain Football Club
 DTSTART:20250623T190000Z
 DTEND:20250623T210000Z
 COMPETITION:FIFA Club World Cup
 DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Paris Saint-Ger
- main
+ main Football Club
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -252,8 +253,8 @@ LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Colorado Rapids
-DTSTART:20250717T013000Z
-DTEND:20250717T033000Z
+DTSTART:20250717T020000Z
+DTEND:20250717T040000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Colorado Rapid
  s

@@ -244,11 +244,12 @@ DESCRIPTION:FIFA Club World Cup\n\nAl Ahly FC vs. Inter Miami CF
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. FC Porto
+SUMMARY:Inter Miami CF vs. Futebol Clube do Porto
 DTSTART:20250619T190000Z
 DTEND:20250619T210000Z
 COMPETITION:FIFA Club World Cup
-DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF vs. FC Porto
+DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF vs. Futebol Clube do Por
+ to
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
