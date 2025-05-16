@@ -127,12 +127,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - San Jose Earthquak
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Inter Miami CF
+SUMMARY:San Jose Earthquakes* vs. Inter Miami CF*
 DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Inter Miami C
- F
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Inter Miami C
+ F 3
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

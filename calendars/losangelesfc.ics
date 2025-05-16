@@ -167,11 +167,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - Los Angeles
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Seattle Sounders FC
+SUMMARY:Los Angeles FC* vs. Seattle Sounders FC
 DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 4 - Seattle Sounders FC
+  0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

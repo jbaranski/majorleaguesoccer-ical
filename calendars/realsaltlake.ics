@@ -126,11 +126,11 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Real Salt Lake 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Portland Timbers
+SUMMARY:Real Salt Lake* vs. Portland Timbers*
 DTSTART:20250515T013000Z
 DTEND:20250515T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Portland Timbers 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

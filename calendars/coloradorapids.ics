@@ -129,11 +129,11 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - San Jose Earthquak
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Colorado Rapids
+SUMMARY:San Diego FC* vs. Colorado Rapids
 DTSTART:20250515T023000Z
 DTEND:20250515T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Colorado Rapids 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
