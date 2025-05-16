@@ -110,11 +110,11 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Atlanta United 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Atlanta United
+SUMMARY:Austin FC* vs. Atlanta United*
 DTSTART:20250515T010000Z
 DTEND:20250515T030000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Atlanta United 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -121,12 +121,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - San Diego FC 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Sporting Kansas City
+SUMMARY:St. Louis City SC* vs. Sporting Kansas City*
 DTSTART:20250515T004500Z
 DTEND:20250515T024500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Sporting Kansas 
- City
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Sporting Kansas 
+ City 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

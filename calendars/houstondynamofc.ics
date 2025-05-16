@@ -128,11 +128,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Seattle Sounders
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Minnesota United
+SUMMARY:Houston Dynamo FC* vs. Minnesota United
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Minnesota United
+  0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

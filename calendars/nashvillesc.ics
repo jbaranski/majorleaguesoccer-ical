@@ -124,11 +124,11 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Charlotte FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New York Red Bulls
+SUMMARY:Nashville SC* vs. New York Red Bulls
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York Red Bulls 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

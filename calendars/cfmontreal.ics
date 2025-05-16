@@ -117,11 +117,11 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - CF Montreal 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Columbus Crew
+SUMMARY:CF Montreal* vs. Columbus Crew*
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Columbus Crew 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

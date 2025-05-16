@@ -118,11 +118,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - D.C. United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. FC Cincinnati
+SUMMARY:Toronto FC vs. FC Cincinnati*
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - FC Cincinnati 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

@@ -115,11 +115,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - D.C. United 0
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York City FC
+SUMMARY:D.C. United* vs. New York City FC*
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York City FC 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

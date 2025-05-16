@@ -139,11 +139,11 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 7 - LA Galaxy 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. LA Galaxy
+SUMMARY:Philadelphia Union* vs. LA Galaxy
 DTSTART:20250514T233000Z
 DTEND:20250515T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - LA Galaxy 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
