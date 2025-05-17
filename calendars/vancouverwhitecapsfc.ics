@@ -194,6 +194,14 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Vancouver Whitecaps FC
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Valour FC vs. Vancouver Whitecaps FC
+DTSTART:20250521T003000Z
+DTEND:20250521T023000Z
+COMPETITION:Canadian Championship
+DESCRIPTION:Canadian Championship\n\nValour FC vs. Vancouver Whitecaps FC
+LOCATION:Princess Auto Stadium\, Winnipeg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC
 DTSTART:20250525T013000Z
 DTEND:20250525T033000Z
@@ -262,6 +270,14 @@ DTEND:20250705T043000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
 LOCATION:Dignity Health Sports Park\, Carson\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vancouver Whitecaps FC vs. Valour FC
+DTSTART:20250710T020000Z
+DTEND:20250710T040000Z
+COMPETITION:Canadian Championship
+DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC vs. Valour FC
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC

@@ -161,14 +161,6 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Colorado Rapids
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Colorado Rapids
-DTSTART:20250601T023000Z
-DTEND:20250601T043000Z
-COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Austin FC
 DTSTART:20250608T013000Z
 DTEND:20250608T033000Z
@@ -209,6 +201,14 @@ COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Sporting Kansas Ci
  ty
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Colorado Rapids
+DTSTART:20250710T023000Z
+DTEND:20250710T043000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC

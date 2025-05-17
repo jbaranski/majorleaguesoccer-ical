@@ -192,20 +192,20 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Los Angeles FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Sporting Kansas City
-DTSTART:20250529T023000Z
-DTEND:20250529T043000Z
-COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
- y
+SUMMARY:Los Angeles FC vs. Club América
+DTSTART:20250601T023000Z
+DTEND:20250601T043000Z
+COMPETITION:FIFA Club World Cup
+DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Club América
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Colorado Rapids
-DTSTART:20250601T023000Z
-DTEND:20250601T043000Z
+SUMMARY:Los Angeles FC vs. Sporting Kansas City
+DTSTART:20250609T010000Z
+DTEND:20250609T030000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
+ y
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -240,6 +240,14 @@ DTEND:20250706T023000Z
 COMPETITION:MLS - Regular Season
 DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Los Angeles FC
 LOCATION:Q2 Stadium\, Austin\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Colorado Rapids
+DTSTART:20250710T023000Z
+DTEND:20250710T043000Z
+COMPETITION:MLS - Regular Season
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. FC Dallas
