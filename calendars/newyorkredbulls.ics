@@ -128,12 +128,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York Red Bulls 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. New York Red Bulls
+SUMMARY:New York City FC* vs. New York Red Bulls
 DTSTART:20250517T203000Z
 DTEND:20250517T223000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. New York Red Bull
- s
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - New York Red Bull
+ s 0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

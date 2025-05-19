@@ -149,11 +149,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - FC Cincinnati 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. FC Cincinnati
+SUMMARY:Columbus Crew* vs. FC Cincinnati*
 DTSTART:20250517T231500Z
 DTEND:20250518T011500Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - FC Cincinnati 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

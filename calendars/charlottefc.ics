@@ -125,11 +125,11 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Charlotte FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Chicago Fire FC
+SUMMARY:Charlotte FC vs. Chicago Fire FC*
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - Chicago Fire FC 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

@@ -118,11 +118,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Atlanta United 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Philadelphia Union
+SUMMARY:Atlanta United vs. Philadelphia Union*
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Philadelphia Union 
+ 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

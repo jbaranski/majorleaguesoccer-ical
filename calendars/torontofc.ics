@@ -126,11 +126,11 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 0 - FC Cincinnati 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Toronto FC
+SUMMARY:CF Montreal vs. Toronto FC*
 DTSTART:20250517T183000Z
 DTEND:20250517T203000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Toronto FC 6
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

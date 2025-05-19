@@ -131,11 +131,11 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Atlanta United 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Vancouver Whitecaps FC
+SUMMARY:Austin FC* vs. Vancouver Whitecaps FC*
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Vancouver Whitecaps FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

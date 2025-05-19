@@ -117,11 +117,11 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Atlanta United 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Chicago Fire FC
+SUMMARY:Charlotte FC vs. Chicago Fire FC*
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - Chicago Fire FC 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

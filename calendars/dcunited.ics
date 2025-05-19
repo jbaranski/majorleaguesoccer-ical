@@ -123,11 +123,11 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York City FC 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. D.C. United
+SUMMARY:Nashville SC* vs. D.C. United*
 DTSTART:20250518T003000Z
 DTEND:20250518T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - D.C. United 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

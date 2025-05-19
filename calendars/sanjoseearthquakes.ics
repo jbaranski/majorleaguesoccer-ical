@@ -136,12 +136,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Inter Miami C
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. San Jose Earthquakes
+SUMMARY:New England Revolution* vs. San Jose Earthquakes*
 DTSTART:20250517T233000Z
 DTEND:20250518T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. San Jose Ea
- rthquakes
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - San Jose Ea
+ rthquakes 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
