@@ -128,12 +128,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Portland Timbers 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Seattle Sounders FC
+SUMMARY:Portland Timbers* vs. Seattle Sounders FC*
 DTSTART:20250518T013000Z
 DTEND:20250518T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Seattle Sounders 
+ FC 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
