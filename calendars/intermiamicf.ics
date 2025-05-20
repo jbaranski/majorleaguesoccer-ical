@@ -204,11 +204,11 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Inter Miami C
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Orlando City
+SUMMARY:Inter Miami CF vs. Orlando City*
 DTSTART:20250518T230000Z
 DTEND:20250519T010000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - Orlando City 3
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

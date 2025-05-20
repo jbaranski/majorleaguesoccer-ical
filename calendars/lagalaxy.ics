@@ -147,11 +147,11 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - LA Galaxy 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Los Angeles FC
+SUMMARY:LA Galaxy* vs. Los Angeles FC*
 DTSTART:20250519T010000Z
 DTEND:20250519T030000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Los Angeles FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
