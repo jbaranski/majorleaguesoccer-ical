@@ -133,11 +133,11 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Toronto FC 6
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forge FC vs. CF Montreal
+SUMMARY:Forge FC* vs. CF Montreal
 DTSTART:20250520T230000Z
 DTEND:20250521T010000Z
 COMPETITION:Canadian Championship
-DESCRIPTION:Canadian Championship\n\nForge FC vs. CF Montreal
+DESCRIPTION:Canadian Championship\n\nForge FC 1 - CF Montreal 0
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT

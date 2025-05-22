@@ -194,11 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Vancouver Whitecaps FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valour FC vs. Vancouver Whitecaps FC
+SUMMARY:Valour FC* vs. Vancouver Whitecaps FC*
 DTSTART:20250521T003000Z
 DTEND:20250521T023000Z
 COMPETITION:Canadian Championship
-DESCRIPTION:Canadian Championship\n\nValour FC vs. Vancouver Whitecaps FC
+DESCRIPTION:Canadian Championship\n\nValour FC 2 - Vancouver Whitecaps FC 
+ 2
 LOCATION:Princess Auto Stadium\, Winnipeg
 END:VEVENT
 BEGIN:VEVENT
