@@ -149,11 +149,11 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - Orlando City 3
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Nashville SC
+SUMMARY:Orlando City vs. Nashville SC*
 DTSTART:20250521T233000Z
 DTEND:20250522T013000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nOrlando City vs. Nashville SC
+DESCRIPTION:U.S. Open Cup\n\nOrlando City 2 - Nashville SC 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

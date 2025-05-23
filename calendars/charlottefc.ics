@@ -133,11 +133,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - Chicago Fire FC 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Charlotte FC
+SUMMARY:D.C. United* vs. Charlotte FC
 DTSTART:20250521T233000Z
 DTEND:20250522T013000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nD.C. United vs. Charlotte FC
+DESCRIPTION:U.S. Open Cup\n\nD.C. United 3 (penalties: 2) - Charlotte FC 3
+  (penalties: 1)
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

@@ -139,11 +139,11 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - St. Louis City SC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. St. Louis City SC
+SUMMARY:Minnesota United* vs. St. Louis City SC
 DTSTART:20250521T233000Z
 DTEND:20250522T013000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nMinnesota United vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nMinnesota United 3 - St. Louis City SC 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

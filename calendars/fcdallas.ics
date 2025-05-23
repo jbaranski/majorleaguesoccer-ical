@@ -123,11 +123,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Houston Dynamo FC 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. FC Dallas
+SUMMARY:New York Red Bulls* vs. FC Dallas
 DTSTART:20250521T233000Z
 DTEND:20250522T013000Z
 COMPETITION:U.S. Open Cup
-DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls vs. FC Dallas
+DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls 2 (penalties: 4) - FC Dall
+ as 2 (penalties: 3)
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
