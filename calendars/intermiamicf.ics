@@ -212,11 +212,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - Orlando City 3
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Inter Miami CF
+SUMMARY:Philadelphia Union* vs. Inter Miami CF*
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Inter Miami CF 
+ 3
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

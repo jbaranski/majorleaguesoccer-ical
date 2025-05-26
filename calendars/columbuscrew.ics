@@ -141,11 +141,11 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - FC Cincinnati 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Columbus Crew
+SUMMARY:Charlotte FC* vs. Columbus Crew
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Columbus Crew 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

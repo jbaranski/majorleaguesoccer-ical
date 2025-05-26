@@ -134,11 +134,11 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Toronto FC 6
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Nashville SC
+SUMMARY:Toronto FC vs. Nashville SC*
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Nashville SC 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

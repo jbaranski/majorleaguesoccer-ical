@@ -142,11 +142,11 @@ DESCRIPTION:U.S. Open Cup\n\nD.C. United 3 (penalties: 2) - Charlotte FC 3
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Columbus Crew
+SUMMARY:Charlotte FC* vs. Columbus Crew
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Columbus Crew 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

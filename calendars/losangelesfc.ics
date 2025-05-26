@@ -184,11 +184,11 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Los Angeles FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Los Angeles FC
+SUMMARY:CF Montreal* vs. Los Angeles FC*
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Los Angeles FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

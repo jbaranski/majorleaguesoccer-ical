@@ -157,11 +157,11 @@ DESCRIPTION:U.S. Open Cup\n\nOrlando City 2 - Nashville SC 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Portland Timbers
+SUMMARY:Orlando City* vs. Portland Timbers
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Portland Timbers 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

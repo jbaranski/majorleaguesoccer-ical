@@ -160,12 +160,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Sporting Kansas City
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. New England Revolution
+SUMMARY:Sporting Kansas City* vs. New England Revolution*
 DTSTART:20250525T003000Z
 DTEND:20250525T023000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New England R
- evolution
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - New England R
+ evolution 3
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

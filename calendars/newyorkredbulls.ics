@@ -146,11 +146,11 @@ DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls 2 (penalties: 4) - FC Dall
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York Red Bulls
+SUMMARY:D.C. United vs. New York Red Bulls*
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York Red Bulls 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

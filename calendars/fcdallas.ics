@@ -132,11 +132,11 @@ DESCRIPTION:U.S. Open Cup\n\nNew York Red Bulls 2 (penalties: 4) - FC Dall
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. FC Dallas
+SUMMARY:Seattle Sounders FC* vs. FC Dallas
 DTSTART:20250524T190000Z
 DTEND:20250524T210000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - FC Dallas 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
