@@ -147,11 +147,12 @@ DESCRIPTION:U.S. Open Cup\n\nMinnesota United 3 - St. Louis City SC 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. St. Louis City SC
+SUMMARY:Colorado Rapids* vs. St. Louis City SC
 DTSTART:20250525T013000Z
 DTEND:20250525T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - St. Louis City SC 
+ 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

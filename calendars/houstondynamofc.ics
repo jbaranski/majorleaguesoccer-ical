@@ -153,12 +153,12 @@ DESCRIPTION:U.S. Open Cup\n\nAustin FC 3 - Houston Dynamo FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Houston Dynamo FC
+SUMMARY:San Jose Earthquakes* vs. Houston Dynamo FC*
 DTSTART:20250525T023000Z
 DTEND:20250525T043000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Houston Dynam
- o FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Houston Dynam
+ o FC 3
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -203,12 +203,12 @@ DESCRIPTION:Canadian Championship\n\nValour FC 2 - Vancouver Whitecaps FC
 LOCATION:Princess Auto Stadium\, Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC*
 DTSTART:20250525T013000Z
 DTEND:20250525T033000Z
 COMPETITION:MLS - Regular Season
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Vancouver Whitecaps
-  FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Vancouver Whitecaps
+  FC 3
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
