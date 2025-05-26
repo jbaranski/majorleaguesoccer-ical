@@ -7,6 +7,7 @@ from src.utils import get_datetime_from_str, get_competition_txt, get_correct_te
 
 @dataclass(frozen=True)
 class FootballCalendarEvent:
+    match_id: str
     summary: str
     location: str
     start_date: datetime
@@ -53,6 +54,7 @@ class FootballCalendarEvent:
         venue = get_correct_venue_name(fixture.get('stadium_name'), fixture.get('stadium_city'))
         description = f'{competition}\n\n{result}' if result else f'{competition}\n\n{summary}'
         return FootballCalendarEvent(
+            match_id=fixture['match_id'],  # NOTE: want KeyError to be thrown if this doesn't exist
             summary=summary,
             location=venue,
             start_date=start_date,
@@ -62,14 +64,19 @@ class FootballCalendarEvent:
         )
 
     def to_event(self) -> Event:
+        # https://icalendar.org/iCalendar-RFC-5545/3-6-1-event-component.html
         event = Event()
-        event.add('summary', self.summary)
-        if self.location:
-            event.add('location', self.location)
+        # Part of spec
+        event.add('uid', self.match_id)
+        event.add('dtstamp', self.start_date)
         event.add('dtstart', self.start_date)
         event.add('dtend', self.end_date)
-        event.add('competition', self.competition)
+        event.add('summary', self.summary)
         event.add('description', self.description)
+        if self.location:
+            event.add('location', self.location)
+        # Custom fields example (if want to add in future)
+        # event.add('x-jeffsoftware-competition', self.competition)
         return event
 
 
@@ -80,12 +87,10 @@ class FootballCalendar:
     events: List[FootballCalendarEvent]
     cal: Calendar | None = field(init=False)
     cal_bytes: bytes | None = field(init=False)
-    cal_sha256_str: str | None = field(init=False)
 
     def __post_init__(self):
         self.cal = None
         self.cal_bytes = None
-        self.cal_sha256_str = None
 
     @staticmethod
     def to_football_calendar(team_name: str, season: int, events: List[FootballCalendarEvent]):
