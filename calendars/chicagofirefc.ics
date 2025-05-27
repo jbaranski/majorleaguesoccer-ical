@@ -148,12 +148,12 @@ DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 1 - Chicago Fire FC 3
 LOCATION:Chapey Field at Anderson Stadium\, Providence\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Chicago Fire FC
+SUMMARY:New York City FC* vs. Chicago Fire FC
 DTSTART:20250525T190000Z
 DTEND:20250525T210000Z
 DTSTAMP:20250525T190000Z
 UID:MLS-MAT-0005ZN
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Chicago Fire FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

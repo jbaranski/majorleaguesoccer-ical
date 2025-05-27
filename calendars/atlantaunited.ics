@@ -141,12 +141,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Philadelphia Union
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. FC Cincinnati
+SUMMARY:Atlanta United* vs. FC Cincinnati
 DTSTART:20250525T230000Z
 DTEND:20250526T010000Z
 DTSTAMP:20250525T230000Z
 UID:MLS-MAT-0005ZO
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 4 - FC Cincinnati 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

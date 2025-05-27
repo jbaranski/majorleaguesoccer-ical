@@ -152,12 +152,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - New York Red Bull
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Chicago Fire FC
+SUMMARY:New York City FC* vs. Chicago Fire FC
 DTSTART:20250525T190000Z
 DTEND:20250525T210000Z
 DTSTAMP:20250525T190000Z
 UID:MLS-MAT-0005ZN
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Chicago Fire FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
