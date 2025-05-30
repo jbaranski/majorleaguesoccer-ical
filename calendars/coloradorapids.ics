@@ -171,12 +171,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - St. Louis City SC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Colorado Rapids
+SUMMARY:Portland Timbers* vs. Colorado Rapids
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
 DTSTAMP:20250529T023000Z
 UID:MLS-MAT-000601
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Colorado Rapids 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

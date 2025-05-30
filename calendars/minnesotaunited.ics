@@ -170,13 +170,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Austin FC 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
+SUMMARY:Vancouver Whitecaps FC* vs. Minnesota United*
 DTSTART:20250529T023000Z
 DTEND:20250529T043000Z
 DTSTAMP:20250529T023000Z
 UID:MLS-MAT-000602
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Minnesota U
- nited
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 0 - Minnesota U
+ nited 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
