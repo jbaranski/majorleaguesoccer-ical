@@ -184,12 +184,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 4 - FC Cincinnati 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. FC Dallas
+SUMMARY:FC Cincinnati* vs. FC Dallas*
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZQ
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - FC Dallas 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

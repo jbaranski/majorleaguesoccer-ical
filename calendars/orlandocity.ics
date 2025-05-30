@@ -184,12 +184,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Portland Timbers 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Orlando City
+SUMMARY:Atlanta United* vs. Orlando City
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZP
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Orlando City 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

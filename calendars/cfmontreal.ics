@@ -166,12 +166,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Los Angeles FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. CF Montreal
+SUMMARY:Inter Miami CF* vs. CF Montreal
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZS
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - CF Montreal 2
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

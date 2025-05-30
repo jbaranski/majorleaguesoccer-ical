@@ -158,12 +158,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Nashville SC 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Philadelphia Union
+SUMMARY:Toronto FC vs. Philadelphia Union*
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZV
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Philadelphia Union 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

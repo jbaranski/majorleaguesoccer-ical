@@ -161,12 +161,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Chicago Fire FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Houston Dynamo FC
+SUMMARY:New York City FC vs. Houston Dynamo FC*
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZT
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Houston Dynamo FC
+  3
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

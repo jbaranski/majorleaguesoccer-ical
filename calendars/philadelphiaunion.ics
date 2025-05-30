@@ -173,12 +173,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Inter Miami CF
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Philadelphia Union
+SUMMARY:Toronto FC vs. Philadelphia Union*
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZV
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Philadelphia Union 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
@@ -234,6 +234,15 @@ DTSTAMP:20250706T003000Z
 UID:MLS-MAT-00061Z
 DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
 LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. New York Red Bulls
+DTSTART:20250709T230000Z
+DTEND:20250710T010000Z
+DTSTAMP:20250709T230000Z
+UID:MLS-MAT-000939
+DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union vs. New York Red Bulls
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New York Red Bulls

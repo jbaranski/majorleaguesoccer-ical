@@ -168,12 +168,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Vancouver Whitecaps
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Real Salt Lake
+SUMMARY:Austin FC* vs. Real Salt Lake*
 DTSTART:20250529T003000Z
 DTEND:20250529T023000Z
 DTSTAMP:20250529T003000Z
 UID:MLS-MAT-0005ZX
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

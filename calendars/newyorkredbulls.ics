@@ -171,12 +171,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York Red Bulls 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Charlotte FC
+SUMMARY:New York Red Bulls* vs. Charlotte FC
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZU
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 4 - Charlotte FC 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -225,6 +225,15 @@ UID:MLS-MAT-000623
 DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. New York Red 
  Bulls
 LOCATION:PayPal Park\, San Jose\, CA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. New York Red Bulls
+DTSTART:20250709T230000Z
+DTEND:20250710T010000Z
+DTSTAMP:20250709T230000Z
+UID:MLS-MAT-000939
+DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union vs. New York Red Bulls
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New York Red Bulls

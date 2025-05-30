@@ -165,12 +165,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York Red Bulls 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New England Revolution
+SUMMARY:D.C. United* vs. New England Revolution*
 DTSTART:20250528T233000Z
 DTEND:20250529T013000Z
 DTSTAMP:20250528T233000Z
 UID:MLS-MAT-0005ZR
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New England Revolution
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - New England Revolution
+  1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
@@ -217,6 +218,15 @@ DTSTAMP:20250705T233000Z
 UID:MLS-MAT-00061W
 DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Atlanta United
 LOCATION:Audi Field\, Washington D.C.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville SC vs. D.C. United
+DTSTART:20250710T010000Z
+DTEND:20250710T030000Z
+DTSTAMP:20250710T010000Z
+UID:MLS-MAT-00093C
+DESCRIPTION:U.S. Open Cup\n\nNashville SC vs. D.C. United
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. D.C. United
