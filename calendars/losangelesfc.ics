@@ -214,12 +214,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Los Angeles FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club América
+SUMMARY:Los Angeles FC* vs. Club América
 DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
 DTSTAMP:20250601T023000Z
 UID:MLS-MAT-00092H
-DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Club América
+DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 2 - Club América 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -177,12 +177,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Real Salt Lake
+SUMMARY:LA Galaxy* vs. Real Salt Lake
 DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
 DTSTAMP:20250601T023000Z
 UID:MLS-MAT-00060D
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Real Salt Lake 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -182,12 +182,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Austin FC
+SUMMARY:San Diego FC* vs. Austin FC
 DTSTART:20250601T023000Z
 DTEND:20250601T043000Z
 DTSTAMP:20250601T023000Z
 UID:MLS-MAT-00060F
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
