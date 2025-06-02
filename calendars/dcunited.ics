@@ -175,12 +175,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - New England Revolution
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. D.C. United
+SUMMARY:FC Cincinnati vs. D.C. United*
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 DTSTAMP:20250531T233000Z
 UID:MLS-MAT-000605
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - D.C. United 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

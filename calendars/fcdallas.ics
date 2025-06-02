@@ -165,12 +165,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - FC Dallas 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Philadelphia Union
+SUMMARY:FC Dallas* vs. Philadelphia Union*
 DTSTART:20250601T003000Z
 DTEND:20250601T023000Z
 DTSTAMP:20250601T003000Z
 UID:MLS-MAT-00060A
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Philadelphia Union 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

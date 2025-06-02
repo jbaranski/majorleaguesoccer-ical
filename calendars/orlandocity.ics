@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Orlando City 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Chicago Fire FC
+SUMMARY:Orlando City vs. Chicago Fire FC*
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 DTSTAMP:20250531T233000Z
 UID:MLS-MAT-000608
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Chicago Fire FC 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -171,12 +171,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Houston Dynamo FC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New York City FC
+SUMMARY:Nashville SC* vs. New York City FC*
 DTSTART:20250531T203000Z
 DTEND:20250531T223000Z
 DTSTAMP:20250531T203000Z
 UID:MLS-MAT-00060C
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York City FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

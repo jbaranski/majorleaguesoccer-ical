@@ -159,12 +159,13 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Orlando City 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Atlanta United
+SUMMARY:New York Red Bulls* vs. Atlanta United
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 DTSTAMP:20250531T233000Z
 UID:MLS-MAT-000604
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Atlanta United 
+ 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

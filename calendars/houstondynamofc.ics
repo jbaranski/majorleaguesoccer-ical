@@ -190,13 +190,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Houston Dynamo FC
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Sporting Kansas City
+SUMMARY:Houston Dynamo FC vs. Sporting Kansas City*
 DTSTART:20250601T003000Z
 DTEND:20250601T023000Z
 DTSTAMP:20250601T003000Z
 UID:MLS-MAT-00060B
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Sporting Kansas 
- City
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Sporting Kansas 
+ City 3
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

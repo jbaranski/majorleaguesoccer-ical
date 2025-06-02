@@ -188,13 +188,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - San Jose Earthquakes 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. San Jose Earthquakes
+SUMMARY:St. Louis City SC* vs. San Jose Earthquakes
 DTSTART:20250531T183000Z
 DTEND:20250531T203000Z
 DTSTAMP:20250531T183000Z
 UID:MLS-MAT-000603
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Jose Earthqu
- akes
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - San Jose Earthqu
+ akes 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

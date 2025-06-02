@@ -255,12 +255,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - CF Montreal 2
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Columbus Crew
+SUMMARY:Inter Miami CF* vs. Columbus Crew
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 DTSTAMP:20250531T233000Z
 UID:MLS-MAT-000606
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 5 - Columbus Crew 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

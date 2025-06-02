@@ -169,12 +169,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - New England Revolution
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New England Revolution
+SUMMARY:CF Montreal vs. New England Revolution*
 DTSTART:20250531T233000Z
 DTEND:20250601T013000Z
 DTSTAMP:20250531T233000Z
 UID:MLS-MAT-000607
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New England Revolution
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - New England Revolution
+  3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
