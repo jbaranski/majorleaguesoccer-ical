@@ -203,13 +203,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - San Diego FC 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Minnesota United
+SUMMARY:Seattle Sounders FC vs. Minnesota United*
 DTSTART:20250601T220000Z
 DTEND:20250602T000000Z
 DTSTAMP:20250601T220000Z
 UID:MLS-MAT-00060H
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Minnesota Unit
- ed
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Minnesota Unit
+ ed 3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
