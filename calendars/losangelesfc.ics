@@ -259,7 +259,7 @@ DTSTAMP:20250620T220000Z
 UID:MLS-MAT-00091L
 DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Espérance Sportive 
  de Tunis
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Clube de Regatas do Flamengo
@@ -269,7 +269,7 @@ DTSTAMP:20250625T010000Z
 UID:MLS-MAT-00091Z
 DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Clube de Regatas do 
  Flamengo
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Camping World Stadium\, Orlando\, Florida
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Los Angeles FC
