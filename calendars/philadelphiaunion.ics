@@ -191,12 +191,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Philadelphia Union 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Atlas FC
+SUMMARY:Philadelphia Union vs. Atlas FC (result unknown)
 DTSTART:20250607T233000Z
 DTEND:20250608T013000Z
 DTSTAMP:20250607T233000Z
 UID:MLS-MAT-00092I
-DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union vs. Atlas FC
+DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union ??? - Atlas FC ???
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

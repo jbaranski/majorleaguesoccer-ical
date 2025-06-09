@@ -184,12 +184,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - D.C. United 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Chicago Fire FC
+SUMMARY:D.C. United vs. Chicago Fire FC*
 DTSTART:20250607T233000Z
 DTEND:20250608T013000Z
 DTSTAMP:20250607T233000Z
 UID:MLS-MAT-00060I
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Chicago Fire FC 7
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
