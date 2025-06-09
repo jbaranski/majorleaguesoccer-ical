@@ -191,12 +191,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Austin FC
+SUMMARY:Colorado Rapids vs. Austin FC*
 DTSTART:20250608T013000Z
 DTEND:20250608T033000Z
 DTSTAMP:20250608T013000Z
 UID:MLS-MAT-000638
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - Austin FC 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

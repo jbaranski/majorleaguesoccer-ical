@@ -165,12 +165,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club América
+SUMMARY:San Diego FC vs. Club América (result unknown)
 DTSTART:20250608T020000Z
 DTEND:20250608T040000Z
 DTSTAMP:20250608T020000Z
 UID:MLS-MAT-0006PW
-DESCRIPTION:Club Friendly Matches\n\nSan Diego FC vs. Club América
+DESCRIPTION:Club Friendly Matches\n\nSan Diego FC ??? - Club América ???
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
