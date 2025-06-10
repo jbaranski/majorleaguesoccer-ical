@@ -223,13 +223,13 @@ DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 2 - Club América 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Sporting Kansas City
+SUMMARY:Los Angeles FC* vs. Sporting Kansas City
 DTSTART:20250609T010000Z
 DTEND:20250609T030000Z
 DTSTAMP:20250609T010000Z
 UID:MLS-MAT-000600
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Sporting Kansas Cit
+ y 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

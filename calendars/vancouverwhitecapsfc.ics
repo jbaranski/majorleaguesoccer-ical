@@ -255,13 +255,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul 5 - Vancouver Whitecaps FC
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC* vs. Seattle Sounders FC
 DTSTART:20250609T010000Z
 DTEND:20250609T030000Z
 DTSTAMP:20250609T010000Z
 UID:MLS-MAT-00060J
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Seattle Sou
- nders FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Seattle Sou
+ nders FC 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

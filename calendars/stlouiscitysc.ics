@@ -183,12 +183,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - San Jose Earthqu
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. St. Louis City SC
+SUMMARY:Portland Timbers* vs. St. Louis City SC
 DTSTART:20250608T230000Z
 DTEND:20250609T010000Z
 DTSTAMP:20250608T230000Z
 UID:MLS-MAT-00060K
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - St. Louis City SC
+  1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

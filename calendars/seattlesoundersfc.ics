@@ -213,13 +213,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Minnesota Unit
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC* vs. Seattle Sounders FC
 DTSTART:20250609T010000Z
 DTEND:20250609T030000Z
 DTSTAMP:20250609T010000Z
 UID:MLS-MAT-00060J
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Seattle Sou
- nders FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Seattle Sou
+ nders FC 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
@@ -233,13 +233,13 @@ DESCRIPTION:FIFA Club World Cup\n\nBotafogo de Futebol e Regatas vs. Seatt
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Atlético de Madrid
+SUMMARY:Seattle Sounders FC vs. Club Atlético de Madrid\, S.A.D.
 DTSTART:20250619T220000Z
 DTEND:20250620T000000Z
 DTSTAMP:20250619T220000Z
 UID:MLS-MAT-00067W
-DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Atlético de Ma
- drid
+DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Club Atlético 
+ de Madrid\, S.A.D.
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
