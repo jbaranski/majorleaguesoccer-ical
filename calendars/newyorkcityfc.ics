@@ -180,12 +180,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York City FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Atlanta United
+SUMMARY:New York City FC* vs. Atlanta United
 DTSTART:20250612T233000Z
 DTEND:20250613T013000Z
 DTSTAMP:20250612T233000Z
 UID:MLS-MAT-00060L
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 4 - Atlanta United 0
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
