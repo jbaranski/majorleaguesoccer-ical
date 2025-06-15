@@ -189,13 +189,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - St. Louis City SC
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Jose Earthquakes
+SUMMARY:Portland Timbers* vs. San Jose Earthquakes*
 DTSTART:20250614T024500Z
 DTEND:20250614T044500Z
 DTSTAMP:20250614T024500Z
 UID:MLS-MAT-00060N
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. San Jose Earthqua
- kes
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - San Jose Earthqua
+ kes 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
