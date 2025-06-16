@@ -202,12 +202,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Chicago Fire FC 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Orlando City
+SUMMARY:Colorado Rapids vs. Orlando City*
 DTSTART:20250615T013000Z
 DTEND:20250615T033000Z
 DTSTAMP:20250615T013000Z
 UID:MLS-MAT-00060X
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - Orlando City 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

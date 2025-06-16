@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Chicago Fire FC 7
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. D.C. United
+SUMMARY:Real Salt Lake* vs. D.C. United
 DTSTART:20250615T013000Z
 DTEND:20250615T033000Z
 DTSTAMP:20250615T013000Z
 UID:MLS-MAT-00060Y
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - D.C. United 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
