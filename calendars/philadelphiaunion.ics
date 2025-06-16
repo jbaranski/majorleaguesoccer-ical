@@ -200,12 +200,12 @@ DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union ??? - Atlas FC ???
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Charlotte FC
+SUMMARY:Philadelphia Union* vs. Charlotte FC
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 DTSTAMP:20250614T233000Z
 UID:MLS-MAT-00060R
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Charlotte FC 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

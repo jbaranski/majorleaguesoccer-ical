@@ -174,12 +174,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Philadelphia Union 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. FC Dallas
+SUMMARY:Sporting Kansas City vs. FC Dallas*
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
 DTSTAMP:20250615T003000Z
 UID:MLS-MAT-00060V
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - FC Dallas 4
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

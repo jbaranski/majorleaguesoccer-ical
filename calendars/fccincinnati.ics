@@ -202,13 +202,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - D.C. United 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. FC Cincinnati
+SUMMARY:New England Revolution vs. FC Cincinnati*
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 DTSTAMP:20250614T233000Z
 UID:MLS-MAT-00060Q
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
- ti
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - FC Cincinna
+ ti 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

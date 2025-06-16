@@ -265,13 +265,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Seattle Sou
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Vancouver Whitecaps FC
+SUMMARY:Columbus Crew* vs. Vancouver Whitecaps FC
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 DTSTAMP:20250614T233000Z
 UID:MLS-MAT-00060P
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Vancouver Whitecaps 
- FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Vancouver Whitecaps 
+ FC 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

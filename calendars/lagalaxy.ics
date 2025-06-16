@@ -200,12 +200,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Real Salt Lake 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. LA Galaxy
+SUMMARY:St. Louis City SC* vs. LA Galaxy*
 DTSTART:20250614T203000Z
 DTEND:20250614T223000Z
 DTSTAMP:20250614T203000Z
 UID:MLS-MAT-00060O
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - LA Galaxy 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

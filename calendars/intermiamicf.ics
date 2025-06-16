@@ -264,13 +264,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 5 - Columbus Crew 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al-Ahly Sporting Club vs. Inter Miami CF
+SUMMARY:Al-Ahly Sporting Club* vs. Inter Miami CF*
 DTSTART:20250615T000000Z
 DTEND:20250615T020000Z
 DTSTAMP:20250615T000000Z
 UID:MLS-MAT-00067T
-DESCRIPTION:FIFA Club World Cup\n\nAl-Ahly Sporting Club vs. Inter Miami C
- F
+DESCRIPTION:FIFA Club World Cup\n\nAl-Ahly Sporting Club 0 - Inter Miami C
+ F 0
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT

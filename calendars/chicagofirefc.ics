@@ -175,12 +175,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Chicago Fire FC 7
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Nashville SC
+SUMMARY:Chicago Fire FC vs. Nashville SC*
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
 DTSTAMP:20250615T003000Z
 UID:MLS-MAT-00060T
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Nashville SC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

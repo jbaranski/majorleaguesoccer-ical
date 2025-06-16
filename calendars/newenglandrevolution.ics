@@ -179,13 +179,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - New England Revolution
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. FC Cincinnati
+SUMMARY:New England Revolution vs. FC Cincinnati*
 DTSTART:20250614T233000Z
 DTEND:20250615T013000Z
 DTSTAMP:20250614T233000Z
 UID:MLS-MAT-00060Q
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
- ti
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - FC Cincinna
+ ti 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
