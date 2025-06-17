@@ -223,13 +223,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Seattle Sou
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botafogo de Futebol e Regatas vs. Seattle Sounders FC
+SUMMARY:Botafogo de Futebol e Regatas* vs. Seattle Sounders FC
 DTSTART:20250616T020000Z
 DTEND:20250616T040000Z
 DTSTAMP:20250616T020000Z
 UID:MLS-MAT-00067U
-DESCRIPTION:FIFA Club World Cup\n\nBotafogo de Futebol e Regatas vs. Seatt
- le Sounders FC
+DESCRIPTION:FIFA Club World Cup\n\nBotafogo de Futebol e Regatas 2 - Seatt
+ le Sounders FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
