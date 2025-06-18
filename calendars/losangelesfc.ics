@@ -233,13 +233,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Sporting Kansas Cit
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chelsea Football Club vs. Los Angeles FC
+SUMMARY:Chelsea Football Club* vs. Los Angeles FC
 DTSTART:20250616T190000Z
 DTEND:20250616T210000Z
 DTSTAMP:20250616T190000Z
 UID:MLS-MAT-000916
-DESCRIPTION:FIFA Club World Cup\n\nChelsea Football Club vs. Los Angeles F
- C
+DESCRIPTION:FIFA Club World Cup\n\nChelsea Football Club 2 - Los Angeles F
+ C 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
