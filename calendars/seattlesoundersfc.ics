@@ -233,13 +233,13 @@ DESCRIPTION:FIFA Club World Cup\n\nBotafogo de Futebol e Regatas 2 - Seatt
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Atlético de Madrid\, S.A.D.
+SUMMARY:Seattle Sounders FC vs. Club Atlético de Madrid\, S.A.D.*
 DTSTART:20250619T220000Z
 DTEND:20250620T000000Z
 DTSTAMP:20250619T220000Z
 UID:MLS-MAT-00067W
-DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Club Atlético 
- de Madrid\, S.A.D.
+DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC 1 - Club Atlético 
+ de Madrid\, S.A.D. 3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
