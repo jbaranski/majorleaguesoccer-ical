@@ -243,13 +243,13 @@ DESCRIPTION:FIFA Club World Cup\n\nChelsea Football Club 2 - Los Angeles F
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Espérance Sportive de Tunis
+SUMMARY:Los Angeles FC vs. Espérance Sportive de Tunis*
 DTSTART:20250620T220000Z
 DTEND:20250621T000000Z
 DTSTAMP:20250620T220000Z
 UID:MLS-MAT-00091L
-DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Espérance Sportive 
- de Tunis
+DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 0 - Espérance Sportive 
+ de Tunis 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
