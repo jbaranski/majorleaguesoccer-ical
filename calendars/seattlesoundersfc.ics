@@ -243,13 +243,13 @@ DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC 1 - Club Atlético
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Paris Saint-Germain Football Club
+SUMMARY:Seattle Sounders FC vs. Paris Saint-Germain Football Club*
 DTSTART:20250623T190000Z
 DTEND:20250623T210000Z
 DTSTAMP:20250623T190000Z
 UID:MLS-MAT-00067Y
-DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC vs. Paris Saint-Ger
- main Football Club
+DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC 0 - Paris Saint-Ger
+ main Football Club 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
