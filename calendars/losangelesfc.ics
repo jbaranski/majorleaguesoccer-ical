@@ -253,13 +253,13 @@ DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 0 - Espérance Sportive
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Clube de Regatas do Flamengo
+SUMMARY:Los Angeles FC* vs. Clube de Regatas do Flamengo*
 DTSTART:20250625T010000Z
 DTEND:20250625T030000Z
 DTSTAMP:20250625T010000Z
 UID:MLS-MAT-00091Z
-DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC vs. Clube de Regatas do 
- Flamengo
+DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 1 - Clube de Regatas do 
+ Flamengo 1
 LOCATION:Camping World Stadium\, Orlando\, Florida
 END:VEVENT
 BEGIN:VEVENT
