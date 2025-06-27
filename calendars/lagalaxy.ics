@@ -209,12 +209,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - LA Galaxy 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. LA Galaxy
+SUMMARY:Colorado Rapids* vs. LA Galaxy
 DTSTART:20250626T034100Z
 DTEND:20250626T054100Z
 DTSTAMP:20250626T034100Z
 UID:MLS-MAT-000618
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - LA Galaxy 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
