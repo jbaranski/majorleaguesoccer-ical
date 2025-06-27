@@ -202,12 +202,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - LA Galaxy 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Orlando City
+SUMMARY:St. Louis City SC vs. Orlando City*
 DTSTART:20250626T003000Z
 DTEND:20250626T023000Z
 DTSTAMP:20250626T003000Z
 UID:MLS-MAT-000617
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Orlando City 4
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

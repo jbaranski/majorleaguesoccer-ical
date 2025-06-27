@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Vancouver Whitecaps
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Atlanta United
+SUMMARY:Columbus Crew* vs. Atlanta United
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 DTSTAMP:20250625T233000Z
 UID:MLS-MAT-00060Z
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Atlanta United 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

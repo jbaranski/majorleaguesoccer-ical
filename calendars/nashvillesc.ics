@@ -201,13 +201,13 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Nashville SC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Nashville SC
+SUMMARY:New England Revolution vs. Nashville SC*
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 DTSTAMP:20250625T233000Z
 UID:MLS-MAT-000611
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Nashville S
- C
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Nashville S
+ C 3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

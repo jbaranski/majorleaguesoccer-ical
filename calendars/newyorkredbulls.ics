@@ -199,12 +199,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - New York Red Bulls 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. New York Red Bulls
+SUMMARY:Toronto FC* vs. New York Red Bulls*
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 DTSTAMP:20250625T233000Z
 UID:MLS-MAT-000612
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - New York Red Bulls 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - CF Montreal 3
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. FC Cincinnati
+SUMMARY:CF Montreal vs. FC Cincinnati*
 DTSTART:20250625T233000Z
 DTEND:20250626T013000Z
 DTSTAMP:20250625T233000Z
 UID:MLS-MAT-000610
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - FC Cincinnati 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
