@@ -209,12 +209,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - New York Red Bulls 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Austin FC
+SUMMARY:Seattle Sounders FC* vs. Austin FC
 DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
 DTSTAMP:20250629T023000Z
 UID:MLS-MAT-00061O
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Austin FC 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
