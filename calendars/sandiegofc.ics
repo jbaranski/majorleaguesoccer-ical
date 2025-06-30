@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - San Diego F
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. San Diego FC
+SUMMARY:FC Dallas vs. San Diego FC*
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061J
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - San Diego FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

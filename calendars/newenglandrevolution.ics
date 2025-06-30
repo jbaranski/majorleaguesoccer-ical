@@ -199,13 +199,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Nashville S
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Colorado Rapids
+SUMMARY:New England Revolution* vs. Colorado Rapids*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061E
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Colorado Ra
- pids
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - Colorado Ra
+ pids 3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

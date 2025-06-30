@@ -220,12 +220,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Orlando City 4
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. FC Cincinnati
+SUMMARY:Orlando City vs. FC Cincinnati*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061G
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - FC Cincinnati 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

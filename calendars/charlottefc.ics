@@ -204,12 +204,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Charlotte FC
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Charlotte FC
+SUMMARY:Chicago Fire FC* vs. Charlotte FC
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061I
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - Charlotte FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
