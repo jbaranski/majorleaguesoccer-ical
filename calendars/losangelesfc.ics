@@ -336,12 +336,12 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Mazatlán FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club Pachuca
+SUMMARY:Los Angeles FC vs. Club de Fútbol Pachuca
 DTSTART:20250802T023000Z
 DTEND:20250802T043000Z
 DTSTAMP:20250802T023000Z
 UID:MLS-MAT-0006K6
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club Pachuca
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club de Fútbol Pachuca
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

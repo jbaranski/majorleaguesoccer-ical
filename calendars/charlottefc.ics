@@ -276,12 +276,13 @@ DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. Charlotte FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Monterrey vs. Charlotte FC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Charlotte FC
 DTSTART:20250807T233000Z
 DTEND:20250808T013000Z
 DTSTAMP:20250807T233000Z
 UID:MLS-MAT-0006KX
-DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. Charlotte FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
+ arlotte FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

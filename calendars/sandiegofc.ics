@@ -248,12 +248,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Nashville SC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Pachuca vs. San Diego FC
+SUMMARY:Club de Fútbol Pachuca vs. San Diego FC
 DTSTART:20250730T030000Z
 DTEND:20250730T050000Z
 DTSTAMP:20250730T030000Z
 UID:MLS-MAT-0006JO
-DESCRIPTION:Leagues Cup\n\nClub Pachuca vs. San Diego FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Pachuca vs. San Diego FC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
