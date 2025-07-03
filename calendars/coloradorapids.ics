@@ -207,13 +207,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - LA Galaxy 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution* vs. Colorado Rapids*
+SUMMARY:New England Revolution vs. Colorado Rapids (result unknown)
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061E
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - Colorado Ra
- pids 3
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution ??? - Colorado 
+ Rapids ???
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

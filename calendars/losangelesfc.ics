@@ -263,13 +263,13 @@ DESCRIPTION:FIFA Club World Cup\n\nLos Angeles FC 1 - Clube de Regatas do
 LOCATION:Camping World Stadium\, Orlando\, Florida
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC*
+SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC (result unknown)
 DTSTART:20250630T013000Z
 DTEND:20250630T033000Z
 DTSTAMP:20250630T013000Z
 UID:MLS-MAT-00061M
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Vancouver Whitecaps
-  FC 1
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC ??? - Vancouver Whiteca
+ ps FC ???
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +336,12 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Mazatlán FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club de Fútbol Pachuca
+SUMMARY:Los Angeles FC vs. Club Pachuca
 DTSTART:20250802T023000Z
 DTEND:20250802T043000Z
 DTSTAMP:20250802T023000Z
 UID:MLS-MAT-0006K6
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club Pachuca
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

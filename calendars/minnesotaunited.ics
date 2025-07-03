@@ -209,20 +209,20 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - Houston Dynamo FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Minnesota United*
+SUMMARY:New York Red Bulls vs. Minnesota United (result unknown)
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061F
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Minnesota Unite
- d 2
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls ??? - Minnesota Uni
+ ted ???
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Minnesota United
-DTSTART:20250705T004500Z
-DTEND:20250705T024500Z
-DTSTAMP:20250705T004500Z
+DTSTART:20250705T003000Z
+DTEND:20250705T023000Z
+DTSTAMP:20250705T003000Z
 UID:MLS-MAT-00061R
 DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Minnesota United
 LOCATION:Toyota Stadium\, Frisco\, TX

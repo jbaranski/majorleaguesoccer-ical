@@ -219,13 +219,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - Houston Dynamo FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC* vs. St. Louis City SC
+SUMMARY:Houston Dynamo FC vs. St. Louis City SC (result unknown)
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061L
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - St. Louis City S
- C 0
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC ??? - St. Louis City
+  SC ???
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +294,12 @@ DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC vs. Mazatlán FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Club de Fútbol Pachuca
+SUMMARY:Houston Dynamo FC vs. Club Pachuca
 DTSTART:20250806T003000Z
 DTEND:20250806T023000Z
 DTSTAMP:20250806T003000Z
 UID:MLS-MAT-0006KM
-DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC vs. Club Pachuca
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

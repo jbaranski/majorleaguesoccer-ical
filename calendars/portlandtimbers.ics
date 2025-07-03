@@ -199,12 +199,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - San Jose Earthqua
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC* vs. Portland Timbers
+SUMMARY:Toronto FC vs. Portland Timbers (result unknown)
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061H
-DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Portland Timbers 0
+DESCRIPTION:MLS - Regular Season\n\nToronto FC ??? - Portland Timbers ???
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

@@ -219,12 +219,13 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Philadelphia Union
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew* vs. Philadelphia Union
+SUMMARY:Columbus Crew vs. Philadelphia Union (result unknown)
 DTSTART:20250629T220000Z
 DTEND:20250630T000000Z
 DTSTAMP:20250629T220000Z
 UID:MLS-MAT-00061P
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Philadelphia Union 0
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew ??? - Philadelphia Union
+  ???
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

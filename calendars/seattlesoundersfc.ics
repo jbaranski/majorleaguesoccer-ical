@@ -253,12 +253,13 @@ DESCRIPTION:FIFA Club World Cup\n\nSeattle Sounders FC 0 - Paris Saint-Ger
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC* vs. Austin FC
+SUMMARY:Seattle Sounders FC vs. Austin FC (result unknown)
 DTSTART:20250629T023000Z
 DTEND:20250629T043000Z
 DTSTAMP:20250629T023000Z
 UID:MLS-MAT-00061O
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Austin FC 0
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC ??? - Austin FC ??
+ ?
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
