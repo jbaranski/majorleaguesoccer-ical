@@ -220,19 +220,19 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Orlando City 4
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. FC Cincinnati (result unknown)
+SUMMARY:Orlando City vs. FC Cincinnati*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061G
-DESCRIPTION:MLS - Regular Season\n\nOrlando City ??? - FC Cincinnati ???
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - FC Cincinnati 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Orlando City
-DTSTART:20250705T230000Z
-DTEND:20250706T010000Z
-DTSTAMP:20250705T230000Z
+DTSTART:20250705T231500Z
+DTEND:20250706T011500Z
+DTSTAMP:20250705T231500Z
 UID:MLS-MAT-00061U
 DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Orlando City
 LOCATION:Bank of America Stadium\, Charlotte\, NC

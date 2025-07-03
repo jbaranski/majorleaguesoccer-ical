@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 0 - Philadelphia Union
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Charlotte FC (result unknown)
+SUMMARY:Chicago Fire FC* vs. Charlotte FC
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061I
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC ??? - Charlotte FC ???
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - Charlotte FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

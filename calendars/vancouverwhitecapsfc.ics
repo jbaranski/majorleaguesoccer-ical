@@ -285,13 +285,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - San Diego F
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC (result unknown)
+SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC*
 DTSTART:20250630T013000Z
 DTEND:20250630T033000Z
 DTSTAMP:20250630T013000Z
 UID:MLS-MAT-00061M
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC ??? - Vancouver Whiteca
- ps FC ???
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Vancouver Whitecaps
+  FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

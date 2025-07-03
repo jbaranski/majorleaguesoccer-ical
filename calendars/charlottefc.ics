@@ -204,19 +204,19 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Charlotte FC
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Charlotte FC (result unknown)
+SUMMARY:Chicago Fire FC* vs. Charlotte FC
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061I
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC ??? - Charlotte FC ???
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - Charlotte FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Orlando City
-DTSTART:20250705T230000Z
-DTEND:20250706T010000Z
-DTSTAMP:20250705T230000Z
+DTSTART:20250705T231500Z
+DTEND:20250706T011500Z
+DTSTAMP:20250705T231500Z
 UID:MLS-MAT-00061U
 DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Orlando City
 LOCATION:Bank of America Stadium\, Charlotte\, NC
@@ -276,12 +276,13 @@ DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. Charlotte FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Monterrey vs. Charlotte FC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Charlotte FC
 DTSTART:20250807T233000Z
 DTEND:20250808T013000Z
 DTSTAMP:20250807T233000Z
 UID:MLS-MAT-0006KX
-DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. Charlotte FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
+ arlotte FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

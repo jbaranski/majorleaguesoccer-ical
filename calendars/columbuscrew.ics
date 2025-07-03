@@ -203,13 +203,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Atlanta United 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Philadelphia Union (result unknown)
+SUMMARY:Columbus Crew* vs. Philadelphia Union
 DTSTART:20250629T220000Z
 DTEND:20250630T000000Z
 DTSTAMP:20250629T220000Z
 UID:MLS-MAT-00061P
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew ??? - Philadelphia Union
-  ???
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Philadelphia Union 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

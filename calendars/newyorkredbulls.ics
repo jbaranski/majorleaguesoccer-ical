@@ -208,13 +208,13 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - New York Red Bulls 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Minnesota United (result unknown)
+SUMMARY:New York Red Bulls* vs. Minnesota United*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061F
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls ??? - Minnesota Uni
- ted ???
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Minnesota Unite
+ d 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -284,12 +284,13 @@ DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. New York Red Bulls
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Monterrey vs. New York Red Bulls
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. New York Red Bulls
 DTSTART:20250804T000000Z
 DTEND:20250804T020000Z
 DTSTAMP:20250804T000000Z
 UID:MLS-MAT-0006KD
-DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. New York Red Bulls
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ne
+ w York Red Bulls
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

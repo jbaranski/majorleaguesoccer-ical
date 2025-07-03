@@ -211,12 +211,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Nashville S
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Nashville SC (result unknown)
+SUMMARY:D.C. United vs. Nashville SC*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061B
-DESCRIPTION:MLS - Regular Season\n\nD.C. United ??? - Nashville SC ???
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Nashville SC 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

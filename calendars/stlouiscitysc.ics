@@ -211,13 +211,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Orlando City 4
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. St. Louis City SC (result unknown)
+SUMMARY:Houston Dynamo FC* vs. St. Louis City SC
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061L
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC ??? - St. Louis City
-  SC ???
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - St. Louis City S
+ C 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

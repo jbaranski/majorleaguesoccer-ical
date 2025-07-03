@@ -221,12 +221,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - FC Cincinnati 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. FC Cincinnati (result unknown)
+SUMMARY:Orlando City vs. FC Cincinnati*
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061G
-DESCRIPTION:MLS - Regular Season\n\nOrlando City ??? - FC Cincinnati ???
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - FC Cincinnati 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -275,12 +275,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Cincinnati
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Monterrey vs. FC Cincinnati
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. FC Cincinnati
 DTSTART:20250731T230000Z
 DTEND:20250801T010000Z
 DTSTAMP:20250731T230000Z
 UID:MLS-MAT-0006JV
-DESCRIPTION:Leagues Cup\n\nCF Monterrey vs. FC Cincinnati
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. FC
+  Cincinnati
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

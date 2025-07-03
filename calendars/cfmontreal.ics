@@ -203,12 +203,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - FC Cincinnati 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York City FC (result unknown)
+SUMMARY:CF Montreal* vs. New York City FC
 DTSTART:20250628T233000Z
 DTEND:20250629T013000Z
 DTSTAMP:20250628T233000Z
 UID:MLS-MAT-00061D
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal ??? - New York City FC ???
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - New York City FC 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - San Diego F
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. San Diego FC (result unknown)
+SUMMARY:FC Dallas vs. San Diego FC*
 DTSTART:20250629T003000Z
 DTEND:20250629T023000Z
 DTSTAMP:20250629T003000Z
 UID:MLS-MAT-00061J
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas ??? - San Diego FC ???
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - San Diego FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -248,12 +248,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Nashville SC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Pachuca vs. San Diego FC
+SUMMARY:Club de Fútbol Pachuca vs. San Diego FC
 DTSTART:20250730T030000Z
 DTEND:20250730T050000Z
 DTSTAMP:20250730T030000Z
 UID:MLS-MAT-0006JO
-DESCRIPTION:Leagues Cup\n\nClub Pachuca vs. San Diego FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Pachuca vs. San Diego FC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

@@ -294,14 +294,13 @@ DESCRIPTION:FIFA Club World Cup\n\nInter Miami CF 2 - Sociedade Esportiva
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris Saint-Germain Football Club vs. Inter Miami CF (result unkno
- wn)
+SUMMARY:Paris Saint-Germain Football Club* vs. Inter Miami CF
 DTSTART:20250629T160000Z
 DTEND:20250629T180000Z
 DTSTAMP:20250629T160000Z
 UID:MLS-MAT-00093Y
-DESCRIPTION:FIFA Club World Cup\n\nParis Saint-Germain Football Club ??? -
-  Inter Miami CF ???
+DESCRIPTION:FIFA Club World Cup\n\nParis Saint-Germain Football Club 4 - I
+ nter Miami CF 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
