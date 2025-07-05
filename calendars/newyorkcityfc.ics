@@ -198,12 +198,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - New York City FC 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Toronto FC
+SUMMARY:New York City FC* vs. Toronto FC
 DTSTART:20250703T233000Z
 DTEND:20250704T013000Z
 DTSTAMP:20250703T233000Z
 UID:MLS-MAT-00061Q
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Toronto FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
