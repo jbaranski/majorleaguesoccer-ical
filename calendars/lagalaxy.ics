@@ -227,12 +227,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - LA Galaxy 1
 LOCATION:Stanford Stadium\, Stanford\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
+SUMMARY:LA Galaxy* vs. Vancouver Whitecaps FC
 DTSTART:20250705T023000Z
 DTEND:20250705T043000Z
 DTSTAMP:20250705T023000Z
 UID:MLS-MAT-00061T
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Vancouver Whitecaps FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
