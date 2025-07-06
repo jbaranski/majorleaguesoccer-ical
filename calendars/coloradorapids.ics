@@ -217,13 +217,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - Colorado Ra
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Sporting Kansas City
+SUMMARY:Colorado Rapids vs. Sporting Kansas City*
 DTSTART:20250705T013000Z
 DTEND:20250705T033000Z
 DTSTAMP:20250705T013000Z
 UID:MLS-MAT-00061S
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Sporting Kansas Ci
- ty
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Sporting Kansas Ci
+ ty 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

@@ -219,12 +219,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Minnesota Unite
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Minnesota United
+SUMMARY:FC Dallas vs. Minnesota United*
 DTSTART:20250705T004500Z
 DTEND:20250705T024500Z
 DTSTAMP:20250705T004500Z
 UID:MLS-MAT-00061R
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Minnesota United 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
