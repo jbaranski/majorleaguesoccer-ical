@@ -209,13 +209,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - Colorado Ra
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. New England Revolution
+SUMMARY:Portland Timbers* vs. New England Revolution
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
 DTSTAMP:20250706T023000Z
 UID:MLS-MAT-000621
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. New England Revol
- ution
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - New England Revol
+ ution 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

@@ -202,12 +202,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - San Diego FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Houston Dynamo FC
+SUMMARY:San Diego FC vs. Houston Dynamo FC*
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
 DTSTAMP:20250706T023000Z
 UID:MLS-MAT-000622
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Houston Dynamo FC 4
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
