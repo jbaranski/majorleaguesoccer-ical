@@ -228,12 +228,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Philadelphia Union 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Philadelphia Union
+SUMMARY:Nashville SC* vs. Philadelphia Union
 DTSTART:20250706T003000Z
 DTEND:20250706T023000Z
 DTSTAMP:20250706T003000Z
 UID:MLS-MAT-00061Z
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - Philadelphia Union 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

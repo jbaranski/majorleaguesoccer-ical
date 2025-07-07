@@ -187,12 +187,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Atlanta United 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Atlanta United
+SUMMARY:D.C. United* vs. Atlanta United*
 DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
 DTSTAMP:20250705T233000Z
 UID:MLS-MAT-00061W
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Atlanta United 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

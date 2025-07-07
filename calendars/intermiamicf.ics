@@ -304,12 +304,12 @@ DESCRIPTION:FIFA Club World Cup\n\nParis Saint-Germain Football Club 4 - I
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Inter Miami CF
+SUMMARY:CF Montreal vs. Inter Miami CF*
 DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
 DTSTAMP:20250705T233000Z
 UID:MLS-MAT-00061X
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Inter Miami CF 4
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

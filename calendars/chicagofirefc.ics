@@ -203,12 +203,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - Charlotte FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Chicago Fire FC
+SUMMARY:FC Cincinnati* vs. Chicago Fire FC
 DTSTART:20250705T233000Z
 DTEND:20250706T013000Z
 DTSTAMP:20250705T233000Z
 UID:MLS-MAT-00061V
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Chicago Fire FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

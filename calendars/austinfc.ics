@@ -218,12 +218,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Austin FC 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Los Angeles FC
+SUMMARY:Austin FC vs. Los Angeles FC (result unknown)
 DTSTART:20250706T003000Z
 DTEND:20250706T023000Z
 DTSTAMP:20250706T003000Z
 UID:MLS-MAT-00061Y
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC ??? - Los Angeles FC ???
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

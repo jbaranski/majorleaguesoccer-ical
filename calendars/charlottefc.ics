@@ -213,12 +213,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - Charlotte FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Orlando City
+SUMMARY:Charlotte FC* vs. Orlando City*
 DTSTART:20250705T231500Z
 DTEND:20250706T011500Z
 DTSTAMP:20250705T231500Z
 UID:MLS-MAT-00061U
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Orlando City 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
