@@ -212,12 +212,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Philadelphia Union 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Columbus Crew
+SUMMARY:Seattle Sounders FC* vs. Columbus Crew*
 DTSTART:20250706T210000Z
 DTEND:20250706T230000Z
 DTSTAMP:20250706T210000Z
 UID:MLS-MAT-000624
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Columbus Crew 
+ 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
