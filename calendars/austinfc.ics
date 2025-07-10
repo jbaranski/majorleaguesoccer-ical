@@ -227,12 +227,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC ??? - Los Angeles FC ???
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Austin FC
+SUMMARY:San Jose Earthquakes vs. Austin FC*
 DTSTART:20250709T023000Z
 DTEND:20250709T043000Z
 DTSTAMP:20250709T023000Z
 UID:MLS-MAT-00093A
-DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Austin FC
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 2 (penalties: 2) - Austi
+ n FC 2 (penalties: 4)
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
