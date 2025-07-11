@@ -304,12 +304,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Vancouver Whitecaps FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Valour FC
+SUMMARY:Vancouver Whitecaps FC* vs. Valour FC
 DTSTART:20250710T020000Z
 DTEND:20250710T040000Z
 DTSTAMP:20250710T020000Z
 UID:MLS-MAT-00092D
-DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC vs. Valour FC
+DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC 2 - Valour FC 
+ 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

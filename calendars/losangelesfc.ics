@@ -282,12 +282,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC ??? - Los Angeles FC ???
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Colorado Rapids
+SUMMARY:Los Angeles FC* vs. Colorado Rapids
 DTSTART:20250710T022500Z
 DTEND:20250710T042500Z
 DTSTAMP:20250710T022500Z
 UID:MLS-MAT-00060E
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Colorado Rapids 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
