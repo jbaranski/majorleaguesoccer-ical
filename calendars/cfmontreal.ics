@@ -221,12 +221,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Inter Miami CF 4
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Forge FC
+SUMMARY:CF Montreal* vs. Forge FC*
 DTSTART:20250709T230000Z
 DTEND:20250710T010000Z
 DTSTAMP:20250709T230000Z
 UID:MLS-MAT-00092G
-DESCRIPTION:Canadian Championship\n\nCF Montreal vs. Forge FC
+DESCRIPTION:Canadian Championship\n\nCF Montreal 2 - Forge FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

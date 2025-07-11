@@ -219,13 +219,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - New England Revol
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Inter Miami CF
+SUMMARY:New England Revolution vs. Inter Miami CF*
 DTSTART:20250709T233000Z
 DTEND:20250710T013000Z
 DTSTAMP:20250709T233000Z
 UID:MLS-MAT-0005VA
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Inter Miami
-  CF
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Inter Miami
+  CF 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

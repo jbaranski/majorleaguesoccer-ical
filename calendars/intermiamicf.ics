@@ -313,20 +313,20 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Inter Miami CF 4
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Inter Miami CF
+SUMMARY:New England Revolution vs. Inter Miami CF*
 DTSTART:20250709T233000Z
 DTEND:20250710T013000Z
 DTSTAMP:20250709T233000Z
 UID:MLS-MAT-0005VA
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Inter Miami
-  CF
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Inter Miami
+  CF 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Nashville SC
-DTSTART:20250712T233000Z
-DTEND:20250713T013000Z
-DTSTAMP:20250712T233000Z
+DTSTART:20250712T234500Z
+DTEND:20250713T014500Z
+DTSTAMP:20250712T234500Z
 UID:MLS-MAT-000627
 DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Nashville SC
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL

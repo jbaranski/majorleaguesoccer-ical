@@ -220,12 +220,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Atlanta United 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. D.C. United
+SUMMARY:Nashville SC* vs. D.C. United
 DTSTART:20250710T010000Z
 DTEND:20250710T030000Z
 DTSTAMP:20250710T010000Z
 UID:MLS-MAT-00093C
-DESCRIPTION:U.S. Open Cup\n\nNashville SC vs. D.C. United
+DESCRIPTION:U.S. Open Cup\n\nNashville SC 5 - D.C. United 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
