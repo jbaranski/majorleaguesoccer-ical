@@ -214,12 +214,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - St. Louis City SC 2
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Houston Dynamo FC
+SUMMARY:Real Salt Lake* vs. Houston Dynamo FC
 DTSTART:20250713T013000Z
 DTEND:20250713T033000Z
 DTSTAMP:20250713T013000Z
 UID:MLS-MAT-00062G
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Houston Dynamo FC 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

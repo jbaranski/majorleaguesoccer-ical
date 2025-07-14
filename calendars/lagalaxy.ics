@@ -236,12 +236,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Vancouver Whitecaps FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. D.C. United
+SUMMARY:LA Galaxy* vs. D.C. United
 DTSTART:20250713T023000Z
 DTEND:20250713T043000Z
 DTSTAMP:20250713T023000Z
 UID:MLS-MAT-00062H
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - D.C. United 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -282,12 +282,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Colorado Rapids 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. FC Dallas
+SUMMARY:Los Angeles FC* vs. FC Dallas
 DTSTART:20250713T023000Z
 DTEND:20250713T043000Z
 DTSTAMP:20250713T023000Z
 UID:MLS-MAT-00062I
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

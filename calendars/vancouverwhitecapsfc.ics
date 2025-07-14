@@ -314,13 +314,13 @@ DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC 2 - Valour FC
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC
+SUMMARY:Colorado Rapids* vs. Vancouver Whitecaps FC
 DTSTART:20250713T013000Z
 DTEND:20250713T033000Z
 DTSTAMP:20250713T013000Z
 UID:MLS-MAT-00062F
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Vancouver Whitecap
- s FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Vancouver Whitecap
+ s FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
