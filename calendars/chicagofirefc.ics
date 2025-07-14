@@ -221,12 +221,12 @@ DESCRIPTION:U.S. Open Cup\n\nMinnesota United 3 - Chicago Fire FC 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. San Diego FC
+SUMMARY:Chicago Fire FC vs. San Diego FC*
 DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
 DTSTAMP:20250713T003000Z
 UID:MLS-MAT-00062C
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - San Diego FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

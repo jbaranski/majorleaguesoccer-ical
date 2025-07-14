@@ -230,12 +230,12 @@ DESCRIPTION:Canadian Championship\n\nCF Montreal 2 - Forge FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. CF Montreal
+SUMMARY:Orlando City* vs. CF Montreal*
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 DTSTAMP:20250712T233000Z
 UID:MLS-MAT-000628
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - CF Montreal 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

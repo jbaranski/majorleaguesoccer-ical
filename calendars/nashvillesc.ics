@@ -238,12 +238,12 @@ DESCRIPTION:U.S. Open Cup\n\nNashville SC 5 - D.C. United 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC
 DTSTART:20250712T234500Z
 DTEND:20250713T014500Z
 DTSTAMP:20250712T234500Z
 UID:MLS-MAT-000627
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Nashville SC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -222,12 +222,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Orlando City 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. New York City FC
+SUMMARY:Charlotte FC* vs. New York City FC
 DTSTART:20250713T005800Z
 DTEND:20250713T025800Z
 DTSTAMP:20250713T005800Z
 UID:MLS-MAT-000625
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - New York City FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

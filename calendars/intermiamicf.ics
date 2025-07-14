@@ -323,12 +323,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Inter Miami
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC
 DTSTART:20250712T234500Z
 DTEND:20250713T014500Z
 DTSTAMP:20250712T234500Z
 UID:MLS-MAT-000627
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Nashville SC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

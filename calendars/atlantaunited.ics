@@ -196,12 +196,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Atlanta United 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Atlanta United
+SUMMARY:Toronto FC* vs. Atlanta United*
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 DTSTAMP:20250712T233000Z
 UID:MLS-MAT-00062A
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Atlanta United 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

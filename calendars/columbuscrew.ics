@@ -222,12 +222,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Columbus Crew
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Columbus Crew
+SUMMARY:FC Cincinnati vs. Columbus Crew*
 DTSTART:20250713T003600Z
 DTEND:20250713T023600Z
 DTSTAMP:20250713T003600Z
 UID:MLS-MAT-000626
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Columbus Crew 4
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

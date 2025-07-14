@@ -211,12 +211,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Houston Dynamo FC 4
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. San Diego FC
+SUMMARY:Chicago Fire FC vs. San Diego FC*
 DTSTART:20250713T003000Z
 DTEND:20250713T023000Z
 DTSTAMP:20250713T003000Z
 UID:MLS-MAT-00062C
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - San Diego FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
