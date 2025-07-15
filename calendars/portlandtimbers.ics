@@ -218,12 +218,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - New England Revol
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Portland Timbers
+SUMMARY:St. Louis City SC* vs. Portland Timbers
 DTSTART:20250713T230000Z
 DTEND:20250714T010000Z
 DTSTAMP:20250713T230000Z
 UID:MLS-MAT-00062J
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Portland Timbers
+  1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
