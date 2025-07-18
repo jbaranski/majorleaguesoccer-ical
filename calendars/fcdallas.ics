@@ -219,12 +219,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. FC Dallas
+SUMMARY:San Jose Earthquakes* vs. FC Dallas*
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
 DTSTAMP:20250717T023000Z
 UID:MLS-MAT-00062X
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - FC Dallas 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

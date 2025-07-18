@@ -246,13 +246,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Vancouver Whitecap
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Colorado Rapids
+SUMMARY:Seattle Sounders FC* vs. Colorado Rapids*
 DTSTART:20250717T021500Z
 DTEND:20250717T041500Z
 DTSTAMP:20250717T021500Z
 UID:MLS-MAT-00062T
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Colorado Rapid
- s
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - Colorado Rapid
+ s 3
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

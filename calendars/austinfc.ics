@@ -237,12 +237,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - New England Revolution 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Austin FC
+SUMMARY:LA Galaxy vs. Austin FC*
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
 DTSTAMP:20250717T023000Z
 UID:MLS-MAT-00062U
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Austin FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

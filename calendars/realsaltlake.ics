@@ -223,12 +223,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Houston Dynamo FC 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Real Salt Lake
+SUMMARY:Portland Timbers vs. Real Salt Lake*
 DTSTART:20250717T023000Z
 DTEND:20250717T043000Z
 DTSTAMP:20250717T023000Z
 UID:MLS-MAT-00062V
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - Real Salt Lake 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
