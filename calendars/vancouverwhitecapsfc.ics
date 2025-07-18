@@ -324,13 +324,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Vancouver Whitecap
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Vancouver Whitecaps FC
+SUMMARY:Houston Dynamo FC vs. Vancouver Whitecaps FC*
 DTSTART:20250717T003000Z
 DTEND:20250717T023000Z
 DTSTAMP:20250717T003000Z
 UID:MLS-MAT-00062Q
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Vancouver Whitec
- aps FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Vancouver Whitec
+ aps FC 3
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

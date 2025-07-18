@@ -230,12 +230,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - San Diego FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Chicago Fire FC
+SUMMARY:Atlanta United* vs. Chicago Fire FC*
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062K
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Chicago Fire FC 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

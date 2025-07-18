@@ -332,12 +332,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Nashville SC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Inter Miami CF
+SUMMARY:FC Cincinnati* vs. Inter Miami CF
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062M
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Inter Miami CF 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

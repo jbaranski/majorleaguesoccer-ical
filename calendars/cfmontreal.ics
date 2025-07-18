@@ -239,12 +239,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - CF Montreal 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. CF Montreal
+SUMMARY:Philadelphia Union* vs. CF Montreal
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062P
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - CF Montreal 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

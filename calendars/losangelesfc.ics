@@ -291,12 +291,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Los Angeles FC
+SUMMARY:Minnesota United vs. Los Angeles FC*
 DTSTART:20250717T003000Z
 DTEND:20250717T023000Z
 DTSTAMP:20250717T003000Z
 UID:MLS-MAT-00062R
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Los Angeles FC 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

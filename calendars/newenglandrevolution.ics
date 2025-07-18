@@ -238,13 +238,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - New England Revolution 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New England Revolution
+SUMMARY:New York Red Bulls* vs. New England Revolution
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062N
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New England Rev
- olution
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 5 - New England Rev
+ olution 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

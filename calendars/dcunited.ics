@@ -238,12 +238,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - D.C. United 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. D.C. United
+SUMMARY:Charlotte FC* vs. D.C. United
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062L
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - D.C. United 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

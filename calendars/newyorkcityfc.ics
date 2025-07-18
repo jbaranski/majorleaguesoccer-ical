@@ -216,12 +216,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - New York City FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New York City FC
+SUMMARY:Orlando City vs. New York City FC*
 DTSTART:20250717T001500Z
 DTEND:20250717T021500Z
 DTSTAMP:20250717T001500Z
 UID:MLS-MAT-00062O
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - New York City FC 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
