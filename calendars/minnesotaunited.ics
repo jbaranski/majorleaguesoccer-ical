@@ -266,12 +266,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Los Angeles FC 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Minnesota United
+SUMMARY:Portland Timbers* vs. Minnesota United*
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
 DTSTAMP:20250720T023000Z
 UID:MLS-MAT-00063B
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Minnesota United 
+ 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

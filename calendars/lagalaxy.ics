@@ -254,12 +254,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Austin FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. LA Galaxy
+SUMMARY:Los Angeles FC* vs. LA Galaxy*
 DTSTART:20250720T023000Z
 DTEND:20250720T043000Z
 DTSTAMP:20250720T023000Z
 UID:MLS-MAT-00063A
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - LA Galaxy 3
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
