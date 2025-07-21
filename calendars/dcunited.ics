@@ -247,12 +247,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - D.C. United 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. D.C. United
+SUMMARY:Columbus Crew* vs. D.C. United
 DTSTART:20250720T001500Z
 DTEND:20250720T021500Z
 DTSTAMP:20250720T001500Z
 UID:MLS-MAT-00062Z
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - D.C. United 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

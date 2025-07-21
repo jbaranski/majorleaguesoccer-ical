@@ -228,12 +228,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - FC Dallas 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. St. Louis City SC
+SUMMARY:FC Dallas* vs. St. Louis City SC
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
 DTSTAMP:20250720T003000Z
 UID:MLS-MAT-000633
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - St. Louis City SC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -225,13 +225,13 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - New York City FC 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. New York City FC
+SUMMARY:Sporting Kansas City* vs. New York City FC*
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
 DTSTAMP:20250720T003000Z
 UID:MLS-MAT-000635
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New York City
-  FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - New York City
+  FC 1
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

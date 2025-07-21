@@ -248,12 +248,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 5 - New England Rev
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Inter Miami CF
+SUMMARY:New York Red Bulls vs. Inter Miami CF*
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 DTSTAMP:20250719T233000Z
 UID:MLS-MAT-000632
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Inter Miami CF 
+ 5
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

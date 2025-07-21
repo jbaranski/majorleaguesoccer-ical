@@ -257,12 +257,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Inter Miami CF 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. FC Cincinnati
+SUMMARY:Real Salt Lake vs. FC Cincinnati*
 DTSTART:20250720T013000Z
 DTEND:20250720T033000Z
 DTSTAMP:20250720T013000Z
 UID:MLS-MAT-000639
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - FC Cincinnati 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

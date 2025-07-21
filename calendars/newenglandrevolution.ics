@@ -248,13 +248,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 5 - New England Rev
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Orlando City
+SUMMARY:New England Revolution vs. Orlando City*
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 DTSTAMP:20250719T233000Z
 UID:MLS-MAT-000631
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Orlando Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Orlando Cit
+ y 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

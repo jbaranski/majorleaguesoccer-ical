@@ -248,12 +248,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - CF Montreal 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Chicago Fire FC
+SUMMARY:CF Montreal vs. Chicago Fire FC*
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 DTSTAMP:20250719T233000Z
 UID:MLS-MAT-000630
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Chicago Fire FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

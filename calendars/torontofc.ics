@@ -221,12 +221,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Toronto FC 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Toronto FC
+SUMMARY:Nashville SC* vs. Toronto FC
 DTSTART:20250720T011500Z
 DTEND:20250720T031500Z
 DTSTAMP:20250720T011500Z
 UID:MLS-MAT-000636
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - Toronto FC 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

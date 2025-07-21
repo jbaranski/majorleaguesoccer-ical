@@ -240,12 +240,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - D.C. United 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Charlotte FC
+SUMMARY:Atlanta United vs. Charlotte FC*
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 DTSTAMP:20250719T233000Z
 UID:MLS-MAT-00062Y
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Charlotte FC 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

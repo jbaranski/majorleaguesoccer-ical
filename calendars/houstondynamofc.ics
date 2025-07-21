@@ -257,13 +257,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Vancouver Whitec
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Philadelphia Union
+SUMMARY:Houston Dynamo FC* vs. Philadelphia Union*
 DTSTART:20250720T003000Z
 DTEND:20250720T023000Z
 DTSTAMP:20250720T003000Z
 UID:MLS-MAT-000634
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Philadelphia Uni
- on
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Philadelphia Uni
+ on 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
