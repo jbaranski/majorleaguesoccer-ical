@@ -239,12 +239,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Nashville SC
+SUMMARY:San Diego FC* vs. Nashville SC
 DTSTART:20250726T023000Z
 DTEND:20250726T043000Z
 DTSTAMP:20250726T023000Z
 UID:MLS-MAT-00063Q
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Nashville SC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

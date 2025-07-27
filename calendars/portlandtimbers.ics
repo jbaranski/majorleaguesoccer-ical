@@ -247,12 +247,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Minnesota United
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Portland Timbers
+SUMMARY:Los Angeles FC vs. Portland Timbers*
 DTSTART:20250726T023000Z
 DTEND:20250726T043000Z
 DTSTAMP:20250726T023000Z
 UID:MLS-MAT-00063P
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
