@@ -235,12 +235,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - New York City
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. New York City FC
+SUMMARY:FC Dallas vs. New York City FC*
 DTSTART:20250726T003000Z
 DTEND:20250726T023000Z
 DTSTAMP:20250726T003000Z
 UID:MLS-MAT-00063L
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - New York City FC 4
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

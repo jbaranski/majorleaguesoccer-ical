@@ -257,12 +257,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Chicago Fire FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. CF Montreal
+SUMMARY:New England Revolution vs. CF Montreal*
 DTSTART:20250725T233000Z
 DTEND:20250726T013000Z
 DTSTAMP:20250725T233000Z
 UID:MLS-MAT-00063I
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - CF Montreal
+  3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

@@ -267,15 +267,6 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Philadelphia Uni
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. LA Galaxy
-DTSTART:20250726T003000Z
-DTEND:20250726T023000Z
-DTSTAMP:20250726T003000Z
-UID:MLS-MAT-00063M
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. LA Galaxy
-LOCATION:Shell Energy Stadium\, Houston\, TX
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Tigres vs. Houston Dynamo FC
 DTSTART:20250730T010000Z
 DTEND:20250730T030000Z
@@ -340,6 +331,15 @@ UID:MLS-MAT-000659
 DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Houston Dynamo F
  C
 LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Dynamo FC vs. LA Galaxy
+DTSTART:20250907T003000Z
+DTEND:20250907T023000Z
+DTSTAMP:20250907T003000Z
+UID:MLS-MAT-00063M
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. LA Galaxy
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Houston Dynamo FC
