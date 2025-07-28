@@ -344,13 +344,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Sporting Kansas City
+SUMMARY:Vancouver Whitecaps FC* vs. Sporting Kansas City
 DTSTART:20250727T023000Z
 DTEND:20250727T043000Z
 DTSTAMP:20250727T023000Z
 UID:MLS-MAT-00063R
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Sporting Ka
- nsas City
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Sporting Ka
+ nsas City 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
