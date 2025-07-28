@@ -275,13 +275,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - San Jose Earth
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. San Jose Earthquakes
+SUMMARY:Real Salt Lake* vs. San Jose Earthquakes
 DTSTART:20250727T013000Z
 DTEND:20250727T033000Z
 DTSTAMP:20250727T013000Z
 UID:MLS-MAT-00063O
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. San Jose Earthquake
- s
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - San Jose Earthquake
+ s 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

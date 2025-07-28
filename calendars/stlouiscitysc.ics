@@ -249,12 +249,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - St. Louis City SC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Minnesota United
+SUMMARY:St. Louis City SC vs. Minnesota United*
 DTSTART:20250727T003000Z
 DTEND:20250727T023000Z
 DTSTAMP:20250727T003000Z
 UID:MLS-MAT-00063N
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Minnesota United
+  2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

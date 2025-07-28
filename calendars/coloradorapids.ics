@@ -256,12 +256,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - Colorado Rapid
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Colorado Rapids
+SUMMARY:Philadelphia Union* vs. Colorado Rapids
 DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 DTSTAMP:20250726T233000Z
 UID:MLS-MAT-00063J
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Colorado Rapids
+  1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

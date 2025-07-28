@@ -351,12 +351,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Inter Miami CF
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. FC Cincinnati
+SUMMARY:Inter Miami CF* vs. FC Cincinnati*
 DTSTART:20250726T231500Z
 DTEND:20250727T011500Z
 DTSTAMP:20250726T231500Z
 UID:MLS-MAT-00063D
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - FC Cincinnati 0
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

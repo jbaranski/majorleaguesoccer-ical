@@ -256,12 +256,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - D.C. United 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Austin FC
+SUMMARY:D.C. United vs. Austin FC*
 DTSTART:20250726T233000Z
 DTEND:20250727T013000Z
 DTSTAMP:20250726T233000Z
 UID:MLS-MAT-00063H
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Austin FC 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
