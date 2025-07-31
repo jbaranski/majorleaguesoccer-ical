@@ -267,12 +267,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - CF Montreal
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Club León
+SUMMARY:CF Montreal* vs. Club León
 DTSTART:20250729T230000Z
 DTEND:20250730T010000Z
 DTSTAMP:20250729T230000Z
 UID:MLS-MAT-0006JL
-DESCRIPTION:Leagues Cup\n\nCF Montreal vs. Club León
+DESCRIPTION:Leagues Cup\n\nCF Montreal 1 (penalties: 7) - Club León 1 (pe
+ nalties: 6)
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

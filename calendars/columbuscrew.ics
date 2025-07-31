@@ -258,12 +258,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Orlando City 3
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Columbus Crew
+SUMMARY:Toluca FC* vs. Columbus Crew
 DTSTART:20250729T230000Z
 DTEND:20250730T010000Z
 DTSTAMP:20250729T230000Z
 UID:MLS-MAT-0006JJ
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Columbus Crew
+DESCRIPTION:Leagues Cup\n\nToluca FC 2 (penalties: 4) - Columbus Crew 2 (p
+ enalties: 2)
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

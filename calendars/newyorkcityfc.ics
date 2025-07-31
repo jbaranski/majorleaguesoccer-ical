@@ -244,12 +244,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - New York City FC 4
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Club Puebla
+SUMMARY:New York City FC vs. Club Puebla*
 DTSTART:20250730T000000Z
 DTEND:20250730T020000Z
 DTSTAMP:20250730T000000Z
 UID:MLS-MAT-0006JK
-DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nNew York City FC 0 - Club Puebla 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

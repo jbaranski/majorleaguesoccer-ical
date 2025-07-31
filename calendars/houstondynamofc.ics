@@ -267,12 +267,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Philadelphia Uni
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Houston Dynamo FC
+SUMMARY:Club Tigres* vs. Houston Dynamo FC
 DTSTART:20250730T010000Z
 DTEND:20250730T030000Z
 DTSTAMP:20250730T010000Z
 UID:MLS-MAT-0006JM
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Houston Dynamo FC
+DESCRIPTION:Leagues Cup\n\nClub Tigres 4 - Houston Dynamo FC 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
