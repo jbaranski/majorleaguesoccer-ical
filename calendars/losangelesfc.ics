@@ -318,12 +318,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Mazatlán FC
+SUMMARY:Los Angeles FC vs. Mazatlán FC*
 DTSTART:20250730T023000Z
 DTEND:20250730T043000Z
 DTSTAMP:20250730T023000Z
 UID:MLS-MAT-0006JN
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Mazatlán FC
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 10) - Mazatlán FC
+  1 (penalties: 11)
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
