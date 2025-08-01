@@ -256,12 +256,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Atlético de San Luis
+SUMMARY:Portland Timbers* vs. Atlético de San Luis
 DTSTART:20250731T023000Z
 DTEND:20250731T043000Z
 DTSTAMP:20250731T023000Z
 UID:MLS-MAT-0006JU
-DESCRIPTION:Leagues Cup\n\nPortland Timbers vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nPortland Timbers 4 - Atlético de San Luis 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
