@@ -286,12 +286,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Minnesota United
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Club Querétaro
+SUMMARY:Minnesota United* vs. Club Querétaro
 DTSTART:20250731T003000Z
 DTEND:20250731T023000Z
 DTSTAMP:20250731T003000Z
 UID:MLS-MAT-0006JS
-DESCRIPTION:Leagues Cup\n\nMinnesota United vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nMinnesota United 4 - Club Querétaro 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

@@ -251,12 +251,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - San Jose Earthquake
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Real Salt Lake
+SUMMARY:Club América vs. Real Salt Lake*
 DTSTART:20250731T013000Z
 DTEND:20250731T033000Z
 DTSTAMP:20250731T013000Z
 UID:MLS-MAT-0006JT
-DESCRIPTION:Leagues Cup\n\nClub América vs. Real Salt Lake
+DESCRIPTION:Leagues Cup\n\nClub América 2 (penalties: 1) - Real Salt Lake
+  2 (penalties: 3)
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

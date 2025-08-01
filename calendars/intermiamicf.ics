@@ -360,12 +360,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - FC Cincinnati 0
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Atlas FC
+SUMMARY:Inter Miami CF* vs. Atlas FC
 DTSTART:20250730T233000Z
 DTEND:20250731T013000Z
 DTSTAMP:20250730T233000Z
 UID:MLS-MAT-0006JP
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Atlas FC
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 - Atlas FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

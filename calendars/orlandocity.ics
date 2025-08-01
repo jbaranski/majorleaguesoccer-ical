@@ -275,12 +275,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Orlando City 3
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pumas vs. Orlando City
+SUMMARY:Pumas* vs. Orlando City
 DTSTART:20250731T000000Z
 DTEND:20250731T020000Z
 DTSTAMP:20250731T000000Z
 UID:MLS-MAT-0006JQ
-DESCRIPTION:Leagues Cup\n\nPumas vs. Orlando City
+DESCRIPTION:Leagues Cup\n\nPumas 1 (penalties: 4) - Orlando City 1 (penalt
+ ies: 3)
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -233,12 +233,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Seattle Sounders FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Necaxa vs. Atlanta United
+SUMMARY:Club Necaxa* vs. Atlanta United
 DTSTART:20250730T233000Z
 DTEND:20250731T013000Z
 DTSTAMP:20250730T233000Z
 UID:MLS-MAT-0006JR
-DESCRIPTION:Leagues Cup\n\nClub Necaxa vs. Atlanta United
+DESCRIPTION:Leagues Cup\n\nClub Necaxa 3 - Atlanta United 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
