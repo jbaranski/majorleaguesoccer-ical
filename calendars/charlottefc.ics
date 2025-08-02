@@ -258,12 +258,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Toronto FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. FC Juárez
+SUMMARY:Charlotte FC vs. FC Juárez*
 DTSTART:20250731T233000Z
 DTEND:20250801T013000Z
 DTSTAMP:20250731T233000Z
 UID:MLS-MAT-0006JW
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. FC Juárez
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 1 - FC Juárez 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

@@ -275,13 +275,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 0 - FC Cincinnati 0
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. FC Cincinnati
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. FC Cincinnati*
 DTSTART:20250731T230000Z
 DTEND:20250801T010000Z
 DTSTAMP:20250731T230000Z
 UID:MLS-MAT-0006JV
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. FC
-  Cincinnati
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - FC
+  Cincinnati 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

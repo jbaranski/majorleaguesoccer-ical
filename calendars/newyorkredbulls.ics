@@ -268,12 +268,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New York Red Bulls
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chivas de Guadalajara vs. New York Red Bulls
+SUMMARY:Chivas de Guadalajara vs. New York Red Bulls*
 DTSTART:20250731T233000Z
 DTEND:20250801T013000Z
 DTSTAMP:20250731T233000Z
 UID:MLS-MAT-0006JX
-DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. New York Red Bulls
+DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara 0 - New York Red Bulls 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
