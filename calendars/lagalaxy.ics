@@ -263,12 +263,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - LA Galaxy 3
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Club Tijuana
+SUMMARY:LA Galaxy* vs. Club Tijuana
 DTSTART:20250801T030000Z
 DTEND:20250801T050000Z
 DTSTAMP:20250801T030000Z
 UID:MLS-MAT-0006JY
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 5 - Club Tijuana 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -266,12 +266,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Colorado Rapids
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Club Santos Laguna
+SUMMARY:Colorado Rapids* vs. Club Santos Laguna
 DTSTART:20250801T013000Z
 DTEND:20250801T033000Z
 DTSTAMP:20250801T013000Z
 UID:MLS-MAT-0006K0
-DESCRIPTION:Leagues Cup\n\nColorado Rapids vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nColorado Rapids 2 - Club Santos Laguna 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

@@ -312,12 +312,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Seattle Sounders FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Seattle Sounders FC
+SUMMARY:Cruz Azul vs. Seattle Sounders FC*
 DTSTART:20250801T023000Z
 DTEND:20250801T043000Z
 DTSTAMP:20250801T023000Z
 UID:MLS-MAT-0006JZ
-DESCRIPTION:Leagues Cup\n\nCruz Azul vs. Seattle Sounders FC
+DESCRIPTION:Leagues Cup\n\nCruz Azul 0 - Seattle Sounders FC 7
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
