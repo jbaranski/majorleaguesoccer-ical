@@ -253,12 +253,12 @@ DESCRIPTION:Leagues Cup\n\nNew York City FC 0 - Club Puebla 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Club León
+SUMMARY:New York City FC* vs. Club León
 DTSTART:20250801T220000Z
 DTEND:20250802T000000Z
 DTSTAMP:20250801T220000Z
 UID:MLS-MAT-0006K2
-DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club León
+DESCRIPTION:Leagues Cup\n\nNew York City FC 2 - Club León 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

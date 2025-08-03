@@ -276,12 +276,12 @@ DESCRIPTION:Leagues Cup\n\nClub Tigres 4 - Houston Dynamo FC 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Mazatlán FC
+SUMMARY:Houston Dynamo FC vs. Mazatlán FC*
 DTSTART:20250802T003000Z
 DTEND:20250802T023000Z
 DTSTAMP:20250802T003000Z
 UID:MLS-MAT-0006K3
-DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC vs. Mazatlán FC
+DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC 0 - Mazatlán FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

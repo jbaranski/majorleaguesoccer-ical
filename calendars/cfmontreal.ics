@@ -277,12 +277,12 @@ DESCRIPTION:Leagues Cup\n\nCF Montreal 1 (penalties: 7) - Club León 1 (pe
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. CF Montreal
+SUMMARY:Toluca FC* vs. CF Montreal
 DTSTART:20250802T010000Z
 DTEND:20250802T030000Z
 DTSTAMP:20250802T010000Z
 UID:MLS-MAT-0006K4
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. CF Montreal
+DESCRIPTION:Leagues Cup\n\nToluca FC 2 - CF Montreal 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
