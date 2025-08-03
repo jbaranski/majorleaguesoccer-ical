@@ -328,12 +328,13 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 10) - Mazatlán FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club de Fútbol Pachuca
+SUMMARY:Los Angeles FC* vs. Club de Fútbol Pachuca
 DTSTART:20250802T023000Z
 DTEND:20250802T043000Z
 DTSTAMP:20250802T023000Z
 UID:MLS-MAT-0006K6
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 4) - Club de Fútb
+ ol Pachuca 1 (penalties: 2)
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

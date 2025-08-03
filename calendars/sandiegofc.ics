@@ -257,12 +257,12 @@ DESCRIPTION:Leagues Cup\n\nClub de Fútbol Pachuca 3 - San Diego FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. San Diego FC
+SUMMARY:Club Tigres* vs. San Diego FC
 DTSTART:20250802T030000Z
 DTEND:20250802T050000Z
 DTSTAMP:20250802T030000Z
 UID:MLS-MAT-0006K5
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. San Diego FC
+DESCRIPTION:Leagues Cup\n\nClub Tigres 2 - San Diego FC 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
