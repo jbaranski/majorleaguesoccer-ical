@@ -265,12 +265,12 @@ DESCRIPTION:Leagues Cup\n\nPortland Timbers 4 - Atlético de San Luis 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Club Querétaro
+SUMMARY:Portland Timbers* vs. Club Querétaro
 DTSTART:20250803T030000Z
 DTEND:20250803T050000Z
 DTSTAMP:20250803T030000Z
 UID:MLS-MAT-0006KC
-DESCRIPTION:Leagues Cup\n\nPortland Timbers vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nPortland Timbers 1 - Club Querétaro 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
