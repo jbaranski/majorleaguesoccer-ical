@@ -265,12 +265,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Austin FC 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Ethiopia
+SUMMARY:D.C. United vs. Ethiopia (result unknown)
 DTSTART:20250802T210000Z
 DTEND:20250802T230000Z
 DTSTAMP:20250802T210000Z
 UID:MLS-MAT-00093T
-DESCRIPTION:Club Friendly Matches\n\nD.C. United vs. Ethiopia
+DESCRIPTION:Club Friendly Matches\n\nD.C. United ??? - Ethiopia ???
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

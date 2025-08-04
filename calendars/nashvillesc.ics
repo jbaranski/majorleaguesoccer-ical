@@ -274,12 +274,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Nashville SC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Aston Villa
+SUMMARY:Nashville SC vs. Aston Villa (result unknown)
 DTSTART:20250802T210000Z
 DTEND:20250802T230000Z
 DTSTAMP:20250802T210000Z
 UID:MLS-MAT-000912
-DESCRIPTION:Club Friendly Matches\n\nNashville SC vs. Aston Villa
+DESCRIPTION:Club Friendly Matches\n\nNashville SC ??? - Aston Villa ???
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

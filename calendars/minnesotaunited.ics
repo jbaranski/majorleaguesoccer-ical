@@ -295,12 +295,13 @@ DESCRIPTION:Leagues Cup\n\nMinnesota United 4 - Club Querétaro 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Minnesota United
+SUMMARY:Club América* vs. Minnesota United
 DTSTART:20250803T010000Z
 DTEND:20250803T030000Z
 DTSTAMP:20250803T010000Z
 UID:MLS-MAT-0006KA
-DESCRIPTION:Leagues Cup\n\nClub América vs. Minnesota United
+DESCRIPTION:Leagues Cup\n\nClub América 3 (penalties: 8) - Minnesota Unit
+ ed 3 (penalties: 7)
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -276,13 +276,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Colorado Rapids
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Eintracht Frankfurt
+SUMMARY:Philadelphia Union vs. Eintracht Frankfurt (result unknown)
 DTSTART:20250802T213000Z
 DTEND:20250802T233000Z
 DTSTAMP:20250802T213000Z
 UID:MLS-MAT-00092J
-DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union vs. Eintracht Fran
- kfurt
+DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union ??? - Eintracht Fr
+ ankfurt ???
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

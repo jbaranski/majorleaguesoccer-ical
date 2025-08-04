@@ -261,12 +261,13 @@ DESCRIPTION:Leagues Cup\n\nClub América 2 (penalties: 1) - Real Salt Lake
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Atlético de San Luis
+SUMMARY:Real Salt Lake vs. Atlético de San Luis*
 DTSTART:20250803T013000Z
 DTEND:20250803T033000Z
 DTSTAMP:20250803T013000Z
 UID:MLS-MAT-0006KB
-DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nReal Salt Lake 2 (penalties: 1) - Atlético de 
+ San Luis 2 (penalties: 4)
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

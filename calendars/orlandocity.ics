@@ -285,12 +285,12 @@ DESCRIPTION:Leagues Cup\n\nPumas 1 (penalties: 4) - Orlando City 1 (penalt
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlas FC
+SUMMARY:Orlando City* vs. Atlas FC
 DTSTART:20250802T220000Z
 DTEND:20250803T000000Z
 DTSTAMP:20250802T220000Z
 UID:MLS-MAT-0006K7
-DESCRIPTION:Leagues Cup\n\nOrlando City vs. Atlas FC
+DESCRIPTION:Leagues Cup\n\nOrlando City 3 - Atlas FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

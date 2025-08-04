@@ -369,12 +369,13 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 - Atlas FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club Necaxa
+SUMMARY:Inter Miami CF* vs. Club Necaxa
 DTSTART:20250802T230000Z
 DTEND:20250803T010000Z
 DTSTAMP:20250802T230000Z
 UID:MLS-MAT-0006K9
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Club Necaxa
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 (penalties: 5) - Club Necaxa 2
+  (penalties: 4)
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

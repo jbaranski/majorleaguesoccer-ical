@@ -242,12 +242,12 @@ DESCRIPTION:Leagues Cup\n\nClub Necaxa 3 - Atlanta United 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pumas vs. Atlanta United
+SUMMARY:Pumas* vs. Atlanta United
 DTSTART:20250803T010000Z
 DTEND:20250803T030000Z
 DTSTAMP:20250803T010000Z
 UID:MLS-MAT-0006K8
-DESCRIPTION:Leagues Cup\n\nPumas vs. Atlanta United
+DESCRIPTION:Leagues Cup\n\nPumas 3 - Atlanta United 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
