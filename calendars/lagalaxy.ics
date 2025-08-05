@@ -272,12 +272,13 @@ DESCRIPTION:Leagues Cup\n\nLA Galaxy 5 - Club Tijuana 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Cruz Azul
+SUMMARY:LA Galaxy vs. Cruz Azul*
 DTSTART:20250804T023000Z
 DTEND:20250804T043000Z
 DTSTAMP:20250804T023000Z
 UID:MLS-MAT-0006KI
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Cruz Azul
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 1 (penalties: 7) - Cruz Azul 1 (penal
+ ties: 8)
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -321,12 +321,12 @@ DESCRIPTION:Leagues Cup\n\nCruz Azul 0 - Seattle Sounders FC 7
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Santos Laguna
+SUMMARY:Seattle Sounders FC* vs. Club Santos Laguna
 DTSTART:20250804T023000Z
 DTEND:20250804T043000Z
 DTSTAMP:20250804T023000Z
 UID:MLS-MAT-0006KG
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 2 - Club Santos Laguna 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
