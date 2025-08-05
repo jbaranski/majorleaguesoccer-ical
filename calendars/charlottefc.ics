@@ -267,12 +267,13 @@ DESCRIPTION:Leagues Cup\n\nCharlotte FC 1 - FC Juárez 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chivas de Guadalajara vs. Charlotte FC
+SUMMARY:Chivas de Guadalajara* vs. Charlotte FC
 DTSTART:20250803T235000Z
 DTEND:20250804T015000Z
 DTSTAMP:20250803T235000Z
 UID:MLS-MAT-0006KF
-DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. Charlotte FC
+DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara 2 (penalties: 4) - Charlo
+ tte FC 2 (penalties: 2)
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

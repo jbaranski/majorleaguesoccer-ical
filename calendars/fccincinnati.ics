@@ -285,12 +285,13 @@ DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - FC
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. FC Juárez
+SUMMARY:FC Cincinnati vs. FC Juárez*
 DTSTART:20250803T213000Z
 DTEND:20250803T233000Z
 DTSTAMP:20250803T213000Z
 UID:MLS-MAT-0006KE
-DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. FC Juárez
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati 2 (penalties: 3) - FC Juárez 2 (
+ penalties: 4)
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

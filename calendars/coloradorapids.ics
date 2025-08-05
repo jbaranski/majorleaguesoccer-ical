@@ -275,12 +275,12 @@ DESCRIPTION:Leagues Cup\n\nColorado Rapids 2 - Club Santos Laguna 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Club Tijuana
+SUMMARY:Colorado Rapids vs. Club Tijuana*
 DTSTART:20250804T013000Z
 DTEND:20250804T033000Z
 DTSTAMP:20250804T013000Z
 UID:MLS-MAT-0006KH
-DESCRIPTION:Leagues Cup\n\nColorado Rapids vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nColorado Rapids 1 - Club Tijuana 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
