@@ -266,12 +266,12 @@ DESCRIPTION:Leagues Cup\n\nClub Tigres 2 - San Diego FC 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mazatlán FC vs. San Diego FC
+SUMMARY:Mazatlán FC vs. San Diego FC*
 DTSTART:20250806T020000Z
 DTEND:20250806T040000Z
 DTSTAMP:20250806T020000Z
 UID:MLS-MAT-0006KN
-DESCRIPTION:Leagues Cup\n\nMazatlán FC vs. San Diego FC
+DESCRIPTION:Leagues Cup\n\nMazatlán FC 0 - San Diego FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

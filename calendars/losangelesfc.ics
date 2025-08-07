@@ -338,12 +338,12 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 4) - Club de Fútb
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Los Angeles FC
+SUMMARY:Club Tigres vs. Los Angeles FC*
 DTSTART:20250806T023000Z
 DTEND:20250806T043000Z
 DTSTAMP:20250806T023000Z
 UID:MLS-MAT-0006KO
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Los Angeles FC
+DESCRIPTION:Leagues Cup\n\nClub Tigres 1 - Los Angeles FC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
