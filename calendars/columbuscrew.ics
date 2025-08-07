@@ -277,12 +277,12 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew 3 - Club Puebla 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Club León
+SUMMARY:Columbus Crew* vs. Club León
 DTSTART:20250805T233000Z
 DTEND:20250806T013000Z
 DTSTAMP:20250805T233000Z
 UID:MLS-MAT-0006KL
-DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Club León
+DESCRIPTION:Leagues Cup\n\nColumbus Crew 1 - Club León 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

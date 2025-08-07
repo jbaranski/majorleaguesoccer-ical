@@ -286,12 +286,12 @@ DESCRIPTION:Leagues Cup\n\nToluca FC 2 - CF Montreal 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Club Puebla
+SUMMARY:CF Montreal vs. Club Puebla*
 DTSTART:20250806T000000Z
 DTEND:20250806T020000Z
 DTSTAMP:20250806T000000Z
 UID:MLS-MAT-0006KK
-DESCRIPTION:Leagues Cup\n\nCF Montreal vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nCF Montreal 1 - Club Puebla 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

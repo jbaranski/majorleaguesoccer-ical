@@ -285,12 +285,12 @@ DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC 0 - Mazatlán FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Club de Fútbol Pachuca
+SUMMARY:Houston Dynamo FC vs. Club de Fútbol Pachuca*
 DTSTART:20250806T003000Z
 DTEND:20250806T023000Z
 DTSTAMP:20250806T003000Z
 UID:MLS-MAT-0006KM
-DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC 1 - Club de Fútbol Pachuca 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -262,12 +262,12 @@ DESCRIPTION:Leagues Cup\n\nNew York City FC 2 - Club León 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. New York City FC
+SUMMARY:Toluca FC* vs. New York City FC
 DTSTART:20250805T233000Z
 DTEND:20250806T013000Z
 DTSTAMP:20250805T233000Z
 UID:MLS-MAT-0006KJ
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. New York City FC
+DESCRIPTION:Leagues Cup\n\nToluca FC 2 - New York City FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
