@@ -330,12 +330,12 @@ DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 2 - Club Santos Laguna 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Tijuana
+SUMMARY:Seattle Sounders FC* vs. Club Tijuana
 DTSTART:20250807T030000Z
 DTEND:20250807T050000Z
 DTSTAMP:20250807T030000Z
 UID:MLS-MAT-0006KV
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 2 - Club Tijuana 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
