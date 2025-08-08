@@ -271,12 +271,12 @@ DESCRIPTION:Leagues Cup\n\nReal Salt Lake 2 (penalties: 1) - Atlético de
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Club Querétaro
+SUMMARY:Real Salt Lake* vs. Club Querétaro
 DTSTART:20250807T013000Z
 DTEND:20250807T033000Z
 DTSTAMP:20250807T013000Z
 UID:MLS-MAT-0006KU
-DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nReal Salt Lake 1 - Club Querétaro 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

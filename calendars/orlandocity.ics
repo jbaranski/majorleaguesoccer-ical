@@ -294,12 +294,12 @@ DESCRIPTION:Leagues Cup\n\nOrlando City 3 - Atlas FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Club Necaxa
+SUMMARY:Orlando City* vs. Club Necaxa
 DTSTART:20250806T230000Z
 DTEND:20250807T010000Z
 DTSTAMP:20250806T230000Z
 UID:MLS-MAT-0006KQ
-DESCRIPTION:Leagues Cup\n\nOrlando City vs. Club Necaxa
+DESCRIPTION:Leagues Cup\n\nOrlando City 5 - Club Necaxa 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -274,12 +274,13 @@ DESCRIPTION:Leagues Cup\n\nPortland Timbers 1 - Club Querétaro 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Portland Timbers
+SUMMARY:Club América* vs. Portland Timbers
 DTSTART:20250807T013000Z
 DTEND:20250807T033000Z
 DTSTAMP:20250807T013000Z
 UID:MLS-MAT-0006KT
-DESCRIPTION:Leagues Cup\n\nClub América vs. Portland Timbers
+DESCRIPTION:Leagues Cup\n\nClub América 1 (penalties: 5) - Portland Timbe
+ rs 1 (penalties: 3)
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

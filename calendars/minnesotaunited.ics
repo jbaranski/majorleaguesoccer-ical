@@ -305,12 +305,12 @@ DESCRIPTION:Leagues Cup\n\nClub América 3 (penalties: 8) - Minnesota Unit
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Atlético de San Luis
+SUMMARY:Minnesota United vs. Atlético de San Luis*
 DTSTART:20250807T003000Z
 DTEND:20250807T023000Z
 DTSTAMP:20250807T003000Z
 UID:MLS-MAT-0006KS
-DESCRIPTION:Leagues Cup\n\nMinnesota United vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nMinnesota United 0 - Atlético de San Luis 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
