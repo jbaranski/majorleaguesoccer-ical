@@ -282,12 +282,12 @@ DESCRIPTION:Leagues Cup\n\nLA Galaxy 1 (penalties: 7) - Cruz Azul 1 (penal
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Club Santos Laguna
+SUMMARY:LA Galaxy* vs. Club Santos Laguna
 DTSTART:20250808T035500Z
 DTEND:20250808T055500Z
 DTSTAMP:20250808T035500Z
 UID:MLS-MAT-0006L0
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 4 - Club Santos Laguna 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
