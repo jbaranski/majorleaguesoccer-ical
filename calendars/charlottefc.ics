@@ -277,13 +277,13 @@ DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara 2 (penalties: 4) - Charlo
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Charlotte FC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Charlotte FC*
 DTSTART:20250807T233000Z
 DTEND:20250808T013000Z
 DTSTAMP:20250807T233000Z
 UID:MLS-MAT-0006KX
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
- arlotte FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 0 - Ch
+ arlotte FC 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

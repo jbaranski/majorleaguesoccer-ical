@@ -284,12 +284,13 @@ DESCRIPTION:Leagues Cup\n\nColorado Rapids 1 - Club Tijuana 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Colorado Rapids
+SUMMARY:Cruz Azul* vs. Colorado Rapids
 DTSTART:20250808T003000Z
 DTEND:20250808T023000Z
 DTSTAMP:20250808T003000Z
 UID:MLS-MAT-0006KZ
-DESCRIPTION:Leagues Cup\n\nCruz Azul vs. Colorado Rapids
+DESCRIPTION:Leagues Cup\n\nCruz Azul 2 (penalties: 5) - Colorado Rapids 2 
+ (penalties: 4)
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -295,12 +295,12 @@ DESCRIPTION:Leagues Cup\n\nFC Cincinnati 2 (penalties: 3) - FC Juárez 2 (
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Chivas de Guadalajara
+SUMMARY:FC Cincinnati vs. Chivas de Guadalajara*
 DTSTART:20250808T004500Z
 DTEND:20250808T024500Z
 DTSTAMP:20250808T004500Z
 UID:MLS-MAT-0006KY
-DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. Chivas de Guadalajara
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati 1 - Chivas de Guadalajara 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
