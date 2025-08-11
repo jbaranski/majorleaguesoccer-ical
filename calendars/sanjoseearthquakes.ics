@@ -285,13 +285,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - San Jose Earthquake
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
+SUMMARY:San Jose Earthquakes* vs. Vancouver Whitecaps FC
 DTSTART:20250810T023000Z
 DTEND:20250810T043000Z
 DTSTAMP:20250810T023000Z
 UID:MLS-MAT-000644
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Vancouver Whi
- tecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Vancouver Whi
+ tecaps FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
