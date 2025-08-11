@@ -286,12 +286,12 @@ DESCRIPTION:Club Friendly Matches\n\nPhiladelphia Union ??? - Eintracht Fr
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Toronto FC
+SUMMARY:Philadelphia Union* vs. Toronto FC*
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
 DTSTAMP:20250809T233000Z
 UID:MLS-MAT-00063X
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Toronto FC 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

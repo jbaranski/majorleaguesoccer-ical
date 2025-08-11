@@ -276,12 +276,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Sporting Ka
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. San Diego FC
+SUMMARY:Sporting Kansas City vs. San Diego FC*
 DTSTART:20250810T004500Z
 DTEND:20250810T024500Z
 DTSTAMP:20250810T004500Z
 UID:MLS-MAT-000641
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC 
+ 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

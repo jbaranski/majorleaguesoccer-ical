@@ -260,12 +260,12 @@ DESCRIPTION:Leagues Cup\n\nAtlanta United 4 - Atlas FC 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Atlanta United
+SUMMARY:CF Montreal* vs. Atlanta United*
 DTSTART:20250809T233000Z
 DTEND:20250810T013000Z
 DTSTAMP:20250809T233000Z
 UID:MLS-MAT-00063T
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Atlanta United 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

@@ -246,12 +246,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - New York City FC 4
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Portland Timbers
+SUMMARY:FC Dallas* vs. Portland Timbers
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
 DTSTAMP:20250810T003000Z
 UID:MLS-MAT-000640
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Portland Timbers 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

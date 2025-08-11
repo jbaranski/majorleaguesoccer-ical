@@ -347,12 +347,12 @@ DESCRIPTION:Leagues Cup\n\nClub Tigres 1 - Los Angeles FC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Los Angeles FC
+SUMMARY:Chicago Fire FC* vs. Los Angeles FC*
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
 DTSTAMP:20250810T003000Z
 UID:MLS-MAT-00063Z
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Los Angeles FC 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

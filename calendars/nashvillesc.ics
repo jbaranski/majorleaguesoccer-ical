@@ -283,12 +283,12 @@ DESCRIPTION:Club Friendly Matches\n\nNashville SC ??? - Aston Villa ???
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Nashville SC
+SUMMARY:St. Louis City SC* vs. Nashville SC
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
 DTSTAMP:20250810T003000Z
 UID:MLS-MAT-000643
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Nashville SC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

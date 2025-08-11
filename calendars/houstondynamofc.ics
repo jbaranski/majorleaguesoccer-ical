@@ -294,12 +294,12 @@ DESCRIPTION:Leagues Cup\n\nHouston Dynamo FC 1 - Club de Fútbol Pachuca 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Houston Dynamo FC
+SUMMARY:Austin FC* vs. Houston Dynamo FC*
 DTSTART:20250810T003000Z
 DTEND:20250810T023000Z
 DTSTAMP:20250810T003000Z
 UID:MLS-MAT-00063Y
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
