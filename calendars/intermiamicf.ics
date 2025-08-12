@@ -388,12 +388,12 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 3 - Pumas 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Inter Miami CF
+SUMMARY:Orlando City* vs. Inter Miami CF
 DTSTART:20250811T000000Z
 DTEND:20250811T020000Z
 DTSTAMP:20250811T000000Z
 UID:MLS-MAT-000645
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Inter Miami CF 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

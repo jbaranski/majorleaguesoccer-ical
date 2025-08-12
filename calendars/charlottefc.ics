@@ -287,12 +287,12 @@ DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 0 - Ch
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Charlotte FC
+SUMMARY:FC Cincinnati vs. Charlotte FC*
 DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
 DTSTAMP:20250810T220000Z
 UID:MLS-MAT-00063S
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Charlotte FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
