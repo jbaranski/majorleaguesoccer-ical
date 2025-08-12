@@ -339,12 +339,12 @@ DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 2 - Club Tijuana 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Seattle Sounders FC
+SUMMARY:LA Galaxy vs. Seattle Sounders FC*
 DTSTART:20250811T020000Z
 DTEND:20250811T040000Z
 DTSTAMP:20250811T020000Z
 UID:MLS-MAT-000646
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - Seattle Sounders FC 4
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
