@@ -364,12 +364,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Vancouver Whi
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forge FC vs. Vancouver Whitecaps FC
+SUMMARY:Forge FC* vs. Vancouver Whitecaps FC*
 DTSTART:20250813T230000Z
 DTEND:20250814T010000Z
 DTSTAMP:20250813T230000Z
 UID:MLS-MAT-00095C
-DESCRIPTION:Canadian Championship\n\nForge FC vs. Vancouver Whitecaps FC
+DESCRIPTION:Canadian Championship\n\nForge FC 2 - Vancouver Whitecaps FC 2
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
