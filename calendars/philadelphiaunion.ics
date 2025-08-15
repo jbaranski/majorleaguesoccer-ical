@@ -295,12 +295,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Toronto FC 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York Red Bulls
+SUMMARY:Philadelphia Union* vs. New York Red Bulls
 DTSTART:20250814T013500Z
 DTEND:20250814T033500Z
 DTSTAMP:20250814T013500Z
 UID:MLS-MAT-000939
-DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union vs. New York Red Bulls
+DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union 3 - New York Red Bulls 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
