@@ -397,12 +397,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Inter Miami CF 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. LA Galaxy
+SUMMARY:Inter Miami CF* vs. LA Galaxy
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-000648
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - LA Galaxy 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

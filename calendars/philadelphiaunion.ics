@@ -304,13 +304,13 @@ DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union 3 - New York Red Bulls 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Philadelphia Union
+SUMMARY:New York Red Bulls* vs. Philadelphia Union
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-00064B
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Philadelphia Un
- ion
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Philadelphia Un
+ ion 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

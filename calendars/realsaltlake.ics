@@ -290,12 +290,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Real Salt Lake
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Real Salt Lake
+SUMMARY:Charlotte FC* vs. Real Salt Lake
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-000647
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - Real Salt Lake 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

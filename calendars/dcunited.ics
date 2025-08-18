@@ -284,12 +284,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - D.C. United
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. D.C. United
+SUMMARY:CF Montreal* vs. D.C. United*
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-000649
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - D.C. United 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

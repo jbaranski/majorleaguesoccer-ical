@@ -348,13 +348,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - Seattle Sounders FC 4
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Seattle Sounders FC
+SUMMARY:Minnesota United* vs. Seattle Sounders FC
 DTSTART:20250817T003000Z
 DTEND:20250817T023000Z
 DTSTAMP:20250817T003000Z
 UID:MLS-MAT-00064G
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Seattle Sounders 
+ FC 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

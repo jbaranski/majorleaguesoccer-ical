@@ -286,12 +286,12 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew 1 - Club León 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Columbus Crew
+SUMMARY:Toronto FC* vs. Columbus Crew*
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-00064D
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Columbus Crew 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

@@ -278,13 +278,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - D.C. United
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Los Angeles FC
+SUMMARY:New England Revolution vs. Los Angeles FC*
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-00064A
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Los Angeles
-  FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Los Angeles
+  FC 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
