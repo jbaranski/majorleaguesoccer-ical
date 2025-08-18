@@ -312,12 +312,13 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Inter Miami CF 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Sporting Kansas City
+SUMMARY:Orlando City* vs. Sporting Kansas City
 DTSTART:20250817T024300Z
 DTEND:20250817T044300Z
 DTSTAMP:20250817T024300Z
 UID:MLS-MAT-00064C
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Sporting Kansas City 
+ 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

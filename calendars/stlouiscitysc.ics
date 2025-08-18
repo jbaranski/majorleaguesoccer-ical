@@ -268,12 +268,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Nashville SC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. St. Louis City SC
+SUMMARY:Chicago Fire FC* vs. St. Louis City SC
 DTSTART:20250817T020100Z
 DTEND:20250817T040100Z
 DTSTAMP:20250817T020100Z
 UID:MLS-MAT-00064F
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - St. Louis City SC 
+ 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

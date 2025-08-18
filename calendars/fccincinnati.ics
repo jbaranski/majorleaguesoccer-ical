@@ -313,12 +313,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Charlotte FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. FC Cincinnati
+SUMMARY:Portland Timbers vs. FC Cincinnati*
 DTSTART:20250817T023000Z
 DTEND:20250817T043000Z
 DTSTAMP:20250817T023000Z
 UID:MLS-MAT-00064I
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - FC Cincinnati 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

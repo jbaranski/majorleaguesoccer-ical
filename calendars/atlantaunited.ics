@@ -269,12 +269,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Atlanta United 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Atlanta United
+SUMMARY:Colorado Rapids* vs. Atlanta United
 DTSTART:20250817T013000Z
 DTEND:20250817T033000Z
 DTSTAMP:20250817T013000Z
 UID:MLS-MAT-00064H
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Atlanta United 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
