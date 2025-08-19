@@ -303,13 +303,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC
+SUMMARY:Vancouver Whitecaps FC* vs. Houston Dynamo FC*
 DTSTART:20250818T010000Z
 DTEND:20250818T030000Z
 DTSTAMP:20250818T010000Z
 UID:MLS-MAT-00064K
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Houston Dyn
+ amo FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

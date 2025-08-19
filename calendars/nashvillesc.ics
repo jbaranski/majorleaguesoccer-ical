@@ -292,12 +292,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Nashville SC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Nashville SC
+SUMMARY:New York City FC* vs. Nashville SC
 DTSTART:20250817T210000Z
 DTEND:20250817T230000Z
 DTSTAMP:20250817T210000Z
 UID:MLS-MAT-00064J
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Nashville SC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

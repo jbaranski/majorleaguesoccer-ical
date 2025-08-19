@@ -285,12 +285,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. San Diego FC
+SUMMARY:San Jose Earthquakes vs. San Diego FC*
 DTSTART:20250817T230000Z
 DTEND:20250818T010000Z
 DTSTAMP:20250817T230000Z
 UID:MLS-MAT-00064L
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - San Diego FC 
+ 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
