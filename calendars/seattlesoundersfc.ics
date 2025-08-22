@@ -358,12 +358,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Seattle Sounders
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Puebla
+SUMMARY:Seattle Sounders FC* vs. Club Puebla
 DTSTART:20250821T030000Z
 DTEND:20250821T050000Z
 DTSTAMP:20250821T030000Z
 UID:MLS-MAT-00090N
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 0 (penalties: 4) - Club Pue
+ bla 0 (penalties: 3)
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

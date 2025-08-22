@@ -309,12 +309,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - LA Galaxy 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Club de Fútbol Pachuca
+SUMMARY:LA Galaxy* vs. Club de Fútbol Pachuca
 DTSTART:20250821T041500Z
 DTEND:20250821T061500Z
 DTSTAMP:20250821T041500Z
 UID:MLS-MAT-00090O
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 2 - Club de Fútbol Pachuca 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
