@@ -393,16 +393,6 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. St. Louis C
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Vancouver Whitecaps FC
-DTSTART:20250830T233000Z
-DTEND:20250831T013000Z
-DTSTAMP:20250830T233000Z
-UID:MLS-MAT-000656
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Vancouver Whitecaps F
- C
-LOCATION:Inter&Co Stadium\, Orlando\, FL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Philadelphia Union
 DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
@@ -460,6 +450,16 @@ UID:MLS-MAT-000678
 DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. San Jose Ea
  rthquakes
 LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando City vs. Vancouver Whitecaps FC
+DTSTART:20251011T233000Z
+DTEND:20251012T013000Z
+DTSTAMP:20251011T233000Z
+UID:MLS-MAT-000656
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Vancouver Whitecaps F
+ C
+LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. FC Dallas
