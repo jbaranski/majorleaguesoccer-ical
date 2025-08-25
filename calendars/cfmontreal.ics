@@ -313,12 +313,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - D.C. United 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Austin FC
+SUMMARY:CF Montreal* vs. Austin FC
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
 DTSTAMP:20250823T233000Z
 UID:MLS-MAT-00064P
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 3 - Austin FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

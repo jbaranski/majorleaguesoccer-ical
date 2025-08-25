@@ -301,12 +301,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Nashville SC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Orlando City
+SUMMARY:Nashville SC* vs. Orlando City
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
 DTSTAMP:20250824T003000Z
 UID:MLS-MAT-00064T
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 5 - Orlando City 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

@@ -288,13 +288,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Los Angeles
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New England Revolution
+SUMMARY:Columbus Crew vs. New England Revolution*
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
 DTSTAMP:20250823T233000Z
 UID:MLS-MAT-00064N
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
- on
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New England Revoluti
+ on 2
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

@@ -313,13 +313,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Houston Dyn
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
+SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes*
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
 DTSTAMP:20250824T003000Z
 UID:MLS-MAT-00064S
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. San Jose Earthqu
- akes
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - San Jose Earthqu
+ akes 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

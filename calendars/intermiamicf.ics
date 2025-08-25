@@ -415,12 +415,12 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 - Club Tigres 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Inter Miami CF
+SUMMARY:D.C. United* vs. Inter Miami CF*
 DTSTART:20250823T233000Z
 DTEND:20250824T013000Z
 DTSTAMP:20250823T233000Z
 UID:MLS-MAT-00064O
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Inter Miami CF 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

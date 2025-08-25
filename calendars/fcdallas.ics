@@ -264,12 +264,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - FC Dallas 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Los Angeles FC
+SUMMARY:FC Dallas* vs. Los Angeles FC*
 DTSTART:20250824T003000Z
 DTEND:20250824T023000Z
 DTSTAMP:20250824T003000Z
 UID:MLS-MAT-00064R
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Los Angeles FC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
