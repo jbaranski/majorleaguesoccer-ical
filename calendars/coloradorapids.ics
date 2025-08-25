@@ -312,12 +312,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Atlanta United 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Colorado Rapids
+SUMMARY:LA Galaxy* vs. Colorado Rapids
 DTSTART:20250824T023000Z
 DTEND:20250824T043000Z
 DTSTAMP:20250824T023000Z
 UID:MLS-MAT-00064V
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

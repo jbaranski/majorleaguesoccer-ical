@@ -383,13 +383,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Houston Dyn
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. St. Louis City SC
+SUMMARY:Vancouver Whitecaps FC* vs. St. Louis City SC
 DTSTART:20250824T013000Z
 DTEND:20250824T033000Z
 DTSTAMP:20250824T013000Z
 UID:MLS-MAT-00064X
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. St. Louis C
- ity SC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - St. Louis C
+ ity SC 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

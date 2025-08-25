@@ -302,12 +302,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - FC Cincinnati 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Portland Timbers
+SUMMARY:San Diego FC* vs. Portland Timbers*
 DTSTART:20250824T023000Z
 DTEND:20250824T043000Z
 DTSTAMP:20250824T023000Z
 UID:MLS-MAT-00064W
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Portland Timbers 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

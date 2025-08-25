@@ -299,12 +299,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - Real Salt Lake 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Minnesota United
+SUMMARY:Real Salt Lake vs. Minnesota United*
 DTSTART:20250824T013000Z
 DTEND:20250824T033000Z
 DTSTAMP:20250824T013000Z
 UID:MLS-MAT-00064U
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Minnesota United 3
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

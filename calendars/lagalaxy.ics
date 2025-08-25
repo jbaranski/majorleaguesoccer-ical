@@ -318,12 +318,12 @@ DESCRIPTION:Leagues Cup\n\nLA Galaxy 2 - Club de Fútbol Pachuca 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Colorado Rapids
+SUMMARY:LA Galaxy* vs. Colorado Rapids
 DTSTART:20250824T023000Z
 DTEND:20250824T043000Z
 DTSTAMP:20250824T023000Z
 UID:MLS-MAT-00064V
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
