@@ -257,12 +257,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Columbus Crew 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Toronto FC
+SUMMARY:Atlanta United* vs. Toronto FC*
 DTSTART:20250824T200000Z
 DTEND:20250824T220000Z
 DTSTAMP:20250824T200000Z
 UID:MLS-MAT-00064Y
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Toronto FC 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

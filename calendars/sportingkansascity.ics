@@ -296,13 +296,13 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Sporting Kansas City
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
+SUMMARY:Seattle Sounders FC* vs. Sporting Kansas City
 DTSTART:20250825T011500Z
 DTEND:20250825T031500Z
 DTSTAMP:20250825T011500Z
 UID:MLS-MAT-000650
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Sporting Kansa
- s City
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 5 - Sporting Kansa
+ s City 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

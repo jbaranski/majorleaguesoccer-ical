@@ -326,12 +326,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Philadelphia Un
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. New York Red Bulls
+SUMMARY:Charlotte FC* vs. New York Red Bulls
 DTSTART:20250824T230000Z
 DTEND:20250825T010000Z
 DTSTAMP:20250824T230000Z
 UID:MLS-MAT-00064Z
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - New York Red Bulls 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
