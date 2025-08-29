@@ -327,12 +327,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Seattle Sounders FC
+SUMMARY:LA Galaxy vs. Seattle Sounders FC*
 DTSTART:20250828T024500Z
 DTEND:20250828T044500Z
 DTSTAMP:20250828T024500Z
 UID:MLS-MAT-00090Q
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Seattle Sounders FC
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 0 - Seattle Sounders FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
