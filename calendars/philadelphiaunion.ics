@@ -324,12 +324,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - Chicago Fire FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Philadelphia Union
+SUMMARY:FC Cincinnati vs. Philadelphia Union*
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 DTSTAMP:20250830T233000Z
 UID:MLS-MAT-000651
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Philadelphia Union 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

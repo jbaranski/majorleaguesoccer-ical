@@ -310,12 +310,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 5 - Orlando City 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Atlanta United
+SUMMARY:Nashville SC vs. Atlanta United*
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 DTSTAMP:20250831T003000Z
 UID:MLS-MAT-00065C
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - Atlanta United 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

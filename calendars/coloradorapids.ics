@@ -321,13 +321,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Colorado Rapids
+SUMMARY:Sporting Kansas City* vs. Colorado Rapids
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 DTSTAMP:20250831T003000Z
 UID:MLS-MAT-00065A
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Colorado Rapi
- ds
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 4 - Colorado Rapi
+ ds 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

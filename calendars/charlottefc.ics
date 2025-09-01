@@ -314,13 +314,13 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - New York Red Bulls 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Charlotte FC
+SUMMARY:New England Revolution vs. Charlotte FC*
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 DTSTAMP:20250830T233000Z
 UID:MLS-MAT-000653
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Charlotte F
- C
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Charlotte F
+ C 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

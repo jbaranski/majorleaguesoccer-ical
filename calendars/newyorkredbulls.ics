@@ -335,12 +335,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - New York Red Bulls 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Columbus Crew
+SUMMARY:New York Red Bulls* vs. Columbus Crew*
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 DTSTAMP:20250830T233000Z
 UID:MLS-MAT-000655
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 0 - Columbus Crew 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

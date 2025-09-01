@@ -282,12 +282,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 3 - Austin FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. San Jose Earthquakes
+SUMMARY:Austin FC* vs. San Jose Earthquakes
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 DTSTAMP:20250831T003000Z
 UID:MLS-MAT-000658
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 3 - San Jose Earthquakes 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

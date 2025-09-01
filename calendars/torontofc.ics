@@ -266,12 +266,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Toronto FC 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. CF Montreal
+SUMMARY:Toronto FC* vs. CF Montreal*
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 DTSTAMP:20250830T233000Z
 UID:MLS-MAT-000657
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - CF Montreal 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

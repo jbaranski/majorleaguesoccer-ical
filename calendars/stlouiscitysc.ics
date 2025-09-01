@@ -288,13 +288,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - St. Louis C
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+SUMMARY:St. Louis City SC vs. Houston Dynamo FC*
 DTSTART:20250831T003000Z
 DTEND:20250831T023000Z
 DTSTAMP:20250831T003000Z
 UID:MLS-MAT-000659
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Houston Dynamo F
- C
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Houston Dynamo F
+ C 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
