@@ -304,12 +304,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Portland Timbers 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. San Diego FC
+SUMMARY:Los Angeles FC vs. San Diego FC*
 DTSTART:20250901T024500Z
 DTEND:20250901T044500Z
 DTSTAMP:20250901T024500Z
 UID:MLS-MAT-00065E
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - San Diego FC 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
