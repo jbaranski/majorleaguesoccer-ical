@@ -433,12 +433,12 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 3 - Orlando City 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Inter Miami CF
+SUMMARY:Seattle Sounders FC* vs. Inter Miami CF
 DTSTART:20250901T000000Z
 DTEND:20250901T020000Z
 DTSTAMP:20250901T000000Z
 UID:MLS-MAT-00090S
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Inter Miami CF
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 3 - Inter Miami CF 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

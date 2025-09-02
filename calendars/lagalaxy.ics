@@ -336,12 +336,12 @@ DESCRIPTION:Leagues Cup\n\nLA Galaxy 0 - Seattle Sounders FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Orlando City
+SUMMARY:LA Galaxy* vs. Orlando City
 DTSTART:20250831T210000Z
 DTEND:20250831T230000Z
 DTSTAMP:20250831T210000Z
 UID:MLS-MAT-00090R
-DESCRIPTION:Leagues Cup\n\nLA Galaxy vs. Orlando City
+DESCRIPTION:Leagues Cup\n\nLA Galaxy 2 - Orlando City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
