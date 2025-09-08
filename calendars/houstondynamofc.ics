@@ -333,12 +333,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Houston Dynamo F
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. LA Galaxy
+SUMMARY:Houston Dynamo FC* vs. LA Galaxy*
 DTSTART:20250907T003000Z
 DTEND:20250907T023000Z
 DTSTAMP:20250907T003000Z
 UID:MLS-MAT-00063M
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - LA Galaxy 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

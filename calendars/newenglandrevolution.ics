@@ -308,13 +308,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Charlotte F
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. New England Revolution
+SUMMARY:Chicago Fire FC* vs. New England Revolution
 DTSTART:20250907T003000Z
 DTEND:20250907T023000Z
 DTSTAMP:20250907T003000Z
 UID:MLS-MAT-00065G
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New England Revolu
- tion
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - New England Revolu
+ tion 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

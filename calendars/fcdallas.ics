@@ -273,12 +273,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Los Angeles FC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. FC Dallas
+SUMMARY:St. Louis City SC* vs. FC Dallas*
 DTSTART:20250907T003000Z
 DTEND:20250907T023000Z
 DTSTAMP:20250907T003000Z
 UID:MLS-MAT-00065H
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - FC Dallas 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
