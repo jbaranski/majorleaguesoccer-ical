@@ -316,12 +316,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 4 - Colorado Rapi
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Austin FC
+SUMMARY:Sporting Kansas City vs. Austin FC*
 DTSTART:20250907T230000Z
 DTEND:20250908T010000Z
 DTSTAMP:20250907T230000Z
 UID:MLS-MAT-00065I
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Austin FC 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
