@@ -359,12 +359,12 @@ DESCRIPTION:Leagues Cup\n\nLA Galaxy 2 - Orlando City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Orlando City
+SUMMARY:D.C. United* vs. Orlando City*
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065M
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Orlando City 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

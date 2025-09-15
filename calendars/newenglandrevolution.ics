@@ -318,12 +318,13 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - New England Revolu
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Toronto FC
+SUMMARY:New England Revolution* vs. Toronto FC*
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065O
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Toronto FC 
+ 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

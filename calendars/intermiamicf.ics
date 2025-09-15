@@ -442,12 +442,12 @@ DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 3 - Inter Miami CF 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Inter Miami CF
+SUMMARY:Charlotte FC* vs. Inter Miami CF
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065K
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Inter Miami CF 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

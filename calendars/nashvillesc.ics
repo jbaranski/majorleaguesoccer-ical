@@ -319,12 +319,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - Atlanta United 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Nashville SC
+SUMMARY:FC Cincinnati* vs. Nashville SC
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065L
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Nashville SC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

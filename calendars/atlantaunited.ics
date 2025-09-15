@@ -296,12 +296,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - Atlanta United 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Columbus Crew
+SUMMARY:Atlanta United vs. Columbus Crew*
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065J
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 4 - Columbus Crew 5
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

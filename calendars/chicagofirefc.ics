@@ -297,12 +297,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - New England Revolu
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. New York City FC
+SUMMARY:Chicago Fire FC vs. New York City FC*
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 DTSTAMP:20250914T003000Z
 UID:MLS-MAT-00065P
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New York City FC 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

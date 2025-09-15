@@ -354,12 +354,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - LA Galaxy 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. LA Galaxy
+SUMMARY:Seattle Sounders FC* vs. LA Galaxy*
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 DTSTAMP:20250914T003000Z
 UID:MLS-MAT-00065R
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - LA Galaxy 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

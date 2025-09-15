@@ -324,13 +324,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 3 - San Jose Earthquakes 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Los Angeles FC
+SUMMARY:San Jose Earthquakes vs. Los Angeles FC*
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 DTSTAMP:20250914T003000Z
 UID:MLS-MAT-00065W
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Los Angeles F
- C
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Los Angeles F
+ C 4
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT

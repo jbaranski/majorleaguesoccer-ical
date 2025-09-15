@@ -300,12 +300,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Austin FC 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Austin FC
+SUMMARY:FC Dallas* vs. Austin FC
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 DTSTAMP:20250914T003000Z
 UID:MLS-MAT-00065Q
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Austin FC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

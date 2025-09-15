@@ -396,12 +396,12 @@ DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 3 - Inter Miami CF 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. LA Galaxy
+SUMMARY:Seattle Sounders FC* vs. LA Galaxy*
 DTSTART:20250914T003000Z
 DTEND:20250914T023000Z
 DTSTAMP:20250914T003000Z
 UID:MLS-MAT-00065R
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - LA Galaxy 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

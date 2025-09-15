@@ -307,12 +307,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - FC Dallas 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. St. Louis City SC
+SUMMARY:CF Montreal vs. St. Louis City SC*
 DTSTART:20250913T233000Z
 DTEND:20250914T013000Z
 DTSTAMP:20250913T233000Z
 UID:MLS-MAT-00065N
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - St. Louis City SC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
