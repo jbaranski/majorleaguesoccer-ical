@@ -325,13 +325,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Austin FC 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Sporting Kansas City
+SUMMARY:Real Salt Lake* vs. Sporting Kansas City
 DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
 DTSTAMP:20250914T013000Z
 UID:MLS-MAT-00065T
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Sporting Kansas Cit
+ y 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

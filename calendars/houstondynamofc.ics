@@ -342,12 +342,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - LA Galaxy 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Houston Dynamo FC
+SUMMARY:Colorado Rapids* vs. Houston Dynamo FC
 DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
 DTSTAMP:20250914T013000Z
 UID:MLS-MAT-00065S
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Houston Dynamo FC 
+ 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

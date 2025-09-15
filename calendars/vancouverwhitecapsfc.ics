@@ -393,13 +393,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - St. Louis C
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Philadelphia Union
+SUMMARY:Vancouver Whitecaps FC* vs. Philadelphia Union
 DTSTART:20250914T013500Z
 DTEND:20250914T033500Z
 DTSTAMP:20250914T013500Z
 UID:MLS-MAT-00065X
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Philadelphi
- a Union
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 7 - Philadelphi
+ a Union 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

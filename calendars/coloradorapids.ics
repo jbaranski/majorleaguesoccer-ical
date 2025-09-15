@@ -331,12 +331,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 4 - Colorado Rapi
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Houston Dynamo FC
+SUMMARY:Colorado Rapids* vs. Houston Dynamo FC
 DTSTART:20250914T013000Z
 DTEND:20250914T033000Z
 DTSTAMP:20250914T013000Z
 UID:MLS-MAT-00065S
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Houston Dynamo FC 
+ 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
