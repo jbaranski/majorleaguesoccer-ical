@@ -343,12 +343,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 7 - Philadelphi
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Philadelphia Union
+SUMMARY:Nashville SC* vs. Philadelphia Union
 DTSTART:20250917T000000Z
 DTEND:20250917T020000Z
 DTSTAMP:20250917T000000Z
 UID:MLS-MAT-000959
-DESCRIPTION:U.S. Open Cup\n\nNashville SC vs. Philadelphia Union
+DESCRIPTION:U.S. Open Cup\n\nNashville SC 3 - Philadelphia Union 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

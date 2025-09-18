@@ -451,12 +451,13 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Inter Miami CF 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Seattle Sounders FC
+SUMMARY:Inter Miami CF* vs. Seattle Sounders FC
 DTSTART:20250916T233000Z
 DTEND:20250917T013000Z
 DTSTAMP:20250916T233000Z
 UID:MLS-MAT-00065Y
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Seattle Sounders FC
+  1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
