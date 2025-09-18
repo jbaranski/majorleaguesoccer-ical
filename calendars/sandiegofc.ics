@@ -322,12 +322,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Minnesota United 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Tijuana
+SUMMARY:San Diego FC vs. Club Tijuana (result unknown)
 DTSTART:20250917T020000Z
 DTEND:20250917T040000Z
 DTSTAMP:20250917T020000Z
 UID:MLS-MAT-0006PV
-DESCRIPTION:Club Friendly Matches\n\nSan Diego FC vs. Club Tijuana
+DESCRIPTION:Club Friendly Matches\n\nSan Diego FC ??? - Club Tijuana ???
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

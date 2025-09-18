@@ -403,12 +403,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 7 - Philadelphi
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Forge FC
+SUMMARY:Vancouver Whitecaps FC* vs. Forge FC
 DTSTART:20250917T020000Z
 DTEND:20250917T040000Z
 DTSTAMP:20250917T020000Z
 UID:MLS-MAT-00095D
-DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC vs. Forge FC
+DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC 4 - Forge FC 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
