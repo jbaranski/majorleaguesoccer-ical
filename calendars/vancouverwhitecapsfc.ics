@@ -442,12 +442,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Vancouver Whit
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. TBC Away
+SUMMARY:Vancouver Whitecaps FC vs. Vancouver FC
 DTSTART:20251002T020000Z
 DTEND:20251002T040000Z
 DTSTAMP:20251002T020000Z
 UID:MLS-MAT-0006PX
-DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC vs. TBC Away
+DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC vs. Vancouver 
+ FC
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
