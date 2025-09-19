@@ -394,12 +394,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Los Angeles F
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Los Angeles FC
+SUMMARY:Real Salt Lake vs. Los Angeles FC*
 DTSTART:20250918T013000Z
 DTEND:20250918T033000Z
 DTSTAMP:20250918T013000Z
 UID:MLS-MAT-000619
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Los Angeles FC 4
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
