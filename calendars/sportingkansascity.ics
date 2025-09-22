@@ -335,13 +335,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Sporting Kansas Cit
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Vancouver Whitecaps FC
+SUMMARY:Sporting Kansas City vs. Vancouver Whitecaps FC*
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 DTSTAMP:20250921T003000Z
 UID:MLS-MAT-000669
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Vancouver Whi
- tecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Vancouver Whi
+ tecaps FC 2
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

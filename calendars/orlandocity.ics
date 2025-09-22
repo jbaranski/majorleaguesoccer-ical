@@ -368,12 +368,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Orlando City 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Nashville SC
+SUMMARY:Orlando City* vs. Nashville SC
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
 UID:MLS-MAT-000665
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Nashville SC 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

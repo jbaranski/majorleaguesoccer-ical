@@ -340,12 +340,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - St. Louis City SC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York Red Bulls
+SUMMARY:CF Montreal vs. New York Red Bulls*
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
 UID:MLS-MAT-000664
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - New York Red Bulls 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

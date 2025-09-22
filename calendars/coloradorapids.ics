@@ -341,12 +341,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Houston Dynamo FC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Colorado Rapids
+SUMMARY:FC Dallas* vs. Colorado Rapids
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 DTSTAMP:20250921T003000Z
 UID:MLS-MAT-000667
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Colorado Rapids 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

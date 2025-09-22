@@ -306,12 +306,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New York City FC 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Chicago Fire FC
+SUMMARY:Minnesota United vs. Chicago Fire FC*
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 DTSTAMP:20250921T003000Z
 UID:MLS-MAT-00066A
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Chicago Fire FC 3
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

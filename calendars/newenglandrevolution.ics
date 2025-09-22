@@ -328,13 +328,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Toronto FC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New England Revolution
+SUMMARY:Philadelphia Union* vs. New England Revolution
 DTSTART:20250920T183000Z
 DTEND:20250920T203000Z
 DTSTAMP:20250920T183000Z
 UID:MLS-MAT-000660
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New England Rev
- olution
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New England Rev
+ olution 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

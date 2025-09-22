@@ -352,12 +352,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Houston Dynamo FC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Portland Timbers
+SUMMARY:Houston Dynamo FC* vs. Portland Timbers
 DTSTART:20250921T003000Z
 DTEND:20250921T023000Z
 DTSTAMP:20250921T003000Z
 UID:MLS-MAT-000668
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Portland Timbers
+  0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

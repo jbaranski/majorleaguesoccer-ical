@@ -331,12 +331,12 @@ DESCRIPTION:Club Friendly Matches\n\nSan Diego FC ??? - Club Tijuana ???
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. San Diego FC
+SUMMARY:Atlanta United* vs. San Diego FC*
 DTSTART:20250920T203000Z
 DTEND:20250920T223000Z
 DTSTAMP:20250920T203000Z
 UID:MLS-MAT-000661
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - San Diego FC 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

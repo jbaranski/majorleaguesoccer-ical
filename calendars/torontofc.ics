@@ -285,12 +285,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Toronto FC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Toronto FC
+SUMMARY:Columbus Crew* vs. Toronto FC*
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
 UID:MLS-MAT-000662
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Toronto FC 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

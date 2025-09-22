@@ -329,12 +329,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Orlando City 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. D.C. United
+SUMMARY:Inter Miami CF* vs. D.C. United
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
 UID:MLS-MAT-000663
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - D.C. United 2
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
