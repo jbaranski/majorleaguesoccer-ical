@@ -316,13 +316,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - St. Louis City SC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. St. Louis City SC
+SUMMARY:San Jose Earthquakes vs. St. Louis City SC*
 DTSTART:20250921T023000Z
 DTEND:20250921T043000Z
 DTSTAMP:20250921T023000Z
 UID:MLS-MAT-00066C
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. St. Louis Cit
- y SC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - St. Louis Cit
+ y SC 3
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

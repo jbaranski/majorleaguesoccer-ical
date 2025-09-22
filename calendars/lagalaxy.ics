@@ -363,12 +363,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - LA Galaxy 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. FC Cincinnati
+SUMMARY:LA Galaxy vs. FC Cincinnati*
 DTSTART:20250921T023000Z
 DTEND:20250921T043000Z
 DTSTAMP:20250921T023000Z
 UID:MLS-MAT-00066B
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - FC Cincinnati 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
