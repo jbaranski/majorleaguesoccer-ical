@@ -318,12 +318,12 @@ DESCRIPTION:U.S. Open Cup\n\nMinnesota United 1 - Austin FC 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Seattle Sounders FC
+SUMMARY:Austin FC* vs. Seattle Sounders FC
 DTSTART:20250921T230000Z
 DTEND:20250922T010000Z
 DTSTAMP:20250921T230000Z
 UID:MLS-MAT-000666
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Seattle Sounders FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -403,12 +403,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Los Angeles FC 4
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Real Salt Lake
+SUMMARY:Los Angeles FC* vs. Real Salt Lake
 DTSTART:20250922T010000Z
 DTEND:20250922T030000Z
 DTSTAMP:20250922T010000Z
 UID:MLS-MAT-00066D
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 4 - Real Salt Lake 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

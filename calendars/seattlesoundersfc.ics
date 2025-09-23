@@ -415,12 +415,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Seattle Sounders FC
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Seattle Sounders FC
+SUMMARY:Austin FC* vs. Seattle Sounders FC
 DTSTART:20250921T230000Z
 DTEND:20250922T010000Z
 DTSTAMP:20250921T230000Z
 UID:MLS-MAT-000666
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Seattle Sounders FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
