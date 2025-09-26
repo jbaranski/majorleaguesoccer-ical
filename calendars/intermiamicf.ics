@@ -470,12 +470,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - D.C. United 2
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Inter Miami CF
+SUMMARY:New York City FC vs. Inter Miami CF*
 DTSTART:20250924T233000Z
 DTEND:20250925T013000Z
 DTSTAMP:20250924T233000Z
 UID:MLS-MAT-00066E
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Inter Miami CF 4
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
