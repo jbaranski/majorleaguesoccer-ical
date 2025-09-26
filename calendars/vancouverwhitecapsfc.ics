@@ -422,13 +422,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Vancouver Whi
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
+SUMMARY:Vancouver Whitecaps FC* vs. Portland Timbers*
 DTSTART:20250925T023000Z
 DTEND:20250925T043000Z
 DTSTAMP:20250925T023000Z
 UID:MLS-MAT-00060G
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
- mbers
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Portland Ti
+ mbers 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
