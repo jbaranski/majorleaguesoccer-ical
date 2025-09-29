@@ -372,12 +372,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - FC Cincinnati 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Sporting Kansas City
+SUMMARY:LA Galaxy* vs. Sporting Kansas City
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066Q
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 4 - Sporting Kansas City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

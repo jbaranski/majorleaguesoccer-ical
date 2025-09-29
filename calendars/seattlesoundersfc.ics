@@ -424,13 +424,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Seattle Sounders FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
+SUMMARY:Seattle Sounders FC* vs. Vancouver Whitecaps FC*
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066T
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Vancouver Whit
- ecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Vancouver Whit
+ ecaps FC 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

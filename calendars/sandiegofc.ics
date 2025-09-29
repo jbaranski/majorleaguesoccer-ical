@@ -340,12 +340,13 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - San Diego FC 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. San Jose Earthquakes
+SUMMARY:San Diego FC vs. San Jose Earthquakes*
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066S
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - San Jose Earthquakes 
+ 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

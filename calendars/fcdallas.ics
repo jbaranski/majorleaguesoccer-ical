@@ -300,12 +300,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Colorado Rapids 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. FC Dallas
+SUMMARY:Portland Timbers* vs. FC Dallas*
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066R
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - FC Dallas 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

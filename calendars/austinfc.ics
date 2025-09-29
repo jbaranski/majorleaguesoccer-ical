@@ -327,12 +327,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Seattle Sounders FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Austin FC
+SUMMARY:Real Salt Lake* vs. Austin FC
 DTSTART:20250928T013000Z
 DTEND:20250928T033000Z
 DTSTAMP:20250928T013000Z
 UID:MLS-MAT-00066P
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - Austin FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

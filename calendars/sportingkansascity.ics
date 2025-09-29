@@ -345,12 +345,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Vancouver Whi
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Sporting Kansas City
+SUMMARY:LA Galaxy* vs. Sporting Kansas City
 DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066Q
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 4 - Sporting Kansas City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
