@@ -362,12 +362,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New England Rev
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Philadelphia Union
+SUMMARY:D.C. United vs. Philadelphia Union*
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 DTSTAMP:20250927T233000Z
 UID:MLS-MAT-00066I
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Philadelphia Union 6
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

@@ -349,12 +349,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - New York Red Bulls 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. CF Montreal
+SUMMARY:Charlotte FC vs. CF Montreal*
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 DTSTAMP:20250927T233000Z
 UID:MLS-MAT-00066H
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - CF Montreal 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

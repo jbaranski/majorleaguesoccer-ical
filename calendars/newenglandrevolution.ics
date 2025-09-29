@@ -338,13 +338,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New England Rev
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Atlanta United
+SUMMARY:New England Revolution* vs. Atlanta United
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 DTSTAMP:20250927T233000Z
 UID:MLS-MAT-00066J
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Atlanta Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Atlanta Uni
+ ted 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

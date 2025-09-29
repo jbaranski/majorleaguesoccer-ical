@@ -334,13 +334,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Inter Miami CF 4
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New York City FC
+SUMMARY:New York Red Bulls vs. New York City FC*
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 DTSTAMP:20250927T233000Z
 UID:MLS-MAT-00066K
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New York City F
- C
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - New York City F
+ C 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

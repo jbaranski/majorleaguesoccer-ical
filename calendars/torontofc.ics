@@ -294,12 +294,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Toronto FC 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Inter Miami CF
+SUMMARY:Toronto FC* vs. Inter Miami CF*
 DTSTART:20250927T203000Z
 DTEND:20250927T223000Z
 DTSTAMP:20250927T203000Z
 UID:MLS-MAT-00066G
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Inter Miami CF 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

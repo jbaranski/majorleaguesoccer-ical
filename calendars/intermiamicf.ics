@@ -479,12 +479,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Inter Miami CF 4
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Inter Miami CF
+SUMMARY:Toronto FC* vs. Inter Miami CF*
 DTSTART:20250927T203000Z
 DTEND:20250927T223000Z
 DTSTAMP:20250927T203000Z
 UID:MLS-MAT-00066G
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Inter Miami CF 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

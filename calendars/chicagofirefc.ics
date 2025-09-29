@@ -315,12 +315,12 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Chicago Fire FC 3
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Columbus Crew
+SUMMARY:Chicago Fire FC* vs. Columbus Crew
 DTSTART:20250928T003000Z
 DTEND:20250928T023000Z
 DTSTAMP:20250928T003000Z
 UID:MLS-MAT-00066L
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Columbus Crew 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

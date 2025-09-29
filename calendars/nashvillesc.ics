@@ -346,12 +346,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Nashville SC 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Houston Dynamo FC
+SUMMARY:Nashville SC* vs. Houston Dynamo FC
 DTSTART:20250928T003000Z
 DTEND:20250928T023000Z
 DTSTAMP:20250928T003000Z
 UID:MLS-MAT-00066M
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Houston Dynamo FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

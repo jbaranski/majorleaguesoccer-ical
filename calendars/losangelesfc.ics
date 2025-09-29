@@ -412,12 +412,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 4 - Real Salt Lake 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Los Angeles FC
+SUMMARY:St. Louis City SC vs. Los Angeles FC*
 DTSTART:20250928T003000Z
 DTEND:20250928T023000Z
 DTSTAMP:20250928T003000Z
 UID:MLS-MAT-00066N
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Los Angeles FC 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
