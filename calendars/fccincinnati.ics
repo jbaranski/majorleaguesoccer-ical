@@ -358,12 +358,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - FC Cincinnati 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Orlando City
+SUMMARY:FC Cincinnati* vs. Orlando City*
 DTSTART:20250928T230000Z
 DTEND:20250929T010000Z
 DTSTAMP:20250928T230000Z
 UID:MLS-MAT-00066F
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - Orlando City 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
