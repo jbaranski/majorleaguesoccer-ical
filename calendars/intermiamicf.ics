@@ -488,12 +488,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Inter Miami CF 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Chicago Fire FC
+SUMMARY:Inter Miami CF vs. Chicago Fire FC*
 DTSTART:20250930T233000Z
 DTEND:20251001T013000Z
 DTSTAMP:20250930T233000Z
 UID:MLS-MAT-000652
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Chicago Fire FC 5
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
