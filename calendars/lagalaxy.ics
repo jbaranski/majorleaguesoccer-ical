@@ -381,12 +381,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 4 - Sporting Kansas City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Toluca FC
+SUMMARY:LA Galaxy vs. Toluca FC*
 DTSTART:20251002T023000Z
 DTEND:20251002T043000Z
 DTSTAMP:20251002T023000Z
 UID:MLS-MAT-00095O
-DESCRIPTION:Campeones Cup\n\nLA Galaxy vs. Toluca FC
+DESCRIPTION:Campeones Cup\n\nLA Galaxy 2 - Toluca FC 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
