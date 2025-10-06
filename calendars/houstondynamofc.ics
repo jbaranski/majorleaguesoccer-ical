@@ -371,12 +371,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Houston Dynamo FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. San Diego FC
+SUMMARY:Houston Dynamo FC vs. San Diego FC*
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
 DTSTAMP:20251005T003000Z
 UID:MLS-MAT-000673
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - San Diego FC 4
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

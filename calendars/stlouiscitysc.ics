@@ -335,12 +335,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Los Angeles FC 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. St. Louis City SC
+SUMMARY:Austin FC vs. St. Louis City SC*
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
 DTSTAMP:20251005T003000Z
 UID:MLS-MAT-000671
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - St. Louis City SC 3
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

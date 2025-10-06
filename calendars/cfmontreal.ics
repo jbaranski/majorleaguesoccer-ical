@@ -358,12 +358,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - CF Montreal 4
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Nashville SC
+SUMMARY:CF Montreal* vs. Nashville SC*
 DTSTART:20251004T183000Z
 DTEND:20251004T203000Z
 DTSTAMP:20251004T183000Z
 UID:MLS-MAT-00066X
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Nashville SC 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

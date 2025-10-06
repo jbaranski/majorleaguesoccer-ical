@@ -390,12 +390,12 @@ DESCRIPTION:Campeones Cup\n\nLA Galaxy 2 - Toluca FC 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. LA Galaxy
+SUMMARY:FC Dallas* vs. LA Galaxy
 DTSTART:20251004T203000Z
 DTEND:20251004T223000Z
 DTSTAMP:20251004T203000Z
 UID:MLS-MAT-00066V
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - LA Galaxy 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

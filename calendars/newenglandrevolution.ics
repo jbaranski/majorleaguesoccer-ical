@@ -348,13 +348,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Atlanta Uni
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New England Revolution
+SUMMARY:Inter Miami CF* vs. New England Revolution
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
 DTSTAMP:20251004T233000Z
 UID:MLS-MAT-00066W
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New England Revolut
- ion
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New England Revolut
+ ion 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

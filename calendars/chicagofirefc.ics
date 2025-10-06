@@ -333,12 +333,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Chicago Fire FC 5
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Toronto FC
+SUMMARY:Chicago Fire FC* vs. Toronto FC*
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
 DTSTAMP:20251005T003000Z
 UID:MLS-MAT-000672
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Toronto FC 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

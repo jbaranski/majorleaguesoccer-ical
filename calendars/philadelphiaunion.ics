@@ -371,13 +371,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Philadelphia Union 6
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York City FC
+SUMMARY:Philadelphia Union* vs. New York City FC
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
 DTSTAMP:20251004T233000Z
 UID:MLS-MAT-000670
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
- C
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New York City F
+ C 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

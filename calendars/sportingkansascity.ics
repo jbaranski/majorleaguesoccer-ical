@@ -354,13 +354,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 4 - Sporting Kansas City 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Sporting Kansas City
+SUMMARY:Minnesota United* vs. Sporting Kansas City
 DTSTART:20251005T003000Z
 DTEND:20251005T023000Z
 DTSTAMP:20251005T003000Z
 UID:MLS-MAT-000674
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Sporting Kansas C
- ity
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - Sporting Kansas C
+ ity 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

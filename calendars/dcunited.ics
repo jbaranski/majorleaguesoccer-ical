@@ -347,12 +347,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Philadelphia Union 6
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Charlotte FC
+SUMMARY:D.C. United vs. Charlotte FC*
 DTSTART:20251004T183000Z
 DTEND:20251004T203000Z
 DTSTAMP:20251004T183000Z
 UID:MLS-MAT-00066U
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Charlotte FC 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

@@ -373,12 +373,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - New York City F
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. FC Cincinnati
+SUMMARY:New York Red Bulls vs. FC Cincinnati*
 DTSTART:20251004T233000Z
 DTEND:20251005T013000Z
 DTSTAMP:20251004T233000Z
 UID:MLS-MAT-00066Y
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 0 - FC Cincinnati 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
