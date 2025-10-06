@@ -434,13 +434,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Vancouver Whit
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Portland Timbers
+SUMMARY:Seattle Sounders FC* vs. Portland Timbers
 DTSTART:20251005T023000Z
 DTEND:20251005T043000Z
 DTSTAMP:20251005T023000Z
 UID:MLS-MAT-000676
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Portland Timbe
- rs
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Portland Timbe
+ rs 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

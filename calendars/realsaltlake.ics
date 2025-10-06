@@ -345,12 +345,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - Austin FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Colorado Rapids
+SUMMARY:Real Salt Lake* vs. Colorado Rapids
 DTSTART:20251005T013000Z
 DTEND:20251005T033000Z
 DTSTAMP:20251005T013000Z
 UID:MLS-MAT-000675
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Colorado Rapids 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
