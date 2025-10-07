@@ -452,13 +452,13 @@ DESCRIPTION:Canadian Championship\n\nVancouver Whitecaps FC 4 - Vancouver
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. San Jose Earthquakes
+SUMMARY:Vancouver Whitecaps FC* vs. San Jose Earthquakes
 DTSTART:20251005T220000Z
 DTEND:20251006T000000Z
 DTSTAMP:20251005T220000Z
 UID:MLS-MAT-000678
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. San Jose Ea
- rthquakes
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 4 - San Jose Ea
+ rthquakes 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

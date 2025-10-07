@@ -324,12 +324,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Atlanta Uni
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Atlanta United
+SUMMARY:Los Angeles FC* vs. Atlanta United
 DTSTART:20251006T010000Z
 DTEND:20251006T030000Z
 DTSTAMP:20251006T010000Z
 UID:MLS-MAT-000677
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Atlanta United 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
