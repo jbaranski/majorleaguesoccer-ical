@@ -430,12 +430,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Atlanta United 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Toronto FC
+SUMMARY:Los Angeles FC* vs. Toronto FC
 DTSTART:20251009T023000Z
 DTEND:20251009T043000Z
 DTSTAMP:20251009T023000Z
 UID:MLS-MAT-00060M
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - Toronto FC 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
