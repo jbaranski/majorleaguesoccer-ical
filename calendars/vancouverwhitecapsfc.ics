@@ -462,13 +462,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 4 - San Jose Ea
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Vancouver Whitecaps FC
+SUMMARY:Orlando City vs. Vancouver Whitecaps FC*
 DTSTART:20251011T233000Z
 DTEND:20251012T013000Z
 DTSTAMP:20251011T233000Z
 UID:MLS-MAT-000656
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Vancouver Whitecaps F
- C
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Vancouver Whitecaps F
+ C 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

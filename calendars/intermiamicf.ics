@@ -507,12 +507,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New England Revolut
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Atlanta United
+SUMMARY:Inter Miami CF* vs. Atlanta United
 DTSTART:20251011T233000Z
 DTEND:20251012T013000Z
 DTSTAMP:20251011T233000Z
 UID:MLS-MAT-00061C
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - Atlanta United 0
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
