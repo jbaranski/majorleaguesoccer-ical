@@ -354,12 +354,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Colorado Rapids 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Real Salt Lake
+SUMMARY:Seattle Sounders FC* vs. Real Salt Lake
 DTSTART:20251012T013000Z
 DTEND:20251012T033000Z
 DTSTAMP:20251012T013000Z
 UID:MLS-MAT-00065F
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Real Salt Lake
+  0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

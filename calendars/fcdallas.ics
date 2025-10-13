@@ -318,12 +318,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - LA Galaxy 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. FC Dallas
+SUMMARY:LA Galaxy* vs. FC Dallas
 DTSTART:20251012T023000Z
 DTEND:20251012T043000Z
 DTSTAMP:20251012T023000Z
 UID:MLS-MAT-00065D
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - FC Dallas 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
