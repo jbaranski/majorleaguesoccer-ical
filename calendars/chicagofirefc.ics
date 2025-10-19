@@ -351,4 +351,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Chicago Fir
  e FC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. Orlando City
+DTSTART:20251022T160000Z
+DTEND:20251022T180000Z
+DTSTAMP:20251022T160000Z
+UID:MLS-MAT-00098R
+DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Orlando City
+LOCATION:TBC\, unknown
+END:VEVENT
 END:VCALENDAR
