@@ -370,12 +370,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Portland Timbe
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Diego FC
+SUMMARY:Portland Timbers vs. San Diego FC*
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 DTSTAMP:20251019T010000Z
 UID:MLS-MAT-00067K
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - San Diego FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

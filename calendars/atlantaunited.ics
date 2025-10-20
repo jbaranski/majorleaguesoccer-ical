@@ -342,12 +342,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - Atlanta United 0
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. D.C. United
+SUMMARY:Atlanta United* vs. D.C. United*
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 DTSTAMP:20251018T220000Z
 UID:MLS-MAT-000679
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - D.C. United 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 END:VCALENDAR

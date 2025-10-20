@@ -367,12 +367,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Nashville SC 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. CF Montreal
+SUMMARY:FC Cincinnati* vs. CF Montreal
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 DTSTAMP:20251018T220000Z
 UID:MLS-MAT-00067B
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - CF Montreal 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR

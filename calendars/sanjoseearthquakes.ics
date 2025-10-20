@@ -364,12 +364,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 4 - San Jose Ea
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Austin FC
+SUMMARY:San Jose Earthquakes* vs. Austin FC
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 DTSTAMP:20251019T010000Z
 UID:MLS-MAT-00067L
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Austin FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 END:VCALENDAR

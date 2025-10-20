@@ -321,12 +321,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - Toronto FC 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Orlando City
+SUMMARY:Toronto FC* vs. Orlando City
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 DTSTAMP:20251018T220000Z
 UID:MLS-MAT-00067G
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 4 - Orlando City 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 END:VCALENDAR

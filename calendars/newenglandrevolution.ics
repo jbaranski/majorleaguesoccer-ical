@@ -358,13 +358,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New England Revolut
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Chicago Fire FC
+SUMMARY:New England Revolution* vs. Chicago Fire FC*
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 DTSTAMP:20251018T220000Z
 UID:MLS-MAT-00067E
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Chicago Fir
- e FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Chicago Fir
+ e FC 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 END:VCALENDAR

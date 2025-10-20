@@ -380,13 +380,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - San Diego FC 4
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Houston Dynamo FC
+SUMMARY:Sporting Kansas City* vs. Houston Dynamo FC*
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 DTSTAMP:20251019T010000Z
 UID:MLS-MAT-00067I
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Houston Dynam
- o FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Houston Dynam
+ o FC 0
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 END:VCALENDAR

@@ -368,12 +368,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Colorado Rapids 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Los Angeles FC
+SUMMARY:Colorado Rapids* vs. Los Angeles FC*
 DTSTART:20251019T010000Z
 DTEND:20251019T030000Z
 DTSTAMP:20251019T010000Z
 UID:MLS-MAT-00067H
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Los Angeles FC 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 END:VCALENDAR
