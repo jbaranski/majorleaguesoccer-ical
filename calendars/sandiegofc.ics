@@ -368,30 +368,30 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - San Diego FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. TBC Away
+SUMMARY:San Diego FC vs. Portland Timbers
 DTSTART:20251027T013000Z
 DTEND:20251027T033000Z
 DTSTAMP:20251027T013000Z
 UID:MLS-MAT-00098S
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Portland Timbers
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. San Diego FC
+SUMMARY:Portland Timbers vs. San Diego FC
 DTSTART:20251102T013000Z
 DTEND:20251102T033000Z
 DTSTAMP:20251102T013000Z
 UID:MLS-MAT-00098W
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. San Diego FC
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nPortland Timbers vs. San Diego FC
+LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. TBC Away
+SUMMARY:San Diego FC vs. Portland Timbers
 DTSTART:20251109T170000Z
 DTEND:20251109T190000Z
 DTSTAMP:20251109T170000Z
 UID:MLS-MAT-00098X
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Portland Timbers
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 END:VCALENDAR

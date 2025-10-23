@@ -390,30 +390,30 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Philadelphia Union 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. TBC Away
+SUMMARY:Philadelphia Union vs. Chicago Fire FC
 DTSTART:20251026T213000Z
 DTEND:20251026T233000Z
 DTSTAMP:20251026T213000Z
 UID:MLS-MAT-000997
-DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. Chicago Fire FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Philadelphia Union
+SUMMARY:Chicago Fire FC vs. Philadelphia Union
 DTSTART:20251101T213000Z
 DTEND:20251101T233000Z
 DTSTAMP:20251101T213000Z
 UID:MLS-MAT-000998
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. Philadelphia Union
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Philadelphia Union
+LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. TBC Away
+SUMMARY:Philadelphia Union vs. Chicago Fire FC
 DTSTART:20251108T170000Z
 DTEND:20251108T190000Z
 DTSTAMP:20251108T170000Z
 UID:MLS-MAT-000999
-DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. Chicago Fire FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 END:VCALENDAR
