@@ -379,12 +379,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - San Diego FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Real Salt Lake
+SUMMARY:Portland Timbers* vs. Real Salt Lake
 DTSTART:20251023T023000Z
 DTEND:20251023T043000Z
 DTSTAMP:20251023T023000Z
 UID:MLS-MAT-00098Q
-DESCRIPTION:MLS - Cup Playoffs\n\nPortland Timbers vs. Real Salt Lake
+DESCRIPTION:MLS - Cup Playoffs\n\nPortland Timbers 3 - Real Salt Lake 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
