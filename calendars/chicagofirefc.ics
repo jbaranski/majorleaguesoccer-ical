@@ -352,12 +352,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Chicago Fir
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Orlando City
+SUMMARY:Chicago Fire FC* vs. Orlando City
 DTSTART:20251023T003000Z
 DTEND:20251023T023000Z
 DTSTAMP:20251023T003000Z
 UID:MLS-MAT-00098R
-DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Orlando City
+DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC 3 - Orlando City 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

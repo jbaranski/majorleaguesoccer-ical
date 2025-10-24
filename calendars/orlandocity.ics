@@ -414,12 +414,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 4 - Orlando City 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Orlando City
+SUMMARY:Chicago Fire FC* vs. Orlando City
 DTSTART:20251023T003000Z
 DTEND:20251023T023000Z
 DTSTAMP:20251023T003000Z
 UID:MLS-MAT-00098R
-DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Orlando City
+DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC 3 - Orlando City 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 END:VCALENDAR
