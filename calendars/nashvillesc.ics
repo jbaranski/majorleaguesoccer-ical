@@ -382,12 +382,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Inter Miami CF 5
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC
 DTSTART:20251025T000000Z
 DTEND:20251025T020000Z
 DTSTAMP:20251025T000000Z
 UID:MLS-MAT-00099D
-DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 3 - Nashville SC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
