@@ -368,12 +368,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - San Diego FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Portland Timbers
+SUMMARY:San Diego FC* vs. Portland Timbers
 DTSTART:20251027T013000Z
 DTEND:20251027T033000Z
 DTSTAMP:20251027T013000Z
 UID:MLS-MAT-00098S
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Portland Timbers
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 2 - Portland Timbers 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
