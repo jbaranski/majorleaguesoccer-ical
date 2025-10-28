@@ -481,12 +481,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - FC Dallas 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. FC Dallas
+SUMMARY:Vancouver Whitecaps FC* vs. FC Dallas
 DTSTART:20251026T233000Z
 DTEND:20251027T013000Z
 DTSTAMP:20251026T233000Z
 UID:MLS-MAT-000994
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. FC Dallas
+DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC 3 - FC Dallas 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

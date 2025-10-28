@@ -361,12 +361,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC 3 - Orlando City 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Chicago Fire FC
+SUMMARY:Philadelphia Union* vs. Chicago Fire FC
 DTSTART:20251026T213000Z
 DTEND:20251026T233000Z
 DTSTAMP:20251026T213000Z
 UID:MLS-MAT-000997
-DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. Chicago Fire FC
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union 2 (penalties: 4) - Ch
+ icago Fire FC 2 (penalties: 2)
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
