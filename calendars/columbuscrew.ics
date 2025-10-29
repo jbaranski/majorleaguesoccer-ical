@@ -368,12 +368,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - New York Red Bulls 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Columbus Crew
+SUMMARY:FC Cincinnati* vs. Columbus Crew
 DTSTART:20251027T224500Z
 DTEND:20251028T004500Z
 DTSTAMP:20251027T224500Z
 UID:MLS-MAT-00099G
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati vs. Columbus Crew
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati 1 - Columbus Crew 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
