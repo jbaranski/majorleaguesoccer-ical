@@ -364,12 +364,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Seattle Sounders
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. New York City FC
+SUMMARY:Charlotte FC vs. New York City FC*
 DTSTART:20251028T224500Z
 DTEND:20251029T004500Z
 DTSTAMP:20251028T224500Z
 UID:MLS-MAT-00099A
-DESCRIPTION:MLS - Cup Playoffs\n\nCharlotte FC vs. New York City FC
+DESCRIPTION:MLS - Cup Playoffs\n\nCharlotte FC 0 - New York City FC 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
