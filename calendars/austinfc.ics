@@ -372,12 +372,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Austin FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Austin FC
+SUMMARY:Los Angeles FC* vs. Austin FC
 DTSTART:20251030T023000Z
 DTEND:20251030T043000Z
 DTSTAMP:20251030T023000Z
 UID:MLS-MAT-000991
-DESCRIPTION:MLS - Cup Playoffs\n\nLos Angeles FC vs. Austin FC
+DESCRIPTION:MLS - Cup Playoffs\n\nLos Angeles FC 2 - Austin FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
