@@ -379,13 +379,4 @@ UID:MLS-MAT-000998
 DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Philadelphia Union
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Chicago Fire FC
-DTSTART:20251108T170000Z
-DTEND:20251108T190000Z
-DTSTAMP:20251108T170000Z
-UID:MLS-MAT-000999
-DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. Chicago Fire FC
-LOCATION:Subaru Park\, Chester\, PA
-END:VEVENT
 END:VCALENDAR
