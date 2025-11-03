@@ -345,12 +345,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC 3 - FC Dallas 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
+SUMMARY:FC Dallas vs. Vancouver Whitecaps FC*
 DTSTART:20251102T013000Z
 DTEND:20251102T033000Z
 DTSTAMP:20251102T013000Z
 UID:MLS-MAT-000995
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas 1 (penalties: 2) - Vancouver W
+ hitecaps FC 1 (penalties: 4)
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 END:VCALENDAR

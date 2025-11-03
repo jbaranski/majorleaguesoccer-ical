@@ -377,12 +377,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 2 - Portland Timbers 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Diego FC
+SUMMARY:Portland Timbers* vs. San Diego FC
 DTSTART:20251102T013000Z
 DTEND:20251102T033000Z
 DTSTAMP:20251102T013000Z
 UID:MLS-MAT-00098W
-DESCRIPTION:MLS - Cup Playoffs\n\nPortland Timbers vs. San Diego FC
+DESCRIPTION:MLS - Cup Playoffs\n\nPortland Timbers 2 (penalties: 3) - San 
+ Diego FC 2 (penalties: 2)
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
