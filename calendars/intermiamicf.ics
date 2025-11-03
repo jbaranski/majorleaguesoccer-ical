@@ -534,12 +534,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 3 - Nashville SC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Inter Miami CF
+SUMMARY:Nashville SC* vs. Inter Miami CF
 DTSTART:20251101T233000Z
 DTEND:20251102T013000Z
 DTSTAMP:20251101T233000Z
 UID:MLS-MAT-00099E
-DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. Inter Miami CF
+DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC 2 - Inter Miami CF 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
