@@ -409,12 +409,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC 0 - Philadelphia Union 3
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. TBC Away
+SUMMARY:Philadelphia Union vs. New York City FC
 DTSTART:20251123T170000Z
 DTEND:20251123T190000Z
 DTSTAMP:20251123T170000Z
 UID:MLS-MAT-00099L
-DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. New York City FC
 LOCATION:TBC\, unknown
 END:VEVENT
 END:VCALENDAR
