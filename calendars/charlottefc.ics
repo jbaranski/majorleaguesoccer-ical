@@ -388,12 +388,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nNew York City FC 0 (penalties: 6) - Char
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. New York City FC
+SUMMARY:Charlotte FC vs. New York City FC*
 DTSTART:20251108T000000Z
 DTEND:20251108T020000Z
 DTSTAMP:20251108T000000Z
 UID:MLS-MAT-00099C
-DESCRIPTION:MLS - Cup Playoffs\n\nCharlotte FC vs. New York City FC
+DESCRIPTION:MLS - Cup Playoffs\n\nCharlotte FC 1 - New York City FC 3
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 END:VCALENDAR
