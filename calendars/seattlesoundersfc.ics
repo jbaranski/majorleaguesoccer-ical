@@ -484,12 +484,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSeattle Sounders FC 4 - Minnesota United
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Seattle Sounders FC
+SUMMARY:Minnesota United* vs. Seattle Sounders FC
 DTSTART:20251108T210000Z
 DTEND:20251108T230000Z
 DTSTAMP:20251108T210000Z
 UID:MLS-MAT-000990
-DESCRIPTION:MLS - Cup Playoffs\n\nMinnesota United vs. Seattle Sounders FC
+DESCRIPTION:MLS - Cup Playoffs\n\nMinnesota United 3 (penalties: 7) - Seat
+ tle Sounders FC 3 (penalties: 6)
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 END:VCALENDAR

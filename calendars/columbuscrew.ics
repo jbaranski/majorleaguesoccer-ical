@@ -386,12 +386,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nColumbus Crew 4 - FC Cincinnati 0
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Columbus Crew
+SUMMARY:FC Cincinnati* vs. Columbus Crew
 DTSTART:20251108T230000Z
 DTEND:20251109T010000Z
 DTSTAMP:20251108T230000Z
 UID:MLS-MAT-00099I
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati vs. Columbus Crew
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati 2 - Columbus Crew 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
