@@ -412,12 +412,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati 2 - Columbus Crew 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Inter Miami CF
+SUMMARY:FC Cincinnati vs. Inter Miami CF*
 DTSTART:20251123T220000Z
 DTEND:20251124T000000Z
 DTSTAMP:20251123T220000Z
 UID:MLS-MAT-00099M
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati vs. Inter Miami CF
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati 0 - Inter Miami CF 4
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR
