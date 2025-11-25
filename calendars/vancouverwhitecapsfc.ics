@@ -510,12 +510,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC 2 (penalties: 4)
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. TBC Away
+SUMMARY:San Diego FC vs. Vancouver Whitecaps FC
 DTSTART:20251130T020000Z
 DTEND:20251130T040000Z
 DTSTAMP:20251130T020000Z
 UID:MLS-MAT-00099N
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Vancouver Whitecaps FC
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 END:VCALENDAR
