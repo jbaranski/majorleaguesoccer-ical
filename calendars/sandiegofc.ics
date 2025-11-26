@@ -396,12 +396,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 4 - Portland Timbers 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Minnesota United
+SUMMARY:San Diego FC* vs. Minnesota United
 DTSTART:20251125T030000Z
 DTEND:20251125T050000Z
 DTSTAMP:20251125T030000Z
 UID:MLS-MAT-00099J
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Minnesota United
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 1 - Minnesota United 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
