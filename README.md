@@ -1,5 +1,5 @@
 # Major League Soccer iCalendar generator
-Generates an iCalendar file for each Major League Soccer team's fixture schedule for the current 2025-2026 season.
+Generates an iCalendar file for each Major League Soccer team's fixture schedule for the current 2025 and next 2026 season.
 
 
 ### How to subscribe?

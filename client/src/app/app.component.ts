@@ -1,12 +1,14 @@
 import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-root',
-  imports: [],
+  imports: [CommonModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
 export class AppComponent {
+  lastUpdated = '2025-11-27T16:05:46Z';
   teams = [
     'Atlanta United',
     'Austin FC',
