@@ -83,7 +83,7 @@ class FootballCalendarEvent:
 @dataclass()
 class FootballCalendar:
     team_name: str
-    season: int
+    seasons: str
     events: List[FootballCalendarEvent]
     cal: Calendar | None = field(init=False)
     cal_bytes: bytes | None = field(init=False)
@@ -93,10 +93,10 @@ class FootballCalendar:
         self.cal_bytes = None
 
     @staticmethod
-    def to_football_calendar(team_name: str, season: int, events: List[FootballCalendarEvent]):
+    def to_football_calendar(team_name: str, seasons: str, events: List[FootballCalendarEvent]):
         return FootballCalendar(
             team_name=team_name,
-            season=season,
+            seasons=seasons,
             events=events
         )
 
@@ -106,8 +106,8 @@ class FootballCalendar:
             cal = Calendar()
             # https://en.wikipedia.org/wiki/ICalendar
             cal.add('X-WR-CALNAME', self.team_name)
-            cal.add('X-WR-CALDESC', f'All {self.team_name} fixtures for {self.season} season')
-            cal.add('X-WR-RELCALID', f'{team_name_modified}-{self.season}'.replace(' ', ''))
+            cal.add('X-WR-CALDESC', f'All {self.team_name} fixtures for {self.seasons} season')
+            cal.add('X-WR-RELCALID', f'{team_name_modified}-{self.seasons}'.replace(' ', ''))
             cal.add('X-PUBLISHED-TTL', 'PT6H')
             cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}.ics')
             cal.add('METHOD', 'PUBLISH')

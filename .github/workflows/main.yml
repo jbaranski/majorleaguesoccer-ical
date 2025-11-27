@@ -22,8 +22,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Generate calendar files
         env:
-          SEASON: ${{ vars.SEASON }}
-          SEASON_YEAR: ${{ vars.SEASON_YEAR }}
+          SEASONS: ${{ vars.SEASONS }}
           LEAGUE: ${{ vars.LEAGUE }}
           OUTPUT_ROOT: ${{ github.workspace }}
           NUM_TEAMS_EXPECTED: ${{ vars.NUM_TEAMS_EXPECTED }}
