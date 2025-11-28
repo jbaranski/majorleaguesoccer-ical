@@ -58,16 +58,46 @@
         font-size: 11px !important;
       }
     }
+
+    @media print {
+      body {
+        font-size: 10px;
+      }
+      .ch-plugin-calendar-label-text {
+        font-size: 8px !important;
+      }
+      .flex-col.items-center.gap-10 {
+        transform: scale(0.7);
+        transform-origin: top center;
+        height: 70%; /* Adjust container height to account for scaling */
+      }
+      #list-separator {
+        margin: 0;
+      }
+      #game-list {
+        gap: 0;
+      }
+      #game-list > div {
+        font-size: 10px;
+        padding: 0;
+      }
+    }
   </style>
 </head>
 <body class="bg-gray-50">
   <div class="container mx-auto px-4 py-8 max-w-7xl">
-    <h1 class="text-3xl font-bold text-center mb-8">San Diego FC 2026 Season Heatmap</h1>
+    <h1 class="text-3xl font-bold text-center mb-8">San Diego FC 2026</h1>
     <div class="flex flex-col items-center gap-10">
       <div id="cal-1"></div>
       <div id="cal-2"></div>
       <div id="cal-3"></div>
       <div id="cal-4"></div>
+    </div>
+
+    <hr id="list-separator" class="my-8 border-gray-300">
+
+    <div id="game-list" class="grid grid-cols-2 md:grid-cols-5 gap-x-8 gap-y-4">
+      <!-- Game list will be injected here by JavaScript -->
     </div>
 
   </div>
@@ -517,7 +547,7 @@ DTSTART:20250518T023000Z
 DTEND:20250518T043000Z
 DTSTAMP:20250518T023000Z
 UID:MLS-MAT-0005Z8
-DESCRIPTION:MLS - Regular Season\\n\\nSan Diego FC 0 - Sporting Kansas City 
+DESCRIPTION:MLS - Regular Season\\n\\nSan Diego FC 0 - Sporting Kansas City
  0
 LOCATION:Snapdragon Stadium\\, San Diego
 END:VEVENT
@@ -664,7 +694,7 @@ DTSTART:20250810T004500Z
 DTEND:20250810T024500Z
 DTSTAMP:20250810T004500Z
 UID:MLS-MAT-000641
-DESCRIPTION:MLS - Regular Season\\n\\nSporting Kansas City 0 - San Diego FC 
+DESCRIPTION:MLS - Regular Season\\n\\nSporting Kansas City 0 - San Diego FC
  2
 LOCATION:Children's Mercy Park\\, Kansas City\\, KS
 END:VEVENT
@@ -674,7 +704,7 @@ DTSTART:20250817T230000Z
 DTEND:20250818T010000Z
 DTSTAMP:20250817T230000Z
 UID:MLS-MAT-00064L
-DESCRIPTION:MLS - Regular Season\\n\\nSan Jose Earthquakes 1 - San Diego FC 
+DESCRIPTION:MLS - Regular Season\\n\\nSan Jose Earthquakes 1 - San Diego FC
  2
 LOCATION:PayPal Park\\, San Jose\\, CA
 END:VEVENT
@@ -729,7 +759,7 @@ DTSTART:20250928T023000Z
 DTEND:20250928T043000Z
 DTSTAMP:20250928T023000Z
 UID:MLS-MAT-00066S
-DESCRIPTION:MLS - Regular Season\\n\\nSan Diego FC 0 - San Jose Earthquakes 
+DESCRIPTION:MLS - Regular Season\\n\\nSan Diego FC 0 - San Jose Earthquakes
  1
 LOCATION:Snapdragon Stadium\\, San Diego
 END:VEVENT
@@ -766,7 +796,7 @@ DTSTART:20251102T013000Z
 DTEND:20251102T033000Z
 DTSTAMP:20251102T013000Z
 UID:MLS-MAT-00098W
-DESCRIPTION:MLS - Cup Playoffs\\n\\nPortland Timbers 2 (penalties: 3) - San 
+DESCRIPTION:MLS - Cup Playoffs\\n\\nPortland Timbers 2 (penalties: 3) - San
  Diego FC 2 (penalties: 2)
 LOCATION:Providence Park\\, Portland\\, OR
 END:VEVENT
@@ -937,6 +967,58 @@ END:VCALENDAR
         data: { source: events2026, x: 'date', y: 'value', groupY: 'sum' }
       }, [weekdayPlugin, tooltipPlugin]);
     }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const gameList = vevents
+        .map(vevent => {
+            const event = new ICAL.Event(vevent);
+            const date = event.startDate.toJSDate();
+            const summary = event.summary.replace(/\*/g, '');
+            const isHome = summary.startsWith('San Diego FC');
+
+            let opponent = isHome ? summary.replace('San Diego FC vs. ', '') : summary.replace(' vs. San Diego FC', '');
+            if (!isHome) {
+                const parts = summary.split(' vs. ');
+                if (parts.length > 1) opponent = parts[0];
+            }
+            opponent = isHome ? `vs ${opponent}` : `@ ${opponent}`;
+
+            const dayOfWeek = date.toLocaleString('en-US', { weekday: 'long' });
+            const dateTimeString = date.toLocaleString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+                hour12: true,
+                timeZoneName: 'short'
+            }).replace(', ', ' | ');
+
+            return {
+                date,
+                dayOfWeek,
+                dateTimeString,
+                opponent,
+                isHome
+            };
+        })
+        .sort((a, b) => a.date - b.date);
+
+      const gameListContainer = document.getElementById('game-list');
+      if (gameListContainer) {
+          let gameListHTML = '';
+          gameList.forEach(game => {
+              const textColor = game.isHome ? 'text-black' : 'text-purple-600';
+              gameListHTML += `
+                  <div class="p-4 ${textColor} text-sm text-center">
+                      <p class="font-bold capitalize mb-2">${game.dayOfWeek}</p>
+                      <p class="mb-2">${game.dateTimeString}</p>
+                      <p>${game.opponent}</p>
+                  </div>
+              `;
+          });
+          gameListContainer.innerHTML = gameListHTML;
+      }
+    });
   </script>
 </body>
 </html>

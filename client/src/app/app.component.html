@@ -1,7 +1,7 @@
 <main class="container mx-auto p-4 max-w-2xl">
   <h1 class="text-3xl font-bold mb-2 text-center">Major League Soccer iCalendar</h1>
   <hr class="mt-6" />
-  <p class="text-sm text-gray-600 text-center mb-2 mt-4">Last updated: {{ lastUpdated | date:'MM/dd/yyyy' }}</p>
+  <p class="text-sm text-gray-600 text-center mb-2 mt-4">Last updated: {{ lastUpdated | date: 'MM/dd/yyyy' }}</p>
   <div class="mt-4">
     <p>Each Major League Soccer team's fixture schedule for the current 2025 and next 2026 season.</p>
     <br />
@@ -21,30 +21,29 @@
       >
       is free and open source :)
     </p>
-    @for (team of teams; track team; let i = $index) {
-      <div class="flex flex-row border-2 mt-4 mb-4">
-        <div class="basis-1/3 border-2">
+    @for (team of teams; track team.name; let i = $index) {
+      <div class="flex flex-row border-2 border-gray-200 mt-4 mb-4">
+        <div class="basis-1/3 border-2 border-gray-200">
           <p class="px-3 py-2 text-sm">
-            <b>{{ team }}</b>
+            <b>{{ team.name }}</b>
           </p>
           <p class="px-3 pb-2">
             <button
-              (click)="onCopyToClipboard($event, team, i)"
+              (click)="onCopyToClipboard($event, team.url, i)"
               class="bg-gray-100 px-1 text-sm border border-gray-300 rounded-md"
               type="button"
             >
-              {{ copyToClipboardText[i] }}
+              {{ copyToClipboardText()[i] }}
             </button>
           </p>
         </div>
-        <div class="basis-2/3 border-2">
+        <div class="basis-2/3 border-2 border-gray-200">
           <textarea
             rows="2"
             class="bg-purple-100 w-full h-full px-3 py-2 focus:outline-none focus:ring-2 cursor-auto text-sm text-pretty"
             type="text"
-            formControlName="icsUrl"
             readonly
-            >{{ getCalendarUrl(team) }}</textarea
+            >{{ team.url }}</textarea
           >
         </div>
       </div>

@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
@@ -8,8 +8,8 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  lastUpdated = '2025-11-27T16:40:26Z';
-  teams = [
+  readonly lastUpdated = '2025-11-27T16:40:26Z';
+  readonly teams = [
     'Atlanta United',
     'Austin FC',
     'CF Montreal',
@@ -40,18 +40,25 @@ export class AppComponent {
     'St. Louis City SC',
     'Toronto FC',
     'Vancouver Whitecaps FC'
-  ];
-  copyToClipboardText = Array(30).fill('Copy to clipboard');
+  ].map((name) => ({
+    name,
+    url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()}.ics`
+  }));
+  copyToClipboardText = signal(Array(this.teams.length).fill('Copy to clipboard'));
 
-  getCalendarUrl(team: string): string {
-    return `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${team.replaceAll('.', '').replaceAll(' ', '').toLowerCase()}.ics`;
-  }
-
-  onCopyToClipboard(event: Event, team: string, i: number) {
-    navigator.clipboard.writeText(this.getCalendarUrl(team));
-    this.copyToClipboardText[i] = 'Copied!';
+  onCopyToClipboard(event: Event, teamUrl: string, i: number) {
+    navigator.clipboard.writeText(teamUrl);
+    this.copyToClipboardText.update((values: string[]) => {
+      const newValues = [...values];
+      newValues[i] = 'Copied!';
+      return newValues;
+    });
     setTimeout(() => {
-      this.copyToClipboardText[i] = 'Copy to clipboard';
+      this.copyToClipboardText.update((values: string[]) => {
+        const newValues = [...values];
+        newValues[i] = 'Copy to clipboard';
+        return newValues;
+      });
     }, 2500);
   }
 }
