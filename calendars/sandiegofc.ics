@@ -713,12 +713,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 1 - Minnesota United 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Vancouver Whitecaps FC
+SUMMARY:San Diego FC vs. Vancouver Whitecaps FC*
 DTSTART:20251130T020000Z
 DTEND:20251130T040000Z
 DTSTAMP:20251130T020000Z
 UID:MLS-MAT-00099N
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Diego FC 1 - Vancouver Whitecaps FC 
+ 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 END:VCALENDAR
