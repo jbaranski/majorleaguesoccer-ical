@@ -869,12 +869,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati 0 - Inter Miami CF 4
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New York City FC
+SUMMARY:Inter Miami CF* vs. New York City FC
 DTSTART:20251129T230000Z
 DTEND:20251130T010000Z
 DTSTAMP:20251129T230000Z
 UID:MLS-MAT-00099O
-DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF vs. New York City FC
+DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 5 - New York City FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
