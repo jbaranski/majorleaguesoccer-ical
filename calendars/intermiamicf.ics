@@ -878,13 +878,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 5 - New York City FC 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Vancouver Whitecaps FC
+SUMMARY:Inter Miami CF* vs. Vancouver Whitecaps FC
 DTSTART:20251206T193000Z
 DTEND:20251206T213000Z
 DTSTAMP:20251206T193000Z
 UID:MLS-MAT-00096T
-DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF vs. Vancouver Whitecaps F
- C
+DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 3 - Vancouver Whitecaps F
+ C 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 END:VCALENDAR
