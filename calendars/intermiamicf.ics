@@ -65,12 +65,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Austin FC
 LOCATION:Miami Freedom Park
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New York Red Bulls
+SUMMARY:Inter Miami CF vs. Red Bull New York
 DTSTART:20260411T233000Z
 DTEND:20260412T013000Z
 DTSTAMP:20260411T233000Z
 UID:MLS-MAT-0009DS
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Red Bull New York
 LOCATION:Miami Freedom Park
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +282,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Inter Miami CF
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Inter Miami CF
+SUMMARY:Red Bull New York vs. Inter Miami CF
 DTSTART:20261024T203000Z
 DTEND:20261024T223000Z
 DTSTAMP:20261024T203000Z
 UID:MLS-MAT-0009NU
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Inter Miami CF
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -506,13 +506,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 1 - Vancouver Whiteca
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF* vs. New York Red Bulls
+SUMMARY:Inter Miami CF* vs. Red Bull New York
 DTSTART:20250503T233000Z
 DTEND:20250504T013000Z
 DTSTAMP:20250503T233000Z
 UID:MLS-MAT-0005XS
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - New York Red Bulls 
- 1
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - Red Bull New York 1
 LOCATION:Chase Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -649,13 +648,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Inter Miami CF 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Inter Miami CF*
+SUMMARY:Red Bull New York vs. Inter Miami CF*
 DTSTART:20250719T233000Z
 DTEND:20250720T013000Z
 DTSTAMP:20250719T233000Z
 UID:MLS-MAT-000632
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Inter Miami CF 
- 5
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - Inter Miami CF 5
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

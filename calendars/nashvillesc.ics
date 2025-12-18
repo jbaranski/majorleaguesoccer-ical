@@ -184,12 +184,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Inter Miami CF
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Nashville SC
+SUMMARY:Red Bull New York vs. Nashville SC
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J8
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Nashville SC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -301,12 +301,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New York Red Bulls
+SUMMARY:Nashville SC vs. Red Bull New York
 DTSTART:20261031T203000Z
 DTEND:20261031T223000Z
 DTSTAMP:20261031T203000Z
 UID:MLS-MAT-0009OL
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Red Bull New York
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -338,12 +338,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - New England Revolutio
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Nashville SC
+SUMMARY:Red Bull New York* vs. Nashville SC
 DTSTART:20250302T003000Z
 DTEND:20250302T023000Z
 DTSTAMP:20250302T003000Z
 UID:MLS-MAT-0005U1
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Nashville SC 0
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - Nashville SC 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +446,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Charlotte FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC* vs. New York Red Bulls
+SUMMARY:Nashville SC* vs. Red Bull New York
 DTSTART:20250515T003000Z
 DTEND:20250515T023000Z
 DTSTAMP:20250515T003000Z
 UID:MLS-MAT-0005YP
-DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York Red Bulls 1
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - Red Bull New York 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

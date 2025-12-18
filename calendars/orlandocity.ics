@@ -11,12 +11,12 @@ X-WR-CALDESC:All Orlando City fixtures for 2026\,2025 season
 X-WR-CALNAME:Orlando City
 X-WR-RELCALID:orlandocity-2026\,2025
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New York Red Bulls
+SUMMARY:Orlando City vs. Red Bull New York
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009BA
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Red Bull New York
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -164,12 +164,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Orlando City
+SUMMARY:Red Bull New York vs. Orlando City
 DTSTART:20260801T233000Z
 DTEND:20260802T013000Z
 DTSTAMP:20260801T233000Z
 UID:MLS-MAT-0009IH
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Orlando City
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -365,12 +365,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Orlando City 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Orlando City*
+SUMMARY:Red Bull New York* vs. Orlando City*
 DTSTART:20250315T183000Z
 DTEND:20250315T203000Z
 DTSTAMP:20250315T183000Z
 UID:MLS-MAT-0005UX
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Orlando City 2
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - Orlando City 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -401,12 +401,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Orlando City 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City* vs. New York Red Bulls*
+SUMMARY:Orlando City* vs. Red Bull New York*
 DTSTART:20250412T203000Z
 DTEND:20250412T223000Z
 DTSTAMP:20250412T203000Z
 UID:MLS-MAT-0005WH
-DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - New York Red Bulls 0
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - Red Bull New York 0
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -149,13 +149,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Philadelphia Union
 LOCATION:Miami Freedom Park
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York Red Bulls
+SUMMARY:Philadelphia Union vs. Red Bull New York
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HP
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York Red Bu
- lls
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Red Bull New Yo
+ rk
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -206,13 +206,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Philadelphia Union
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Philadelphia Union
+SUMMARY:Red Bull New York vs. Philadelphia Union
 DTSTART:20260829T233000Z
 DTEND:20260830T013000Z
 DTSTAMP:20260829T233000Z
 UID:MLS-MAT-0009K4
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Philadelphia Un
- ion
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Philadelphia Uni
+ on
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -552,13 +552,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - Philadelphia Union 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union* vs. New York Red Bulls
+SUMMARY:Philadelphia Union* vs. Red Bull New York
 DTSTART:20250712T233000Z
 DTEND:20250713T013000Z
 DTSTAMP:20250712T233000Z
 UID:MLS-MAT-000629
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - New York Red Bu
- lls 0
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Red Bull New Yo
+ rk 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -619,13 +619,13 @@ DESCRIPTION:U.S. Open Cup\n\nPhiladelphia Union 3 - New York Red Bulls 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Philadelphia Union
+SUMMARY:Red Bull New York* vs. Philadelphia Union
 DTSTART:20250816T233000Z
 DTEND:20250817T013000Z
 DTSTAMP:20250816T233000Z
 UID:MLS-MAT-00064B
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - Philadelphia Un
- ion 0
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - Philadelphia Uni
+ on 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

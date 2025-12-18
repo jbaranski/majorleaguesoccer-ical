@@ -21,13 +21,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New England Revolutio
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New England Revolution
+SUMMARY:Red Bull New York vs. New England Revolution
 DTSTART:20260228T193000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T193000Z
 UID:MLS-MAT-0009BQ
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New England Rev
- olution
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. New England Revo
+ lution
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -314,13 +314,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New England Rev
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. New York Red Bulls
+SUMMARY:New England Revolution vs. Red Bull New York
 DTSTART:20261028T233000Z
 DTEND:20261029T013000Z
 DTSTAMP:20261028T233000Z
 UID:MLS-MAT-0009O8
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. New York Re
- d Bulls
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Red Bull Ne
+ w York
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -384,13 +384,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - New England Revol
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution* vs. New York Red Bulls
+SUMMARY:New England Revolution* vs. Red Bull New York
 DTSTART:20250329T183000Z
 DTEND:20250329T203000Z
 DTSTAMP:20250329T183000Z
 UID:MLS-MAT-0005VL
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - New York Re
- d Bulls 1
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Red Bull Ne
+ w York 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -571,13 +571,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - New England Revolution 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. New England Revolution
+SUMMARY:Red Bull New York* vs. New England Revolution
 DTSTART:20250716T233000Z
 DTEND:20250717T013000Z
 DTSTAMP:20250716T233000Z
 UID:MLS-MAT-00062N
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 5 - New England Rev
- olution 3
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 5 - New England Revo
+ lution 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

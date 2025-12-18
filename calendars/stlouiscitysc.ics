@@ -254,13 +254,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Toronto FC
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. St. Louis City SC
+SUMMARY:Red Bull New York vs. St. Louis City SC
 DTSTART:20260926T233000Z
 DTEND:20260927T013000Z
 DTSTAMP:20260926T233000Z
 UID:MLS-MAT-0009M7
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. St. Louis City 
- SC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. St. Louis City S
+ C
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

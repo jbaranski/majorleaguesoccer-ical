@@ -120,12 +120,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Columbus Crew
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Columbus Crew
+SUMMARY:Red Bull New York vs. Columbus Crew
 DTSTART:20260513T233000Z
 DTEND:20260514T013000Z
 DTSTAMP:20260513T233000Z
 UID:MLS-MAT-0009G7
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Columbus Crew
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -229,12 +229,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Columbus Crew
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New York Red Bulls
+SUMMARY:Columbus Crew vs. Red Bull New York
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009L6
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Red Bull New York
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -613,12 +613,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New England Revoluti
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Columbus Crew*
+SUMMARY:Red Bull New York* vs. Columbus Crew*
 DTSTART:20250830T233000Z
 DTEND:20250831T013000Z
 DTSTAMP:20250830T233000Z
 UID:MLS-MAT-000655
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 0 - Columbus Crew 0
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - Columbus Crew 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -667,12 +667,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Columbus Crew 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew* vs. New York Red Bulls
+SUMMARY:Columbus Crew* vs. Red Bull New York
 DTSTART:20251018T220000Z
 DTEND:20251019T000000Z
 DTSTAMP:20251018T220000Z
 UID:MLS-MAT-00067C
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - New York Red Bulls 1
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Red Bull New York 1
 LOCATION:Lower.com Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

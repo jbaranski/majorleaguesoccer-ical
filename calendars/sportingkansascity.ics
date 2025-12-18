@@ -136,13 +136,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Sporting Kansas City
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. New York Red Bulls
+SUMMARY:Sporting Kansas City vs. Red Bull New York
 DTSTART:20260524T003000Z
 DTEND:20260524T023000Z
 DTSTAMP:20260524T003000Z
 UID:MLS-MAT-0009GX
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. New York Red 
- Bulls
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Red Bull New 
+ York
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

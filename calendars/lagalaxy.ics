@@ -452,12 +452,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - LA Galaxy 0
 LOCATION:Children's Mercy Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. LA Galaxy
+SUMMARY:Red Bull New York* vs. LA Galaxy
 DTSTART:20250510T233000Z
 DTEND:20250511T013000Z
 DTSTAMP:20250510T233000Z
 UID:MLS-MAT-0005Y8
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 7 - LA Galaxy 0
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 7 - LA Galaxy 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

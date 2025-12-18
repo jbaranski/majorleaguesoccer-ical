@@ -635,13 +635,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Portland Timbers
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers* vs. New York Red Bulls
+SUMMARY:Portland Timbers* vs. Red Bull New York
 DTSTART:20250914T023000Z
 DTEND:20250914T043000Z
 DTSTAMP:20250914T023000Z
 UID:MLS-MAT-00065U
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - New York Red Bull
- s 1
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Red Bull New York
+  1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

@@ -222,13 +222,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Chicago Fire F
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. New York Red Bulls
+SUMMARY:Seattle Sounders FC vs. Red Bull New York
 DTSTART:20260906T003000Z
 DTEND:20260906T023000Z
 DTSTAMP:20260906T003000Z
 UID:MLS-MAT-0009KM
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. New York Red B
- ulls
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Red Bull New Y
+ ork
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

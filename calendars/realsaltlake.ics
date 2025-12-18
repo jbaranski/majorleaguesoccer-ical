@@ -593,13 +593,12 @@ DESCRIPTION:Leagues Cup\n\nReal Salt Lake 1 - Club Querétaro 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Real Salt Lake
+SUMMARY:Red Bull New York* vs. Real Salt Lake
 DTSTART:20250810T220000Z
 DTEND:20250811T000000Z
 DTSTAMP:20250810T220000Z
 UID:MLS-MAT-00063W
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Real Salt Lake 
- 1
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - Real Salt Lake 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

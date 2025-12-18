@@ -29,12 +29,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. CF Montreal
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. CF Montreal
+SUMMARY:Red Bull New York vs. CF Montreal
 DTSTART:20260308T203000Z
 DTEND:20260308T223000Z
 DTSTAMP:20260308T203000Z
 UID:MLS-MAT-0009CA
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. CF Montreal
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -74,12 +74,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York Red Bulls
+SUMMARY:CF Montreal vs. Red Bull New York
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009E6
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Red Bull New York
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
@@ -399,12 +399,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Orlando City 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. CF Montreal
+SUMMARY:Red Bull New York* vs. CF Montreal
 DTSTART:20250426T203000Z
 DTEND:20250426T223000Z
 DTSTAMP:20250426T203000Z
 UID:MLS-MAT-0005XB
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - CF Montreal 0
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - CF Montreal 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -646,12 +646,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - St. Louis City SC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York Red Bulls*
+SUMMARY:CF Montreal vs. Red Bull New York*
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
 UID:MLS-MAT-000664
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - New York Red Bulls 2
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Red Bull New York 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

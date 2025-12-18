@@ -101,12 +101,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. FC Dallas
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. FC Dallas
+SUMMARY:Red Bull New York vs. FC Dallas
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009FD
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. FC Dallas
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

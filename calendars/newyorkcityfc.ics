@@ -130,13 +130,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. New York City FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New York City FC
+SUMMARY:Red Bull New York vs. New York City FC
 DTSTART:20260516T233000Z
 DTEND:20260517T013000Z
 DTSTAMP:20260516T233000Z
 UID:MLS-MAT-0009GK
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. New York City F
- C
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. New York City FC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -242,13 +241,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. New York City FC
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. New York Red Bulls
+SUMMARY:New York City FC vs. Red Bull New York
 DTSTART:20260918T233000Z
 DTEND:20260919T013000Z
 DTSTAMP:20260918T233000Z
 UID:MLS-MAT-0009LJ
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. New York Red Bull
- s
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Red Bull New York
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -455,13 +453,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York City FC 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC* vs. New York Red Bulls
+SUMMARY:New York City FC* vs. Red Bull New York
 DTSTART:20250517T203000Z
 DTEND:20250517T223000Z
 DTSTAMP:20250517T203000Z
 UID:MLS-MAT-0005YW
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - New York Red Bull
- s 0
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Red Bull New York
+  0
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -647,13 +645,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Inter Miami CF 4
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. New York City FC*
+SUMMARY:Red Bull New York vs. New York City FC*
 DTSTART:20250927T233000Z
 DTEND:20250928T013000Z
 DTSTAMP:20250927T233000Z
 UID:MLS-MAT-00066K
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - New York City F
- C 3
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - New York City FC
+  3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

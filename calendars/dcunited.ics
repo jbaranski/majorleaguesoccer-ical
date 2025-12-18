@@ -83,12 +83,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. D.C. United
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. D.C. United
+SUMMARY:Red Bull New York vs. D.C. United
 DTSTART:20260422T233000Z
 DTEND:20260423T013000Z
 DTSTAMP:20260422T233000Z
 UID:MLS-MAT-0009EL
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. D.C. United
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +263,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. D.C. United
 LOCATION:Miami Freedom Park
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York Red Bulls
+SUMMARY:D.C. United vs. Red Bull New York
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009MX
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Red Bull New York
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +389,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. D.C. United*
+SUMMARY:Red Bull New York vs. D.C. United*
 DTSTART:20250419T233000Z
 DTEND:20250420T013000Z
 DTSTAMP:20250419T233000Z
 UID:MLS-MAT-0005WZ
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 1 - D.C. United 2
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - D.C. United 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -462,12 +462,12 @@ DESCRIPTION:U.S. Open Cup\n\nD.C. United 3 (penalties: 2) - Charlotte FC 3
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York Red Bulls*
+SUMMARY:D.C. United vs. Red Bull New York*
 DTSTART:20250524T233000Z
 DTEND:20250525T013000Z
 DTSTAMP:20250524T233000Z
 UID:MLS-MAT-0005ZD
-DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York Red Bulls 2
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Red Bull New York 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

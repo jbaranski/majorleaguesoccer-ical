@@ -102,12 +102,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. FC Cincinnati
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. New York Red Bulls
+SUMMARY:Chicago Fire FC vs. Red Bull New York
 DTSTART:20260509T183000Z
 DTEND:20260509T203000Z
 DTSTAMP:20260509T183000Z
 UID:MLS-MAT-0009FM
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New York Red Bulls
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Red Bull New York
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. Chicago Fire FC
+SUMMARY:Red Bull New York vs. Chicago Fire FC
 DTSTART:20260822T233000Z
 DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JN
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Chicago Fire FC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -377,13 +377,13 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - CF Montreal 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls* vs. Chicago Fire FC
+SUMMARY:Red Bull New York* vs. Chicago Fire FC
 DTSTART:20250405T233000Z
 DTEND:20250406T013000Z
 DTSTAMP:20250405T233000Z
 UID:MLS-MAT-0005W6
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls 2 - Chicago Fire FC
-  1
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - Chicago Fire FC 
+ 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -559,13 +559,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Chicago Fire FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC* vs. New York Red Bulls
+SUMMARY:Chicago Fire FC* vs. Red Bull New York
 DTSTART:20250727T003000Z
 DTEND:20250727T023000Z
 DTSTAMP:20250727T003000Z
 UID:MLS-MAT-00063K
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New York Red Bulls
-  0
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Red Bull New York 
+ 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

@@ -506,12 +506,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - Austin FC 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC* vs. New York Red Bulls
+SUMMARY:Austin FC* vs. Red Bull New York
 DTSTART:20250615T003000Z
 DTEND:20250615T023000Z
 DTSTAMP:20250615T003000Z
 UID:MLS-MAT-00060S
-DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - New York Red Bulls 1
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Red Bull New York 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

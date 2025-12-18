@@ -554,13 +554,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - LA Galaxy 1
 LOCATION:Stanford Stadium\, Stanford\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes* vs. New York Red Bulls*
+SUMMARY:San Jose Earthquakes* vs. Red Bull New York*
 DTSTART:20250706T023000Z
 DTEND:20250706T043000Z
 DTSTAMP:20250706T023000Z
 UID:MLS-MAT-000623
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - New York Red 
- Bulls 1
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Red Bull New 
+ York 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

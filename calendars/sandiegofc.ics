@@ -255,12 +255,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. San Diego FC
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York Red Bulls vs. San Diego FC
+SUMMARY:Red Bull New York vs. San Diego FC
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MN
-DESCRIPTION:MLS - Regular Season\n\nNew York Red Bulls vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. San Diego FC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
