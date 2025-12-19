@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All New England Revolution fixtures for 2026\,2025 season
+X-WR-CALNAME:New England Revolution
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/newenglandrevolution.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All New England Revolution fixtures for 2026\,2025 season
-X-WR-CALNAME:New England Revolution
 X-WR-RELCALID:newenglandrevolution-2026\,2025
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. New England Revolution

@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All St. Louis City SC fixtures for 2026\,2025 season
+X-WR-CALNAME:St. Louis City SC
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/stlouiscitysc.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All St. Louis City SC fixtures for 2026\,2025 season
-X-WR-CALNAME:St. Louis City SC
 X-WR-RELCALID:stlouiscitysc-2026\,2025
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Charlotte FC

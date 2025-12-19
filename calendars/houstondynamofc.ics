@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All Houston Dynamo FC fixtures for 2026\,2025 season
+X-WR-CALNAME:Houston Dynamo FC
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/houstondynamofc.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All Houston Dynamo FC fixtures for 2026\,2025 season
-X-WR-CALNAME:Houston Dynamo FC
 X-WR-RELCALID:houstondynamofc-2026\,2025
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Chicago Fire FC

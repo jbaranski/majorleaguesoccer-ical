@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All LA Galaxy fixtures for 2026\,2025 season
+X-WR-CALNAME:LA Galaxy
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/lagalaxy.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All LA Galaxy fixtures for 2026\,2025 season
-X-WR-CALNAME:LA Galaxy
 X-WR-RELCALID:lagalaxy-2026\,2025
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. New York City FC

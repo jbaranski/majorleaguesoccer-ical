@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All Minnesota United fixtures for 2026\,2025 season
+X-WR-CALNAME:Minnesota United
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/minnesotaunited.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All Minnesota United fixtures for 2026\,2025 season
-X-WR-CALNAME:Minnesota United
 X-WR-RELCALID:minnesotaunited-2026\,2025
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Minnesota United

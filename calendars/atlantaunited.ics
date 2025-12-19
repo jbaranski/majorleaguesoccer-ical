@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:All Atlanta United fixtures for 2026\,2025 season
+X-WR-CALNAME:Atlanta United
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/atlantaunited.ics
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:All Atlanta United fixtures for 2026\,2025 season
-X-WR-CALNAME:Atlanta United
 X-WR-RELCALID:atlantaunited-2026\,2025
 BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Atlanta United
