@@ -31,7 +31,7 @@ The following environment variables are required to run the application:
 ### Required Variables
 
 - **SEASONS**: Comma-separated list of season ID and year pairs in the format `season_id:season_year,season_id:season_year`
-  - Example: `2026:2026` or `2025:2025,2026:2026` for multiple seasons
+  - Example: `MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025`
   - This tells the app which MLS season(s) to fetch data for
   - Determine season dates by `curl -X GET https://stats-api.mlssoccer.com/competitions/MLS-COM-000001/seasons | jq .`
 
@@ -62,7 +62,7 @@ You can set environment variables either by exporting them in your shell session
 #### Using export (Linux/macOS)
 
 ```bash
-export SEASONS="2025:2025,2026:2026"
+export SEASONS="MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025"
 export LEAGUE="MLS-COM-000001"
 export OUTPUT_ROOT="."
 export LOG_LEVEL="DEBUG"
@@ -89,7 +89,7 @@ pipenv run python -m src.main
 ### With environment variables inline
 
 ```bash
-SEASONS="2026:2026" LEAGUE="mls" OUTPUT_ROOT="." python -m src.main
+SEASONS="MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025" LEAGUE="MLS-COM-000001" OUTPUT_ROOT="." LOG_LEVEL="DEBUG" NUM_TEAMS_EXPECTED="30" EXCLUDED_COMPETITIONS="MLS-COM-000003,MLS-COM-000004,MLS-COM-000005,MLS-COM-00002W,MLS-COM-00002X,MLS-COM-00002R" python -m src.main
 ```
 
 ## Output
@@ -148,4 +148,4 @@ mkdir -p calendars
 ```
 
 ### Incorrect number of teams
-Adjust `NUM_TEAMS_EXPECTED` to match the actual number of teams in the league for your season.
+Adjust `NUM_TEAMS_EXPECTED` to match the actual number of teams in the league for your season. For the 2026 season no standings are available yet, so to determine all the MLS teams we have to call and fetch the 2025 standings. We will remove that once the 2026 seasons become available.
