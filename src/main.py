@@ -86,10 +86,17 @@ def main() -> None:
             season_years_str,
             FootballCalendarEvent.to_football_calendar_events(f)
         )
-        calendar_path = f'{OUTPUT_ROOT}/calendars/{team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()}.ics'
+        team_file_name = team_name.replace('.', '').replace(' ', '').replace('\n', '').lower()
+        calendar_path = f'{OUTPUT_ROOT}/calendars/{team_file_name}.ics'
+        calendar_path_home = f'{OUTPUT_ROOT}/calendars/{team_file_name}_home.ics'
+        calendar_path_away = f'{OUTPUT_ROOT}/calendars/{team_file_name}_away.ics'
         with open(calendar_path, 'wb') as cf:
             cf.write(cal.to_bytes())
-        logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, seasons={season_years_str}, path={calendar_path}')
+        with open(calendar_path_home, 'wb') as cf:
+            cf.write(cal.to_bytes(home=True))
+        with open(calendar_path_away, 'wb') as cf:
+            cf.write(cal.to_bytes(away=True))
+        logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, seasons={season_years_str}, path={calendar_path}, home path={calendar_path_home}, away path={calendar_path_away}')
 
 
 if __name__ == '__main__':

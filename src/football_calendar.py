@@ -14,6 +14,8 @@ class FootballCalendarEvent:
     end_date: datetime
     competition: str
     description: str
+    home_team_name: str
+    away_team_name: str
 
     @staticmethod
     def to_football_calendar_events(api_response: list[dict]):
@@ -60,7 +62,9 @@ class FootballCalendarEvent:
             start_date=start_date,
             end_date=get_end_datetime(start_date, 2),
             competition=competition,
-            description=description
+            description=description,
+            home_team_name=home_team_name,
+            away_team_name=away_team_name
         )
 
     def to_event(self) -> Event:
@@ -86,11 +90,19 @@ class FootballCalendar:
     seasons: str
     events: List[FootballCalendarEvent]
     cal: Calendar | None = field(init=False)
+    cal_home: Calendar | None = field(init=False)
+    cal_away: Calendar | None = field(init=False)
     cal_bytes: bytes | None = field(init=False)
+    cal_bytes_home: bytes | None = field(init=False)
+    cal_bytes_away: bytes | None = field(init=False)
 
     def __post_init__(self):
         self.cal = None
+        self.cal_home = None
+        self.cal_away = None
         self.cal_bytes = None
+        self.cal_bytes_home = None
+        self.cal_bytes_away = None
 
     @staticmethod
     def to_football_calendar(team_name: str, seasons: str, events: List[FootballCalendarEvent]):
@@ -100,27 +112,50 @@ class FootballCalendar:
             events=events
         )
 
-    def to_calendar(self) -> Calendar:
-        if self.cal is None:
-            team_name_modified = self.team_name.replace('.', '').replace(' ', '').replace('\n', '').lower()
-            cal = Calendar()
-            # https://en.wikipedia.org/wiki/ICalendar
-            cal.add('X-WR-CALNAME', self.team_name)
-            cal.add('X-WR-CALDESC', f'All {self.team_name} fixtures for {self.seasons} season')
-            cal.add('X-WR-RELCALID', f'{team_name_modified}-{self.seasons}'.replace(' ', ''))
-            cal.add('X-PUBLISHED-TTL', 'PT6H')
-            cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}.ics')
-            cal.add('METHOD', 'PUBLISH')
-            cal.add('VERSION', '2.0')
-            cal.add('PRODID', 'mlscalendar.jeffsoftware.com')
-            cal.add('CALSCALE', 'GREGORIAN')
-            cal.add('X-MICROSOFT-CALSCALE', 'GREGORIAN')
-            for x in self.events:
-                cal.add_component(x.to_event())
+    def to_calendar(self, home=False, away=False) -> Calendar:
+        if home and self.cal_home is not None:
+            return self.cal_home
+        if away and self.cal_away is not None:
+            return self.cal_away
+        if (not home and not away) and self.cal is not None:
+            return self.cal
+        team_name_modified = self.team_name.replace('.', '').replace(' ', '').replace('\n', '').lower()
+        cal = Calendar()
+        home_away_suffix = '_home' if home else '_away' if away else ''
+        # https://en.wikipedia.org/wiki/ICalendar
+        cal.add('X-WR-CALNAME', f'{self.team_name}{home_away_suffix}')
+        cal.add('X-WR-CALDESC', f'All {self.team_name}{home_away_suffix} fixtures for {self.seasons} season')
+        cal.add('X-WR-RELCALID', f'{team_name_modified}{home_away_suffix}-{self.seasons}'.replace(' ', ''))
+        cal.add('X-PUBLISHED-TTL', 'PT6H')
+        cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}{home_away_suffix}.ics')
+        cal.add('METHOD', 'PUBLISH')
+        cal.add('VERSION', '2.0')
+        cal.add('PRODID', 'mlscalendar.jeffsoftware.com')
+        cal.add('CALSCALE', 'GREGORIAN')
+        cal.add('X-MICROSOFT-CALSCALE', 'GREGORIAN')
+        for x in self.events:
+            if (home and x.home_team_name != self.team_name) or \
+               (away and x.away_team_name != self.team_name):
+                continue
+            cal.add_component(x.to_event())
+        if home:
+            self.cal_home = cal
+        elif away:
+            self.cal_away = cal
+        else:
             self.cal = cal
-        return self.cal
+        return cal
 
-    def to_bytes(self) -> bytes:
-        if self.cal_bytes is None:
-            self.cal_bytes = self.to_calendar().to_ical(sorted=True)
-        return self.cal_bytes
+    def to_bytes(self, home=False, away=False) -> bytes:
+        if home:
+            if self.cal_bytes_home is None:
+                self.cal_bytes_home = self.to_calendar(home=True).to_ical(sorted=True)
+            return self.cal_bytes_home
+        elif away:
+            if self.cal_bytes_away is None:
+                self.cal_bytes_away = self.to_calendar(away=True).to_ical(sorted=True)
+            return self.cal_bytes_away
+        else:
+            if self.cal_bytes is None:
+                self.cal_bytes = self.to_calendar().to_ical(sorted=True)
+            return self.cal_bytes
