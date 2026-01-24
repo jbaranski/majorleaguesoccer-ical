@@ -1,10 +1,9 @@
 # Major League Soccer iCalendar generator
-Generates an iCalendar file for each Major League Soccer team's fixture schedule for the current 2025 and next 2026 season.
+Generates an iCalendar file for each Major League Soccer team's fixture schedule for the current 2026 season.
 
 
 ### How to subscribe?
 Find your favorite team in the table below. Copy the iCalendar url to your clipboard. Paste the iCalendar url from your clipboard into your calendar's subscription field.
-
 
 | Team | URL |
 | ---- | --- |
@@ -38,6 +37,14 @@ Find your favorite team in the table below. Copy the iCalendar url to your clipb
 | St. Louis City SC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/stlouiscitysc.ics |
 | Toronto FC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/torontofc.ics |
 | Vancouver Whitecaps FC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/vancouverwhitecapsfc.ics |
+
+**NOTE**: If you're interested in home or away game specific calendars, append `_home` or `_away` to the ics file name in the url. Example:
+
+| Team | URL |
+| ---- | --- |
+| D.C. United Home | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/dcunited_home.ics |
+| D.C. United Away | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/dcunited_away.ics |
+
 
 ### Will my calendar auto update when team fixtures are added or modified?
 Yes. When you subscribe to a calendar, it will auto update when team fixtures are added or modified. We check for and publish any fixture changes twice a day.
