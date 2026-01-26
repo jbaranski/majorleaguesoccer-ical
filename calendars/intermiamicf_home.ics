@@ -11,22 +11,23 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:intermiamicf_home-2026\,2025
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club Alianza Lima
+SUMMARY:Inter Miami CF vs. Club Alianza Lima (result unknown)
 DTSTART:20260124T220000Z
 DTEND:20260125T000000Z
 DTSTAMP:20260124T220000Z
 UID:MLS-MAT-000A2R
-DESCRIPTION:Club Friendly Matches\n\nInter Miami CF vs. Club Alianza Lima
+DESCRIPTION:Club Friendly Matches\n\nInter Miami CF ??? - Club Alianza Lim
+ a ???
 LOCATION:Estadio Alejandro Villanueva
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club Alianza Lima
+SUMMARY:Inter Miami CF vs. Club Alianza Lima*
 DTSTART:20260124T220000Z
 DTEND:20260125T000000Z
 DTSTAMP:20260124T220000Z
 UID:MLS-MAT-000A2X
-DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF vs. Club Alianza Li
- ma
+DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 0 - Club Alianza Li
+ ma 3
 LOCATION:Estadio Alejandro Villanueva
 END:VEVENT
 BEGIN:VEVENT
