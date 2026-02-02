@@ -21,13 +21,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 0 - Club Alianza Li
 LOCATION:Estadio Alejandro Villanueva
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Corporación Deportiva Club Atlético Nacional
+SUMMARY:Inter Miami CF* vs. Corporación Deportiva Club Atlético Nacional
 DTSTART:20260131T220000Z
 DTEND:20260201T000000Z
 DTSTAMP:20260131T220000Z
 UID:MLS-MAT-000A2Y
-DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF vs. Corporación De
- portiva Club Atlético Nacional
+DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Corporación De
+ portiva Club Atlético Nacional 1
 LOCATION:Estadio Atanasio Girardot
 END:VEVENT
 BEGIN:VEVENT
