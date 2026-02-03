@@ -18,7 +18,7 @@ DTSTAMP:20260124T220000Z
 UID:MLS-MAT-000A2X
 DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 0 - Club Alianza Li
  ma 3
-LOCATION:Estadio Alejandro Villanueva
+LOCATION:Estadio Alejandro Villanueva\, Lima
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF* vs. Corporación Deportiva Club Atlético Nacional
@@ -28,7 +28,7 @@ DTSTAMP:20260131T220000Z
 UID:MLS-MAT-000A2Y
 DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Corporación De
  portiva Club Atlético Nacional 1
-LOCATION:Estadio Atanasio Girardot
+LOCATION:Estadio Atanasio Girardot\, Medellín
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Barcelona Sporting Club
@@ -38,7 +38,7 @@ DTSTAMP:20260208T000000Z
 UID:MLS-MAT-000A2Z
 DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF vs. Barcelona Sport
  ing Club
-LOCATION:Monumental Banco Pichincha
+LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Inter Miami CF
