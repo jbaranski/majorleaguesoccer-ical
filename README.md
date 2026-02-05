@@ -5,7 +5,7 @@ Generates a single iCalendar file that contains every Major League Soccer fixtur
 ### How to subscribe?
 Copy the iCalendar URL below to your clipboard. Paste it into your calendar's subscription field.
 
-- https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>/refs/heads/main/calendars/mls.ics
+- https://raw.githubusercontent.com/gkazuakix/majorleaguesoccer-ical/refs/heads/main/calendars/mls.ics
 
 
 ### Will my calendar auto update when team fixtures are added or modified?
