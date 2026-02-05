@@ -4,4 +4,3 @@ extend-ignore = E501
 exclude =
     .git,
     scratch
-    client

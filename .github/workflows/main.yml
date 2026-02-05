@@ -26,7 +26,6 @@ jobs:
           SEASONS: ${{ vars.SEASONS }}
           LEAGUE: ${{ vars.LEAGUE }}
           OUTPUT_ROOT: ${{ github.workspace }}
-          NUM_TEAMS_EXPECTED: ${{ vars.NUM_TEAMS_EXPECTED }}
           EXCLUDED_COMPETITIONS: ${{ vars.EXCLUDED_COMPETITIONS }}
         run: |-
           cd $GITHUB_WORKSPACE
@@ -36,12 +35,8 @@ jobs:
           git diff
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "JEFF-bot"
-          git add calendars/
+          git add calendars/mls.ics
           if git commit -m "Updated calendars"; then
-            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-            sed -i "s/lastUpdated = '.*'/lastUpdated = '$TIMESTAMP'/" client/src/app/app.component.ts
-            git add client/src/app/app.component.ts
-            git commit --amend --no-edit
             git push
           else
             echo "No changes to commit"

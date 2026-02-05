@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
-from typing import List
+from typing import List, Optional
 from icalendar import Calendar, Event
 from src.utils import get_datetime_from_str, get_competition_txt, get_correct_team_name, get_correct_venue_name, get_end_datetime
 
@@ -89,12 +89,12 @@ class FootballCalendar:
     team_name: str
     seasons: str
     events: List[FootballCalendarEvent]
-    cal: Calendar | None = field(init=False)
-    cal_home: Calendar | None = field(init=False)
-    cal_away: Calendar | None = field(init=False)
-    cal_bytes: bytes | None = field(init=False)
-    cal_bytes_home: bytes | None = field(init=False)
-    cal_bytes_away: bytes | None = field(init=False)
+    cal: Optional[Calendar] = field(init=False)
+    cal_home: Optional[Calendar] = field(init=False)
+    cal_away: Optional[Calendar] = field(init=False)
+    cal_bytes: Optional[bytes] = field(init=False)
+    cal_bytes_home: Optional[bytes] = field(init=False)
+    cal_bytes_away: Optional[bytes] = field(init=False)
 
     def __post_init__(self):
         self.cal = None
@@ -127,7 +127,6 @@ class FootballCalendar:
         cal.add('X-WR-CALDESC', f'All {self.team_name}{home_away_suffix} fixtures for {self.seasons} season')
         cal.add('X-WR-RELCALID', f'{team_name_modified}{home_away_suffix}-{self.seasons}'.replace(' ', ''))
         cal.add('X-PUBLISHED-TTL', 'PT6H')
-        cal.add('URL', f'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}{home_away_suffix}.ics')
         cal.add('METHOD', 'PUBLISH')
         cal.add('VERSION', '2.0')
         cal.add('PRODID', 'mlscalendar.jeffsoftware.com')

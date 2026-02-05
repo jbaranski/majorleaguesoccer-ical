@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 from functools import cache
+from typing import Optional
 
 COMPETITION_TRANSLATE = {
 
@@ -17,6 +18,8 @@ TEAMS_FIX = {
 
 @cache
 def get_datetime_from_str(input_str: str) -> datetime:
+    if input_str.endswith('Z'):
+        input_str = input_str.replace('Z', '+00:00')
     return datetime.fromisoformat(input_str)
 
 
@@ -39,7 +42,7 @@ def get_correct_team_name(input_team_name: str) -> str:
 
 
 @cache
-def get_correct_venue_name(name: str | None, city: str | None) -> str | None:
+def get_correct_venue_name(name: Optional[str], city: Optional[str]) -> Optional[str]:
     if city and name:
         return f"{name}, {city}"
     if name and not city:
