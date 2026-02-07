@@ -74,7 +74,7 @@ def get_data(seasons: list[tuple[str, str]]):
                 fixtures_map[home_id].append(fixture)
             if away_id in teams:
                 fixtures_map[away_id].append(fixture)
-            all_fixtures[fixture['match_id']] = fixture
+            all_fixtures[fixture.get('match_id', (home_id or '') + (away_id or ''))] = fixture
     return teams, fixtures_map, all_fixtures
 
 
@@ -101,14 +101,13 @@ def main() -> None:
         logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, seasons={season_years_str}, path={calendar_path}, home path={calendar_path_home}, away path={calendar_path_away}')
 
     # Generate unified MLS calendar with all matches deduplicated
-    mls_cal = FootballCalendar.to_football_calendar(
-        'MLS',
-        season_years_str,
-        FootballCalendarEvent.to_football_calendar_events(list(all_fixtures.values()))
-    )
     mls_calendar_path = f'{OUTPUT_ROOT}/calendars/mls.ics'
     with open(mls_calendar_path, 'wb') as cf:
-        cf.write(mls_cal.to_bytes())
+        cf.write(FootballCalendar.to_football_calendar(
+            'MLS',
+            season_years_str,
+            FootballCalendarEvent.to_football_calendar_events(list(all_fixtures.values()))
+        ).to_bytes())
     logging.info(f'Calendar generated: num_fixtures={len(all_fixtures)}, calendar=MLS, seasons={season_years_str}, path={mls_calendar_path}')
 
 
