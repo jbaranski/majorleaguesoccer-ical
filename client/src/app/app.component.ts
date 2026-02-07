@@ -10,6 +10,7 @@ import { CommonModule } from '@angular/common';
 export class AppComponent {
   readonly lastUpdated = '2026-02-07T01:31:26Z';
   readonly teams = [
+    'All Matches',
     'Atlanta United',
     'Austin FC',
     'CF Montreal',
@@ -40,9 +41,10 @@ export class AppComponent {
     'St. Louis City SC',
     'Toronto FC',
     'Vancouver Whitecaps FC'
-  ].map((name) => ({
+  ].map(name => name == 'All Matches' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()])
+   .map(([name, urlName]) => ({ 
     name,
-    url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()}.ics`
+    url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${urlName}.ics`
   }));
   copyToClipboardText = signal(Array(this.teams.length).fill('Copy to clipboard'));
 
