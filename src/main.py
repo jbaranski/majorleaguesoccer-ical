@@ -31,6 +31,7 @@ logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == 'DEBUG' else logging.
 def get_data(seasons: list[tuple[str, str]]):
     teams = {}
     fixtures_map = defaultdict(list)
+    all_fixtures = {}
     for season_id, season_year in seasons:
         response = requests.get(f'https://stats-api.mlssoccer.com/competitions/{LEAGUE}/seasons/{season_id}/standings')
         # The standings request can 404 for a future season so we can account for that
@@ -73,11 +74,12 @@ def get_data(seasons: list[tuple[str, str]]):
                 fixtures_map[home_id].append(fixture)
             if away_id in teams:
                 fixtures_map[away_id].append(fixture)
-    return teams, fixtures_map
+            all_fixtures[fixture['match_id']] = fixture
+    return teams, fixtures_map, all_fixtures
 
 
 def main() -> None:
-    teams, team_fixtures = get_data(SEASONS)
+    teams, team_fixtures, all_fixtures = get_data(SEASONS)
     season_years_str = ','.join([year for _, year in SEASONS])
     for t_id, f in team_fixtures.items():
         team_name = get_correct_team_name(teams[t_id])
@@ -97,6 +99,17 @@ def main() -> None:
         with open(calendar_path_away, 'wb') as cf:
             cf.write(cal.to_bytes(away=True))
         logging.info(f'Calendar generated: num_fixtures={len(f)}, team={t_id}|{team_name}, seasons={season_years_str}, path={calendar_path}, home path={calendar_path_home}, away path={calendar_path_away}')
+
+    # Generate unified MLS calendar with all matches deduplicated
+    mls_cal = FootballCalendar.to_football_calendar(
+        'MLS',
+        season_years_str,
+        FootballCalendarEvent.to_football_calendar_events(list(all_fixtures.values()))
+    )
+    mls_calendar_path = f'{OUTPUT_ROOT}/calendars/mls.ics'
+    with open(mls_calendar_path, 'wb') as cf:
+        cf.write(mls_cal.to_bytes())
+    logging.info(f'Calendar generated: num_fixtures={len(all_fixtures)}, calendar=MLS, seasons={season_years_str}, path={mls_calendar_path}')
 
 
 if __name__ == '__main__':
