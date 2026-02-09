@@ -31,13 +31,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Corporación De
 LOCATION:Estadio Atanasio Girardot\, Medellín
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Barcelona Sporting Club
+SUMMARY:Inter Miami CF* vs. Barcelona Sporting Club*
 DTSTART:20260208T000000Z
 DTEND:20260208T020000Z
 DTSTAMP:20260208T000000Z
 UID:MLS-MAT-000A2Z
-DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF vs. Barcelona Sport
- ing Club
+DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
+ ing Club 2
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT

@@ -79,51 +79,51 @@ DESCRIPTION:CONCACAF Champions Cup\n\nVancouver FC 0 - Cruz Azul 3
 LOCATION:Willoughby Community Park\, Langley
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Austin FC
+SUMMARY:St. Louis City SC* vs. Austin FC
 DTSTART:20260207T190000Z
 DTEND:20260207T210000Z
 DTSTAMP:20260207T190000Z
 UID:MLS-MAT-000A4J
-DESCRIPTION:MLS Preseason Friendlies\n\nSt. Louis City SC vs. Austin FC
+DESCRIPTION:MLS Preseason Friendlies\n\nSt. Louis City SC 1 - Austin FC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Charlotte FC
+SUMMARY:San Jose Earthquakes* vs. Charlotte FC
 DTSTART:20260207T200000Z
 DTEND:20260207T220000Z
 DTSTAMP:20260207T200000Z
 UID:MLS-MAT-000A4K
-DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes vs. Charlotte
-  FC
+DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes 1 - Charlotte
+  FC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Sporting Kansas City
+SUMMARY:Minnesota United* vs. Sporting Kansas City
 DTSTART:20260207T213000Z
 DTEND:20260207T233000Z
 DTSTAMP:20260207T213000Z
 UID:MLS-MAT-000A4L
-DESCRIPTION:MLS Preseason Friendlies\n\nMinnesota United vs. Sporting Kans
- as City
+DESCRIPTION:MLS Preseason Friendlies\n\nMinnesota United 3 - Sporting Kans
+ as City 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. D.C. United
+SUMMARY:Portland Timbers* vs. D.C. United*
 DTSTART:20260207T223000Z
 DTEND:20260208T003000Z
 DTSTAMP:20260207T223000Z
 UID:MLS-MAT-000A4M
-DESCRIPTION:MLS Preseason Friendlies\n\nPortland Timbers vs. D.C. United
+DESCRIPTION:MLS Preseason Friendlies\n\nPortland Timbers 0 - D.C. United 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Barcelona Sporting Club
+SUMMARY:Inter Miami CF* vs. Barcelona Sporting Club*
 DTSTART:20260208T000000Z
 DTEND:20260208T020000Z
 DTSTAMP:20260208T000000Z
 UID:MLS-MAT-000A2Z
-DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF vs. Barcelona Sport
- ing Club
+DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
+ ing Club 2
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
