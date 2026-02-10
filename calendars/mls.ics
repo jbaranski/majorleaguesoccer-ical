@@ -127,22 +127,22 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Chicago Fire FC
+SUMMARY:LA Galaxy vs. Chicago Fire FC*
 DTSTART:20260208T180000Z
 DTEND:20260208T200000Z
 DTSTAMP:20260208T180000Z
 UID:MLS-MAT-000A4N
-DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy vs. Chicago Fire FC
+DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy 2 - Chicago Fire FC 3
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. New York City FC
+SUMMARY:Los Angeles FC* vs. New York City FC*
 DTSTART:20260208T200000Z
 DTEND:20260208T220000Z
 DTSTAMP:20260208T200000Z
 UID:MLS-MAT-000A4P
-DESCRIPTION:MLS Preseason Friendlies\n\nLos Angeles FC vs. New York City F
- C
+DESCRIPTION:MLS Preseason Friendlies\n\nLos Angeles FC 1 - New York City F
+ C 1
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
