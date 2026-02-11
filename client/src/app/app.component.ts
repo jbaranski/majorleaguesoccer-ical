@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
 export class AppComponent {
   readonly lastUpdated = '2026-02-10T02:10:20Z';
   readonly teams = [
-    'All Matches',
+    'All Fixtures',
     'Atlanta United',
     'Austin FC',
     'CF Montreal',
@@ -41,7 +41,7 @@ export class AppComponent {
     'St. Louis City SC',
     'Toronto FC',
     'Vancouver Whitecaps FC'
-  ].map(name => name == 'All Matches' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()])
+  ].map(name => name == 'All Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()])
    .map(([name, urlName]) => ({ 
     name,
     url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${urlName}.ics`
