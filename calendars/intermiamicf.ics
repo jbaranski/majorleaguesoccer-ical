@@ -50,6 +50,16 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Inter Miami CF
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Independiente del Valle vs. Inter Miami CF
+DTSTART:20260227T010000Z
+DTEND:20260227T030000Z
+DTSTAMP:20260227T010000Z
+UID:MLS-MAT-000A5S
+DESCRIPTION:MLS Preseason Friendlies\n\nIndependiente del Valle vs. Inter 
+ Miami CF
+LOCATION:Estadio Juan Ramón Loubriel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando City vs. Inter Miami CF
 DTSTART:20260302T000000Z
 DTEND:20260302T020000Z
