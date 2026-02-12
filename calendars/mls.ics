@@ -155,12 +155,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nPumas 1 - San Diego FC 0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Forge FC
+SUMMARY:Club Tigres* vs. Forge FC
 DTSTART:20260211T030000Z
 DTEND:20260211T050000Z
 DTSTAMP:20260211T030000Z
 UID:MLS-MAT-0009PZ
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Forge FC
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 4 - Forge FC 1
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
