@@ -221,14 +221,14 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub América 0 - Club Deportivo Oli
 LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Club Social y Deporti
- vo Xelajú Mario Camposeco
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C.* vs. Club Social y Deport
+ ivo Xelajú Mario Camposeco
 DTSTART:20260212T030000Z
 DTEND:20260212T050000Z
 DTSTAMP:20260212T030000Z
 UID:MLS-MAT-0009Q3
 DESCRIPTION:CONCACAF Champions Cup\n\nClub de Fútbol Monterrey Rayados\, 
- A.C. vs. Club Social y Deportivo Xelajú Mario Camposeco
+ A.C. 2 - Club Social y Deportivo Xelajú Mario Camposeco 0
 LOCATION:Estadio BBVA\, Guadalupe
 END:VEVENT
 BEGIN:VEVENT
