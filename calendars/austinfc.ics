@@ -20,12 +20,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nSt. Louis City SC 1 - Austin FC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Chicago Fire FC
+SUMMARY:Austin FC* vs. Chicago Fire FC*
 DTSTART:20260211T180000Z
 DTEND:20260211T200000Z
 DTSTAMP:20260211T180000Z
 UID:MLS-MAT-000A4Q
-DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC vs. Chicago Fire FC
+DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC 2 - Chicago Fire FC 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

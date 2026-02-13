@@ -21,13 +21,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes 1 - Charlotte
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Portland Timbers
+SUMMARY:San Jose Earthquakes* vs. Portland Timbers
 DTSTART:20260211T230000Z
 DTEND:20260212T010000Z
 DTSTAMP:20260211T230000Z
 UID:MLS-MAT-000A4V
-DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes vs. Portland 
- Timbers
+DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes 3 - Portland 
+ Timbers 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

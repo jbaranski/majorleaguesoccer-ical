@@ -21,12 +21,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nMinnesota United 3 - Sporting Kans
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Minnesota United
+SUMMARY:D.C. United* vs. Minnesota United*
 DTSTART:20260211T203000Z
 DTEND:20260211T223000Z
 DTSTAMP:20260211T203000Z
 UID:MLS-MAT-000A4T
-DESCRIPTION:MLS Preseason Friendlies\n\nD.C. United vs. Minnesota United
+DESCRIPTION:MLS Preseason Friendlies\n\nD.C. United 0 - Minnesota United 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

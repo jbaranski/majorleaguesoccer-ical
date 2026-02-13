@@ -20,12 +20,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nSt. Louis City SC 1 - Austin FC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. St. Louis City SC
+SUMMARY:LA Galaxy* vs. St. Louis City SC
 DTSTART:20260211T190000Z
 DTEND:20260211T210000Z
 DTSTAMP:20260211T190000Z
 UID:MLS-MAT-000A4R
-DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy vs. St. Louis City SC
+DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy 3 - St. Louis City SC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -164,60 +164,60 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 4 - Forge FC 1
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Chicago Fire FC
+SUMMARY:Austin FC* vs. Chicago Fire FC*
 DTSTART:20260211T180000Z
 DTEND:20260211T200000Z
 DTSTAMP:20260211T180000Z
 UID:MLS-MAT-000A4Q
-DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC vs. Chicago Fire FC
+DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC 2 - Chicago Fire FC 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. St. Louis City SC
+SUMMARY:LA Galaxy* vs. St. Louis City SC
 DTSTART:20260211T190000Z
 DTEND:20260211T210000Z
 DTSTAMP:20260211T190000Z
 UID:MLS-MAT-000A4R
-DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy vs. St. Louis City SC
+DESCRIPTION:MLS Preseason Friendlies\n\nLA Galaxy 3 - St. Louis City SC 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Minnesota United
+SUMMARY:D.C. United* vs. Minnesota United*
 DTSTART:20260211T203000Z
 DTEND:20260211T223000Z
 DTSTAMP:20260211T203000Z
 UID:MLS-MAT-000A4T
-DESCRIPTION:MLS Preseason Friendlies\n\nD.C. United vs. Minnesota United
+DESCRIPTION:MLS Preseason Friendlies\n\nD.C. United 0 - Minnesota United 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. New York City FC
+SUMMARY:Sporting Kansas City* vs. New York City FC
 DTSTART:20260211T213000Z
 DTEND:20260211T233000Z
 DTSTAMP:20260211T213000Z
 UID:MLS-MAT-000A4U
-DESCRIPTION:MLS Preseason Friendlies\n\nSporting Kansas City vs. New York 
- City FC
+DESCRIPTION:MLS Preseason Friendlies\n\nSporting Kansas City 2 - New York 
+ City FC 1
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Portland Timbers
+SUMMARY:San Jose Earthquakes* vs. Portland Timbers
 DTSTART:20260211T230000Z
 DTEND:20260212T010000Z
 DTSTAMP:20260211T230000Z
 UID:MLS-MAT-000A4V
-DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes vs. Portland 
- Timbers
+DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes 3 - Portland 
+ Timbers 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Club Deportivo Olimpia
+SUMMARY:Club América* vs. Club Deportivo Olimpia*
 DTSTART:20260212T010000Z
 DTEND:20260212T030000Z
 DTSTAMP:20260212T010000Z
 UID:MLS-MAT-0009Q1
-DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Club Deportivo Oli
- mpia
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América 0 - Club Deportivo Oli
+ mpia 0
 LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
@@ -548,8 +548,8 @@ DTSTART:20260227T010000Z
 DTEND:20260227T030000Z
 DTSTAMP:20260227T010000Z
 UID:MLS-MAT-000A5S
-DESCRIPTION:MLS Preseason Friendlies\n\nIndependiente del Valle vs. Inter 
- Miami CF
+DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle vs. Inter Mia
+ mi CF
 LOCATION:Estadio Juan Ramón Loubriel
 END:VEVENT
 BEGIN:VEVENT
@@ -840,21 +840,22 @@ DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Liga Deportiva Alajuele
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. TBC Away
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 DTSTAMP:20260310T170000Z
 UID:MLS-MAT-0009QB
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub de Fútbol Monterrey Rayados\, 
+ A.C. vs. TBC Away
+LOCATION:Estadio BBVA\, Guadalupe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:TBC Home vs. Club América
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 DTSTAMP:20260310T170000Z
 UID:MLS-MAT-0009QC
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Club América
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -1042,12 +1043,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:TBC Home vs. Club de Fútbol Monterrey Rayados\, A.C.
 DTSTART:20260317T170000Z
 DTEND:20260317T190000Z
 DTSTAMP:20260317T170000Z
 UID:MLS-MAT-0009QE
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Club de Fútbol Monterr
+ ey Rayados\, A.C.
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -1070,13 +1072,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. TBC A
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Club América vs. TBC Away
 DTSTART:20260318T170000Z
 DTEND:20260318T190000Z
 DTSTAMP:20260318T170000Z
 UID:MLS-MAT-0009QF
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. TBC Away
+LOCATION:Azteca Stadium\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. TBC Away
