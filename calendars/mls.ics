@@ -232,12 +232,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub de Fútbol Monterrey Rayados\,
 LOCATION:Estadio BBVA\, Guadalupe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Vancouver FC
+SUMMARY:Cruz Azul* vs. Vancouver FC
 DTSTART:20260213T010000Z
 DTEND:20260213T030000Z
 DTSTAMP:20260213T010000Z
 UID:MLS-MAT-0009Q5
-DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Vancouver FC
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul 5 - Vancouver FC 0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
@@ -280,9 +280,9 @@ LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Atlanta United
-DTSTART:20260214T180000Z
-DTEND:20260214T200000Z
-DTSTAMP:20260214T180000Z
+DTSTART:20260214T170000Z
+DTEND:20260214T190000Z
+DTSTAMP:20260214T170000Z
 UID:MLS-MAT-000A5E
 DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas vs. Atlanta United
 LOCATION:Toyota Stadium\, Frisco\, TX
@@ -541,16 +541,6 @@ UID:MLS-MAT-0009PL
 DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Defence Force
   Football Club
 LOCATION:Subaru Park\, Chester\, PA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Independiente del Valle vs. Inter Miami CF
-DTSTART:20260227T010000Z
-DTEND:20260227T030000Z
-DTSTAMP:20260227T010000Z
-UID:MLS-MAT-000A5S
-DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle vs. Inter Mia
- mi CF
-LOCATION:Estadio Juan Ramón Loubriel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. CF Montreal
@@ -840,13 +830,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Liga Deportiva Alajuele
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. TBC Away
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Cruz Azul
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 DTSTAMP:20260310T170000Z
 UID:MLS-MAT-0009QB
 DESCRIPTION:CONCACAF Champions Cup\n\nClub de Fútbol Monterrey Rayados\, 
- A.C. vs. TBC Away
+ A.C. vs. Cruz Azul
 LOCATION:Estadio BBVA\, Guadalupe
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,14 +1033,14 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Club de Fútbol Monterrey Rayados\, A.C.
+SUMMARY:Cruz Azul vs. Club de Fútbol Monterrey Rayados\, A.C.
 DTSTART:20260317T170000Z
 DTEND:20260317T190000Z
 DTSTAMP:20260317T170000Z
 UID:MLS-MAT-0009QE
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Club de Fútbol Monterr
- ey Rayados\, A.C.
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Club de Fútbol Monter
+ rey Rayados\, A.C.
+LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. TBC Away
@@ -1078,7 +1068,7 @@ DTEND:20260318T190000Z
 DTSTAMP:20260318T170000Z
 UID:MLS-MAT-0009QF
 DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. TBC Away
-LOCATION:Azteca Stadium\, Mexico City
+LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. TBC Away
