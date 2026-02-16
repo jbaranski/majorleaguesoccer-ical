@@ -21,12 +21,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nSan Jose Earthquakes 1 - Charlotte
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Minnesota United
+SUMMARY:Charlotte FC* vs. Minnesota United
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
 DTSTAMP:20260214T180000Z
 UID:MLS-MAT-000A4Y
-DESCRIPTION:MLS Preseason Friendlies\n\nCharlotte FC vs. Minnesota United
+DESCRIPTION:MLS Preseason Friendlies\n\nCharlotte FC 2 - Minnesota United 
+ 1
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

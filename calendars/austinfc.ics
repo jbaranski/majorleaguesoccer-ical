@@ -29,12 +29,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC 2 - Chicago Fire FC 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Sporting Kansas City
+SUMMARY:Austin FC vs. Sporting Kansas City*
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
 DTSTAMP:20260214T180000Z
 UID:MLS-MAT-000A4W
-DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC vs. Sporting Kansas City
+DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC 0 - Sporting Kansas City
+  2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT

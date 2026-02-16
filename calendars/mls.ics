@@ -241,50 +241,52 @@ DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul 5 - Vancouver FC 0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Sporting Kansas City
+SUMMARY:Austin FC vs. Sporting Kansas City*
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
 DTSTAMP:20260214T180000Z
 UID:MLS-MAT-000A4W
-DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC vs. Sporting Kansas City
+DESCRIPTION:MLS Preseason Friendlies\n\nAustin FC 0 - Sporting Kansas City
+  2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Portland Timbers
+SUMMARY:Chicago Fire FC vs. Portland Timbers*
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
 DTSTAMP:20260214T180000Z
 UID:MLS-MAT-000A4X
-DESCRIPTION:MLS Preseason Friendlies\n\nChicago Fire FC vs. Portland Timbe
- rs
+DESCRIPTION:MLS Preseason Friendlies\n\nChicago Fire FC 3 - Portland Timbe
+ rs 4
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Minnesota United
+SUMMARY:Charlotte FC* vs. Minnesota United
 DTSTART:20260214T180000Z
 DTEND:20260214T200000Z
 DTSTAMP:20260214T180000Z
 UID:MLS-MAT-000A4Y
-DESCRIPTION:MLS Preseason Friendlies\n\nCharlotte FC vs. Minnesota United
+DESCRIPTION:MLS Preseason Friendlies\n\nCharlotte FC 2 - Minnesota United 
+ 1
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. San Jose Earthquakes
+SUMMARY:New York City FC vs. San Jose Earthquakes*
 DTSTART:20260214T210000Z
 DTEND:20260214T230000Z
 DTSTAMP:20260214T210000Z
 UID:MLS-MAT-000A50
-DESCRIPTION:MLS Preseason Friendlies\n\nNew York City FC vs. San Jose Eart
- hquakes
+DESCRIPTION:MLS Preseason Friendlies\n\nNew York City FC 0 - San Jose Eart
+ hquakes 2
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Atlanta United
+SUMMARY:FC Dallas* vs. Atlanta United*
 DTSTART:20260214T170000Z
 DTEND:20260214T190000Z
 DTSTAMP:20260214T170000Z
 UID:MLS-MAT-000A5E
-DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas vs. Atlanta United
+DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas 0 - Atlanta United 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
