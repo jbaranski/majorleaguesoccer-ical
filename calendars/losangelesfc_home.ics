@@ -46,7 +46,7 @@ DTEND:20260308T053000Z
 DTSTAMP:20260308T033000Z
 UID:MLS-MAT-0009C4
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. St. Louis City SC
@@ -55,7 +55,7 @@ DTEND:20260315T043000Z
 DTSTAMP:20260315T023000Z
 UID:MLS-MAT-0009CJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. St. Louis City SC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Orlando City
@@ -64,7 +64,7 @@ DTEND:20260405T033000Z
 DTSTAMP:20260405T013000Z
 UID:MLS-MAT-0009DC
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Orlando City
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. San Jose Earthquakes
@@ -74,7 +74,7 @@ DTSTAMP:20260419T230000Z
 UID:MLS-MAT-0009EE
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Jose Earthquake
  s
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Colorado Rapids
@@ -83,7 +83,7 @@ DTEND:20260423T043000Z
 DTSTAMP:20260423T023000Z
 UID:MLS-MAT-0009EJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Houston Dynamo FC
@@ -110,7 +110,7 @@ DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HL
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Sporting Kansas City
@@ -120,7 +120,7 @@ DTSTAMP:20260726T023000Z
 UID:MLS-MAT-0009HV
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
  y
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. San Diego FC
@@ -129,7 +129,7 @@ DTEND:20260816T043000Z
 DTSTAMP:20260816T023000Z
 UID:MLS-MAT-0009IR
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Diego FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Portland Timbers
@@ -138,7 +138,7 @@ DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Red Bull New York
@@ -147,7 +147,7 @@ DTEND:20260910T043000Z
 DTSTAMP:20260910T023000Z
 UID:MLS-MAT-0009KU
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Red Bull New York
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC
@@ -157,7 +157,7 @@ DTSTAMP:20261011T023000Z
 UID:MLS-MAT-0009MJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Vancouver Whitecaps
   FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Austin FC
@@ -166,7 +166,7 @@ DTEND:20261015T043000Z
 DTSTAMP:20261015T023000Z
 UID:MLS-MAT-0009MZ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Austin FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. LA Galaxy
@@ -179,11 +179,11 @@ LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Minnesota United
-DTSTART:20261101T213000Z
-DTEND:20261101T233000Z
-DTSTAMP:20261101T213000Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009OR
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 END:VCALENDAR
