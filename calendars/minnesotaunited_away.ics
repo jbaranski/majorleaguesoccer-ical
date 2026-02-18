@@ -64,7 +64,7 @@ DTEND:20260405T043000Z
 DTSTAMP:20260405T023000Z
 UID:MLS-MAT-0009DB
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Minnesota United
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Minnesota United
@@ -185,6 +185,6 @@ DTEND:20261031T230000Z
 DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009OR
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 END:VCALENDAR

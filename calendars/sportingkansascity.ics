@@ -75,7 +75,7 @@ DTEND:20260315T033000Z
 DTSTAMP:20260315T013000Z
 UID:MLS-MAT-0009CI
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Colorado Rapids
@@ -203,7 +203,7 @@ DTSTAMP:20260726T023000Z
 UID:MLS-MAT-0009HV
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Sporting Kansas Cit
  y
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Houston Dynamo FC

@@ -54,7 +54,7 @@ DTEND:20260301T053000Z
 DTSTAMP:20260301T033000Z
 UID:MLS-MAT-0009BO
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Charlotte FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Sporting Kansas City
@@ -63,7 +63,7 @@ DTEND:20260315T033000Z
 DTSTAMP:20260315T013000Z
 UID:MLS-MAT-0009CI
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Minnesota United
@@ -72,7 +72,7 @@ DTEND:20260405T043000Z
 DTSTAMP:20260405T023000Z
 UID:MLS-MAT-0009DB
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Minnesota United
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Real Salt Lake
@@ -81,7 +81,7 @@ DTEND:20260427T010000Z
 DTSTAMP:20260426T230000Z
 UID:MLS-MAT-0009F4
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
@@ -90,7 +90,7 @@ DTEND:20260503T043000Z
 DTSTAMP:20260503T023000Z
 UID:MLS-MAT-0009FA
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Houston Dynamo FC
@@ -99,7 +99,7 @@ DTEND:20260524T043000Z
 DTSTAMP:20260524T023000Z
 UID:MLS-MAT-0009GY
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Houston Dynamo FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Los Angeles FC
@@ -117,7 +117,7 @@ DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HK
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. St. Louis City SC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. FC Dallas
@@ -135,7 +135,7 @@ DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009J6
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Jose Earthquakes
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. New England Revolution
@@ -153,7 +153,7 @@ DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LA
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Colorado Rapids
@@ -162,7 +162,7 @@ DTEND:20260927T043000Z
 DTSTAMP:20260927T023000Z
 UID:MLS-MAT-0009M4
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Portland Timbers
@@ -171,7 +171,7 @@ DTEND:20261015T043000Z
 DTSTAMP:20261015T023000Z
 UID:MLS-MAT-0009MY
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. San Diego FC
@@ -180,7 +180,7 @@ DTEND:20261018T043000Z
 DTSTAMP:20261018T023000Z
 UID:MLS-MAT-0009NB
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Diego FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Austin FC
@@ -189,6 +189,6 @@ DTEND:20261031T230000Z
 DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009OK
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Austin FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 END:VCALENDAR

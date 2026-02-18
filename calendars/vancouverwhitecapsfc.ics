@@ -126,7 +126,7 @@ DTEND:20260503T043000Z
 DTSTAMP:20260503T023000Z
 UID:MLS-MAT-0009FA
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
@@ -301,7 +301,7 @@ DTSTAMP:20261011T023000Z
 UID:MLS-MAT-0009MJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Vancouver Whitecaps
   FC
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Vancouver Whitecaps FC

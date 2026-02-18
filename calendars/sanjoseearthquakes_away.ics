@@ -58,7 +58,7 @@ DTSTAMP:20260419T230000Z
 UID:MLS-MAT-0009EE
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Jose Earthquake
  s
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. San Jose Earthquakes
@@ -115,7 +115,7 @@ DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009J6
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Jose Earthquakes
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes

@@ -91,7 +91,7 @@ DTEND:20260423T043000Z
 DTSTAMP:20260423T023000Z
 UID:MLS-MAT-0009EJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Colorado Rapids
@@ -256,7 +256,7 @@ DTEND:20260927T043000Z
 DTSTAMP:20260927T023000Z
 UID:MLS-MAT-0009M4
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. San Jose Earthquakes

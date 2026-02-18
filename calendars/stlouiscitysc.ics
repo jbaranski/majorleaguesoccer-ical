@@ -63,7 +63,7 @@ DTEND:20260315T043000Z
 DTSTAMP:20260315T023000Z
 UID:MLS-MAT-0009CJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. St. Louis City SC
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. New England Revolution
@@ -175,7 +175,7 @@ DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HK
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. St. Louis City SC
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Colorado Rapids

@@ -232,7 +232,7 @@ DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Austin FC
@@ -306,7 +306,7 @@ DTEND:20261015T043000Z
 DTSTAMP:20261015T023000Z
 UID:MLS-MAT-0009MY
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Colorado Rapids

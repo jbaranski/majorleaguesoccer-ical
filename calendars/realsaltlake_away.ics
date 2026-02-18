@@ -54,7 +54,7 @@ DTEND:20260427T010000Z
 DTSTAMP:20260426T230000Z
 UID:MLS-MAT-0009F4
 DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
-LOCATION:BMO Stadium\, Los Angeles\, CA
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Real Salt Lake
@@ -81,7 +81,7 @@ DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HL
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. Real Salt Lake
