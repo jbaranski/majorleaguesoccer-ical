@@ -290,12 +290,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas 0 - Atlanta United 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlético Ottawa vs. Nashville SC
+SUMMARY:Atlético Ottawa vs. Nashville SC*
 DTSTART:20260218T010000Z
 DTEND:20260218T030000Z
 DTSTAMP:20260218T010000Z
 UID:MLS-MAT-0009PG
-DESCRIPTION:CONCACAF Champions Cup\n\nAtlético Ottawa vs. Nashville SC
+DESCRIPTION:CONCACAF Champions Cup\n\nAtlético Ottawa 0 - Nashville SC 2
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
