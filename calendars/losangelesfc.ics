@@ -21,13 +21,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nLos Angeles FC 1 - New York City F
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Club Deportivo España vs. Los Angeles FC
+SUMMARY:Real Club Deportivo España vs. Los Angeles FC*
 DTSTART:20260218T030000Z
 DTEND:20260218T050000Z
 DTSTAMP:20260218T030000Z
 UID:MLS-MAT-0009PI
-DESCRIPTION:CONCACAF Champions Cup\n\nReal Club Deportivo España vs. Los 
- Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nReal Club Deportivo España 1 - Los 
+ Angeles FC 6
 LOCATION:Estadio General Francisco Morazán\, San Pedro Sula
 END:VEVENT
 BEGIN:VEVENT
