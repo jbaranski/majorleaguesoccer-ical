@@ -328,13 +328,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nO&M Fútbol Club 0 - FC Cincinnati 4
 LOCATION:Estadio Cibao Fútbol Club\, Santiago de los Caballeros
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Sport Cartaginés Deportiva S.A. vs. Vancouver Whitecaps FC
+SUMMARY:Club Sport Cartaginés Deportiva S.A.* vs. Vancouver Whitecaps FC*
 DTSTART:20260219T030000Z
 DTEND:20260219T050000Z
 DTSTAMP:20260219T030000Z
 UID:MLS-MAT-0009PO
 DESCRIPTION:CONCACAF Champions Cup\n\nClub Sport Cartaginés Deportiva S.A
- . vs. Vancouver Whitecaps FC
+ . 0 - Vancouver Whitecaps FC 0
 LOCATION:Estadio Fello Meza\, Cartago
 END:VEVENT
 BEGIN:VEVENT
