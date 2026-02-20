@@ -11,13 +11,13 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:philadelphiaunion-2026
 BEGIN:VEVENT
-SUMMARY:Defence Force Football Club vs. Philadelphia Union
+SUMMARY:Defence Force Football Club vs. Philadelphia Union*
 DTSTART:20260218T230000Z
 DTEND:20260219T010000Z
 DTSTAMP:20260218T230000Z
 UID:MLS-MAT-0009PK
-DESCRIPTION:CONCACAF Champions Cup\n\nDefence Force Football Club vs. Phil
- adelphia Union
+DESCRIPTION:CONCACAF Champions Cup\n\nDefence Force Football Club 0 - Phil
+ adelphia Union 5
 LOCATION:Hasely Crawford Stadium\, Port of Spain
 END:VEVENT
 BEGIN:VEVENT
