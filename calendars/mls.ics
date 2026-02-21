@@ -338,13 +338,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub Sport Cartaginés Deportiva S.A
 LOCATION:Estadio Fello Meza\, Cartago
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Academia de Futbol Sporting San Miguelito vs. LA Galaxy
+SUMMARY:Academia de Futbol Sporting San Miguelito* vs. LA Galaxy*
 DTSTART:20260220T010000Z
 DTEND:20260220T030000Z
 DTSTAMP:20260220T010000Z
 UID:MLS-MAT-0009PQ
 DESCRIPTION:CONCACAF Champions Cup\n\nAcademia de Futbol Sporting San Migu
- elito vs. LA Galaxy
+ elito 1 - LA Galaxy 1
 LOCATION:Estadio Universidad Latina\, Penonomé
 END:VEVENT
 BEGIN:VEVENT
