@@ -1152,7 +1152,7 @@ DTEND:20260318T020000Z
 DTSTAMP:20260318T000000Z
 UID:MLS-MAT-000A64
 DESCRIPTION:U.S. Open Cup\n\nIndy Eleven vs. Des Moines Menace
-LOCATION:Grand Park Events Center
+LOCATION:Grand Park Events Center\, Westfield\, IN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phoenix Rising FC vs. San Ramon FC
@@ -1224,7 +1224,7 @@ DTEND:20260319T013000Z
 DTSTAMP:20260318T233000Z
 UID:MLS-MAT-000A6C
 DESCRIPTION:U.S. Open Cup\n\nSC Vistula Garfield vs. One Knoxville SC
-LOCATION:Garfield HS
+LOCATION:Garfield HS\, Garfield\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. TBC Away
@@ -1270,7 +1270,7 @@ DTEND:20260319T020000Z
 DTSTAMP:20260319T000000Z
 UID:MLS-MAT-000A6D
 DESCRIPTION:U.S. Open Cup\n\nBOHFS St. Louis vs. Union Omaha
-LOCATION:Hunter Stadium - Lindenwood
+LOCATION:Hunter Stadium - Lindenwood\, St. Charles\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Little Rock Rangers vs. FC Tulsa
@@ -1288,7 +1288,7 @@ DTEND:20260319T023000Z
 DTSTAMP:20260319T003000Z
 UID:MLS-MAT-000A6F
 DESCRIPTION:U.S. Open Cup\n\nSan Antonio FC vs. ASC New Stars
-LOCATION:Toyota Field
+LOCATION:Toyota Field\, San Antonio\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Mexico United vs. Cruizers FC
@@ -1324,7 +1324,7 @@ DTEND:20260319T043000Z
 DTSTAMP:20260319T023000Z
 UID:MLS-MAT-000A6J
 DESCRIPTION:U.S. Open Cup\n\nVentura County Fusion vs. Spokane Velocity FC
-LOCATION:Ventura College Stadium
+LOCATION:Ventura College Stadium\, Ventura\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orange County SC vs. Laguna United FC
@@ -1360,7 +1360,7 @@ DTEND:20260320T003000Z
 DTSTAMP:20260319T223000Z
 UID:MLS-MAT-000A6N
 DESCRIPTION:U.S. Open Cup\n\nFlint City Bucks vs. Forward Madison FC
-LOCATION:Don Batchelor Stadium
+LOCATION:Don Batchelor Stadium\, Grand Blanc\, MI
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lexington SC vs. Flower City Union
@@ -1387,7 +1387,7 @@ DTEND:20260320T023000Z
 DTSTAMP:20260320T003000Z
 UID:MLS-MAT-000A6Q
 DESCRIPTION:U.S. Open Cup\n\nLaredo Heat SC vs. El Paso Locomotive
-LOCATION:PEG Energy Stadium
+LOCATION:PEG Energy Stadium\, Laredo\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tennessee Tempo FC vs. Chattanooga Red Wolves SC
@@ -1397,7 +1397,7 @@ DTSTAMP:20260320T000000Z
 UID:MLS-MAT-000A6R
 DESCRIPTION:U.S. Open Cup\n\nTennessee Tempo FC vs. Chattanooga Red Wolves
   SC
-LOCATION:Richard Siegel Soccer Complex
+LOCATION:Richard Siegel Soccer Complex\, Murfreesboro\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. D.C. United
