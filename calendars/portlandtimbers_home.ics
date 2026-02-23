@@ -20,12 +20,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nPortland Timbers 0 - D.C. United 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Columbus Crew
+SUMMARY:Portland Timbers* vs. Columbus Crew
 DTSTART:20260222T033000Z
 DTEND:20260222T053000Z
 DTSTAMP:20260222T033000Z
 UID:MLS-MAT-0009BB
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Columbus Crew 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

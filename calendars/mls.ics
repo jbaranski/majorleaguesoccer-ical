@@ -403,12 +403,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Chicago Fire FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Inter Miami CF
+SUMMARY:Los Angeles FC* vs. Inter Miami CF
 DTSTART:20260222T023000Z
 DTEND:20260222T043000Z
 DTSTAMP:20260222T023000Z
 UID:MLS-MAT-0009B8
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Inter Miami CF 0
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -431,31 +431,31 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Red Bull New York 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Columbus Crew
+SUMMARY:Portland Timbers* vs. Columbus Crew
 DTSTART:20260222T033000Z
 DTEND:20260222T053000Z
 DTSTAMP:20260222T033000Z
 UID:MLS-MAT-0009BB
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Columbus Crew 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. CF Montreal
+SUMMARY:San Diego FC* vs. CF Montreal
 DTSTART:20260222T033000Z
 DTEND:20260222T053000Z
 DTSTAMP:20260222T033000Z
 UID:MLS-MAT-0009BC
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - CF Montreal 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Sporting Kansas City
+SUMMARY:San Jose Earthquakes* vs. Sporting Kansas City
 DTSTART:20260222T033000Z
 DTEND:20260222T053000Z
 DTSTAMP:20260222T033000Z
 UID:MLS-MAT-0009BD
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Sporting Kans
- as City
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Sporting Kans
+ as City 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

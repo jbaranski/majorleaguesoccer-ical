@@ -29,12 +29,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nPumas 1 - San Diego FC 0
 LOCATION:Estadio Olímpico Universitario\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. CF Montreal
+SUMMARY:San Diego FC* vs. CF Montreal
 DTSTART:20260222T033000Z
 DTEND:20260222T053000Z
 DTSTAMP:20260222T033000Z
 UID:MLS-MAT-0009BC
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - CF Montreal 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

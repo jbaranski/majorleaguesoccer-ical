@@ -41,12 +41,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Inter Miami CF
+SUMMARY:Los Angeles FC* vs. Inter Miami CF
 DTSTART:20260222T023000Z
 DTEND:20260222T043000Z
 DTSTAMP:20260222T023000Z
 UID:MLS-MAT-0009B8
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Inter Miami CF 0
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
