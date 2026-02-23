@@ -40,12 +40,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nCharlotte FC 2 - Minnesota United
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Minnesota United
+SUMMARY:Austin FC* vs. Minnesota United*
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B3
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Minnesota United 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

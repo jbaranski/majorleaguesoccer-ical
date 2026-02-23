@@ -21,13 +21,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub Sport Cartaginés Deportiva S.A
 LOCATION:Estadio Fello Meza\, Cartago
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+SUMMARY:Vancouver Whitecaps FC* vs. Real Salt Lake
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009BF
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Real Salt L
- ake
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Real Salt L
+ ake 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

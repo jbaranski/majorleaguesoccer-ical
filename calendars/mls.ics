@@ -348,57 +348,58 @@ DESCRIPTION:CONCACAF Champions Cup\n\nAcademia de Futbol Sporting San Migu
 LOCATION:Estadio Universidad Latina\, Penonomé
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Atlanta United
+SUMMARY:FC Cincinnati* vs. Atlanta United
 DTSTART:20260221T214500Z
 DTEND:20260221T234500Z
 DTSTAMP:20260221T214500Z
 UID:MLS-MAT-0009B4
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Atlanta United 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Charlotte FC
+SUMMARY:St. Louis City SC* vs. Charlotte FC*
 DTSTART:20260221T193000Z
 DTEND:20260221T213000Z
 DTSTAMP:20260221T193000Z
 UID:MLS-MAT-0009BE
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Charlotte FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Minnesota United
+SUMMARY:Austin FC* vs. Minnesota United*
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B3
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Minnesota United 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Toronto FC
+SUMMARY:FC Dallas* vs. Toronto FC
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B5
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Toronto FC 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Philadelphia Union
+SUMMARY:D.C. United* vs. Philadelphia Union
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009B6
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Philadelphia Union 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Chicago Fire FC
+SUMMARY:Houston Dynamo FC* vs. Chicago Fire FC
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B7
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Chicago Fire FC 
+ 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -411,22 +412,22 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Inter Miami CF
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New England Revolution
+SUMMARY:Nashville SC* vs. New England Revolution
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B9
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New England Revolutio
- n
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - New England Revolutio
+ n 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Red Bull New York
+SUMMARY:Orlando City vs. Red Bull New York*
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009BA
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Red Bull New York 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -458,13 +459,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Sporting Kans
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+SUMMARY:Vancouver Whitecaps FC* vs. Real Salt Lake
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009BF
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Real Salt L
- ake
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Real Salt L
+ ake 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

@@ -29,12 +29,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nD.C. United 0 - Minnesota United 0
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Philadelphia Union
+SUMMARY:D.C. United* vs. Philadelphia Union
 DTSTART:20260222T003000Z
 DTEND:20260222T023000Z
 DTSTAMP:20260222T003000Z
 UID:MLS-MAT-0009B6
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Philadelphia Union 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

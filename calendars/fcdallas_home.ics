@@ -20,12 +20,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas 0 - Atlanta United 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Toronto FC
+SUMMARY:FC Dallas* vs. Toronto FC
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B5
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Toronto FC 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

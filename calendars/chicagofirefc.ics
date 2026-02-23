@@ -39,12 +39,13 @@ DESCRIPTION:MLS Preseason Friendlies\n\nChicago Fire FC 3 - Portland Timbe
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Chicago Fire FC
+SUMMARY:Houston Dynamo FC* vs. Chicago Fire FC
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B7
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Chicago Fire FC 
+ 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

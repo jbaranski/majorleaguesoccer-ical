@@ -20,13 +20,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nAtlético Ottawa 0 - Nashville SC 2
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. New England Revolution
+SUMMARY:Nashville SC* vs. New England Revolution
 DTSTART:20260222T013000Z
 DTEND:20260222T033000Z
 DTSTAMP:20260222T013000Z
 UID:MLS-MAT-0009B9
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. New England Revolutio
- n
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - New England Revolutio
+ n 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

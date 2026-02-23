@@ -20,12 +20,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nFC Dallas 0 - Atlanta United 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Atlanta United
+SUMMARY:FC Cincinnati* vs. Atlanta United
 DTSTART:20260221T214500Z
 DTEND:20260221T234500Z
 DTSTAMP:20260221T214500Z
 UID:MLS-MAT-0009B4
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Atlanta United 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
