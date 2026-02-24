@@ -478,13 +478,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - New York City FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Colorado Rapids
+SUMMARY:Seattle Sounders FC* vs. Colorado Rapids
 DTSTART:20260223T021500Z
 DTEND:20260223T041500Z
 DTSTAMP:20260223T021500Z
 UID:MLS-MAT-0009BH
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Colorado Rapid
- s
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Colorado Rapid
+ s 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
