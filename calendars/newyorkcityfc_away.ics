@@ -31,12 +31,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nSporting Kansas City 2 - New York
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. New York City FC
+SUMMARY:LA Galaxy* vs. New York City FC*
 DTSTART:20260223T000000Z
 DTEND:20260223T020000Z
 DTSTAMP:20260223T000000Z
 UID:MLS-MAT-0009BG
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - New York City FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
