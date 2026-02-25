@@ -832,14 +832,14 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Vancouver Whiteca
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Liga Deportiva Alajuelense
+SUMMARY:Los Angeles FC vs. Liga Deportiva Alajuelense
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 DTSTAMP:20260310T170000Z
 UID:MLS-MAT-0009Q7
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Liga Deportiva Alajuele
- nse
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Liga Deportiva Al
+ ajuelense
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Cruz Azul
@@ -861,13 +861,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Club América
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Inter Miami CF
+SUMMARY:Nashville SC vs. Inter Miami CF
 DTSTART:20260311T170000Z
 DTEND:20260311T190000Z
 DTSTAMP:20260311T170000Z
 UID:MLS-MAT-0009PS
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Inter Miami CF
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Inter Miami CF
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Toluca FC
@@ -1119,22 +1119,22 @@ DESCRIPTION:U.S. Open Cup\n\nWest Chester United SC vs. Loudoun United FC
 LOCATION:YSC Sports\, Wayne\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. TBC Away
+SUMMARY:Inter Miami CF vs. Nashville SC
 DTSTART:20260318T230000Z
 DTEND:20260319T010000Z
 DTSTAMP:20260318T230000Z
 UID:MLS-MAT-0009PT
-DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Nashville SC
 LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liga Deportiva Alajuelense vs. TBC Away
+SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC
 DTSTART:20260318T170000Z
 DTEND:20260318T190000Z
 DTSTAMP:20260318T170000Z
 UID:MLS-MAT-0009Q8
-DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. TBC A
- way
+DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. Los A
+ ngeles FC
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT

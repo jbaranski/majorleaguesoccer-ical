@@ -41,12 +41,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. TBC Away
+SUMMARY:Inter Miami CF vs. Nashville SC
 DTSTART:20260318T230000Z
 DTEND:20260319T010000Z
 DTSTAMP:20260318T230000Z
 UID:MLS-MAT-0009PT
-DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Nashville SC
 LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT

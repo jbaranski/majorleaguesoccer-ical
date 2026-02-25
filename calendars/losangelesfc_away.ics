@@ -30,6 +30,16 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Los Angeles FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC
+DTSTART:20260318T170000Z
+DTEND:20260318T190000Z
+DTSTAMP:20260318T170000Z
+UID:MLS-MAT-0009Q8
+DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. Los A
+ ngeles FC
+LOCATION:Estadio Alejandro Morera Soto\, Alajuela
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Austin FC vs. Los Angeles FC
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
