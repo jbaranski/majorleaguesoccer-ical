@@ -21,12 +21,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - New England Revolutio
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Atlético Ottawa
+SUMMARY:Nashville SC* vs. Atlético Ottawa
 DTSTART:20260225T010000Z
 DTEND:20260225T030000Z
 DTSTAMP:20260225T010000Z
 UID:MLS-MAT-0009PH
-DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Atlético Ottawa
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 5 - Atlético Ottawa 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
