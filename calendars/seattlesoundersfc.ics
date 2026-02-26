@@ -40,13 +40,14 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Seattle Sounders
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
 DTSTART:20260312T170000Z
 DTEND:20260312T190000Z
 DTSTAMP:20260312T170000Z
 UID:MLS-MAT-0009PU
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Seattle Sounders FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Seattle S
+ ounders FC
+LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC
@@ -59,12 +60,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. TBC Away
+SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
 DTSTART:20260319T030000Z
 DTEND:20260319T050000Z
 DTSTAMP:20260319T030000Z
 UID:MLS-MAT-0009PV
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Vancouver Wh
+ itecaps FC
 LOCATION:ONE Spokane Stadium\, Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT

@@ -30,6 +30,16 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. LA Galaxy
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mount Pleasant Football Academy vs. LA Galaxy
+DTSTART:20260319T160000Z
+DTEND:20260319T180000Z
+DTSTAMP:20260319T160000Z
+UID:MLS-MAT-0009QI
+DESCRIPTION:CONCACAF Champions Cup\n\nMount Pleasant Football Academy vs. 
+ LA Galaxy
+LOCATION:Independence Park\, Kingston
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. LA Galaxy
 DTSTART:20260322T203000Z
 DTEND:20260322T223000Z

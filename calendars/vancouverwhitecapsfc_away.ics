@@ -31,6 +31,16 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Vancouver Whiteca
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
+DTSTART:20260319T030000Z
+DTEND:20260319T050000Z
+DTSTAMP:20260319T030000Z
+UID:MLS-MAT-0009PV
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Vancouver Wh
+ itecaps FC
+LOCATION:ONE Spokane Stadium\, Spokane\, WA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
 DTSTART:20260503T023000Z
 DTEND:20260503T043000Z

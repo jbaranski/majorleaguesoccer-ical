@@ -30,13 +30,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Inter Miami CF 0
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Real Club Deportivo España
+SUMMARY:Los Angeles FC* vs. Real Club Deportivo España
 DTSTART:20260225T030000Z
 DTEND:20260225T050000Z
 DTSTAMP:20260225T030000Z
 UID:MLS-MAT-0009PJ
-DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Real Club Deporti
- vo España
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Real Club Deporti
+ vo España 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
