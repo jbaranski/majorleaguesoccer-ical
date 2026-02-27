@@ -20,12 +20,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Atlanta United 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. O&M Fútbol Club
+SUMMARY:FC Cincinnati* vs. O&M Fútbol Club
 DTSTART:20260226T000000Z
 DTEND:20260226T020000Z
 DTSTAMP:20260226T000000Z
 UID:MLS-MAT-0009PN
-DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati vs. O&M Fútbol Club
+DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 9 - O&M Fútbol Club 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
