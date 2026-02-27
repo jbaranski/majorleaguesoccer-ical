@@ -39,6 +39,15 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club América vs. Philadelphia Union
+DTSTART:20260318T170000Z
+DTEND:20260318T190000Z
+DTSTAMP:20260318T170000Z
+UID:MLS-MAT-0009QF
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Philadelphia Union
+LOCATION:Estadio Banorte\, Mexico City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. Philadelphia Union
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z

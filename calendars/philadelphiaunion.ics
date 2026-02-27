@@ -60,6 +60,15 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. San Jose Earthq
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. Club América
+DTSTART:20260310T170000Z
+DTEND:20260310T190000Z
+DTSTAMP:20260310T170000Z
+UID:MLS-MAT-0009QC
+DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Club América
+LOCATION:Subaru Park\, Chester\, PA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Philadelphia Union
 DTSTART:20260314T190000Z
 DTEND:20260314T210000Z
@@ -67,6 +76,15 @@ DTSTAMP:20260314T190000Z
 UID:MLS-MAT-0009CC
 DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club América vs. Philadelphia Union
+DTSTART:20260318T170000Z
+DTEND:20260318T190000Z
+DTSTAMP:20260318T170000Z
+UID:MLS-MAT-0009QF
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Philadelphia Union
+LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Chicago Fire FC

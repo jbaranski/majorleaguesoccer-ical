@@ -516,32 +516,32 @@ DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 9 - O&M Fútbol Club 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Club Sport Cartaginés Deportiva S.A.
+SUMMARY:Vancouver Whitecaps FC* vs. Club Sport Cartaginés Deportiva S.A.
 DTSTART:20260226T023000Z
 DTEND:20260226T043000Z
 DTSTAMP:20260226T023000Z
 UID:MLS-MAT-0009PP
-DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Club Spor
- t Cartaginés Deportiva S.A.
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 2 - Club Spor
+ t Cartaginés Deportiva S.A. 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Academia de Futbol Sporting San Miguelito
+SUMMARY:LA Galaxy* vs. Academia de Futbol Sporting San Miguelito*
 DTSTART:20260226T043000Z
 DTEND:20260226T063000Z
 DTSTAMP:20260226T043000Z
 UID:MLS-MAT-0009PR
-DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy vs. Academia de Futbol Spo
- rting San Miguelito
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 0 - Academia de Futbol Spo
+ rting San Miguelito 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico vs. Iceland
+SUMMARY:Mexico* vs. Iceland
 DTSTART:20260226T020000Z
 DTEND:20260226T040000Z
 DTSTAMP:20260226T020000Z
 UID:MLS-MAT-000A6T
-DESCRIPTION:International Friendlies\n\nMexico vs. Iceland
+DESCRIPTION:International Friendlies\n\nMexico 4 - Iceland 0
 LOCATION:La Corregidora\, Santiago de Querétaro
 END:VEVENT
 BEGIN:VEVENT
@@ -862,13 +862,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub de Fútbol Monterrey Rayados\,
 LOCATION:Estadio BBVA\, Guadalupe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Club América
+SUMMARY:Philadelphia Union vs. Club América
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 DTSTAMP:20260310T170000Z
 UID:MLS-MAT-0009QC
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Club América
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Club América
+LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Inter Miami CF
@@ -1149,12 +1149,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. Los A
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. TBC Away
+SUMMARY:Club América vs. Philadelphia Union
 DTSTART:20260318T170000Z
 DTEND:20260318T190000Z
 DTSTAMP:20260318T170000Z
 UID:MLS-MAT-0009QF
-DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Philadelphia Union
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT

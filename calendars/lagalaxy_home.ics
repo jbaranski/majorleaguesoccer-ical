@@ -38,13 +38,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - New York City FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Academia de Futbol Sporting San Miguelito
+SUMMARY:LA Galaxy* vs. Academia de Futbol Sporting San Miguelito*
 DTSTART:20260226T043000Z
 DTEND:20260226T063000Z
 DTSTAMP:20260226T043000Z
 UID:MLS-MAT-0009PR
-DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy vs. Academia de Futbol Spo
- rting San Miguelito
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 0 - Academia de Futbol Spo
+ rting San Miguelito 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

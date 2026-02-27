@@ -21,13 +21,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Real Salt L
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Club Sport Cartaginés Deportiva S.A.
+SUMMARY:Vancouver Whitecaps FC* vs. Club Sport Cartaginés Deportiva S.A.
 DTSTART:20260226T023000Z
 DTEND:20260226T043000Z
 DTSTAMP:20260226T023000Z
 UID:MLS-MAT-0009PP
-DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Club Spor
- t Cartaginés Deportiva S.A.
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 2 - Club Spor
+ t Cartaginés Deportiva S.A. 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
