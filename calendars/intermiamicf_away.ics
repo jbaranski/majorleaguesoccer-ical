@@ -20,13 +20,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Inter Miami CF 0
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Independiente del Valle vs. Inter Miami CF
+SUMMARY:Independiente del Valle vs. Inter Miami CF*
 DTSTART:20260227T010000Z
 DTEND:20260227T030000Z
 DTSTAMP:20260227T010000Z
 UID:MLS-MAT-000A5S
-DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle vs. Inter Mia
- mi CF
+DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle 1 - Inter Mia
+ mi CF 2
 LOCATION:Estadio Juan Ramón Loubriel\, Bayamón
 END:VEVENT
 BEGIN:VEVENT
@@ -49,9 +49,9 @@ LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nashville SC vs. Inter Miami CF
-DTSTART:20260311T170000Z
-DTEND:20260311T190000Z
-DTSTAMP:20260311T170000Z
+DTSTART:20260311T233000Z
+DTEND:20260312T013000Z
+DTSTAMP:20260311T233000Z
 UID:MLS-MAT-0009PS
 DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Inter Miami CF
 LOCATION:GEODIS Park\, Nashville\, TN

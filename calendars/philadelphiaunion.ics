@@ -30,13 +30,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Philadelphia Union 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Defence Force Football Club
+SUMMARY:Philadelphia Union* vs. Defence Force Football Club
 DTSTART:20260227T000000Z
 DTEND:20260227T020000Z
 DTSTAMP:20260227T000000Z
 UID:MLS-MAT-0009PL
-DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Defence Force
-  Football Club
+DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union 7 - Defence Force
+  Football Club 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -61,9 +61,9 @@ LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Club América
-DTSTART:20260310T170000Z
-DTEND:20260310T190000Z
-DTSTAMP:20260310T170000Z
+DTSTART:20260310T230000Z
+DTEND:20260311T010000Z
+DTSTAMP:20260310T230000Z
 UID:MLS-MAT-0009QC
 DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Club América
 LOCATION:Subaru Park\, Chester\, PA
@@ -79,12 +79,12 @@ LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club América vs. Philadelphia Union
-DTSTART:20260318T170000Z
-DTEND:20260318T190000Z
-DTSTAMP:20260318T170000Z
+DTSTART:20260319T010000Z
+DTEND:20260319T030000Z
+DTSTAMP:20260319T010000Z
 UID:MLS-MAT-0009QF
 DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Philadelphia Union
-LOCATION:Estadio Banorte\, Mexico City
+LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Chicago Fire FC
