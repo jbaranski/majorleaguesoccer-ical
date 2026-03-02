@@ -20,12 +20,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Columbus Crew 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Columbus Crew
+SUMMARY:Sporting Kansas City* vs. Columbus Crew*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BN
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Columbus Crew
+  2
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

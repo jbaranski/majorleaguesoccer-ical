@@ -39,12 +39,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 5 - Atlético Ottawa 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Nashville SC
+SUMMARY:FC Dallas* vs. Nashville SC*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BL
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Nashville SC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

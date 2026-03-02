@@ -49,12 +49,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Chicago Fire FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. CF Montreal
+SUMMARY:Chicago Fire FC* vs. CF Montreal
 DTSTART:20260228T193000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T193000Z
 UID:MLS-MAT-0009BJ
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - CF Montreal 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

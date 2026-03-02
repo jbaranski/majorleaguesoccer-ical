@@ -29,13 +29,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - Atlanta United 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Atlanta United
+SUMMARY:San Jose Earthquakes* vs. Atlanta United
 DTSTART:20260301T003000Z
 DTEND:20260301T023000Z
 DTSTAMP:20260301T003000Z
 UID:MLS-MAT-0009BS
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Atlanta Unite
- d
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
+ d 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -20,13 +20,13 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Red Bull New York 2
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. New England Revolution
+SUMMARY:Red Bull New York* vs. New England Revolution
 DTSTART:20260228T193000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T193000Z
 UID:MLS-MAT-0009BQ
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. New England Revo
- lution
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
+ lution 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

@@ -565,40 +565,40 @@ DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle 1 - Inter Mia
 LOCATION:Estadio Juan Ramón Loubriel\, Bayamón
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. CF Montreal
+SUMMARY:Chicago Fire FC* vs. CF Montreal
 DTSTART:20260228T193000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T193000Z
 UID:MLS-MAT-0009BJ
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 3 - CF Montreal 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Portland Timbers
+SUMMARY:Colorado Rapids* vs. Portland Timbers
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 DTSTAMP:20260228T213000Z
 UID:MLS-MAT-0009BK
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Portland Timbers 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Cincinnati
+SUMMARY:Minnesota United* vs. FC Cincinnati
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 DTSTAMP:20260228T213000Z
 UID:MLS-MAT-0009BP
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - FC Cincinnati 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. New England Revolution
+SUMMARY:Red Bull New York* vs. New England Revolution
 DTSTART:20260228T193000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T193000Z
 UID:MLS-MAT-0009BQ
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. New England Revo
- lution
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
+ lution 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
@@ -611,30 +611,31 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. D.C. United
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Nashville SC
+SUMMARY:FC Dallas* vs. Nashville SC*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BL
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Nashville SC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Los Angeles FC
+SUMMARY:Houston Dynamo FC vs. Los Angeles FC*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BM
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Los Angeles FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Columbus Crew
+SUMMARY:Sporting Kansas City* vs. Columbus Crew*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BN
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Columbus Crew
+  2
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
@@ -647,22 +648,23 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Charlotte FC
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Seattle Sounders FC
+SUMMARY:Real Salt Lake* vs. Seattle Sounders FC
 DTSTART:20260301T003000Z
 DTEND:20260301T023000Z
 DTSTAMP:20260301T003000Z
 UID:MLS-MAT-0009BR
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Seattle Sounders FC
+  1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Atlanta United
+SUMMARY:San Jose Earthquakes* vs. Atlanta United
 DTSTART:20260301T003000Z
 DTEND:20260301T023000Z
 DTSTAMP:20260301T003000Z
 UID:MLS-MAT-0009BS
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Atlanta Unite
- d
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
+ d 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

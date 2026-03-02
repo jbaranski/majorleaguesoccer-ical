@@ -21,12 +21,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nReal Club Deportivo España 1 - Los
 LOCATION:Estadio General Francisco Morazán\, San Pedro Sula
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Los Angeles FC
+SUMMARY:Houston Dynamo FC vs. Los Angeles FC*
 DTSTART:20260301T013000Z
 DTEND:20260301T033000Z
 DTSTAMP:20260301T013000Z
 UID:MLS-MAT-0009BM
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Los Angeles FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

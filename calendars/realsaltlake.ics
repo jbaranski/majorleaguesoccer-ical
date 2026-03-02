@@ -21,12 +21,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Real Salt L
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Seattle Sounders FC
+SUMMARY:Real Salt Lake* vs. Seattle Sounders FC
 DTSTART:20260301T003000Z
 DTEND:20260301T023000Z
 DTSTAMP:20260301T003000Z
 UID:MLS-MAT-0009BR
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Seattle Sounders FC
+  1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

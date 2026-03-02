@@ -21,12 +21,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nMinnesota United 3 - Sporting Kans
 LOCATION:Empire Polo Club\, Indio\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Cincinnati
+SUMMARY:Minnesota United* vs. FC Cincinnati
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 DTSTAMP:20260228T213000Z
 UID:MLS-MAT-0009BP
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - FC Cincinnati 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

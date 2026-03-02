@@ -20,12 +20,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nO&M Fútbol Club 0 - FC Cincinnati 4
 LOCATION:Estadio Cibao Fútbol Club\, Santiago de los Caballeros
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Cincinnati
+SUMMARY:Minnesota United* vs. FC Cincinnati
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 DTSTAMP:20260228T213000Z
 UID:MLS-MAT-0009BP
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - FC Cincinnati 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
