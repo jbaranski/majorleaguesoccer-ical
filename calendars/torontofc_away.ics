@@ -20,12 +20,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Toronto FC 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Toronto FC
+SUMMARY:Vancouver Whitecaps FC* vs. Toronto FC
 DTSTART:20260301T023000Z
 DTEND:20260301T043000Z
 DTSTAMP:20260301T023000Z
 UID:MLS-MAT-0009BT
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Toronto FC 
+ 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

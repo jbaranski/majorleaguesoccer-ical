@@ -48,12 +48,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 0 - Academia de Futbol Spo
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Charlotte FC
+SUMMARY:LA Galaxy* vs. Charlotte FC
 DTSTART:20260301T033000Z
 DTEND:20260301T053000Z
 DTSTAMP:20260301T033000Z
 UID:MLS-MAT-0009BO
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Charlotte FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

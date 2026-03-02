@@ -639,12 +639,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Columbus Crew
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Charlotte FC
+SUMMARY:LA Galaxy* vs. Charlotte FC
 DTSTART:20260301T033000Z
 DTEND:20260301T053000Z
 DTSTAMP:20260301T033000Z
 UID:MLS-MAT-0009BO
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Charlotte FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -668,12 +668,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Toronto FC
+SUMMARY:Vancouver Whitecaps FC* vs. Toronto FC
 DTSTART:20260301T023000Z
 DTEND:20260301T043000Z
 DTSTAMP:20260301T023000Z
 UID:MLS-MAT-0009BT
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Toronto FC 
+ 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
