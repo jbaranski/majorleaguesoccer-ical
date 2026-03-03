@@ -697,12 +697,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Inter Miami CF 4
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. St. Louis City SC
+SUMMARY:San Diego FC* vs. St. Louis City SC
 DTSTART:20260302T021500Z
 DTEND:20260302T041500Z
 DTSTAMP:20260302T021500Z
 UID:MLS-MAT-0009BW
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - St. Louis City SC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
