@@ -60,12 +60,12 @@ DESCRIPTION:Club Friendly Matches\n\nIndependiente del Valle 1 - Inter Mia
 LOCATION:Estadio Juan Ramón Loubriel\, Bayamón
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Inter Miami CF
+SUMMARY:Orlando City vs. Inter Miami CF*
 DTSTART:20260302T000000Z
 DTEND:20260302T020000Z
 DTSTAMP:20260302T000000Z
 UID:MLS-MAT-0009BU
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Inter Miami CF 4
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

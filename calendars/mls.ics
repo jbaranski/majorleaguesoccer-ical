@@ -602,12 +602,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. D.C. United
+SUMMARY:Austin FC* vs. D.C. United
 DTSTART:20260301T193000Z
 DTEND:20260301T213000Z
 DTSTAMP:20260301T193000Z
 UID:MLS-MAT-0009BI
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - D.C. United 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -678,22 +678,22 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Toronto FC
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York City FC
+SUMMARY:Philadelphia Union vs. New York City FC*
 DTSTART:20260301T213000Z
 DTEND:20260301T233000Z
 DTSTAMP:20260301T213000Z
 UID:MLS-MAT-0009BV
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
- C
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New York City F
+ C 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Inter Miami CF
+SUMMARY:Orlando City vs. Inter Miami CF*
 DTSTART:20260302T000000Z
 DTEND:20260302T020000Z
 DTSTAMP:20260302T000000Z
 UID:MLS-MAT-0009BU
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Inter Miami CF 4
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

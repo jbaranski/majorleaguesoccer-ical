@@ -40,13 +40,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - New York City FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New York City FC
+SUMMARY:Philadelphia Union vs. New York City FC*
 DTSTART:20260301T213000Z
 DTEND:20260301T233000Z
 DTSTAMP:20260301T213000Z
 UID:MLS-MAT-0009BV
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New York City F
- C
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New York City F
+ C 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
