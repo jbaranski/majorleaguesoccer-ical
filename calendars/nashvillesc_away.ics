@@ -111,6 +111,16 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Nashville SC
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Nashville SC
+DTSTART:20260813T010000Z
+DTEND:20260813T030000Z
+DTSTAMP:20260813T010000Z
+UID:MLS-MAT-000A48
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Na
+ shville SC
+LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull New York vs. Nashville SC
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
