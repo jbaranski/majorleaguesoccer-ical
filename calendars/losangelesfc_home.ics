@@ -40,12 +40,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Real Club Deporti
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. FC Dallas
+SUMMARY:Los Angeles FC* vs. FC Dallas
 DTSTART:20260308T033000Z
 DTEND:20260308T053000Z
 DTSTAMP:20260308T033000Z
 UID:MLS-MAT-0009C4
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

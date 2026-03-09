@@ -58,13 +58,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Portland Timbers 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC
+SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC*
 DTSTART:20260308T033000Z
 DTEND:20260308T053000Z
 DTSTAMP:20260308T033000Z
 UID:MLS-MAT-0009CB
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Vancouver Whiteca
- ps FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Vancouver Whiteca
+ ps FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

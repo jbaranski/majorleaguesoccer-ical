@@ -761,12 +761,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Toronto FC
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. LA Galaxy
+SUMMARY:Colorado Rapids* vs. LA Galaxy
 DTSTART:20260308T023000Z
 DTEND:20260308T043000Z
 DTSTAMP:20260308T023000Z
 UID:MLS-MAT-0009C0
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 4 - LA Galaxy 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -789,12 +789,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. FC Dallas
+SUMMARY:Los Angeles FC* vs. FC Dallas
 DTSTART:20260308T033000Z
 DTEND:20260308T053000Z
 DTSTAMP:20260308T033000Z
 UID:MLS-MAT-0009C4
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -836,13 +836,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. CF Montreal
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC
+SUMMARY:Portland Timbers vs. Vancouver Whitecaps FC*
 DTSTART:20260308T033000Z
 DTEND:20260308T053000Z
 DTSTAMP:20260308T033000Z
 UID:MLS-MAT-0009CB
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Vancouver Whiteca
- ps FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Vancouver Whiteca
+ ps FC 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
