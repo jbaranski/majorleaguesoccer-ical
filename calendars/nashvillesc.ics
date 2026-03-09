@@ -48,12 +48,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Nashville SC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Minnesota United
+SUMMARY:Nashville SC* vs. Minnesota United
 DTSTART:20260308T013000Z
 DTEND:20260308T033000Z
 DTSTAMP:20260308T013000Z
 UID:MLS-MAT-0009C5
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Minnesota United 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

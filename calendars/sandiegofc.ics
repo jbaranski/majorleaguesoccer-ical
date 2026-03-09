@@ -47,12 +47,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - St. Louis City SC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. San Diego FC
+SUMMARY:Sporting Kansas City vs. San Diego FC*
 DTSTART:20260308T013000Z
 DTEND:20260308T033000Z
 DTSTAMP:20260308T013000Z
 UID:MLS-MAT-0009C3
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC 
+ 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

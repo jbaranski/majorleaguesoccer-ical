@@ -31,13 +31,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Houston Dynamo FC
+SUMMARY:New England Revolution vs. Houston Dynamo FC (result unknown)
 DTSTART:20260307T193000Z
 DTEND:20260307T213000Z
 DTSTAMP:20260307T193000Z
 UID:MLS-MAT-0009C6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution ??? - Houston D
+ ynamo FC ???
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

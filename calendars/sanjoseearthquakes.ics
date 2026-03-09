@@ -61,13 +61,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. San Jose Earthquakes
+SUMMARY:Philadelphia Union vs. San Jose Earthquakes*
 DTSTART:20260308T003000Z
 DTEND:20260308T023000Z
 DTSTAMP:20260308T003000Z
 UID:MLS-MAT-0009C8
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. San Jose Earthq
- uakes
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - San Jose Earthq
+ uakes 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

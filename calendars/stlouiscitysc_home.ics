@@ -29,13 +29,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Charlotte FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Seattle Sounders FC
+SUMMARY:St. Louis City SC vs. Seattle Sounders FC*
 DTSTART:20260308T013000Z
 DTEND:20260308T033000Z
 DTSTAMP:20260308T013000Z
 UID:MLS-MAT-0009C9
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Seattle Sounders
-  FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Seattle Sounders
+  FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

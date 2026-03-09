@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - Chicago Fire FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Chicago Fire FC
+SUMMARY:Columbus Crew* vs. Chicago Fire FC*
 DTSTART:20260308T003000Z
 DTEND:20260308T023000Z
 DTSTAMP:20260308T003000Z
 UID:MLS-MAT-0009C1
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Chicago Fire FC 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

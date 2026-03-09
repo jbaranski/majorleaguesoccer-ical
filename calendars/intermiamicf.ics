@@ -69,12 +69,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Inter Miami CF 4
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Inter Miami CF
+SUMMARY:D.C. United vs. Inter Miami CF*
 DTSTART:20260307T213000Z
 DTEND:20260307T233000Z
 DTSTAMP:20260307T213000Z
 UID:MLS-MAT-0009C2
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Inter Miami CF 2
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT

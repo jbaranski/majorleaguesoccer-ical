@@ -49,12 +49,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Charlotte FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Austin FC
+SUMMARY:Charlotte FC* vs. Austin FC
 DTSTART:20260308T003000Z
 DTEND:20260308T023000Z
 DTSTAMP:20260308T003000Z
 UID:MLS-MAT-0009BY
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Austin FC 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
