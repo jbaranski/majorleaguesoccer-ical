@@ -29,12 +29,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 9 - O&M Fútbol Club 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Toronto FC
+SUMMARY:FC Cincinnati vs. Toronto FC*
 DTSTART:20260308T230000Z
 DTEND:20260309T010000Z
 DTSTAMP:20260308T230000Z
 UID:MLS-MAT-0009BZ
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Toronto FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

@@ -30,12 +30,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. CF Montreal
+SUMMARY:Red Bull New York vs. CF Montreal*
 DTSTART:20260308T203000Z
 DTEND:20260308T223000Z
 DTSTAMP:20260308T203000Z
 UID:MLS-MAT-0009CA
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - CF Montreal 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
