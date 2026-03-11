@@ -30,16 +30,6 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Los Angeles FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Houston Dynamo FC (result unknown)
-DTSTART:20260307T193000Z
-DTEND:20260307T213000Z
-DTSTAMP:20260307T193000Z
-UID:MLS-MAT-0009C6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution ??? - Houston D
- ynamo FC ???
-LOCATION:Gillette Stadium\, Foxborough\, MA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Portland Timbers
 DTSTART:20260315T003000Z
 DTEND:20260315T023000Z
@@ -176,6 +166,16 @@ UID:MLS-MAT-0009IC
 DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Houston Dynam
  o FC
 LOCATION:Sporting Park\, Kansas City\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Houston Dynamo FC
+DTSTART:20260808T203000Z
+DTEND:20260808T223000Z
+DTSTAMP:20260808T203000Z
+UID:MLS-MAT-0009C6
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
+ amo FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. LA Galaxy

@@ -715,16 +715,6 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Inter Miami CF 2
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Houston Dynamo FC (result unknown)
-DTSTART:20260307T193000Z
-DTEND:20260307T213000Z
-DTSTAMP:20260307T193000Z
-UID:MLS-MAT-0009C6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution ??? - Houston D
- ynamo FC ???
-LOCATION:Gillette Stadium\, Foxborough\, MA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York City FC* vs. Orlando City
 DTSTART:20260307T193000Z
 DTEND:20260307T213000Z
@@ -1259,7 +1249,7 @@ DTEND:20260319T050000Z
 DTSTAMP:20260319T030000Z
 UID:MLS-MAT-0009QA
 DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. San Diego FC
-LOCATION:Estadio Nemesio Díez Riega\, Toluca
+LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club América vs. Philadelphia Union
@@ -5023,7 +5013,7 @@ DTEND:20260806T050000Z
 DTSTAMP:20260806T030000Z
 UID:MLS-MAT-000A3A
 DESCRIPTION:Leagues Cup\n\nToluca FC vs. Seattle Sounders FC
-LOCATION:Estadio Nemesio Díez\, Toluca
+LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Chivas de Guadalajara
@@ -5096,6 +5086,16 @@ DTSTAMP:20260807T233000Z
 UID:MLS-MAT-000A3I
 DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Atlas FC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Houston Dynamo FC
+DTSTART:20260808T203000Z
+DTEND:20260808T223000Z
+DTSTAMP:20260808T203000Z
+UID:MLS-MAT-0009C6
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
+ amo FC
+LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Club de Fútbol Pachuca
@@ -5340,7 +5340,7 @@ DTEND:20260813T040000Z
 DTSTAMP:20260813T020000Z
 UID:MLS-MAT-000A49
 DESCRIPTION:Leagues Cup\n\nToluca FC vs. FC Dallas
-LOCATION:Estadio Nemesio Díez\, Toluca
+LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Club Querétaro
@@ -7507,15 +7507,6 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Diego FC
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Minnesota United
-DTSTART:20261031T210000Z
-DTEND:20261031T230000Z
-DTSTAMP:20261031T210000Z
-UID:MLS-MAT-0009OR
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
-LOCATION:BMO Stadium\, Los Angeles\, CA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. Chicago Fire FC
 DTSTART:20261101T013000Z
 DTEND:20261101T033000Z
@@ -7551,6 +7542,15 @@ DTSTAMP:20261101T213000Z
 UID:MLS-MAT-0009OQ
 DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Toronto FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles FC vs. Minnesota United
+DTSTART:20261102T003000Z
+DTEND:20261102T023000Z
+DTSTAMP:20261102T003000Z
+UID:MLS-MAT-0009OR
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Inter Miami CF
