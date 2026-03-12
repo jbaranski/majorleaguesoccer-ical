@@ -101,6 +101,16 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. CF Montreal
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CF Montreal vs. Calgary Blizzard Soccer Club
+DTSTART:20260506T233000Z
+DTEND:20260507T013000Z
+DTSTAMP:20260506T233000Z
+UID:MLS-MAT-000ABN
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Calgary Blizzar
+ d Soccer Club
+LOCATION:Stade Saputo\, Montréal\, QC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Orlando City
 DTSTART:20260509T203000Z
 DTEND:20260509T223000Z

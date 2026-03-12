@@ -41,12 +41,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - San Jose Earthq
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Club América
+SUMMARY:Philadelphia Union vs. Club América*
 DTSTART:20260310T230000Z
 DTEND:20260311T010000Z
 DTSTAMP:20260310T230000Z
 UID:MLS-MAT-0009QC
-DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union vs. Club América
+DESCRIPTION:CONCACAF Champions Cup\n\nPhiladelphia Union 0 - Club América
+  1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
