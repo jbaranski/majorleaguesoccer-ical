@@ -49,13 +49,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - FC Dallas 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Liga Deportiva Alajuelense
+SUMMARY:Los Angeles FC* vs. Liga Deportiva Alajuelense*
 DTSTART:20260311T030000Z
 DTEND:20260311T050000Z
 DTSTAMP:20260311T030000Z
 UID:MLS-MAT-0009Q7
-DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Liga Deportiva Al
- ajuelense
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC 1 - Liga Deportiva Al
+ ajuelense 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
