@@ -78,12 +78,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Inter Miami CF 2
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Inter Miami CF
+SUMMARY:Nashville SC* vs. Inter Miami CF*
 DTSTART:20260311T233000Z
 DTEND:20260312T013000Z
 DTSTAMP:20260311T233000Z
 UID:MLS-MAT-0009PS
-DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Inter Miami CF
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 0 - Inter Miami CF 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

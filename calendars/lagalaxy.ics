@@ -76,13 +76,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 4 - LA Galaxy 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Mount Pleasant Football Academy
+SUMMARY:LA Galaxy* vs. Mount Pleasant Football Academy
 DTSTART:20260312T013000Z
 DTEND:20260312T033000Z
 DTSTAMP:20260312T013000Z
 UID:MLS-MAT-0009QH
-DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy vs. Mount Pleasant Footbal
- l Academy
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 3 - Mount Pleasant Footbal
+ l Academy 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -106,9 +106,9 @@ LOCATION:Independence Park\, Kingston
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. LA Galaxy
-DTSTART:20260322T203000Z
-DTEND:20260322T223000Z
-DTSTAMP:20260322T203000Z
+DTSTART:20260322T204500Z
+DTEND:20260322T224500Z
+DTSTAMP:20260322T204500Z
 UID:MLS-MAT-0009D4
 DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. LA Galaxy
 LOCATION:Providence Park\, Portland\, OR

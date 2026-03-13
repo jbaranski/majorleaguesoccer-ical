@@ -57,13 +57,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Charlotte FC 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Mount Pleasant Football Academy
+SUMMARY:LA Galaxy* vs. Mount Pleasant Football Academy
 DTSTART:20260312T013000Z
 DTEND:20260312T033000Z
 DTSTAMP:20260312T013000Z
 UID:MLS-MAT-0009QH
-DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy vs. Mount Pleasant Footbal
- l Academy
+DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 3 - Mount Pleasant Footbal
+ l Academy 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
