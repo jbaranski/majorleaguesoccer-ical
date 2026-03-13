@@ -57,12 +57,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Toluca FC
+SUMMARY:San Diego FC* vs. Toluca FC
 DTSTART:20260312T033000Z
 DTEND:20260312T053000Z
 DTSTAMP:20260312T033000Z
 UID:MLS-MAT-0009Q9
-DESCRIPTION:CONCACAF Champions Cup\n\nSan Diego FC vs. Toluca FC
+DESCRIPTION:CONCACAF Champions Cup\n\nSan Diego FC 3 - Toluca FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
