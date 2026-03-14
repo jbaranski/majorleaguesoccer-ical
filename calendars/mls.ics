@@ -894,13 +894,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLA Galaxy 3 - Mount Pleasant Footbal
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC*
 DTSTART:20260313T020000Z
 DTEND:20260313T040000Z
 DTSTAMP:20260313T020000Z
 UID:MLS-MAT-0009PU
-DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Seattle S
- ounders FC
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 0 - Seattle S
+ ounders FC 3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

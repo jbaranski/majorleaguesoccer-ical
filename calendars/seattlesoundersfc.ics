@@ -41,13 +41,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - Seattle Sounders
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC*
 DTSTART:20260313T020000Z
 DTEND:20260313T040000Z
 DTSTAMP:20260313T020000Z
 UID:MLS-MAT-0009PU
-DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC vs. Seattle S
- ounders FC
+DESCRIPTION:CONCACAF Champions Cup\n\nVancouver Whitecaps FC 0 - Seattle S
+ ounders FC 3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
