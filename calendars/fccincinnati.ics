@@ -56,12 +56,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Toronto FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Club Tigres
+SUMMARY:FC Cincinnati* vs. Club Tigres
 DTSTART:20260313T000000Z
 DTEND:20260313T020000Z
 DTSTAMP:20260313T000000Z
 UID:MLS-MAT-0009QD
-DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nFC Cincinnati 3 - Club Tigres 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
