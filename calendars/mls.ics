@@ -1005,12 +1005,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Sporting Kansas City 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. St. Louis City SC
+SUMMARY:Los Angeles FC* vs. St. Louis City SC
 DTSTART:20260315T023000Z
 DTEND:20260315T043000Z
 DTSTAMP:20260315T023000Z
 UID:MLS-MAT-0009CJ
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - St. Louis City SC 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
