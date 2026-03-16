@@ -21,12 +21,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Colorado Rapid
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Colorado Rapids
+SUMMARY:New York City FC* vs. Colorado Rapids
 DTSTART:20260314T233000Z
 DTEND:20260315T013000Z
 DTSTAMP:20260314T233000Z
 UID:MLS-MAT-0009CK
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Colorado Rapids 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT

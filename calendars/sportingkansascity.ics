@@ -71,12 +71,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Sporting Kansas City
+SUMMARY:LA Galaxy vs. Sporting Kansas City*
 DTSTART:20260315T013000Z
 DTEND:20260315T033000Z
 DTSTAMP:20260315T013000Z
 UID:MLS-MAT-0009CI
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Sporting Kansas City 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

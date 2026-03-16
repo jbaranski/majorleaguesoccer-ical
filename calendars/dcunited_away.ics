@@ -29,12 +29,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - D.C. United 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. D.C. United
+SUMMARY:Chicago Fire FC vs. D.C. United*
 DTSTART:20260315T003000Z
 DTEND:20260315T023000Z
 DTSTAMP:20260315T003000Z
 UID:MLS-MAT-0009CE
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - D.C. United 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

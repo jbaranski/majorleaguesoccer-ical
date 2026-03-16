@@ -29,12 +29,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Inter Miami CF 4
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. CF Montreal
+SUMMARY:Orlando City* vs. CF Montreal
 DTSTART:20260314T233000Z
 DTEND:20260315T013000Z
 DTSTAMP:20260314T233000Z
 UID:MLS-MAT-0009CL
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - CF Montreal 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

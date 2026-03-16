@@ -20,12 +20,13 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Real Salt Lake 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Philadelphia Union
+SUMMARY:Atlanta United* vs. Philadelphia Union
 DTSTART:20260314T191500Z
 DTEND:20260314T211500Z
 DTSTAMP:20260314T191500Z
 UID:MLS-MAT-0009CC
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Philadelphia Union 
+ 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

@@ -87,12 +87,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 0 - Inter Miami CF 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Inter Miami CF
+SUMMARY:Charlotte FC* vs. Inter Miami CF*
 DTSTART:20260314T233000Z
 DTEND:20260315T013000Z
 DTSTAMP:20260314T233000Z
 UID:MLS-MAT-0009CD
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 0 - Inter Miami CF 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

@@ -30,12 +30,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. San Diego FC
+SUMMARY:FC Dallas* vs. San Diego FC*
 DTSTART:20260315T003000Z
 DTEND:20260315T023000Z
 DTSTAMP:20260315T003000Z
 UID:MLS-MAT-0009CG
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - San Diego FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

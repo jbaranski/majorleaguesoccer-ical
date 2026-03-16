@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Toronto FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Red Bull New York
+SUMMARY:Toronto FC* vs. Red Bull New York*
 DTSTART:20260314T170000Z
 DTEND:20260314T190000Z
 DTSTAMP:20260314T170000Z
 UID:MLS-MAT-0009CN
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Red Bull New York 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

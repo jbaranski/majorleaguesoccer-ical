@@ -30,12 +30,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Los Angeles FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Portland Timbers
+SUMMARY:Houston Dynamo FC* vs. Portland Timbers
 DTSTART:20260315T003000Z
 DTEND:20260315T023000Z
 DTSTAMP:20260315T003000Z
 UID:MLS-MAT-0009CH
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 3 - Portland Timbers
+  2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
