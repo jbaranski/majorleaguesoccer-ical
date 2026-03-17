@@ -48,13 +48,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Minnesota United 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
+SUMMARY:Vancouver Whitecaps FC* vs. Minnesota United
 DTSTART:20260315T203000Z
 DTEND:20260315T223000Z
 DTSTAMP:20260315T203000Z
 UID:MLS-MAT-0009CO
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Minnesota U
- nited
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 6 - Minnesota U
+ nited 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

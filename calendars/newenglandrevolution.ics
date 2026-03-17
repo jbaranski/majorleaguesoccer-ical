@@ -31,13 +31,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. FC Cincinnati
+SUMMARY:New England Revolution* vs. FC Cincinnati
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
 DTSTAMP:20260315T183000Z
 UID:MLS-MAT-0009CP
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
- ti
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 6 - FC Cincinna
+ ti 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

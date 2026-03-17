@@ -51,13 +51,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC
+SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC*
 DTSTART:20260315T230000Z
 DTEND:20260316T010000Z
 DTSTAMP:20260315T230000Z
 UID:MLS-MAT-0009CQ
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Seattle Sound
- ers FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
+ ers FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

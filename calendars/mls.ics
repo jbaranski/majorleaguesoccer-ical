@@ -1023,33 +1023,33 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Austin FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Minnesota United
+SUMMARY:Vancouver Whitecaps FC* vs. Minnesota United
 DTSTART:20260315T203000Z
 DTEND:20260315T223000Z
 DTSTAMP:20260315T203000Z
 UID:MLS-MAT-0009CO
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Minnesota U
- nited
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 6 - Minnesota U
+ nited 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. FC Cincinnati
+SUMMARY:New England Revolution* vs. FC Cincinnati
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
 DTSTAMP:20260315T183000Z
 UID:MLS-MAT-0009CP
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. FC Cincinna
- ti
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 6 - FC Cincinna
+ ti 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC
+SUMMARY:San Jose Earthquakes vs. Seattle Sounders FC*
 DTSTART:20260315T230000Z
 DTEND:20260316T010000Z
 DTSTAMP:20260315T230000Z
 UID:MLS-MAT-0009CQ
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Seattle Sound
- ers FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
+ ers FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -7894,5 +7894,14 @@ DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009P8
 DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Los Angeles FC
 LOCATION:Lumen Field\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBC Home vs. TBC Away
+DTSTART:20261218T170000Z
+DTEND:20261218T190000Z
+DTSTAMP:20261218T170000Z
+UID:MLS-MAT-000ABL
+DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. TBC Away
+LOCATION:TBC\, unknown
 END:VEVENT
 END:VCALENDAR
