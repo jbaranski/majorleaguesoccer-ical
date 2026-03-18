@@ -1090,22 +1090,13 @@ DESCRIPTION:U.S. Open Cup\n\nVermont Green FC vs. Portland Hearts of Pine
 LOCATION:Virtue Field\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pittsburgh Riverhounds SC vs. Steel City FC
-DTSTART:20260317T230000Z
-DTEND:20260318T010000Z
-DTSTAMP:20260317T230000Z
-UID:MLS-MAT-000A60
-DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. Steel City FC
-LOCATION:Highmark Stadium\, Pittsburgh\, PA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Detroit City FC vs. Michigan Rangers FC
 DTSTART:20260317T233000Z
 DTEND:20260318T013000Z
 DTSTAMP:20260317T233000Z
 UID:MLS-MAT-000A61
 DESCRIPTION:U.S. Open Cup\n\nDetroit City FC vs. Michigan Rangers FC
-LOCATION:Keyworth Stadium\, Hamtramck\, MI
+LOCATION:Legacy Center Sports Complex\, Brighton\, MI
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:West Chester United SC vs. Loudoun United FC
@@ -1556,6 +1547,15 @@ DTSTAMP:20260322T230000Z
 UID:MLS-MAT-0009D5
 DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Real Salt Lake
 LOCATION:Snapdragon Stadium\, San Diego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Riverhounds SC vs. Steel City FC
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+DTSTAMP:20260325T230000Z
+UID:MLS-MAT-000A60
+DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. Steel City FC
+LOCATION:Highmark Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United States vs. Belgium
