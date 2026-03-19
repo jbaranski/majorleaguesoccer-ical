@@ -30,13 +30,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Los Angeles FC 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC
+SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC*
 DTSTART:20260318T010000Z
 DTEND:20260318T030000Z
 DTSTAMP:20260318T010000Z
 UID:MLS-MAT-0009Q8
-DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. Los A
- ngeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense 1 - Los A
+ ngeles FC 2
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +56,15 @@ DTSTAMP:20260411T203000Z
 UID:MLS-MAT-0009DV
 DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Los Angeles FC
 LOCATION:Providence Park\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cruz Azul vs. Los Angeles FC
+DTSTART:20260414T160000Z
+DTEND:20260414T180000Z
+DTSTAMP:20260414T160000Z
+UID:MLS-MAT-0009QO
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Los Angeles FC
+LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Los Angeles FC

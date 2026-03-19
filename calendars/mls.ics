@@ -1053,58 +1053,61 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:South Georgia Tormenta FC vs. FC America CFL Spurs
+SUMMARY:South Georgia Tormenta FC vs. FC America CFL Spurs (result unknown
+ )
 DTSTART:20260317T220000Z
 DTEND:20260318T000000Z
 DTSTAMP:20260317T220000Z
 UID:MLS-MAT-000A5W
-DESCRIPTION:U.S. Open Cup\n\nSouth Georgia Tormenta FC vs. FC America CFL 
- Spurs
+DESCRIPTION:U.S. Open Cup\n\nSouth Georgia Tormenta FC ??? - FC America CF
+ L Spurs ???
 LOCATION:Tormenta Stadium\, Statesboro\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Richmond Kickers vs. Northern Virginia FC
+SUMMARY:Richmond Kickers* vs. Northern Virginia FC
 DTSTART:20260317T223000Z
 DTEND:20260318T003000Z
 DTSTAMP:20260317T223000Z
 UID:MLS-MAT-000A5X
-DESCRIPTION:U.S. Open Cup\n\nRichmond Kickers vs. Northern Virginia FC
+DESCRIPTION:U.S. Open Cup\n\nRichmond Kickers 2 - Northern Virginia FC 0
 LOCATION:City Stadium\, Richmond\, VA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rhode Island FC vs. CD Faialense
+SUMMARY:Rhode Island FC* vs. CD Faialense
 DTSTART:20260317T230000Z
 DTEND:20260318T010000Z
 DTSTAMP:20260317T230000Z
 UID:MLS-MAT-000A5Y
-DESCRIPTION:U.S. Open Cup\n\nRhode Island FC vs. CD Faialense
+DESCRIPTION:U.S. Open Cup\n\nRhode Island FC 4 - CD Faialense 0
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vermont Green FC vs. Portland Hearts of Pine
+SUMMARY:Vermont Green FC* vs. Portland Hearts of Pine
 DTSTART:20260317T230000Z
 DTEND:20260318T010000Z
 DTSTAMP:20260317T230000Z
 UID:MLS-MAT-000A5Z
-DESCRIPTION:U.S. Open Cup\n\nVermont Green FC vs. Portland Hearts of Pine
+DESCRIPTION:U.S. Open Cup\n\nVermont Green FC 1 - Portland Hearts of Pine 
+ 0
 LOCATION:Virtue Field\, Burlington\, VT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit City FC vs. Michigan Rangers FC
+SUMMARY:Detroit City FC* vs. Michigan Rangers FC
 DTSTART:20260317T233000Z
 DTEND:20260318T013000Z
 DTSTAMP:20260317T233000Z
 UID:MLS-MAT-000A61
-DESCRIPTION:U.S. Open Cup\n\nDetroit City FC vs. Michigan Rangers FC
+DESCRIPTION:U.S. Open Cup\n\nDetroit City FC 5 - Michigan Rangers FC 1
 LOCATION:Legacy Center Sports Complex\, Brighton\, MI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Chester United SC vs. Loudoun United FC
+SUMMARY:West Chester United SC vs. Loudoun United FC*
 DTSTART:20260317T233000Z
 DTEND:20260318T013000Z
 DTSTAMP:20260317T233000Z
 UID:MLS-MAT-000A62
-DESCRIPTION:U.S. Open Cup\n\nWest Chester United SC vs. Loudoun United FC
+DESCRIPTION:U.S. Open Cup\n\nWest Chester United SC 1 - Loudoun United FC 
+ 2
 LOCATION:YSC Sports\, Wayne\, PA
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,13 +1120,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Nashville SC
 LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC
+SUMMARY:Liga Deportiva Alajuelense vs. Los Angeles FC*
 DTSTART:20260318T010000Z
 DTEND:20260318T030000Z
 DTSTAMP:20260318T010000Z
 UID:MLS-MAT-0009Q8
-DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense vs. Los A
- ngeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense 1 - Los A
+ ngeles FC 2
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT
@@ -1137,30 +1140,30 @@ DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Club de Fútbol Monter
 LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Springs Switchbacks vs. Azteca FC
+SUMMARY:Colorado Springs Switchbacks* vs. Azteca FC
 DTSTART:20260318T000000Z
 DTEND:20260318T020000Z
 DTSTAMP:20260318T000000Z
 UID:MLS-MAT-000A63
-DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks vs. Azteca FC
+DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks 3 - Azteca FC 0
 LOCATION:Weidner Field\, Colorado Springs\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indy Eleven vs. Des Moines Menace
+SUMMARY:Indy Eleven* vs. Des Moines Menace
 DTSTART:20260318T000000Z
 DTEND:20260318T020000Z
 DTSTAMP:20260318T000000Z
 UID:MLS-MAT-000A64
-DESCRIPTION:U.S. Open Cup\n\nIndy Eleven vs. Des Moines Menace
+DESCRIPTION:U.S. Open Cup\n\nIndy Eleven 3 - Des Moines Menace 0
 LOCATION:Grand Park Events Center\, Westfield\, IN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Phoenix Rising FC vs. San Ramon FC
+SUMMARY:Phoenix Rising FC* vs. San Ramon FC
 DTSTART:20260318T020000Z
 DTEND:20260318T040000Z
 DTSTAMP:20260318T020000Z
 UID:MLS-MAT-000A65
-DESCRIPTION:U.S. Open Cup\n\nPhoenix Rising FC vs. San Ramon FC
+DESCRIPTION:U.S. Open Cup\n\nPhoenix Rising FC 4 - San Ramon FC 0
 LOCATION:Phoenix Rising Stadium\, Phoenix\, AZ
 END:VEVENT
 BEGIN:VEVENT
@@ -1903,21 +1906,21 @@ DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Los Angeles FC vs. Cruz Azul
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 DTSTAMP:20260407T160000Z
 UID:MLS-MAT-0009QK
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Cruz Azul
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:TBC Home vs. Inter Miami CF
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 DTSTAMP:20260407T160000Z
 UID:MLS-MAT-0009QL
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Inter Miami CF
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -2076,22 +2079,22 @@ DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Cruz Azul vs. Los Angeles FC
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 DTSTAMP:20260414T160000Z
 UID:MLS-MAT-0009QO
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Los Angeles FC
+LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Inter Miami CF vs. TBC Away
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 DTSTAMP:20260414T160000Z
 UID:MLS-MAT-0009QP
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. TBC Away
+LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TBC Home vs. TBC Away
@@ -7685,9 +7688,9 @@ LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. San Diego FC
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-DTSTAMP:20261031T180000Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+DTSTAMP:20261031T190000Z
 UID:MLS-MAT-0009OO
 DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Diego FC
 LOCATION:Energizer Park\, St. Louis\, MO
@@ -7731,9 +7734,9 @@ LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Minnesota United
-DTSTART:20261102T003000Z
-DTEND:20261102T023000Z
-DTSTAMP:20261102T003000Z
+DTSTART:20261101T213000Z
+DTEND:20261101T233000Z
+DTSTAMP:20261101T213000Z
 UID:MLS-MAT-0009OR
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
 LOCATION:BMO Stadium\, Los Angeles\, CA
