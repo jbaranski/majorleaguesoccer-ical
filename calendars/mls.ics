@@ -1230,22 +1230,22 @@ DESCRIPTION:U.S. Open Cup\n\nSC Vistula Garfield 1 - One Knoxville SC 3
 LOCATION:Garfield HS\, Garfield\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
+SUMMARY:Seattle Sounders FC* vs. Vancouver Whitecaps FC
 DTSTART:20260319T030000Z
 DTEND:20260319T050000Z
 DTSTAMP:20260319T030000Z
 UID:MLS-MAT-0009PV
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Vancouver Wh
- itecaps FC
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 2 - Vancouver Wh
+ itecaps FC 1
 LOCATION:ONE Spokane Stadium\, Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. San Diego FC
+SUMMARY:Toluca FC* vs. San Diego FC
 DTSTART:20260319T030000Z
 DTEND:20260319T050000Z
 DTSTAMP:20260319T030000Z
 UID:MLS-MAT-0009QA
-DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. San Diego FC
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 4 - San Diego FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
@@ -1305,39 +1305,40 @@ DESCRIPTION:U.S. Open Cup\n\nNew Mexico United 3 - Cruizers FC 2
 LOCATION:University of New Mexico Soccer Complex\, Albuquerque\, NM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sacramento Republic FC vs. El Farolito
+SUMMARY:Sacramento Republic FC* vs. El Farolito
 DTSTART:20260319T020000Z
 DTEND:20260319T040000Z
 DTSTAMP:20260319T020000Z
 UID:MLS-MAT-000A6H
-DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC vs. El Farolito
+DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC 2 - El Farolito 0
 LOCATION:Heart Health Park\, Sacramento\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AV ALTA FC vs. Valley 559 FC
+SUMMARY:AV ALTA FC vs. Valley 559 FC*
 DTSTART:20260319T023000Z
 DTEND:20260319T043000Z
 DTSTAMP:20260319T023000Z
 UID:MLS-MAT-000A6I
-DESCRIPTION:U.S. Open Cup\n\nAV ALTA FC vs. Valley 559 FC
+DESCRIPTION:U.S. Open Cup\n\nAV ALTA FC 0 - Valley 559 FC 1
 LOCATION:Lancaster Municipal Stadium\, Lancaster\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ventura County Fusion vs. Spokane Velocity FC
+SUMMARY:Ventura County Fusion vs. Spokane Velocity FC*
 DTSTART:20260319T023000Z
 DTEND:20260319T043000Z
 DTSTAMP:20260319T023000Z
 UID:MLS-MAT-000A6J
-DESCRIPTION:U.S. Open Cup\n\nVentura County Fusion vs. Spokane Velocity FC
+DESCRIPTION:U.S. Open Cup\n\nVentura County Fusion 1 - Spokane Velocity FC
+  2
 LOCATION:Ventura College Stadium\, Ventura\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orange County SC vs. Laguna United FC
+SUMMARY:Orange County SC* vs. Laguna United FC
 DTSTART:20260319T023000Z
 DTEND:20260319T043000Z
 DTSTAMP:20260319T023000Z
 UID:MLS-MAT-000A6K
-DESCRIPTION:U.S. Open Cup\n\nOrange County SC vs. Laguna United FC
+DESCRIPTION:U.S. Open Cup\n\nOrange County SC 3 - Laguna United FC 0
 LOCATION:Championship Soccer Stadium\, Irvine\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -1925,12 +1926,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Nashville SC
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. TBC Away
+SUMMARY:Seattle Sounders FC vs. Club Tigres
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 DTSTAMP:20260407T160000Z
 UID:MLS-MAT-0009QM
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Club Tigres
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -2098,13 +2099,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Club América
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Seattle Sounders FC
+SUMMARY:Club Tigres vs. Seattle Sounders FC
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 DTSTAMP:20260414T160000Z
 UID:MLS-MAT-0009QQ
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Seattle Sounders FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TBC Home vs. TBC Away

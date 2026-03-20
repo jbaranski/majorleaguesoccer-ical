@@ -71,13 +71,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Seattle Sounders
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Seattle Sounders FC
+SUMMARY:Club Tigres vs. Seattle Sounders FC
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 DTSTAMP:20260414T160000Z
 UID:MLS-MAT-0009QQ
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Seattle Sounders FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Seattle Sounders FC

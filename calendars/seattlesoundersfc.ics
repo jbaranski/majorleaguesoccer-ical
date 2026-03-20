@@ -61,13 +61,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Vancouver Whitecaps FC
+SUMMARY:Seattle Sounders FC* vs. Vancouver Whitecaps FC
 DTSTART:20260319T030000Z
 DTEND:20260319T050000Z
 DTSTAMP:20260319T030000Z
 UID:MLS-MAT-0009PV
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Vancouver Wh
- itecaps FC
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 2 - Vancouver Wh
+ itecaps FC 1
 LOCATION:ONE Spokane Stadium\, Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -91,12 +91,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Seattle Sounders
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. TBC Away
+SUMMARY:Seattle Sounders FC vs. Club Tigres
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 DTSTAMP:20260407T160000Z
 UID:MLS-MAT-0009QM
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. TBC Away
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Club Tigres
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -109,13 +109,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Seattle Sounders FC
+SUMMARY:Club Tigres vs. Seattle Sounders FC
 DTSTART:20260414T160000Z
 DTEND:20260414T180000Z
 DTSTAMP:20260414T160000Z
 UID:MLS-MAT-0009QQ
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Seattle Sounders FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. St. Louis City SC
