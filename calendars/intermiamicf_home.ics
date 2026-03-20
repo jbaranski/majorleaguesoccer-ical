@@ -41,12 +41,12 @@ DESCRIPTION:MLS Preseason Friendlies\n\nInter Miami CF 2 - Barcelona Sport
 LOCATION:Monumental Banco Pichincha\, Guayaquil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC*
 DTSTART:20260318T230000Z
 DTEND:20260319T010000Z
 DTSTAMP:20260318T230000Z
 UID:MLS-MAT-0009PT
-DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 1 - Nashville SC 1
 LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HM
 DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Chicago Fire FC
-LOCATION:Nu Stadium\, Miami\, FL
+LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Columbus Crew

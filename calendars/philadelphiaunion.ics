@@ -80,12 +80,13 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Philadelphia Union
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Philadelphia Union
+SUMMARY:Club América* vs. Philadelphia Union*
 DTSTART:20260319T010000Z
 DTEND:20260319T030000Z
 DTSTAMP:20260319T010000Z
 UID:MLS-MAT-0009QF
-DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Philadelphia Union
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América 1 - Philadelphia Union
+  1
 LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT

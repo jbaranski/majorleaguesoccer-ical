@@ -38,12 +38,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Nashville SC 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC*
 DTSTART:20260318T230000Z
 DTEND:20260319T010000Z
 DTSTAMP:20260318T230000Z
 UID:MLS-MAT-0009PT
-DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:CONCACAF Champions Cup\n\nInter Miami CF 1 - Nashville SC 1
 LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
