@@ -1259,13 +1259,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub América 1 - Philadelphia Union
 LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mount Pleasant Football Academy vs. LA Galaxy
+SUMMARY:Mount Pleasant Football Academy vs. LA Galaxy*
 DTSTART:20260319T230000Z
 DTEND:20260320T010000Z
 DTSTAMP:20260319T230000Z
 UID:MLS-MAT-0009QI
-DESCRIPTION:CONCACAF Champions Cup\n\nMount Pleasant Football Academy vs. 
- LA Galaxy
+DESCRIPTION:CONCACAF Champions Cup\n\nMount Pleasant Football Academy 0 - 
+ LA Galaxy 3
 LOCATION:Independence Park\, Kingston
 END:VEVENT
 BEGIN:VEVENT
@@ -1342,76 +1342,76 @@ DESCRIPTION:U.S. Open Cup\n\nOrange County SC 3 - Laguna United FC 0
 LOCATION:Championship Soccer Stadium\, Irvine\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carolina Core FC vs. Virginia Dream
+SUMMARY:Carolina Core FC vs. Virginia Dream*
 DTSTART:20260319T220000Z
 DTEND:20260320T000000Z
 DTSTAMP:20260319T220000Z
 UID:MLS-MAT-000A6L
-DESCRIPTION:U.S. Open Cup\n\nCarolina Core FC vs. Virginia Dream
+DESCRIPTION:U.S. Open Cup\n\nCarolina Core FC 1 - Virginia Dream 2
 LOCATION:Truist Point\, High Point
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte Independence vs. Ristozi FC
+SUMMARY:Charlotte Independence* vs. Ristozi FC
 DTSTART:20260319T223000Z
 DTEND:20260320T003000Z
 DTSTAMP:20260319T223000Z
 UID:MLS-MAT-000A6M
-DESCRIPTION:U.S. Open Cup\n\nCharlotte Independence vs. Ristozi FC
+DESCRIPTION:U.S. Open Cup\n\nCharlotte Independence 4 - Ristozi FC 1
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Flint City Bucks vs. Forward Madison FC
+SUMMARY:Flint City Bucks* vs. Forward Madison FC
 DTSTART:20260319T223000Z
 DTEND:20260320T003000Z
 DTSTAMP:20260319T223000Z
 UID:MLS-MAT-000A6N
-DESCRIPTION:U.S. Open Cup\n\nFlint City Bucks vs. Forward Madison FC
+DESCRIPTION:U.S. Open Cup\n\nFlint City Bucks 2 - Forward Madison FC 0
 LOCATION:Don Batchelor Stadium\, Grand Blanc\, MI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lexington SC vs. Flower City Union
+SUMMARY:Lexington SC* vs. Flower City Union
 DTSTART:20260319T230000Z
 DTEND:20260320T010000Z
 DTSTAMP:20260319T230000Z
 UID:MLS-MAT-000A6O
-DESCRIPTION:U.S. Open Cup\n\nLexington SC vs. Flower City Union
+DESCRIPTION:U.S. Open Cup\n\nLexington SC 9 - Flower City Union 0
 LOCATION:Lexington SC Stadium\, Lexington\, KY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Westchester SC vs. NY Renegades
+SUMMARY:Westchester SC* vs. NY Renegades
 DTSTART:20260319T233000Z
 DTEND:20260320T013000Z
 DTSTAMP:20260319T233000Z
 UID:MLS-MAT-000A6P
-DESCRIPTION:U.S. Open Cup\n\nWestchester SC vs. NY Renegades
+DESCRIPTION:U.S. Open Cup\n\nWestchester SC 2 - NY Renegades 0
 LOCATION:The Stadium at Memorial Field\, Mount Vernon\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. FC Cincinnati
+SUMMARY:Club Tigres* vs. FC Cincinnati
 DTSTART:20260320T010000Z
 DTEND:20260320T030000Z
 DTSTAMP:20260320T010000Z
 UID:MLS-MAT-0009QG
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. FC Cincinnati
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 5 - FC Cincinnati 1
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laredo Heat SC vs. El Paso Locomotive
+SUMMARY:Laredo Heat SC vs. El Paso Locomotive*
 DTSTART:20260320T003000Z
 DTEND:20260320T023000Z
 DTSTAMP:20260320T003000Z
 UID:MLS-MAT-000A6Q
-DESCRIPTION:U.S. Open Cup\n\nLaredo Heat SC vs. El Paso Locomotive
+DESCRIPTION:U.S. Open Cup\n\nLaredo Heat SC 0 - El Paso Locomotive 2
 LOCATION:PEG Energy Stadium\, Laredo\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tennessee Tempo FC vs. Chattanooga Red Wolves SC
+SUMMARY:Tennessee Tempo FC* vs. Chattanooga Red Wolves SC
 DTSTART:20260320T011500Z
 DTEND:20260320T031500Z
 DTSTAMP:20260320T011500Z
 UID:MLS-MAT-000A6R
-DESCRIPTION:U.S. Open Cup\n\nTennessee Tempo FC vs. Chattanooga Red Wolves
-  SC
+DESCRIPTION:U.S. Open Cup\n\nTennessee Tempo FC 1 - Chattanooga Red Wolves
+  SC 0
 LOCATION:Richard Siegel Soccer Complex\, Murfreesboro\, TN
 END:VEVENT
 BEGIN:VEVENT

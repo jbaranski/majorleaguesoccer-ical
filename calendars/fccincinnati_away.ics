@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 6 - FC Cincinna
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. FC Cincinnati
+SUMMARY:Club Tigres* vs. FC Cincinnati
 DTSTART:20260320T010000Z
 DTEND:20260320T030000Z
 DTSTAMP:20260320T010000Z
 UID:MLS-MAT-0009QG
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. FC Cincinnati
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 5 - FC Cincinnati 1
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT

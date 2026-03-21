@@ -95,13 +95,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Sporting Kansas City 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mount Pleasant Football Academy vs. LA Galaxy
+SUMMARY:Mount Pleasant Football Academy vs. LA Galaxy*
 DTSTART:20260319T230000Z
 DTEND:20260320T010000Z
 DTSTAMP:20260319T230000Z
 UID:MLS-MAT-0009QI
-DESCRIPTION:CONCACAF Champions Cup\n\nMount Pleasant Football Academy vs. 
- LA Galaxy
+DESCRIPTION:CONCACAF Champions Cup\n\nMount Pleasant Football Academy 0 - 
+ LA Galaxy 3
 LOCATION:Independence Park\, Kingston
 END:VEVENT
 BEGIN:VEVENT
