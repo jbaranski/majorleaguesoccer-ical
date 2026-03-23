@@ -48,12 +48,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Chicago Fire FC 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Chicago Fire FC
+SUMMARY:Philadelphia Union vs. Chicago Fire FC*
 DTSTART:20260321T203000Z
 DTEND:20260321T223000Z
 DTSTAMP:20260321T203000Z
 UID:MLS-MAT-0009CY
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Chicago Fire FC
+  2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

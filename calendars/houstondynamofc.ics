@@ -40,12 +40,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 3 - Portland Timbers
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Houston Dynamo FC
+SUMMARY:FC Dallas* vs. Houston Dynamo FC
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CV
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 4 - Houston Dynamo FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -40,12 +40,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nLiga Deportiva Alajuelense 1 - Los A
 LOCATION:Estadio Alejandro Morera Soto\, Alajuela
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Los Angeles FC
+SUMMARY:Austin FC* vs. Los Angeles FC*
 DTSTART:20260322T004500Z
 DTEND:20260322T024500Z
 DTSTAMP:20260322T004500Z
 UID:MLS-MAT-0009CS
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Los Angeles FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

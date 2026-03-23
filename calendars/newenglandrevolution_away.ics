@@ -31,13 +31,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - New England Revo
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. New England Revolution
+SUMMARY:St. Louis City SC* vs. New England Revolution
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CZ
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. New England Revo
- lution
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - New England Revo
+ lution 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

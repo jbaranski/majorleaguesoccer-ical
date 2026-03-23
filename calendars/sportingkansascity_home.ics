@@ -41,13 +41,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - San Diego FC
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Colorado Rapids
+SUMMARY:Sporting Kansas City vs. Colorado Rapids*
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CW
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Colorado Rapi
- ds
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Colorado Rapi
+ ds 4
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

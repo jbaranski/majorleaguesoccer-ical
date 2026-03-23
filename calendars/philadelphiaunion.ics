@@ -90,12 +90,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub América 1 - Philadelphia Union
 LOCATION:Estadio de la Ciudad de los Deportes\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Chicago Fire FC
+SUMMARY:Philadelphia Union vs. Chicago Fire FC*
 DTSTART:20260321T203000Z
 DTEND:20260321T223000Z
 DTSTAMP:20260321T203000Z
 UID:MLS-MAT-0009CY
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Chicago Fire FC
+  2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

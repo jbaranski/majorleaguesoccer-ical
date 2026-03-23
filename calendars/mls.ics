@@ -1415,57 +1415,58 @@ DESCRIPTION:U.S. Open Cup\n\nTennessee Tempo FC 1 - Chattanooga Red Wolves
 LOCATION:Richard Siegel Soccer Complex\, Murfreesboro\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. D.C. United
+SUMMARY:Atlanta United* vs. D.C. United*
 DTSTART:20260321T233000Z
 DTEND:20260322T013000Z
 DTSTAMP:20260321T233000Z
 UID:MLS-MAT-0009CR
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - D.C. United 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Red Bull New York
+SUMMARY:Charlotte FC* vs. Red Bull New York
 DTSTART:20260321T233000Z
 DTEND:20260322T013000Z
 DTSTAMP:20260321T233000Z
 UID:MLS-MAT-0009CT
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 6 - Red Bull New York 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Orlando City
+SUMMARY:Nashville SC* vs. Orlando City
 DTSTART:20260321T221500Z
 DTEND:20260322T001500Z
 DTSTAMP:20260321T221500Z
 UID:MLS-MAT-0009CX
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 5 - Orlando City 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Chicago Fire FC
+SUMMARY:Philadelphia Union vs. Chicago Fire FC*
 DTSTART:20260321T203000Z
 DTEND:20260321T223000Z
 DTSTAMP:20260321T203000Z
 UID:MLS-MAT-0009CY
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Chicago Fire FC
+  2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Columbus Crew
+SUMMARY:Toronto FC* vs. Columbus Crew
 DTSTART:20260321T170000Z
 DTEND:20260321T190000Z
 DTSTAMP:20260321T170000Z
 UID:MLS-MAT-0009D0
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - Columbus Crew 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Los Angeles FC
+SUMMARY:Austin FC* vs. Los Angeles FC*
 DTSTART:20260322T004500Z
 DTEND:20260322T024500Z
 DTSTAMP:20260322T004500Z
 UID:MLS-MAT-0009CS
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Los Angeles FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -1478,32 +1479,32 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. CF Montreal
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Houston Dynamo FC
+SUMMARY:FC Dallas* vs. Houston Dynamo FC
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CV
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 4 - Houston Dynamo FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Colorado Rapids
+SUMMARY:Sporting Kansas City vs. Colorado Rapids*
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CW
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Colorado Rapi
- ds
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Colorado Rapi
+ ds 4
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. New England Revolution
+SUMMARY:St. Louis City SC* vs. New England Revolution
 DTSTART:20260322T003000Z
 DTEND:20260322T023000Z
 DTSTAMP:20260322T003000Z
 UID:MLS-MAT-0009CZ
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. New England Revo
- lution
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - New England Revo
+ lution 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
