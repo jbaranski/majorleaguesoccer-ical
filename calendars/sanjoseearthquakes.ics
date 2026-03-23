@@ -81,13 +81,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. San Jose Earthquakes
+SUMMARY:Vancouver Whitecaps FC vs. San Jose Earthquakes*
 DTSTART:20260322T023000Z
 DTEND:20260322T043000Z
 DTSTAMP:20260322T023000Z
 UID:MLS-MAT-0009D1
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. San Jose Ea
- rthquakes
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 0 - San Jose Ea
+ rthquakes 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
