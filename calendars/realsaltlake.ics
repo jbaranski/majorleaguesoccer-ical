@@ -49,12 +49,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Austin FC 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Real Salt Lake
+SUMMARY:San Diego FC* vs. Real Salt Lake*
 DTSTART:20260322T230000Z
 DTEND:20260323T010000Z
 DTSTAMP:20260322T230000Z
 UID:MLS-MAT-0009D5
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Real Salt Lake 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

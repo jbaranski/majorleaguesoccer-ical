@@ -71,13 +71,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 2 - Vancouver Wh
 LOCATION:ONE Spokane Stadium\, Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Seattle Sounders FC
+SUMMARY:Minnesota United* vs. Seattle Sounders FC*
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
 DTSTAMP:20260322T183000Z
 UID:MLS-MAT-0009D2
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Seattle Sounders 
+ FC 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -91,13 +91,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Seattle Sounders
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Tigres
-DTSTART:20260407T160000Z
-DTEND:20260407T180000Z
-DTSTAMP:20260407T160000Z
+SUMMARY:Club Tigres vs. Seattle Sounders FC
+DTSTART:20260409T010000Z
+DTEND:20260409T030000Z
+DTSTAMP:20260409T010000Z
 UID:MLS-MAT-0009QM
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Club Tigres
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Real Salt Lake
@@ -109,13 +109,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Seattle Sounders FC
-DTSTART:20260414T160000Z
-DTEND:20260414T180000Z
-DTSTAMP:20260414T160000Z
+SUMMARY:Seattle Sounders FC vs. Club Tigres
+DTSTART:20260416T033000Z
+DTEND:20260416T053000Z
+DTSTAMP:20260416T033000Z
 UID:MLS-MAT-0009QQ
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
-LOCATION:Estadio Universitario\, San Nicolás de los Garza
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Club Tigres
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. St. Louis City SC

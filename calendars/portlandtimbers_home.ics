@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Vancouver Whiteca
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. LA Galaxy
+SUMMARY:Portland Timbers* vs. LA Galaxy*
 DTSTART:20260322T204500Z
 DTEND:20260322T224500Z
 DTSTAMP:20260322T204500Z
 UID:MLS-MAT-0009D4
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - LA Galaxy 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

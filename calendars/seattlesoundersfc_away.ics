@@ -51,13 +51,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Seattle Sound
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Seattle Sounders FC
+SUMMARY:Minnesota United* vs. Seattle Sounders FC*
 DTSTART:20260322T183000Z
 DTEND:20260322T203000Z
 DTSTAMP:20260322T183000Z
 UID:MLS-MAT-0009D2
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Seattle Sounders 
+ FC 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
@@ -72,10 +72,10 @@ LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Tigres vs. Seattle Sounders FC
-DTSTART:20260414T160000Z
-DTEND:20260414T180000Z
-DTSTAMP:20260414T160000Z
-UID:MLS-MAT-0009QQ
+DTSTART:20260409T010000Z
+DTEND:20260409T030000Z
+DTSTAMP:20260409T010000Z
+UID:MLS-MAT-0009QM
 DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
