@@ -1609,12 +1609,12 @@ DESCRIPTION:International Friendlies\n\nCanada vs. Tunisia
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Virginia Dream
+SUMMARY:Pittsburgh Riverhounds SC vs. Virginia Dream
 DTSTART:20260331T230000Z
 DTEND:20260401T010000Z
 DTSTAMP:20260331T230000Z
 UID:MLS-MAT-000A74
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. Virginia Dream
+DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC vs. Virginia Dream
 LOCATION:Highmark Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
