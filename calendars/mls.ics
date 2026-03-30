@@ -1564,30 +1564,30 @@ DESCRIPTION:U.S. Open Cup\n\nPittsburgh Riverhounds SC 2 - Steel City FC 1
 LOCATION:Highmark Stadium\, Pittsburgh\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United States vs. Belgium
+SUMMARY:United States vs. Belgium*
 DTSTART:20260328T193000Z
 DTEND:20260328T213000Z
 DTSTAMP:20260328T193000Z
 UID:MLS-MAT-000A6W
-DESCRIPTION:International Friendlies\n\nUnited States vs. Belgium
+DESCRIPTION:International Friendlies\n\nUnited States 2 - Belgium 5
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Iceland
+SUMMARY:Canada* vs. Iceland*
 DTSTART:20260328T170000Z
 DTEND:20260328T190000Z
 DTSTAMP:20260328T170000Z
 UID:MLS-MAT-000A70
-DESCRIPTION:International Friendlies\n\nCanada vs. Iceland
+DESCRIPTION:International Friendlies\n\nCanada 2 - Iceland 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico vs. Portugal
+SUMMARY:Mexico* vs. Portugal*
 DTSTART:20260329T010000Z
 DTEND:20260329T030000Z
 DTSTAMP:20260329T010000Z
 UID:MLS-MAT-000A6U
-DESCRIPTION:International Friendlies\n\nMexico vs. Portugal
+DESCRIPTION:International Friendlies\n\nMexico 0 - Portugal 0
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
