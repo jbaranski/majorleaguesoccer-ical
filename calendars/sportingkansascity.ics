@@ -267,16 +267,6 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Sporting Kansas City
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
-DTSTART:20260910T023000Z
-DTEND:20260910T043000Z
-DTSTAMP:20260910T023000Z
-UID:MLS-MAT-0009L1
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Sporting Kansa
- s City
-LOCATION:Lumen Field\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Los Angeles FC
 DTSTART:20260913T003000Z
 DTEND:20260913T023000Z
@@ -305,6 +295,16 @@ UID:MLS-MAT-0009M3
 DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Sporting Kansas 
  City
 LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
+DTSTART:20261002T013000Z
+DTEND:20261002T033000Z
+DTSTAMP:20261002T013000Z
+UID:MLS-MAT-0009L1
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Sporting Kansa
+ s City
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sporting Kansas City vs. Portland Timbers

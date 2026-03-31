@@ -68,15 +68,6 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Sporting Kansas Cit
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Real Salt Lake
-DTSTART:20260413T010000Z
-DTEND:20260413T030000Z
-DTSTAMP:20260413T010000Z
-UID:MLS-MAT-0009DZ
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
-LOCATION:Lumen Field\, Seattle\, WA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. San Diego FC
 DTSTART:20260419T013000Z
 DTEND:20260419T033000Z
@@ -274,6 +265,15 @@ UID:MLS-MAT-0009LU
 DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Vancouver Whitecaps
   FC
 LOCATION:America First Field\, Sandy\, UT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. Real Salt Lake
+DTSTART:20260924T013000Z
+DTEND:20260924T033000Z
+DTSTAMP:20260924T013000Z
+UID:MLS-MAT-0009DZ
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
+LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. New England Revolution
