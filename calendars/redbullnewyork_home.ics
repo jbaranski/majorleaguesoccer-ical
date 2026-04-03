@@ -39,6 +39,16 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. FC Cincinnati
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Bull New York vs. Pittsburgh Riverhounds SC
+DTSTART:20260415T233000Z
+DTEND:20260416T013000Z
+DTSTAMP:20260415T233000Z
+UID:MLS-MAT-000A7R
+DESCRIPTION:U.S. Open Cup\n\nRed Bull New York vs. Pittsburgh Riverhounds 
+ SC
+LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull New York vs. D.C. United
 DTSTART:20260422T233000Z
 DTEND:20260423T013000Z

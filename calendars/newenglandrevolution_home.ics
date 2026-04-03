@@ -39,6 +39,15 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. D.C. United
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Rhode Island FC
+DTSTART:20260414T230000Z
+DTEND:20260415T010000Z
+DTSTAMP:20260414T230000Z
+UID:MLS-MAT-000A7N
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Rhode Island FC
+LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Columbus Crew
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z

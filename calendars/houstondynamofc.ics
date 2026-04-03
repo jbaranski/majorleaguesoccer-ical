@@ -68,6 +68,15 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Houston Dynamo FC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Houston Dynamo FC vs. El Paso Locomotive
+DTSTART:20260416T000000Z
+DTEND:20260416T020000Z
+DTSTAMP:20260416T000000Z
+UID:MLS-MAT-000A7X
+DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. El Paso Locomotive
+LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando City vs. Houston Dynamo FC
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z

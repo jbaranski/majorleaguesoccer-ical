@@ -66,6 +66,15 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Nashville SC
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Charlotte FC vs. Charlotte Independence
+DTSTART:20260415T233000Z
+DTEND:20260416T013000Z
+DTSTAMP:20260415T233000Z
+UID:MLS-MAT-000A7T
+DESCRIPTION:U.S. Open Cup\n\nCharlotte FC vs. Charlotte Independence
+LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. FC Cincinnati
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z

@@ -105,6 +105,15 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Minnesota United
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sacramento Republic FC vs. Minnesota United
+DTSTART:20260415T020000Z
+DTEND:20260415T040000Z
+DTSTAMP:20260415T020000Z
+UID:MLS-MAT-000A80
+DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC vs. Minnesota United
+LOCATION:Heart Health Park\, Sacramento\, CA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Portland Timbers
 DTSTART:20260419T003000Z
 DTEND:20260419T023000Z

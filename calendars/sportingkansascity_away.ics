@@ -60,6 +60,16 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Sporting Kansas Cit
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colorado Springs Switchbacks vs. Sporting Kansas City
+DTSTART:20260415T000000Z
+DTEND:20260415T020000Z
+DTSTAMP:20260415T000000Z
+UID:MLS-MAT-000A7Y
+DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks vs. Sporting Kan
+ sas City
+LOCATION:Weidner Field\, Colorado Springs\, CO
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vancouver Whitecaps FC vs. Sporting Kansas City
 DTSTART:20260418T023000Z
 DTEND:20260418T043000Z
