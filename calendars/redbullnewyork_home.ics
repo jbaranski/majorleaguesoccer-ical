@@ -30,12 +30,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - CF Montreal 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. FC Cincinnati
+SUMMARY:Red Bull New York* vs. FC Cincinnati
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009DG
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 4 - FC Cincinnati 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

@@ -114,12 +114,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Inter Miami CF 3
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Austin FC
+SUMMARY:Inter Miami CF* vs. Austin FC*
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009DD
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Austin FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

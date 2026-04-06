@@ -100,12 +100,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Chicago Fire FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Philadelphia Union
+SUMMARY:Charlotte FC* vs. Philadelphia Union
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009D7
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Philadelphia Union 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

@@ -76,12 +76,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - New England Revo
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. St. Louis City SC
+SUMMARY:New York City FC* vs. St. Louis City SC*
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009DF
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - St. Louis City SC
+  1
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

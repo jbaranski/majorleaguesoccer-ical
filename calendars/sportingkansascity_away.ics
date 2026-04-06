@@ -50,13 +50,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Sporting Kansas City 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Sporting Kansas City
+SUMMARY:Real Salt Lake* vs. Sporting Kansas City
 DTSTART:20260404T203000Z
 DTEND:20260404T223000Z
 DTSTAMP:20260404T203000Z
 UID:MLS-MAT-0009DH
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - Sporting Kansas Cit
+ y 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

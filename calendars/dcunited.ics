@@ -74,12 +74,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - D.C. United 0
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. FC Dallas
+SUMMARY:D.C. United vs. FC Dallas*
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009D9
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Dallas 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

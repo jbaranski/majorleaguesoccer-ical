@@ -21,12 +21,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 6 - FC Cincinna
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. CF Montreal
+SUMMARY:New England Revolution* vs. CF Montreal
 DTSTART:20260404T203000Z
 DTEND:20260404T223000Z
 DTSTAMP:20260404T203000Z
 UID:MLS-MAT-0009DE
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - CF Montreal
+  0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

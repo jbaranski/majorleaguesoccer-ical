@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - Columbus Crew 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Columbus Crew
+SUMMARY:Atlanta United vs. Columbus Crew*
 DTSTART:20260404T233000Z
 DTEND:20260405T013000Z
 DTSTAMP:20260404T233000Z
 UID:MLS-MAT-0009D6
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - Columbus Crew 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
