@@ -71,13 +71,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 0 - San Jose Ea
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Portland Timbers
+SUMMARY:Vancouver Whitecaps FC* vs. Portland Timbers
 DTSTART:20260405T023000Z
 DTEND:20260405T043000Z
 DTSTAMP:20260405T023000Z
 UID:MLS-MAT-0009DK
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Portland Ti
- mbers
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Portland Ti
+ mbers 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

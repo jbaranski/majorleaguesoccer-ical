@@ -76,12 +76,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Sporting Kansas City 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Minnesota United
+SUMMARY:LA Galaxy vs. Minnesota United*
 DTSTART:20260405T023000Z
 DTEND:20260405T043000Z
 DTSTAMP:20260405T023000Z
 UID:MLS-MAT-0009DB
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Minnesota United 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
