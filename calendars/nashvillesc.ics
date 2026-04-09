@@ -102,12 +102,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Nashville SC 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Club América
+SUMMARY:Nashville SC* vs. Club América*
 DTSTART:20260408T000000Z
 DTEND:20260408T020000Z
 DTSTAMP:20260408T000000Z
 UID:MLS-MAT-0009QL
-DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Club América
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 0 - Club América 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ DTEND:20260415T053000Z
 DTSTAMP:20260415T033000Z
 UID:MLS-MAT-0009QP
 DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Nashville SC
-LOCATION:TBC\, unknown
+LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Nashville SC
