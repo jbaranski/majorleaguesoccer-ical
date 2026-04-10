@@ -1935,12 +1935,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. LA Galaxy
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Seattle Sounders FC
+SUMMARY:Club Tigres* vs. Seattle Sounders FC
 DTSTART:20260409T010000Z
 DTEND:20260409T030000Z
 DTSTAMP:20260409T010000Z
 UID:MLS-MAT-0009QM
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Seattle Sounders FC
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 2 - Seattle Sounders FC 
+ 0
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
