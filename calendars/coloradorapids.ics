@@ -67,12 +67,13 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Colorado Rapids 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Houston Dynamo FC
+SUMMARY:Colorado Rapids* vs. Houston Dynamo FC
 DTSTART:20260412T013000Z
 DTEND:20260412T033000Z
 DTSTAMP:20260412T013000Z
 UID:MLS-MAT-0009DO
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 6 - Houston Dynamo FC 
+ 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

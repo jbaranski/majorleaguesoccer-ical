@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Atlanta Unite
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Atlanta United
+SUMMARY:Chicago Fire FC* vs. Atlanta United
 DTSTART:20260412T003000Z
 DTEND:20260412T023000Z
 DTSTAMP:20260412T003000Z
 UID:MLS-MAT-0009DN
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Atlanta United 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

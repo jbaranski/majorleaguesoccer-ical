@@ -38,12 +38,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Colorado Rapids 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. FC Cincinnati
+SUMMARY:Toronto FC* vs. FC Cincinnati*
 DTSTART:20260411T170000Z
 DTEND:20260411T190000Z
 DTSTAMP:20260411T170000Z
 UID:MLS-MAT-0009DX
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - FC Cincinnati 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

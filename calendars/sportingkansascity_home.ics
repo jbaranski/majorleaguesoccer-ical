@@ -51,13 +51,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Colorado Rapi
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. San Jose Earthquakes
+SUMMARY:Sporting Kansas City vs. San Jose Earthquakes*
 DTSTART:20260412T003000Z
 DTEND:20260412T023000Z
 DTSTAMP:20260412T003000Z
 UID:MLS-MAT-0009DR
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. San Jose Eart
- hquakes
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - San Jose Eart
+ hquakes 3
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

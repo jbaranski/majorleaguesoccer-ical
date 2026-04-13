@@ -81,13 +81,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Portland Ti
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. New York City FC
+SUMMARY:Vancouver Whitecaps FC* vs. New York City FC
 DTSTART:20260411T233000Z
 DTEND:20260412T013000Z
 DTSTAMP:20260411T233000Z
 UID:MLS-MAT-0009DY
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. New York Ci
- ty FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - New York Ci
+ ty FC 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

@@ -109,12 +109,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Philadelphia Union 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Philadelphia Union
+SUMMARY:CF Montreal vs. Philadelphia Union*
 DTSTART:20260411T183000Z
 DTEND:20260411T203000Z
 DTSTAMP:20260411T183000Z
 UID:MLS-MAT-0009DT
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

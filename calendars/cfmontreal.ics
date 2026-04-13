@@ -66,12 +66,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - CF Montreal
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Philadelphia Union
+SUMMARY:CF Montreal vs. Philadelphia Union*
 DTSTART:20260411T183000Z
 DTEND:20260411T203000Z
 DTSTAMP:20260411T183000Z
 UID:MLS-MAT-0009DT
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

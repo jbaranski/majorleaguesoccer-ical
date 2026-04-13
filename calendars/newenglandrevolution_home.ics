@@ -31,12 +31,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 3 - CF Montreal
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. D.C. United
+SUMMARY:New England Revolution* vs. D.C. United
 DTSTART:20260411T233000Z
 DTEND:20260412T013000Z
 DTSTAMP:20260411T233000Z
 UID:MLS-MAT-0009DU
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - D.C. United
+  0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

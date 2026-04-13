@@ -86,12 +86,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - St. Louis City SC
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. St. Louis City SC
+SUMMARY:FC Dallas* vs. St. Louis City SC*
 DTSTART:20260412T003000Z
 DTEND:20260412T023000Z
 DTSTAMP:20260412T003000Z
 UID:MLS-MAT-0009DQ
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - St. Louis City SC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

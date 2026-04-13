@@ -49,12 +49,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Los Angeles FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Los Angeles FC
+SUMMARY:Portland Timbers* vs. Los Angeles FC
 DTSTART:20260411T204500Z
 DTEND:20260411T224500Z
 DTSTAMP:20260411T204500Z
 UID:MLS-MAT-0009DV
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Los Angeles FC 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
