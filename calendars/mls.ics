@@ -2066,12 +2066,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - San Jose Eart
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Minnesota United
+SUMMARY:San Diego FC vs. Minnesota United*
 DTSTART:20260412T023000Z
 DTEND:20260412T043000Z
 DTSTAMP:20260412T023000Z
 UID:MLS-MAT-0009DW
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Minnesota United 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
