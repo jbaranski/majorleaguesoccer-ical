@@ -66,12 +66,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - Columbus Crew 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Orlando City
+SUMMARY:Columbus Crew* vs. Orlando City*
 DTSTART:20260412T230000Z
 DTEND:20260413T010000Z
 DTSTAMP:20260412T230000Z
 UID:MLS-MAT-0009DP
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Orlando City 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
