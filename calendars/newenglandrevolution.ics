@@ -71,12 +71,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - D.C. United
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Rhode Island FC
+SUMMARY:New England Revolution* vs. Rhode Island FC
 DTSTART:20260414T230000Z
 DTEND:20260415T010000Z
 DTSTAMP:20260414T230000Z
 UID:MLS-MAT-000A7N
-DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Rhode Island FC
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 1 (penalties: 3) - Rho
+ de Island FC 1 (penalties: 1)
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
@@ -91,9 +92,9 @@ LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New England Revolution
-DTSTART:20260422T233000Z
-DTEND:20260423T013000Z
-DTSTAMP:20260422T233000Z
+DTSTART:20260422T234500Z
+DTEND:20260423T014500Z
+DTSTAMP:20260422T234500Z
 UID:MLS-MAT-0009EF
 DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New England Revolut
  ion
@@ -108,6 +109,15 @@ UID:MLS-MAT-0009EV
 DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New England Revolut
  ion
 LOCATION:Nu Stadium\, Miami\, FL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Orlando City
+DTSTART:20260428T160000Z
+DTEND:20260428T180000Z
+DTSTAMP:20260428T160000Z
+UID:MLS-MAT-000A8A
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Orlando City
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Charlotte FC

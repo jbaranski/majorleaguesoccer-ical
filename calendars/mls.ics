@@ -2075,48 +2075,49 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Minnesota United 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Rhode Island FC
+SUMMARY:New England Revolution* vs. Rhode Island FC
 DTSTART:20260414T230000Z
 DTEND:20260415T010000Z
 DTSTAMP:20260414T230000Z
 UID:MLS-MAT-000A7N
-DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Rhode Island FC
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 1 (penalties: 3) - Rho
+ de Island FC 1 (penalties: 1)
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Westchester SC vs. New York City FC
+SUMMARY:Westchester SC vs. New York City FC*
 DTSTART:20260414T233000Z
 DTEND:20260415T013000Z
 DTSTAMP:20260414T233000Z
 UID:MLS-MAT-000A7Q
-DESCRIPTION:U.S. Open Cup\n\nWestchester SC vs. New York City FC
+DESCRIPTION:U.S. Open Cup\n\nWestchester SC 2 - New York City FC 5
 LOCATION:Mount Vernon Memorial Field\, Mount Vernon\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit City FC vs. Chicago Fire FC
+SUMMARY:Detroit City FC vs. Chicago Fire FC*
 DTSTART:20260414T233000Z
 DTEND:20260415T013000Z
 DTSTAMP:20260414T233000Z
 UID:MLS-MAT-000A7U
-DESCRIPTION:U.S. Open Cup\n\nDetroit City FC vs. Chicago Fire FC
+DESCRIPTION:U.S. Open Cup\n\nDetroit City FC 1 - Chicago Fire FC 2
 LOCATION:Keyworth Stadium\, Hamtramck\, MI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Louisville City FC vs. Austin FC
+SUMMARY:Louisville City FC* vs. Austin FC
 DTSTART:20260414T230000Z
 DTEND:20260415T010000Z
 DTSTAMP:20260414T230000Z
 UID:MLS-MAT-000A7W
-DESCRIPTION:U.S. Open Cup\n\nLouisville City FC vs. Austin FC
+DESCRIPTION:U.S. Open Cup\n\nLouisville City FC 2 - Austin FC 1
 LOCATION:Lynn Family Stadium\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Los Angeles FC
+SUMMARY:Cruz Azul* vs. Los Angeles FC*
 DTSTART:20260415T010000Z
 DTEND:20260415T030000Z
 DTSTAMP:20260415T010000Z
 UID:MLS-MAT-0009QO
-DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul 1 - Los Angeles FC 1
 LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
@@ -2184,31 +2185,32 @@ DESCRIPTION:U.S. Open Cup\n\nCharlotte FC vs. Charlotte Independence
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Springs Switchbacks vs. Sporting Kansas City
+SUMMARY:Colorado Springs Switchbacks* vs. Sporting Kansas City
 DTSTART:20260415T000000Z
 DTEND:20260415T020000Z
 DTSTAMP:20260415T000000Z
 UID:MLS-MAT-000A7Y
-DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks vs. Sporting Kan
- sas City
+DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks 3 - Sporting Kan
+ sas City 0
 LOCATION:Weidner Field\, Colorado Springs\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Union Omaha
+SUMMARY:Colorado Rapids* vs. Union Omaha
 DTSTART:20260415T013000Z
 DTEND:20260415T033000Z
 DTSTAMP:20260415T013000Z
 UID:MLS-MAT-000A7Z
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. Union Omaha
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 1 - Union Omaha 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sacramento Republic FC vs. Minnesota United
+SUMMARY:Sacramento Republic FC vs. Minnesota United*
 DTSTART:20260415T020000Z
 DTEND:20260415T040000Z
 DTSTAMP:20260415T020000Z
 UID:MLS-MAT-000A80
-DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC vs. Minnesota United
+DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC 0 (penalties: 8) - Min
+ nesota United 0 (penalties: 9)
 LOCATION:Heart Health Park\, Sacramento\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -2397,9 +2399,9 @@ LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. New England Revolution
-DTSTART:20260422T233000Z
-DTEND:20260423T013000Z
-DTSTAMP:20260422T233000Z
+DTSTART:20260422T234500Z
+DTEND:20260423T014500Z
+DTSTAMP:20260422T234500Z
 UID:MLS-MAT-0009EF
 DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New England Revolut
  ion
@@ -2653,75 +2655,76 @@ DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:New England Revolution vs. Orlando City
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-000A8A
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Orlando City
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:One Knoxville SC vs. Columbus Crew
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-000A8B
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nOne Knoxville SC vs. Columbus Crew
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Red Bull New York vs. New York City FC
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-000A8C
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nRed Bull New York vs. New York City FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Charlotte FC vs. Atlanta United
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-000A8D
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nCharlotte FC vs. Atlanta United
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Chicago Fire FC vs. St. Louis City SC
 DTSTART:20260429T160000Z
 DTEND:20260429T180000Z
 DTSTAMP:20260429T160000Z
 UID:MLS-MAT-000A8E
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC vs. St. Louis City SC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Louisville City FC
+SUMMARY:Houston Dynamo FC vs. Louisville City FC
 DTSTART:20260429T160000Z
 DTEND:20260429T180000Z
 DTSTAMP:20260429T160000Z
 UID:MLS-MAT-000A8F
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. Louisville City FC
+DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. Louisville City FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Colorado Rapids vs. Colorado Springs Switchbacks
 DTSTART:20260429T160000Z
 DTEND:20260429T180000Z
 DTSTAMP:20260429T160000Z
 UID:MLS-MAT-000A8G
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. Colorado Springs Switchba
+ cks
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Minnesota United vs. TBC Away
 DTSTART:20260429T160000Z
 DTEND:20260429T180000Z
 DTSTAMP:20260429T160000Z
 UID:MLS-MAT-000A8H
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nMinnesota United vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -2887,15 +2890,6 @@ DTSTAMP:20260505T233000Z
 UID:MLS-MAT-000ABR
 DESCRIPTION:TELUS Canadian Championship\n\nToronto FC vs. Atlético Ottawa
 LOCATION:BMO Field\, Toronto\, ON
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York City FC vs. Los Angeles FC
-DTSTART:20260506T233000Z
-DTEND:20260507T013000Z
-DTSTAMP:20260506T233000Z
-UID:MLS-MAT-0009NE
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Los Angeles FC
-LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CF Montreal vs. Calgary Blizzard Soccer Club
@@ -7811,6 +7805,15 @@ DTSTAMP:20261102T021500Z
 UID:MLS-MAT-0009OT
 DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Houston Dynamo FC
 LOCATION:Providence Park\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City FC vs. Los Angeles FC
+DTSTART:20261105T003000Z
+DTEND:20261105T023000Z
+DTSTAMP:20261105T003000Z
+UID:MLS-MAT-0009NE
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Los Angeles FC
+LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Columbus Crew

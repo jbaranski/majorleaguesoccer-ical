@@ -110,13 +110,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - San Jose Eart
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Springs Switchbacks vs. Sporting Kansas City
+SUMMARY:Colorado Springs Switchbacks* vs. Sporting Kansas City
 DTSTART:20260415T000000Z
 DTEND:20260415T020000Z
 DTSTAMP:20260415T000000Z
 UID:MLS-MAT-000A7Y
-DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks vs. Sporting Kan
- sas City
+DESCRIPTION:U.S. Open Cup\n\nColorado Springs Switchbacks 3 - Sporting Kan
+ sas City 0
 LOCATION:Weidner Field\, Colorado Springs\, CO
 END:VEVENT
 BEGIN:VEVENT

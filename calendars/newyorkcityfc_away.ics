@@ -60,12 +60,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 2 - New York Ci
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Westchester SC vs. New York City FC
+SUMMARY:Westchester SC vs. New York City FC*
 DTSTART:20260414T233000Z
 DTEND:20260415T013000Z
 DTSTAMP:20260414T233000Z
 UID:MLS-MAT-000A7Q
-DESCRIPTION:U.S. Open Cup\n\nWestchester SC vs. New York City FC
+DESCRIPTION:U.S. Open Cup\n\nWestchester SC 2 - New York City FC 5
 LOCATION:Mount Vernon Memorial Field\, Mount Vernon\, NY
 END:VEVENT
 BEGIN:VEVENT
@@ -76,6 +76,15 @@ DTSTAMP:20260425T183000Z
 UID:MLS-MAT-0009EX
 DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York City FC
 LOCATION:Stade Saputo\, Montréal\, QC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Bull New York vs. New York City FC
+DTSTART:20260428T160000Z
+DTEND:20260428T180000Z
+DTSTAMP:20260428T160000Z
+UID:MLS-MAT-000A8C
+DESCRIPTION:U.S. Open Cup\n\nRed Bull New York vs. New York City FC
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlotte FC vs. New York City FC

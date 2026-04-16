@@ -102,12 +102,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - LA Galaxy 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Louisville City FC vs. Austin FC
+SUMMARY:Louisville City FC* vs. Austin FC
 DTSTART:20260414T230000Z
 DTEND:20260415T010000Z
 DTSTAMP:20260414T230000Z
 UID:MLS-MAT-000A7W
-DESCRIPTION:U.S. Open Cup\n\nLouisville City FC vs. Austin FC
+DESCRIPTION:U.S. Open Cup\n\nLouisville City FC 2 - Austin FC 1
 LOCATION:Lynn Family Stadium\, Louisville\, KY
 END:VEVENT
 BEGIN:VEVENT

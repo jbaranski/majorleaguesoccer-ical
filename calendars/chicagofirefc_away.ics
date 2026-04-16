@@ -58,12 +58,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Chicago Fire FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit City FC vs. Chicago Fire FC
+SUMMARY:Detroit City FC vs. Chicago Fire FC*
 DTSTART:20260414T233000Z
 DTEND:20260415T013000Z
 DTSTAMP:20260414T233000Z
 UID:MLS-MAT-000A7U
-DESCRIPTION:U.S. Open Cup\n\nDetroit City FC vs. Chicago Fire FC
+DESCRIPTION:U.S. Open Cup\n\nDetroit City FC 1 - Chicago Fire FC 2
 LOCATION:Keyworth Stadium\, Hamtramck\, MI
 END:VEVENT
 BEGIN:VEVENT

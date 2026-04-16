@@ -104,12 +104,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Atlanta United 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Detroit City FC vs. Chicago Fire FC
+SUMMARY:Detroit City FC vs. Chicago Fire FC*
 DTSTART:20260414T233000Z
 DTEND:20260415T013000Z
 DTSTAMP:20260414T233000Z
 UID:MLS-MAT-000A7U
-DESCRIPTION:U.S. Open Cup\n\nDetroit City FC vs. Chicago Fire FC
+DESCRIPTION:U.S. Open Cup\n\nDetroit City FC 1 - Chicago Fire FC 2
 LOCATION:Keyworth Stadium\, Hamtramck\, MI
 END:VEVENT
 BEGIN:VEVENT
@@ -130,6 +130,15 @@ UID:MLS-MAT-0009ER
 DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Sporting Kansas Ci
  ty
 LOCATION:Soldier Field\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. St. Louis City SC
+DTSTART:20260429T160000Z
+DTEND:20260429T180000Z
+DTSTAMP:20260429T160000Z
+UID:MLS-MAT-000A8E
+DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC vs. St. Louis City SC
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. FC Cincinnati

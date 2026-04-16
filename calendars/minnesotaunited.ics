@@ -105,12 +105,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Minnesota United 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sacramento Republic FC vs. Minnesota United
+SUMMARY:Sacramento Republic FC vs. Minnesota United*
 DTSTART:20260415T020000Z
 DTEND:20260415T040000Z
 DTSTAMP:20260415T020000Z
 UID:MLS-MAT-000A80
-DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC vs. Minnesota United
+DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC 0 (penalties: 8) - Min
+ nesota United 0 (penalties: 9)
 LOCATION:Heart Health Park\, Sacramento\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -139,6 +140,15 @@ DTSTAMP:20260425T203000Z
 UID:MLS-MAT-0009EW
 DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
 LOCATION:Allianz Field\, St. Paul\, MN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. TBC Away
+DTSTART:20260429T160000Z
+DTEND:20260429T180000Z
+DTSTAMP:20260429T160000Z
+UID:MLS-MAT-000A8H
+DESCRIPTION:U.S. Open Cup\n\nMinnesota United vs. TBC Away
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Minnesota United

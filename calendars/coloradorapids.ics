@@ -77,12 +77,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 6 - Houston Dynamo FC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Union Omaha
+SUMMARY:Colorado Rapids* vs. Union Omaha
 DTSTART:20260415T013000Z
 DTEND:20260415T033000Z
 DTSTAMP:20260415T013000Z
 UID:MLS-MAT-000A7Z
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. Union Omaha
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 1 - Union Omaha 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -112,6 +112,16 @@ UID:MLS-MAT-0009F3
 DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Colorado Ra
  pids
 LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. Colorado Springs Switchbacks
+DTSTART:20260429T160000Z
+DTEND:20260429T180000Z
+DTSTAMP:20260429T160000Z
+UID:MLS-MAT-000A8G
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. Colorado Springs Switchba
+ cks
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Colorado Rapids
