@@ -170,13 +170,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. TBC Away
+SUMMARY:Los Angeles FC vs. Toluca FC
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-0009QR
-DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Toluca FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. Los Angeles FC
@@ -188,13 +188,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Los Angeles FC
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Los Angeles FC
+SUMMARY:Toluca FC vs. Los Angeles FC
 DTSTART:20260505T160000Z
 DTEND:20260505T180000Z
 DTSTAMP:20260505T160000Z
 UID:MLS-MAT-0009QT
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Los Angeles FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. Los Angeles FC
+LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Houston Dynamo FC

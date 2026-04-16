@@ -105,13 +105,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Colorado Rapids
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. TBC Away
+SUMMARY:Los Angeles FC vs. Toluca FC
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-0009QR
-DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Toluca FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Houston Dynamo FC

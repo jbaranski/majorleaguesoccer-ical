@@ -2121,12 +2121,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nCruz Azul 1 - Los Angeles FC 1
 LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Nashville SC
+SUMMARY:Club América vs. Nashville SC*
 DTSTART:20260415T033000Z
 DTEND:20260415T053000Z
 DTSTAMP:20260415T033000Z
 UID:MLS-MAT-0009QP
-DESCRIPTION:CONCACAF Champions Cup\n\nClub América vs. Nashville SC
+DESCRIPTION:CONCACAF Champions Cup\n\nClub América 0 - Nashville SC 1
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
@@ -2637,22 +2637,22 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. TBC Away
+SUMMARY:Los Angeles FC vs. Toluca FC
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-0009QR
-DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nLos Angeles FC vs. Toluca FC
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. TBC Away
+SUMMARY:Nashville SC vs. Club Tigres
 DTSTART:20260428T160000Z
 DTEND:20260428T180000Z
 DTSTAMP:20260428T160000Z
 UID:MLS-MAT-0009QS
-DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Club Tigres
+LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Revolution vs. Orlando City
@@ -2865,22 +2865,22 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. D.C. United
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Los Angeles FC
+SUMMARY:Toluca FC vs. Los Angeles FC
 DTSTART:20260505T160000Z
 DTEND:20260505T180000Z
 DTSTAMP:20260505T160000Z
 UID:MLS-MAT-0009QT
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Los Angeles FC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. Los Angeles FC
+LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Nashville SC
+SUMMARY:Club Tigres vs. Nashville SC
 DTSTART:20260505T160000Z
 DTEND:20260505T180000Z
 DTSTAMP:20260505T160000Z
 UID:MLS-MAT-0009QU
-DESCRIPTION:CONCACAF Champions Cup\n\nTBC Home vs. Nashville SC
-LOCATION:TBC\, unknown
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Nashville SC
+LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Atlético Ottawa
