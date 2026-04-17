@@ -31,12 +31,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 2 - Vancouver Wh
 LOCATION:ONE Spokane Stadium\, Spokane\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Tigres
+SUMMARY:Seattle Sounders FC* vs. Club Tigres
 DTSTART:20260416T033000Z
 DTEND:20260416T053000Z
 DTSTAMP:20260416T033000Z
 UID:MLS-MAT-0009QQ
-DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 3 - Club Tigres 
+ 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
