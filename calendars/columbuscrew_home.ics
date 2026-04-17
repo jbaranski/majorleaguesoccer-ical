@@ -56,6 +56,15 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Philadelphia Union
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. One Knoxville SC
+DTSTART:20260429T233000Z
+DTEND:20260430T013000Z
+DTSTAMP:20260429T233000Z
+UID:MLS-MAT-000A8B
+DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. One Knoxville SC
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Minnesota United
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z

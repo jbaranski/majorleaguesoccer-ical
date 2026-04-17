@@ -75,12 +75,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - Orlando City 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Richmond Kickers vs. Columbus Crew
+SUMMARY:Richmond Kickers vs. Columbus Crew*
 DTSTART:20260415T233000Z
 DTEND:20260416T013000Z
 DTSTAMP:20260415T233000Z
 UID:MLS-MAT-000A7O
-DESCRIPTION:U.S. Open Cup\n\nRichmond Kickers vs. Columbus Crew
+DESCRIPTION:U.S. Open Cup\n\nRichmond Kickers 0 - Columbus Crew 3
 LOCATION:City Stadium\, Richmond\, VA
 END:VEVENT
 BEGIN:VEVENT
@@ -112,13 +112,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Philadelphia Union
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Knoxville SC vs. Columbus Crew
-DTSTART:20260428T160000Z
-DTEND:20260428T180000Z
-DTSTAMP:20260428T160000Z
+SUMMARY:Columbus Crew vs. One Knoxville SC
+DTSTART:20260429T233000Z
+DTEND:20260430T013000Z
+DTSTAMP:20260429T233000Z
 UID:MLS-MAT-000A8B
-DESCRIPTION:U.S. Open Cup\n\nOne Knoxville SC vs. Columbus Crew
-LOCATION:TBC\, unknown
+DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. One Knoxville SC
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Minnesota United

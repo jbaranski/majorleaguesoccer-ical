@@ -111,12 +111,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - San Jose Eart
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Phoenix Rising FC
+SUMMARY:San Jose Earthquakes* vs. Phoenix Rising FC
 DTSTART:20260416T020000Z
 DTEND:20260416T040000Z
 DTSTAMP:20260416T020000Z
 UID:MLS-MAT-000A81
-DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Phoenix Rising FC
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 2 - Phoenix Rising FC 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -147,6 +147,15 @@ UID:MLS-MAT-0009F1
 DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Jose Earthqu
  akes
 LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Jose Earthquakes vs. Minnesota United
+DTSTART:20260429T020000Z
+DTEND:20260429T040000Z
+DTSTAMP:20260429T020000Z
+UID:MLS-MAT-000A8H
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Minnesota United
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. San Jose Earthquakes

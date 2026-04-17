@@ -50,12 +50,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Seattle Sounders
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. El Paso Locomotive
+SUMMARY:Houston Dynamo FC* vs. El Paso Locomotive
 DTSTART:20260416T000000Z
 DTEND:20260416T020000Z
 DTSTAMP:20260416T000000Z
 UID:MLS-MAT-000A7X
-DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. El Paso Locomotive
+DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC 4 - El Paso Locomotive 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -69,12 +69,12 @@ LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Louisville City FC
-DTSTART:20260429T160000Z
-DTEND:20260429T180000Z
-DTSTAMP:20260429T160000Z
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+DTSTAMP:20260430T000000Z
 UID:MLS-MAT-000A8F
 DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. Louisville City FC
-LOCATION:TBC\, unknown
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. Colorado Rapids

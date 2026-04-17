@@ -142,13 +142,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Los Angeles FC
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. TBC Away
-DTSTART:20260429T160000Z
-DTEND:20260429T180000Z
-DTSTAMP:20260429T160000Z
+SUMMARY:San Jose Earthquakes vs. Minnesota United
+DTSTART:20260429T020000Z
+DTEND:20260429T040000Z
+DTSTAMP:20260429T020000Z
 UID:MLS-MAT-000A8H
-DESCRIPTION:U.S. Open Cup\n\nMinnesota United vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Minnesota United
+LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Minnesota United
@@ -214,6 +214,15 @@ DTSTAMP:20260726T003000Z
 UID:MLS-MAT-0009HW
 DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Vancouver Whiteca
  ps FC
+LOCATION:Allianz Field\, St. Paul\, MN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota United vs. Liberia
+DTSTART:20260726T220000Z
+DTEND:20260727T000000Z
+DTSTAMP:20260726T220000Z
+UID:MLS-MAT-000ACO
+DESCRIPTION:Club Friendly Matches\n\nMinnesota United vs. Liberia
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

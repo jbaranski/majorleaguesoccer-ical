@@ -47,12 +47,13 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Dallas 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. One Knoxville SC
+SUMMARY:D.C. United vs. One Knoxville SC*
 DTSTART:20260415T233000Z
 DTEND:20260416T013000Z
 DTSTAMP:20260415T233000Z
 UID:MLS-MAT-000A7P
-DESCRIPTION:U.S. Open Cup\n\nD.C. United vs. One Knoxville SC
+DESCRIPTION:U.S. Open Cup\n\nD.C. United 3 (penalties: 5) - One Knoxville 
+ SC 3 (penalties: 6)
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
