@@ -2261,13 +2261,13 @@ DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 2 - Phoenix Rising FC 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Sporting Kansas City
+SUMMARY:Vancouver Whitecaps FC* vs. Sporting Kansas City
 DTSTART:20260418T023000Z
 DTEND:20260418T043000Z
 DTSTAMP:20260418T023000Z
 UID:MLS-MAT-0009E0
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Sporting Ka
- nsas City
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Sporting Ka
+ nsas City 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
