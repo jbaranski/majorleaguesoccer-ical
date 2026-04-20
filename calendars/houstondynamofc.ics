@@ -78,12 +78,12 @@ DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC 4 - El Paso Locomotive 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Houston Dynamo FC
+SUMMARY:Orlando City vs. Houston Dynamo FC*
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009E9
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - Houston Dynamo FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

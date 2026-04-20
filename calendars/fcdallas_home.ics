@@ -65,12 +65,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - St. Louis City SC 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. LA Galaxy
+SUMMARY:FC Dallas* vs. LA Galaxy*
 DTSTART:20260419T003000Z
 DTEND:20260419T023000Z
 DTSTAMP:20260419T003000Z
 UID:MLS-MAT-0009E4
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - LA Galaxy 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

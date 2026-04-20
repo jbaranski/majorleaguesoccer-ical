@@ -116,12 +116,12 @@ DESCRIPTION:U.S. Open Cup\n\nWestchester SC 2 - New York City FC 5
 LOCATION:Mount Vernon Memorial Field\, Mount Vernon\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Charlotte FC
+SUMMARY:New York City FC vs. Charlotte FC*
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009E8
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Charlotte FC 2
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

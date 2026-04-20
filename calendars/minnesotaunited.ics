@@ -115,12 +115,13 @@ DESCRIPTION:U.S. Open Cup\n\nSacramento Republic FC 0 (penalties: 8) - Min
 LOCATION:Heart Health Park\, Sacramento\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Portland Timbers
+SUMMARY:Minnesota United* vs. Portland Timbers
 DTSTART:20260419T003000Z
 DTEND:20260419T023000Z
 DTSTAMP:20260419T003000Z
 UID:MLS-MAT-0009E5
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Portland Timbers 
+ 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

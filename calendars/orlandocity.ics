@@ -83,12 +83,12 @@ DESCRIPTION:U.S. Open Cup\n\nFC Naples 0 - Orlando City 1
 LOCATION:Paradise Coast Sports Complex\, Naples\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Houston Dynamo FC
+SUMMARY:Orlando City vs. Houston Dynamo FC*
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009E9
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - Houston Dynamo FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

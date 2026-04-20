@@ -132,12 +132,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Red Bull New York 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Inter Miami CF
+SUMMARY:Colorado Rapids vs. Inter Miami CF*
 DTSTART:20260418T203000Z
 DTEND:20260418T223000Z
 DTSTAMP:20260418T203000Z
 UID:MLS-MAT-0009E3
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Inter Miami CF 3
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT

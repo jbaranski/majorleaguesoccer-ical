@@ -103,12 +103,12 @@ DESCRIPTION:U.S. Open Cup\n\nD.C. United 3 (penalties: 5) - One Knoxville
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. D.C. United
+SUMMARY:Philadelphia Union* vs. D.C. United*
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009EA
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - D.C. United 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

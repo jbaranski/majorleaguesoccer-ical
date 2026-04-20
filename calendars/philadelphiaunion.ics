@@ -118,12 +118,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Philadelphia Union 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. D.C. United
+SUMMARY:Philadelphia Union* vs. D.C. United*
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009EA
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - D.C. United 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

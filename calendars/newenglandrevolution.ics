@@ -81,13 +81,13 @@ DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 1 (penalties: 3) - Rho
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Columbus Crew
+SUMMARY:New England Revolution* vs. Columbus Crew
 DTSTART:20260418T233000Z
 DTEND:20260419T013000Z
 DTSTAMP:20260418T233000Z
 UID:MLS-MAT-0009E7
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Columbus Cr
- ew
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Columbus Cr
+ ew 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

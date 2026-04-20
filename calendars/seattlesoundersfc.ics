@@ -111,13 +111,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nSeattle Sounders FC 3 - Club Tigres
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. St. Louis City SC
+SUMMARY:Seattle Sounders FC* vs. St. Louis City SC
 DTSTART:20260419T013000Z
 DTEND:20260419T033000Z
 DTSTAMP:20260419T013000Z
 UID:MLS-MAT-0009EC
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. St. Louis City
-  SC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 4 - St. Louis City
+  SC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
