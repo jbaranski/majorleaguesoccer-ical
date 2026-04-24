@@ -65,12 +65,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Austin FC 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Austin FC
+SUMMARY:San Jose Earthquakes* vs. Austin FC
 DTSTART:20260423T023000Z
 DTEND:20260423T043000Z
 DTSTAMP:20260423T023000Z
 UID:MLS-MAT-0009EO
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 5 - Austin FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
