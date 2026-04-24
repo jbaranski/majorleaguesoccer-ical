@@ -47,12 +47,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - Houston Dynamo FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Charlotte FC
+SUMMARY:Orlando City* vs. Charlotte FC
 DTSTART:20260422T233000Z
 DTEND:20260423T013000Z
 DTSTAMP:20260422T233000Z
 UID:MLS-MAT-0009EM
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Charlotte FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

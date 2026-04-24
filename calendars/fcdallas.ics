@@ -92,12 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - LA Galaxy 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Minnesota United
+SUMMARY:FC Dallas vs. Minnesota United*
 DTSTART:20260423T003000Z
 DTEND:20260423T023000Z
 DTSTAMP:20260423T003000Z
 UID:MLS-MAT-0009EH
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Minnesota United 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -121,12 +121,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 4 - San Diego FC 2
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. San Diego FC
+SUMMARY:Houston Dynamo FC* vs. San Diego FC
 DTSTART:20260423T003000Z
 DTEND:20260423T023000Z
 DTSTAMP:20260423T003000Z
 UID:MLS-MAT-0009EI
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - San Diego FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -41,13 +41,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - New England Revo
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. New England Revolution
+SUMMARY:Atlanta United vs. New England Revolution*
 DTSTART:20260422T234500Z
 DTEND:20260423T014500Z
 DTSTAMP:20260422T234500Z
 UID:MLS-MAT-0009EF
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New England Revolut
- ion
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - New England Revolut
+ ion 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

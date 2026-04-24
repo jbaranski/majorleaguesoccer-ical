@@ -159,12 +159,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - LA Galaxy 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. LA Galaxy
+SUMMARY:Columbus Crew* vs. LA Galaxy
 DTSTART:20260422T233000Z
 DTEND:20260423T013000Z
 DTSTAMP:20260422T233000Z
 UID:MLS-MAT-0009EG
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - LA Galaxy 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

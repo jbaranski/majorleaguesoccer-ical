@@ -84,12 +84,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Inter Miami CF 3
 LOCATION:Empower Field at Mile High\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Inter Miami CF
+SUMMARY:Real Salt Lake vs. Inter Miami CF*
 DTSTART:20260423T013000Z
 DTEND:20260423T033000Z
 DTSTAMP:20260423T013000Z
 UID:MLS-MAT-0009EN
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Inter Miami CF 2
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

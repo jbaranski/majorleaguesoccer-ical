@@ -94,12 +94,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 4 - Red Bull New York 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. D.C. United
+SUMMARY:Red Bull New York* vs. D.C. United*
 DTSTART:20260422T233000Z
 DTEND:20260423T013000Z
 DTSTAMP:20260422T233000Z
 UID:MLS-MAT-0009EL
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 4 - D.C. United 4
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
