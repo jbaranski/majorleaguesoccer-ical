@@ -29,12 +29,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Dallas 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. FC Dallas
+SUMMARY:Seattle Sounders FC* vs. FC Dallas
 DTSTART:20260426T023000Z
 DTEND:20260426T043000Z
 DTSTAMP:20260426T023000Z
 UID:MLS-MAT-0009F0
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - FC Dallas 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

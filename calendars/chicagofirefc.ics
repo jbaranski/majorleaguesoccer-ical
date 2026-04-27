@@ -122,13 +122,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Chicago Fire FC 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Sporting Kansas City
+SUMMARY:Chicago Fire FC* vs. Sporting Kansas City
 DTSTART:20260426T003000Z
 DTEND:20260426T023000Z
 DTSTAMP:20260426T003000Z
 UID:MLS-MAT-0009ER
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Sporting Kansas Ci
- ty
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 5 - Sporting Kansas Ci
+ ty 0
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

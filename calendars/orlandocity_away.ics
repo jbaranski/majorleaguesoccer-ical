@@ -56,12 +56,12 @@ DESCRIPTION:U.S. Open Cup\n\nFC Naples 0 - Orlando City 1
 LOCATION:Paradise Coast Sports Complex\, Naples\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Orlando City
+SUMMARY:D.C. United* vs. Orlando City
 DTSTART:20260425T233000Z
 DTEND:20260426T013000Z
 DTSTAMP:20260425T233000Z
 UID:MLS-MAT-0009EU
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 3 - Orlando City 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

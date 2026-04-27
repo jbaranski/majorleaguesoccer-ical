@@ -101,12 +101,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Charlotte FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Orlando City
+SUMMARY:D.C. United* vs. Orlando City
 DTSTART:20260425T233000Z
 DTEND:20260426T013000Z
 DTSTAMP:20260425T233000Z
 UID:MLS-MAT-0009EU
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 3 - Orlando City 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

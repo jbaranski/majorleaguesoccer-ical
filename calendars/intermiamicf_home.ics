@@ -68,13 +68,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Red Bull New York 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New England Revolution
+SUMMARY:Inter Miami CF* vs. New England Revolution*
 DTSTART:20260425T233000Z
 DTEND:20260426T013000Z
 DTSTAMP:20260425T233000Z
 UID:MLS-MAT-0009EV
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New England Revolut
- ion
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 1 - New England Revolut
+ ion 1
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

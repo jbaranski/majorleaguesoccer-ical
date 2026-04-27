@@ -70,12 +70,12 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Portland Timbers
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Portland Timbers
+SUMMARY:San Diego FC vs. Portland Timbers*
 DTSTART:20260426T013000Z
 DTEND:20260426T033000Z
 DTSTAMP:20260426T013000Z
 UID:MLS-MAT-0009EZ
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Portland Timbers 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

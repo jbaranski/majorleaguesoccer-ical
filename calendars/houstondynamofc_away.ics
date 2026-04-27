@@ -39,12 +39,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 0 - Houston Dynamo FC 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Houston Dynamo FC
+SUMMARY:Austin FC* vs. Houston Dynamo FC
 DTSTART:20260426T003000Z
 DTEND:20260426T023000Z
 DTSTAMP:20260426T003000Z
 UID:MLS-MAT-0009EQ
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

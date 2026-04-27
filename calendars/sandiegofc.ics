@@ -130,12 +130,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - San Diego FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Portland Timbers
+SUMMARY:San Diego FC vs. Portland Timbers*
 DTSTART:20260426T013000Z
 DTEND:20260426T033000Z
 DTSTAMP:20260426T013000Z
 UID:MLS-MAT-0009EZ
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Portland Timbers 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

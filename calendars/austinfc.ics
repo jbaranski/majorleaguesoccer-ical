@@ -129,12 +129,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 5 - Austin FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Houston Dynamo FC
+SUMMARY:Austin FC* vs. Houston Dynamo FC
 DTSTART:20260426T003000Z
 DTEND:20260426T023000Z
 DTSTAMP:20260426T003000Z
 UID:MLS-MAT-0009EQ
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -93,12 +93,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Philadelphia Union 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Atlanta United
+SUMMARY:Toronto FC vs. Atlanta United*
 DTSTART:20260425T170000Z
 DTEND:20260425T190000Z
 DTSTAMP:20260425T170000Z
 UID:MLS-MAT-0009F2
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - Atlanta United 2
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

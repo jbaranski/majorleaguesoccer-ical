@@ -84,12 +84,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 4 - Red Bull New York 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. New York City FC
+SUMMARY:CF Montreal* vs. New York City FC
 DTSTART:20260425T183000Z
 DTEND:20260425T203000Z
 DTSTAMP:20260425T183000Z
 UID:MLS-MAT-0009EX
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - New York City FC 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

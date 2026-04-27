@@ -58,13 +58,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - Colorado Rapids 0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Colorado Rapids
+SUMMARY:Vancouver Whitecaps FC* vs. Colorado Rapids
 DTSTART:20260426T023000Z
 DTEND:20260426T043000Z
 DTSTAMP:20260426T023000Z
 UID:MLS-MAT-0009F3
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Colorado Ra
- pids
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Colorado Ra
+ pids 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
