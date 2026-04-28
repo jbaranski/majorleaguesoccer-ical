@@ -168,12 +168,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - LA Galaxy 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Real Salt Lake
+SUMMARY:LA Galaxy* vs. Real Salt Lake
 DTSTART:20260426T230000Z
 DTEND:20260427T010000Z
 DTSTAMP:20260426T230000Z
 UID:MLS-MAT-0009F4
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Real Salt Lake 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
