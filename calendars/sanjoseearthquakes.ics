@@ -149,12 +149,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - San Jose Earthqu
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United
+SUMMARY:San Jose Earthquakes* vs. Minnesota United
 DTSTART:20260429T020000Z
 DTEND:20260429T040000Z
 DTSTAMP:20260429T020000Z
 UID:MLS-MAT-000A8H
-DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Minnesota United
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 4 - Minnesota United 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

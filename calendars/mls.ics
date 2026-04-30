@@ -2640,21 +2640,21 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Real Salt Lake 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Atlanta United
+SUMMARY:Charlotte FC vs. Atlanta United*
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 DTSTAMP:20260428T230000Z
 UID:MLS-MAT-000A8D
-DESCRIPTION:U.S. Open Cup\n\nCharlotte FC vs. Atlanta United
+DESCRIPTION:U.S. Open Cup\n\nCharlotte FC 0 - Atlanta United 2
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Club Tigres
+SUMMARY:Nashville SC vs. Club Tigres*
 DTSTART:20260429T013000Z
 DTEND:20260429T033000Z
 DTSTAMP:20260429T013000Z
 UID:MLS-MAT-0009QS
-DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nNashville SC 0 - Club Tigres 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -2685,12 +2685,12 @@ DESCRIPTION:U.S. Open Cup\n\nRed Bull New York vs. New York City FC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United
+SUMMARY:San Jose Earthquakes* vs. Minnesota United
 DTSTART:20260429T020000Z
 DTEND:20260429T040000Z
 DTSTAMP:20260429T020000Z
 UID:MLS-MAT-000A8H
-DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes vs. Minnesota United
+DESCRIPTION:U.S. Open Cup\n\nSan Jose Earthquakes 4 - Minnesota United 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
