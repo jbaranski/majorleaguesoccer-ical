@@ -67,12 +67,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 5 - Sporting Kansas Ci
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. St. Louis City SC
+SUMMARY:Chicago Fire FC vs. St. Louis City SC*
 DTSTART:20260430T000000Z
 DTEND:20260430T020000Z
 DTSTAMP:20260430T000000Z
 UID:MLS-MAT-000A8E
-DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC 1 - St. Louis City SC 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

@@ -105,12 +105,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Louisville City FC
+SUMMARY:Houston Dynamo FC* vs. Louisville City FC
 DTSTART:20260430T000000Z
 DTEND:20260430T020000Z
 DTSTAMP:20260430T000000Z
 UID:MLS-MAT-000A8F
-DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. Louisville City FC
+DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC 2 - Louisville City FC 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -149,6 +149,15 @@ UID:MLS-MAT-0009GG
 DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Vancouver Whitec
  aps FC
 LOCATION:Shell Energy Stadium\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+DTSTAMP:20260520T160000Z
+UID:MLS-MAT-000A8K
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Houston Dynamo FC
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA Galaxy vs. Houston Dynamo FC

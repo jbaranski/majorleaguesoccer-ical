@@ -114,13 +114,13 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - Colorado Ra
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Colorado Springs Switchbacks
+SUMMARY:Colorado Rapids* vs. Colorado Springs Switchbacks
 DTSTART:20260430T010000Z
 DTEND:20260430T030000Z
 DTSTAMP:20260430T010000Z
 UID:MLS-MAT-000A8G
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. Colorado Springs Switchba
- cks
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 2 (penalties: 5) - Colorado S
+ prings Switchbacks 2 (penalties: 4)
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -158,6 +158,15 @@ DTSTAMP:20260517T013000Z
 UID:MLS-MAT-0009GN
 DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Colorado Rapids
 LOCATION:America First Field\, Sandy\, UT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+DTSTAMP:20260520T160000Z
+UID:MLS-MAT-000A8L
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. San Jose Earthquakes
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. FC Dallas

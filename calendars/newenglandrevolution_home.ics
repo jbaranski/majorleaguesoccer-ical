@@ -61,12 +61,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Columbus Cr
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Orlando City
+SUMMARY:New England Revolution vs. Orlando City*
 DTSTART:20260429T233000Z
 DTEND:20260430T013000Z
 DTSTAMP:20260429T233000Z
 UID:MLS-MAT-000A8A
-DESCRIPTION:U.S. Open Cup\n\nNew England Revolution vs. Orlando City
+DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 3 - Orlando City 4
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT

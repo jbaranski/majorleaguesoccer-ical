@@ -196,6 +196,15 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. FC Dallas
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+DTSTAMP:20260520T160000Z
+UID:MLS-MAT-000A8L
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. San Jose Earthquakes
+LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Portland Timbers vs. San Jose Earthquakes
 DTSTART:20260524T013000Z
 DTEND:20260524T033000Z

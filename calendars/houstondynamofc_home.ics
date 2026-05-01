@@ -68,12 +68,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - San Diego FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Louisville City FC
+SUMMARY:Houston Dynamo FC* vs. Louisville City FC
 DTSTART:20260430T000000Z
 DTEND:20260430T020000Z
 DTSTAMP:20260430T000000Z
 UID:MLS-MAT-000A8F
-DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC vs. Louisville City FC
+DESCRIPTION:U.S. Open Cup\n\nHouston Dynamo FC 2 - Louisville City FC 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

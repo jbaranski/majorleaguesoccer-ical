@@ -124,12 +124,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - San Jose Earthqu
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. St. Louis City SC
+SUMMARY:Chicago Fire FC vs. St. Louis City SC*
 DTSTART:20260430T000000Z
 DTEND:20260430T020000Z
 DTSTAMP:20260430T000000Z
 UID:MLS-MAT-000A8E
-DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nChicago Fire FC 1 - St. Louis City SC 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -167,6 +167,15 @@ DTSTAMP:20260516T233000Z
 UID:MLS-MAT-0009GF
 DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. St. Louis City SC
 LOCATION:Audi Field\, Washington D.C.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+DTSTAMP:20260520T160000Z
+UID:MLS-MAT-000A8K
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Houston Dynamo FC
+LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Austin FC
