@@ -176,12 +176,12 @@ DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Real Salt Lake
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Mazatlán FC
+SUMMARY:Real Salt Lake vs. Atlante FC
 DTSTART:20260809T020000Z
 DTEND:20260809T040000Z
 DTSTAMP:20260809T020000Z
 UID:MLS-MAT-000A3M
-DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Mazatlán FC
+DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Atlante FC
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

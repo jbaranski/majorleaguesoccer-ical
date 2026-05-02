@@ -247,12 +247,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Los Angeles
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Mazatlán FC
+SUMMARY:Vancouver Whitecaps FC vs. Atlante FC
 DTSTART:20260805T023000Z
 DTEND:20260805T043000Z
 DTSTAMP:20260805T023000Z
 UID:MLS-MAT-000A35
-DESCRIPTION:Leagues Cup\n\nVancouver Whitecaps FC vs. Mazatlán FC
+DESCRIPTION:Leagues Cup\n\nVancouver Whitecaps FC vs. Atlante FC
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
