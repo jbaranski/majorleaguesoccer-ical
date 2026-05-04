@@ -71,12 +71,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - San Jose Earthqu
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. San Jose Earthquakes
+SUMMARY:Toronto FC* vs. San Jose Earthquakes*
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
 DTSTAMP:20260502T170000Z
 UID:MLS-MAT-0009FH
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - San Jose Earthquakes 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

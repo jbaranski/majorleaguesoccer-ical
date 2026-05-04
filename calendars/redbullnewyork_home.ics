@@ -67,12 +67,12 @@ DESCRIPTION:U.S. Open Cup\n\nRed Bull New York 1 - New York City FC 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. FC Dallas
+SUMMARY:Red Bull New York vs. FC Dallas*
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009FD
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - FC Dallas 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

@@ -61,13 +61,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - San Jose Eart
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Seattle Sounders FC
+SUMMARY:Sporting Kansas City* vs. Seattle Sounders FC*
 DTSTART:20260502T183000Z
 DTEND:20260502T203000Z
 DTSTAMP:20260502T183000Z
 UID:MLS-MAT-0009F9
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Seattle Sound
- ers FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Seattle Sound
+ ers FC 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

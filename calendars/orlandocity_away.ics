@@ -74,12 +74,12 @@ DESCRIPTION:U.S. Open Cup\n\nNew England Revolution 3 - Orlando City 4
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Orlando City
+SUMMARY:Inter Miami CF vs. Orlando City*
 DTSTART:20260502T231500Z
 DTEND:20260503T011500Z
 DTSTAMP:20260502T231500Z
 UID:MLS-MAT-0009FB
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Orlando City 4
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

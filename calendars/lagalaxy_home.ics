@@ -103,12 +103,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Real Salt Lake 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Vancouver Whitecaps FC
+SUMMARY:LA Galaxy* vs. Vancouver Whitecaps FC*
 DTSTART:20260503T023000Z
 DTEND:20260503T043000Z
 DTSTAMP:20260503T023000Z
 UID:MLS-MAT-0009FA
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Vancouver Whitecaps FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

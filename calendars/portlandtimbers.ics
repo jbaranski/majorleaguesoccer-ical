@@ -125,12 +125,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 1 - Portland Timbers 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Portland Timbers
+SUMMARY:Real Salt Lake* vs. Portland Timbers
 DTSTART:20260502T204500Z
 DTEND:20260502T224500Z
 DTSTAMP:20260502T204500Z
 UID:MLS-MAT-0009FF
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - Portland Timbers 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

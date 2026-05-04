@@ -83,12 +83,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Nashville SC 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Nashville SC
+SUMMARY:Philadelphia Union* vs. Nashville SC*
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009FE
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Nashville SC 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

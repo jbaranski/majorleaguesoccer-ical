@@ -65,12 +65,12 @@ DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 4 - One Knoxville SC 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Minnesota United
+SUMMARY:Columbus Crew vs. Minnesota United*
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009F7
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Minnesota United 3
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

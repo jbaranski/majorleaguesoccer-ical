@@ -67,12 +67,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - New England Revolut
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. CF Montreal
+SUMMARY:Atlanta United* vs. CF Montreal
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009F5
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - CF Montreal 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

@@ -139,13 +139,13 @@ DESCRIPTION:U.S. Open Cup\n\nCharlotte FC 0 - Atlanta United 2
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Charlotte FC
+SUMMARY:New England Revolution* vs. Charlotte FC
 DTSTART:20260502T233000Z
 DTEND:20260503T013000Z
 DTSTAMP:20260502T233000Z
 UID:MLS-MAT-0009FC
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Charlotte F
- C
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Charlotte F
+ C 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

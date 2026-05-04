@@ -75,12 +75,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 4 - FC Cincinnati 4
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. FC Cincinnati
+SUMMARY:Chicago Fire FC vs. FC Cincinnati*
 DTSTART:20260503T003000Z
 DTEND:20260503T023000Z
 DTSTAMP:20260503T003000Z
 UID:MLS-MAT-0009F6
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - FC Cincinnati 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
