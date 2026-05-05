@@ -130,12 +130,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 3 - Orlando City 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. D.C. United
+SUMMARY:New York City FC vs. D.C. United*
 DTSTART:20260503T190000Z
 DTEND:20260503T210000Z
 DTSTAMP:20260503T190000Z
 UID:MLS-MAT-0009FJ
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - D.C. United 2
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT

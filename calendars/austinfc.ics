@@ -138,12 +138,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - Houston Dynamo FC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. St. Louis City SC
+SUMMARY:Austin FC* vs. St. Louis City SC
 DTSTART:20260503T213000Z
 DTEND:20260503T233000Z
 DTSTAMP:20260503T213000Z
 UID:MLS-MAT-0009FI
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - St. Louis City SC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
