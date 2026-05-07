@@ -111,12 +111,13 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - San Jose Earthquakes 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Atlético Ottawa
+SUMMARY:Toronto FC vs. Atlético Ottawa*
 DTSTART:20260505T233000Z
 DTEND:20260506T013000Z
 DTSTAMP:20260505T233000Z
 UID:MLS-MAT-000ABR
-DESCRIPTION:TELUS Canadian Championship\n\nToronto FC vs. Atlético Ottawa
+DESCRIPTION:TELUS Canadian Championship\n\nToronto FC 1 - Atlético Ottawa
+  3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

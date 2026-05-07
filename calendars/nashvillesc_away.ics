@@ -92,12 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 0 - Nashville SC 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Nashville SC
+SUMMARY:Club Tigres* vs. Nashville SC
 DTSTART:20260506T013000Z
 DTEND:20260506T033000Z
 DTSTAMP:20260506T013000Z
 UID:MLS-MAT-0009QU
-DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres vs. Nashville SC
+DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 1 - Nashville SC 0
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
