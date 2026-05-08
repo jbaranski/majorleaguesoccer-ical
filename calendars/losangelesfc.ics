@@ -188,12 +188,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Los Angeles FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Los Angeles FC
+SUMMARY:Toluca FC* vs. Los Angeles FC
 DTSTART:20260507T013000Z
 DTEND:20260507T033000Z
 DTSTAMP:20260507T013000Z
 UID:MLS-MAT-0009QT
-DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 4 - Los Angeles FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT

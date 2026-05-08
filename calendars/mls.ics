@@ -2888,22 +2888,22 @@ DESCRIPTION:CONCACAF Champions Cup\n\nClub Tigres 1 - Nashville SC 0
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Calgary Blizzard Soccer Club
+SUMMARY:CF Montreal* vs. Calgary Blizzard Soccer Club
 DTSTART:20260506T233000Z
 DTEND:20260507T013000Z
 DTSTAMP:20260506T233000Z
 UID:MLS-MAT-000ABN
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Calgary Blizzar
- d Soccer Club
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal 5 - Calgary Blizzar
+ d Soccer Club 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Los Angeles FC
+SUMMARY:Toluca FC* vs. Los Angeles FC
 DTSTART:20260507T013000Z
 DTEND:20260507T033000Z
 DTSTAMP:20260507T013000Z
 UID:MLS-MAT-0009QT
-DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. Los Angeles FC
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 4 - Los Angeles FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
