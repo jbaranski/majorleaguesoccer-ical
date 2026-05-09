@@ -193,7 +193,7 @@ DTEND:20260518T000000Z
 DTSTAMP:20260517T220000Z
 UID:MLS-MAT-0009GH
 DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Portland Timbers
-LOCATION:Nu Stadium\, Miami\, FL
+LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Philadelphia Union
@@ -202,7 +202,7 @@ DTEND:20260525T010000Z
 DTSTAMP:20260524T230000Z
 UID:MLS-MAT-0009H6
 DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Philadelphia Union
-LOCATION:Inter Miami CF Stadium\, Fort Lauderdale\, FL
+LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Chicago Fire FC
