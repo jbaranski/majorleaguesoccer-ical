@@ -2907,13 +2907,13 @@ DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 4 - Los Angeles FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Supra du Québec vs. Woodbridge Strikers Soccer Club
+SUMMARY:FC Supra du Québec* vs. Woodbridge Strikers Soccer Club
 DTSTART:20260508T230000Z
 DTEND:20260509T010000Z
 DTSTAMP:20260508T230000Z
 UID:MLS-MAT-000ABS
-DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec vs. Woodbri
- dge Strikers Soccer Club
+DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec 3 - Woodbri
+ dge Strikers Soccer Club 1
 LOCATION:Stade Boréale\, Laval\, QC
 END:VEVENT
 BEGIN:VEVENT
@@ -4486,13 +4486,13 @@ DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Forge FC vs. TBC Away
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABX
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. TBC Away
-LOCATION:TBC\, unknown
+DESCRIPTION:TELUS Canadian Championship\n\nForge FC vs. TBC Away
+LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlético Ottawa vs. TBC
@@ -4558,12 +4558,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. CF Montreal
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:TBC Home vs. Forge FC
 DTSTART:20260712T160000Z
 DTEND:20260712T180000Z
 DTSTAMP:20260712T160000Z
 UID:MLS-MAT-000ABY
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. TBC Away
+DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. Forge FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
