@@ -130,13 +130,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Charlotte F
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Philadelphia Union
+SUMMARY:New England Revolution* vs. Philadelphia Union
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FR
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Philadelphi
- a Union
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Philadelphi
+ a Union 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

@@ -93,12 +93,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Inter Miami CF 2
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Inter Miami CF
+SUMMARY:Toronto FC vs. Inter Miami CF*
 DTSTART:20260509T170000Z
 DTEND:20260509T190000Z
 DTSTAMP:20260509T170000Z
 UID:MLS-MAT-0009FV
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - Inter Miami CF 4
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

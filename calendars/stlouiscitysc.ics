@@ -142,12 +142,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 2 - St. Louis City SC 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. St. Louis City SC
+SUMMARY:Colorado Rapids vs. St. Louis City SC*
 DTSTART:20260510T013000Z
 DTEND:20260510T033000Z
 DTSTAMP:20260510T013000Z
 UID:MLS-MAT-0009FN
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - St. Louis City SC 
+ 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

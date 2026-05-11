@@ -84,12 +84,12 @@ DESCRIPTION:U.S. Open Cup\n\nCharlotte FC 0 - Atlanta United 2
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. FC Cincinnati
+SUMMARY:Charlotte FC* vs. FC Cincinnati*
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FL
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - FC Cincinnati 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

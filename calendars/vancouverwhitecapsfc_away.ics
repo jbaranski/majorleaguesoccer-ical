@@ -50,13 +50,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Vancouver Whitecaps FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
+SUMMARY:San Jose Earthquakes* vs. Vancouver Whitecaps FC*
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FT
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Vancouver Whi
- tecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Vancouver Whi
+ tecaps FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -89,12 +89,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC vs. Vancouver Whitecaps FC
-DTSTART:20260708T160000Z
-DTEND:20260708T180000Z
-DTSTAMP:20260708T160000Z
-UID:MLS-MAT-000ABT
-DESCRIPTION:TELUS Canadian Championship\n\nTBC vs. Vancouver Whitecaps FC
+SUMMARY:Cavalry FC vs. Vancouver Whitecaps FC
+DTSTART:20260712T160000Z
+DTEND:20260712T180000Z
+DTSTAMP:20260712T160000Z
+UID:MLS-MAT-000ABU
+DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC vs. Vancouver Whitec
+ aps FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT

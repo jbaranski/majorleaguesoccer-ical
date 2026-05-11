@@ -167,13 +167,13 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 1 - San Jose Earthquakes 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
+SUMMARY:San Jose Earthquakes* vs. Vancouver Whitecaps FC*
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FT
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Vancouver Whi
- tecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Vancouver Whi
+ tecaps FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

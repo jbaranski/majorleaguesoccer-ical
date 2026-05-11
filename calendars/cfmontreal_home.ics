@@ -48,12 +48,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal 5 - Calgary Blizzar
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Orlando City
+SUMMARY:CF Montreal* vs. Orlando City
 DTSTART:20260509T203000Z
 DTEND:20260509T223000Z
 DTSTAMP:20260509T203000Z
 UID:MLS-MAT-0009FP
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Orlando City 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
@@ -75,12 +75,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Chicago Fire FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. TBC Away
+SUMMARY:CF Montreal vs. Vancouver FC
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABV
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. TBC Away
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT

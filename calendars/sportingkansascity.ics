@@ -150,13 +150,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Seattle Sound
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Sporting Kansas City
+SUMMARY:Portland Timbers* vs. Sporting Kansas City
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FS
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Sporting Kansas C
- ity
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 6 - Sporting Kansas C
+ ity 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

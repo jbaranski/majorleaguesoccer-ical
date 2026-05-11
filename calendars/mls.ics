@@ -2917,132 +2917,134 @@ DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec 3 - Woodbri
 LOCATION:Stade Boréale\, Laval\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. LA Galaxy
+SUMMARY:Atlanta United vs. LA Galaxy*
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FK
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - LA Galaxy 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. FC Cincinnati
+SUMMARY:Charlotte FC* vs. FC Cincinnati*
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FL
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - FC Cincinnati 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Red Bull New York
+SUMMARY:Chicago Fire FC vs. Red Bull New York*
 DTSTART:20260509T183000Z
 DTEND:20260509T203000Z
 DTSTAMP:20260509T183000Z
 UID:MLS-MAT-0009FM
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Red Bull New York 
+ 3
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Orlando City
+SUMMARY:CF Montreal* vs. Orlando City
 DTSTART:20260509T203000Z
 DTEND:20260509T223000Z
 DTSTAMP:20260509T203000Z
 UID:MLS-MAT-0009FP
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Orlando City 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Philadelphia Union
+SUMMARY:New England Revolution* vs. Philadelphia Union
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FR
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Philadelphi
- a Union
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Philadelphi
+ a Union 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Inter Miami CF
+SUMMARY:Toronto FC vs. Inter Miami CF*
 DTSTART:20260509T170000Z
 DTEND:20260509T190000Z
 DTSTAMP:20260509T170000Z
 UID:MLS-MAT-0009FV
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - Inter Miami CF 4
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pacific FC vs. Cavalry FC
+SUMMARY:Pacific FC vs. Cavalry FC*
 DTSTART:20260509T230000Z
 DTEND:20260510T010000Z
 DTSTAMP:20260509T230000Z
 UID:MLS-MAT-000ABM
-DESCRIPTION:TELUS Canadian Championship\n\nPacific FC vs. Cavalry FC
+DESCRIPTION:TELUS Canadian Championship\n\nPacific FC 1 - Cavalry FC 3
 LOCATION:Starlight Stadium\, Langford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forge FC vs. HFX Wanderers FC
+SUMMARY:Forge FC* vs. HFX Wanderers FC
 DTSTART:20260509T200000Z
 DTEND:20260509T220000Z
 DTSTAMP:20260509T200000Z
 UID:MLS-MAT-000ABP
-DESCRIPTION:TELUS Canadian Championship\n\nForge FC vs. HFX Wanderers FC
+DESCRIPTION:TELUS Canadian Championship\n\nForge FC 4 - HFX Wanderers FC 0
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. St. Louis City SC
+SUMMARY:Colorado Rapids vs. St. Louis City SC*
 DTSTART:20260510T013000Z
 DTEND:20260510T033000Z
 DTSTAMP:20260510T013000Z
 UID:MLS-MAT-0009FN
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 0 - St. Louis City SC 
+ 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Real Salt Lake
+SUMMARY:FC Dallas* vs. Real Salt Lake
 DTSTART:20260510T003000Z
 DTEND:20260510T023000Z
 DTSTAMP:20260510T003000Z
 UID:MLS-MAT-0009FO
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Real Salt Lake 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. D.C. United
+SUMMARY:Nashville SC* vs. D.C. United*
 DTSTART:20260510T011500Z
 DTEND:20260510T031500Z
 DTSTAMP:20260510T011500Z
 UID:MLS-MAT-0009FQ
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - D.C. United 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Sporting Kansas City
+SUMMARY:Portland Timbers* vs. Sporting Kansas City
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FS
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Sporting Kansas C
- ity
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 6 - Sporting Kansas C
+ ity 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Vancouver Whitecaps FC
+SUMMARY:San Jose Earthquakes* vs. Vancouver Whitecaps FC*
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FT
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Vancouver Whi
- tecaps FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Vancouver Whi
+ tecaps FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. San Diego FC
+SUMMARY:Seattle Sounders FC* vs. San Diego FC*
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FU
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - San Diego FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -4468,39 +4470,41 @@ DESCRIPTION:FIFA World Cup\n\nTBC Home vs. TBC Away
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC vs. Vancouver Whitecaps FC
+SUMMARY:Vancouver Whitecaps FC vs. Cavalry FC
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABT
-DESCRIPTION:TELUS Canadian Championship\n\nTBC vs. Vancouver Whitecaps FC
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. Cava
+ lry FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. TBC Away
+SUMMARY:CF Montreal vs. Vancouver FC
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABV
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. TBC Away
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forge FC vs. TBC Away
+SUMMARY:Forge FC vs. CS Saint-Laurent
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABX
-DESCRIPTION:TELUS Canadian Championship\n\nForge FC vs. TBC Away
-LOCATION:Hamilton Stadium\, Hamilton\, ON
+DESCRIPTION:TELUS Canadian Championship\n\nForge FC vs. CS Saint-Laurent
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlético Ottawa vs. TBC
+SUMMARY:Atlético Ottawa vs. FC Supra du Québec
 DTSTART:20260708T160000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T160000Z
 UID:MLS-MAT-000ABZ
-DESCRIPTION:TELUS Canadian Championship\n\nAtlético Ottawa vs. TBC
+DESCRIPTION:TELUS Canadian Championship\n\nAtlético Ottawa vs. FC Supra d
+ u Québec
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -4540,39 +4544,41 @@ DESCRIPTION:FIFA World Cup\n\nTBC Home vs. TBC Away
 LOCATION:Kansas City Stadium\, Kansas City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. TBC
+SUMMARY:Cavalry FC vs. Vancouver Whitecaps FC
 DTSTART:20260712T160000Z
 DTEND:20260712T180000Z
 DTSTAMP:20260712T160000Z
 UID:MLS-MAT-000ABU
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. TBC
+DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC vs. Vancouver Whitec
+ aps FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. CF Montreal
+SUMMARY:Vancouver FC vs. CF Montreal
 DTSTART:20260712T160000Z
 DTEND:20260712T180000Z
 DTSTAMP:20260712T160000Z
 UID:MLS-MAT-000ABW
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. CF Montreal
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC vs. CF Montreal
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Forge FC
+SUMMARY:CS Saint-Laurent vs. Forge FC
 DTSTART:20260712T160000Z
 DTEND:20260712T180000Z
 DTSTAMP:20260712T160000Z
 UID:MLS-MAT-000ABY
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. Forge FC
+DESCRIPTION:TELUS Canadian Championship\n\nCS Saint-Laurent vs. Forge FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Atlético Ottawa
+SUMMARY:FC Supra du Québec vs. Atlético Ottawa
 DTSTART:20260712T160000Z
 DTEND:20260712T180000Z
 DTSTAMP:20260712T160000Z
 UID:MLS-MAT-000AC0
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. Atlético Ottawa
+DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec vs. Atléti
+ co Ottawa
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT

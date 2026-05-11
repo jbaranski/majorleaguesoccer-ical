@@ -140,12 +140,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Seattle Sound
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. San Diego FC
+SUMMARY:Seattle Sounders FC* vs. San Diego FC*
 DTSTART:20260510T023000Z
 DTEND:20260510T043000Z
 DTSTAMP:20260510T023000Z
 UID:MLS-MAT-0009FU
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - San Diego FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

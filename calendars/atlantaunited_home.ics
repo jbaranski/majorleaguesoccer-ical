@@ -76,12 +76,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - CF Montreal 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. LA Galaxy
+SUMMARY:Atlanta United vs. LA Galaxy*
 DTSTART:20260509T233000Z
 DTEND:20260510T013000Z
 DTSTAMP:20260509T233000Z
 UID:MLS-MAT-0009FK
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - LA Galaxy 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
