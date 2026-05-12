@@ -3048,49 +3048,50 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - San Diego FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Austin FC
+SUMMARY:Minnesota United* vs. Austin FC*
 DTSTART:20260510T230000Z
 DTEND:20260511T010000Z
 DTSTAMP:20260510T230000Z
 UID:MLS-MAT-0009FX
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Austin FC 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Columbus Crew
+SUMMARY:New York City FC* vs. Columbus Crew
 DTSTART:20260510T203000Z
 DTEND:20260510T223000Z
 DTSTAMP:20260510T203000Z
 UID:MLS-MAT-0009FY
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Columbus Crew 0
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver FC vs. Langley United
+SUMMARY:Vancouver FC* vs. Langley United
 DTSTART:20260510T220000Z
 DTEND:20260511T000000Z
 DTSTAMP:20260510T220000Z
 UID:MLS-MAT-000ABO
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC vs. Langley United
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC 2 - Langley United
+  0
 LOCATION:Willoughby Community Park\, Langley
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Toronto FC vs. CS Saint-Laurent
+SUMMARY:Inter Toronto FC vs. CS Saint-Laurent*
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
 DTSTAMP:20260510T190000Z
 UID:MLS-MAT-000ABQ
-DESCRIPTION:TELUS Canadian Championship\n\nInter Toronto FC vs. CS Saint-L
- aurent
+DESCRIPTION:TELUS Canadian Championship\n\nInter Toronto FC 0 - CS Saint-L
+ aurent 1
 LOCATION:York Lions Stadium\, Toronto
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Houston Dynamo FC
+SUMMARY:Los Angeles FC vs. Houston Dynamo FC*
 DTSTART:20260511T010000Z
 DTEND:20260511T030000Z
 DTSTAMP:20260511T010000Z
 UID:MLS-MAT-0009FW
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Houston Dynamo FC 4
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
