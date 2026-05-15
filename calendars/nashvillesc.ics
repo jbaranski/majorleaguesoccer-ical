@@ -183,13 +183,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - D.C. United 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Nashville SC
+SUMMARY:New England Revolution vs. Nashville SC*
 DTSTART:20260513T233000Z
 DTEND:20260514T013000Z
 DTSTAMP:20260513T233000Z
 UID:MLS-MAT-0009G6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Nashville S
- C
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Nashville S
+ C 3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

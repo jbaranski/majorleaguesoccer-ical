@@ -164,12 +164,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 2 - Philadelphi
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Philadelphia Union
+SUMMARY:Orlando City* vs. Philadelphia Union
 DTSTART:20260513T233000Z
 DTEND:20260514T013000Z
 DTSTAMP:20260513T233000Z
 UID:MLS-MAT-0009G8
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Philadelphia Union 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

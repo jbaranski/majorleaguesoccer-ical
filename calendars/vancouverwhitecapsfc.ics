@@ -160,12 +160,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Vancouver Whi
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Vancouver Whitecaps FC
+SUMMARY:FC Dallas vs. Vancouver Whitecaps FC*
 DTSTART:20260514T003000Z
 DTEND:20260514T023000Z
 DTSTAMP:20260514T003000Z
 UID:MLS-MAT-0009G1
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Vancouver Whitecaps FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

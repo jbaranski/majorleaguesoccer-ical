@@ -69,13 +69,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - San Diego FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. San Jose Earthquakes
+SUMMARY:Seattle Sounders FC* vs. San Jose Earthquakes
 DTSTART:20260514T013000Z
 DTEND:20260514T033000Z
 DTSTAMP:20260514T013000Z
 UID:MLS-MAT-0009GB
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. San Jose Earth
- quakes
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - San Jose Earth
+ quakes 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

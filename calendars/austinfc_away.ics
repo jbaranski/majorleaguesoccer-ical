@@ -83,12 +83,12 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Austin FC 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Austin FC
+SUMMARY:San Diego FC* vs. Austin FC
 DTSTART:20260514T013000Z
 DTEND:20260514T033000Z
 DTSTAMP:20260514T013000Z
 UID:MLS-MAT-0009GA
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

@@ -94,12 +94,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 4 - Los Angeles FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Los Angeles FC
+SUMMARY:St. Louis City SC* vs. Los Angeles FC
 DTSTART:20260514T003000Z
 DTEND:20260514T023000Z
 DTSTAMP:20260514T003000Z
 UID:MLS-MAT-0009GC
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Los Angeles FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
