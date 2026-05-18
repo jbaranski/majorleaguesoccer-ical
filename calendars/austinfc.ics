@@ -165,12 +165,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Sporting Kansas City
+SUMMARY:Austin FC vs. Sporting Kansas City*
 DTSTART:20260517T003000Z
 DTEND:20260517T023000Z
 DTSTAMP:20260517T003000Z
 UID:MLS-MAT-0009GD
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Sporting Kansas City 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -47,12 +47,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - FC Dallas 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. FC Dallas
+SUMMARY:San Jose Earthquakes vs. FC Dallas*
 DTSTART:20260517T023000Z
 DTEND:20260517T043000Z
 DTSTAMP:20260517T023000Z
 UID:MLS-MAT-0009GP
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - FC Dallas 3
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

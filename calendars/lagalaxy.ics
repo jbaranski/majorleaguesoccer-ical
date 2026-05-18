@@ -204,12 +204,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - LA Galaxy 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. LA Galaxy
+SUMMARY:Seattle Sounders FC vs. LA Galaxy*
 DTSTART:20260517T011500Z
 DTEND:20260517T031500Z
 DTSTAMP:20260517T011500Z
 UID:MLS-MAT-0009GQ
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 0 - LA Galaxy 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

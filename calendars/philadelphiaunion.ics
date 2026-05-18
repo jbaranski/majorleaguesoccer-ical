@@ -173,12 +173,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - Philadelphia Union 3
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Columbus Crew
+SUMMARY:Philadelphia Union* vs. Columbus Crew*
 DTSTART:20260516T233000Z
 DTEND:20260517T013000Z
 DTSTAMP:20260516T233000Z
 UID:MLS-MAT-0009GM
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Columbus Crew 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

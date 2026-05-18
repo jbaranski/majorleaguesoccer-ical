@@ -75,12 +75,12 @@ DESCRIPTION:U.S. Open Cup\n\nCharlotte FC 0 - Atlanta United 2
 LOCATION:Mecklenburg County Sportsplex\, Matthews\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlanta United
+SUMMARY:Orlando City* vs. Atlanta United*
 DTSTART:20260516T233000Z
 DTEND:20260517T013000Z
 DTSTAMP:20260516T233000Z
 UID:MLS-MAT-0009GL
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Atlanta United 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

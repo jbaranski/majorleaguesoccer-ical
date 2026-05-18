@@ -66,12 +66,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - Portland Timbers 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Chicago Fire FC
+SUMMARY:CF Montreal vs. Chicago Fire FC*
 DTSTART:20260516T203000Z
 DTEND:20260516T223000Z
 DTSTAMP:20260516T203000Z
 UID:MLS-MAT-0009GI
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Chicago Fire FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

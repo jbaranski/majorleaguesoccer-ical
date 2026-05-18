@@ -87,13 +87,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Colorado Rapids
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Vancouver Whitecaps FC
+SUMMARY:Houston Dynamo FC* vs. Vancouver Whitecaps FC
 DTSTART:20260517T003000Z
 DTEND:20260517T023000Z
 DTSTAMP:20260517T003000Z
 UID:MLS-MAT-0009GG
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Vancouver Whitec
- aps FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Vancouver Whitec
+ aps FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

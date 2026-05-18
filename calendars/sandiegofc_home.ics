@@ -92,12 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 5 - Austin FC 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. FC Cincinnati
+SUMMARY:San Diego FC* vs. FC Cincinnati*
 DTSTART:20260517T013000Z
 DTEND:20260517T033000Z
 DTSTAMP:20260517T013000Z
 UID:MLS-MAT-0009GO
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - FC Cincinnati 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

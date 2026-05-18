@@ -157,12 +157,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Chicago Fire FC 3
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. St. Louis City SC
+SUMMARY:D.C. United* vs. St. Louis City SC*
 DTSTART:20260516T233000Z
 DTEND:20260517T013000Z
 DTSTAMP:20260516T233000Z
 UID:MLS-MAT-0009GF
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - St. Louis City SC 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
