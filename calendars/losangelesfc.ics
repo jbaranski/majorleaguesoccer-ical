@@ -215,12 +215,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Los Angeles FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Los Angeles FC
+SUMMARY:Nashville SC* vs. Los Angeles FC
 DTSTART:20260518T000000Z
 DTEND:20260518T020000Z
 DTSTAMP:20260518T000000Z
 UID:MLS-MAT-0009GR
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Los Angeles FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
