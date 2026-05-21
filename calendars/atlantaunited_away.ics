@@ -84,12 +84,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Atlanta United 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlanta United
+SUMMARY:Orlando City* vs. Atlanta United
 DTSTART:20260519T233000Z
 DTEND:20260520T013000Z
 DTSTAMP:20260519T233000Z
 UID:MLS-MAT-000A8I
-DESCRIPTION:U.S. Open Cup\n\nOrlando City vs. Atlanta United
+DESCRIPTION:U.S. Open Cup\n\nOrlando City 4 - Atlanta United 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -77,12 +77,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Los Angeles FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+SUMMARY:St. Louis City SC* vs. Houston Dynamo FC
 DTSTART:20260520T000000Z
 DTEND:20260520T020000Z
 DTSTAMP:20260520T000000Z
 UID:MLS-MAT-000A8K
-DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Houston Dynamo FC
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC 2 (penalties: 4) - Houston 
+ Dynamo FC 2 (penalties: 2)
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -149,6 +150,15 @@ DTSTAMP:20260913T003000Z
 UID:MLS-MAT-0009LF
 DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Minnesota United
 LOCATION:Energizer Park\, St. Louis\, MO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Louis City SC vs. TBC Away
+DTSTART:20260916T160000Z
+DTEND:20260916T180000Z
+DTSTAMP:20260916T160000Z
+UID:MLS-MAT-000A8N
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. TBC Away
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Louis City SC vs. Toronto FC

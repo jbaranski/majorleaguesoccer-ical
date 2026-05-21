@@ -152,12 +152,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Vancouver Whitec
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+SUMMARY:St. Louis City SC* vs. Houston Dynamo FC
 DTSTART:20260520T000000Z
 DTEND:20260520T020000Z
 DTSTAMP:20260520T000000Z
 UID:MLS-MAT-000A8K
-DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Houston Dynamo FC
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC 2 (penalties: 4) - Houston 
+ Dynamo FC 2 (penalties: 2)
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

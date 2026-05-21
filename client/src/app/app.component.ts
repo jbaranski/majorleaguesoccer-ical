@@ -8,7 +8,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  readonly lastUpdated = '2026-05-19T02:56:01Z';
+  readonly lastUpdated = '2026-05-21T03:25:44Z';
   readonly teams = [
     'All Fixtures',
     'Atlanta United',

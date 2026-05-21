@@ -3361,12 +3361,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Los Angeles FC 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlanta United
+SUMMARY:Orlando City* vs. Atlanta United
 DTSTART:20260519T233000Z
 DTEND:20260520T013000Z
 DTSTAMP:20260519T233000Z
 UID:MLS-MAT-000A8I
-DESCRIPTION:U.S. Open Cup\n\nOrlando City vs. Atlanta United
+DESCRIPTION:U.S. Open Cup\n\nOrlando City 4 - Atlanta United 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -3379,12 +3379,13 @@ DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. New York City FC
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Houston Dynamo FC
+SUMMARY:St. Louis City SC* vs. Houston Dynamo FC
 DTSTART:20260520T000000Z
 DTEND:20260520T020000Z
 DTSTAMP:20260520T000000Z
 UID:MLS-MAT-000A8K
-DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. Houston Dynamo FC
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC 2 (penalties: 4) - Houston 
+ Dynamo FC 2 (penalties: 2)
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
@@ -6647,12 +6648,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Philadelphia Union
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Columbus Crew vs. Orlando City
 DTSTART:20260915T160000Z
 DTEND:20260915T180000Z
 DTSTAMP:20260915T160000Z
 UID:MLS-MAT-000A8M
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. Orlando City
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -6674,12 +6675,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:St. Louis City SC vs. TBC Away
 DTSTART:20260916T160000Z
 DTEND:20260916T180000Z
 DTSTAMP:20260916T160000Z
 UID:MLS-MAT-000A8N
-DESCRIPTION:U.S. Open Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:U.S. Open Cup\n\nSt. Louis City SC vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
