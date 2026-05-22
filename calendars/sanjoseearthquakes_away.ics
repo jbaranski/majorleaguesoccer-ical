@@ -90,12 +90,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - San Jose Earth
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+SUMMARY:Colorado Rapids* vs. San Jose Earthquakes
 DTSTART:20260521T020000Z
 DTEND:20260521T040000Z
 DTSTAMP:20260521T020000Z
 UID:MLS-MAT-000A8L
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. San Jose Earthquakes
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 2 - San Jose Earthquakes 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
