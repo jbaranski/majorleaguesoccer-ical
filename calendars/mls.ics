@@ -3444,12 +3444,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Austin FC
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico vs. Ghana
+SUMMARY:Mexico* vs. Ghana
 DTSTART:20260523T020000Z
 DTEND:20260523T040000Z
 DTSTAMP:20260523T020000Z
 UID:MLS-MAT-000A73
-DESCRIPTION:International Friendlies\n\nMexico vs. Ghana
+DESCRIPTION:International Friendlies\n\nMexico 2 - Ghana 0
 LOCATION:Estadio Cuauhtémoc\, Puebla
 END:VEVENT
 BEGIN:VEVENT
