@@ -75,12 +75,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - CF Montreal 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. CF Montreal
+SUMMARY:D.C. United* vs. CF Montreal*
 DTSTART:20260523T233000Z
 DTEND:20260524T013000Z
 DTSTAMP:20260523T233000Z
 UID:MLS-MAT-0009GW
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 4 - CF Montreal 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

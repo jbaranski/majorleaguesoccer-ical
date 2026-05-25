@@ -162,13 +162,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Portland Timbers 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Jose Earthquakes
+SUMMARY:Portland Timbers vs. San Jose Earthquakes*
 DTSTART:20260524T013000Z
 DTEND:20260524T033000Z
 DTSTAMP:20260524T013000Z
 UID:MLS-MAT-0009H1
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. San Jose Earthqua
- kes
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - San Jose Earthqua
+ kes 3
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

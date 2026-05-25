@@ -179,13 +179,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - Vancouver Whitec
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Vancouver Whitecaps FC
+SUMMARY:San Diego FC vs. Vancouver Whitecaps FC*
 DTSTART:20260524T013000Z
 DTEND:20260524T033000Z
 DTSTAMP:20260524T013000Z
 UID:MLS-MAT-0009H2
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Vancouver Whitecaps F
- C
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Vancouver Whitecaps F
+ C 4
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

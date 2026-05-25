@@ -86,12 +86,12 @@ DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 2 - San Jose Earthquakes 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. FC Dallas
+SUMMARY:Colorado Rapids vs. FC Dallas*
 DTSTART:20260524T013000Z
 DTEND:20260524T033000Z
 DTSTAMP:20260524T013000Z
 UID:MLS-MAT-0009GV
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - FC Dallas 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

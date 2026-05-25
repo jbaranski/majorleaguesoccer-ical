@@ -83,12 +83,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Inter Miami CF 5
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Orlando City
+SUMMARY:FC Cincinnati* vs. Orlando City
 DTSTART:20260523T233000Z
 DTEND:20260524T013000Z
 DTSTAMP:20260523T233000Z
 UID:MLS-MAT-0009GU
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 6 - Orlando City 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
