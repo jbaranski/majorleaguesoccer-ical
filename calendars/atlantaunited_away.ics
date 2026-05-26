@@ -93,12 +93,12 @@ DESCRIPTION:U.S. Open Cup\n\nOrlando City 4 - Atlanta United 1
 LOCATION:Inter&Co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Atlanta United
+SUMMARY:Columbus Crew* vs. Atlanta United
 DTSTART:20260524T210000Z
 DTEND:20260524T230000Z
 DTSTAMP:20260524T210000Z
 UID:MLS-MAT-0009H4
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Atlanta United 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

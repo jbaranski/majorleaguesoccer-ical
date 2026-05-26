@@ -3519,30 +3519,32 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Atlanta United
+SUMMARY:Columbus Crew* vs. Atlanta United
 DTSTART:20260524T210000Z
 DTEND:20260524T230000Z
 DTSTAMP:20260524T210000Z
 UID:MLS-MAT-0009H4
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Atlanta United 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Philadelphia Union
+SUMMARY:Inter Miami CF* vs. Philadelphia Union
 DTSTART:20260524T230000Z
 DTEND:20260525T010000Z
 DTSTAMP:20260524T230000Z
 UID:MLS-MAT-0009H6
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 6 - Philadelphia Union 
+ 4
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Seattle Sounders FC
+SUMMARY:Los Angeles FC* vs. Seattle Sounders FC
 DTSTART:20260525T011500Z
 DTEND:20260525T031500Z
 DTSTAMP:20260525T011500Z
 UID:MLS-MAT-0009H5
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Seattle Sounders FC
+  0
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -182,12 +182,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Columbus Crew 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Philadelphia Union
+SUMMARY:Inter Miami CF* vs. Philadelphia Union
 DTSTART:20260524T230000Z
 DTEND:20260525T010000Z
 DTSTAMP:20260524T230000Z
 UID:MLS-MAT-0009H6
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 6 - Philadelphia Union 
+ 4
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
