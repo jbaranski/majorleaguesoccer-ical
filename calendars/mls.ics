@@ -3548,12 +3548,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Seattle Sounders FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Club Tigres
+SUMMARY:Toluca FC* vs. Club Tigres
 DTSTART:20260531T000000Z
 DTEND:20260531T020000Z
 DTSTAMP:20260531T000000Z
 UID:MLS-MAT-0009QV
-DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC vs. Club Tigres
+DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 1 (penalties: 6) - Club Ti
+ gres 1 (penalties: 5)
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
@@ -3566,12 +3567,12 @@ DESCRIPTION:International Friendlies\n\nUnited States vs. Senegal
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mexico vs. Australia
+SUMMARY:Mexico* vs. Australia
 DTSTART:20260531T020000Z
 DTEND:20260531T040000Z
 DTSTAMP:20260531T020000Z
 UID:MLS-MAT-000A7K
-DESCRIPTION:International Friendlies\n\nMexico vs. Australia
+DESCRIPTION:International Friendlies\n\nMexico 1 - Australia 0
 LOCATION:Rose Bowl\, Pasadena\, CA
 END:VEVENT
 BEGIN:VEVENT
