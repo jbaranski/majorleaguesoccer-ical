@@ -3576,12 +3576,12 @@ DESCRIPTION:International Friendlies\n\nMexico 1 - Australia 0
 LOCATION:Rose Bowl\, Pasadena\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Uzbekistan
+SUMMARY:Canada* vs. Uzbekistan
 DTSTART:20260602T010000Z
 DTEND:20260602T030000Z
 DTSTAMP:20260602T010000Z
 UID:MLS-MAT-000A72
-DESCRIPTION:International Friendlies\n\nCanada vs. Uzbekistan
+DESCRIPTION:International Friendlies\n\nCanada 2 - Uzbekistan 0
 LOCATION:Commonwealth Stadium\, Edmonton\, AB
 END:VEVENT
 BEGIN:VEVENT
