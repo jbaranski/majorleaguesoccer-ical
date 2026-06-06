@@ -6,7 +6,7 @@ import { environment } from './environments/environment';
 
 posthog.init(environment.posthogKey, {
   api_host: environment.posthogHost,
-  defaults: '2026-01-30',
+  defaults: '2026-05-30',
 });
 
 bootstrapApplication(AppComponent, appConfig).catch((err) => console.error(err));
