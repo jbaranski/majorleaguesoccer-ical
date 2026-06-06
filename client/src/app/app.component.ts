@@ -1,5 +1,6 @@
-import { Component, signal } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { PosthogService } from './services/posthog.service';
 
 @Component({
   selector: 'app-root',
@@ -8,6 +9,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
+  private readonly posthog = inject(PosthogService);
   readonly lastUpdated = '2026-06-06T02:52:34Z';
   readonly teams = [
     'All Fixtures',
