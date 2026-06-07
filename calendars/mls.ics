@@ -3594,12 +3594,12 @@ DESCRIPTION:International Friendlies\n\nMexico 5 - Serbia 1
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Ireland
+SUMMARY:Canada* vs. Ireland*
 DTSTART:20260605T233000Z
 DTEND:20260606T013000Z
 DTSTAMP:20260605T233000Z
 UID:MLS-MAT-000ACE
-DESCRIPTION:International Friendlies\n\nCanada vs. Ireland
+DESCRIPTION:International Friendlies\n\nCanada 1 - Ireland 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
