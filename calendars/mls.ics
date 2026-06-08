@@ -3603,12 +3603,12 @@ DESCRIPTION:International Friendlies\n\nCanada 1 - Ireland 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United States vs. Germany
+SUMMARY:United States vs. Germany*
 DTSTART:20260606T183000Z
 DTEND:20260606T203000Z
 DTSTAMP:20260606T183000Z
 UID:MLS-MAT-000A6Z
-DESCRIPTION:International Friendlies\n\nUnited States vs. Germany
+DESCRIPTION:International Friendlies\n\nUnited States 1 - Germany 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
