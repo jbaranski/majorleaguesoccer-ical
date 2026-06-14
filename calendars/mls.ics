@@ -3630,21 +3630,21 @@ DESCRIPTION:FIFA World Cup\n\nSouth Korea 2 - Czech Republic 1
 LOCATION:Guadalajara Stadium\, Guadalajara
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Bosnia and Herzegovina
+SUMMARY:Canada* vs. Bosnia and Herzegovina*
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 DTSTAMP:20260612T190000Z
 UID:MLS-MAT-000A8R
-DESCRIPTION:FIFA World Cup\n\nCanada vs. Bosnia and Herzegovina
+DESCRIPTION:FIFA World Cup\n\nCanada 1 - Bosnia and Herzegovina 1
 LOCATION:Toronto Stadium\, Toronto
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United States vs. Paraguay
+SUMMARY:United States* vs. Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 DTSTAMP:20260613T010000Z
 UID:MLS-MAT-000A8S
-DESCRIPTION:FIFA World Cup\n\nUnited States vs. Paraguay
+DESCRIPTION:FIFA World Cup\n\nUnited States 4 - Paraguay 1
 LOCATION:Los Angeles Stadium\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
