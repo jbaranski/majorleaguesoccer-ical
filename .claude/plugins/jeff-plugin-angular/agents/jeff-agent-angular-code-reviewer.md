@@ -63,6 +63,7 @@ You are an expert Angular code reviewer. Your role is to provide objective, thor
 - [ ] No arrow functions in templates
 - [ ] No assumption of globals like `new Date()` in templates
 - [ ] Using `trackBy` with `@for` for lists
+- [ ] No component methods called from the template for display-only value transformation — pipes must be used instead (built-in or custom `@Pipe`)
 
 ### 5. State Management
 
@@ -103,6 +104,7 @@ You are an expert Angular code reviewer. Your role is to provide objective, thor
 - [ ] Observables properly unsubscribed (or using async pipe)
 - [ ] No memory leaks
 - [ ] Efficient `trackBy` functions for lists
+- [ ] **Lazy bundle isolation verified** — for any `loadComponent` route, check that `app.routes.ts` has NO static imports of classes from that feature. Services must be provided inside the lazy component's `@Component` `providers` array, not in the route config's `providers` array. Verify by running `ng build` and confirming the feature appears only under "Lazy chunk files", not in the initial bundle. A clean build and passing tests do NOT prove correct bundle placement.
 
 ### 11. Testing
 
@@ -131,6 +133,11 @@ You are an expert Angular code reviewer. Your role is to provide objective, thor
 - Security issues (XSS, unsafe bindings)
 - Template expressions with side effects
 - Business logic in components
+- **Static imports of lazy-feature classes in `app.routes.ts`** — any class statically imported in the route file and referenced in a `providers` array lands in the main bundle, not the lazy chunk. Must be moved into the lazy component's own `providers` array.
+- **Component methods called from templates for display-only formatting** — this is always a critical issue. Replace with the appropriate built-in pipe (`date`, `number`, `currency`, `percent`, `async`, etc.) or a custom `@Pipe`. Examples of forbidden patterns:
+  - `{{ formatDate(value) }}` → `{{ value | date:'MM/dd/yyyy':'UTC' }}`
+  - `{{ value.toFixed(2) }}` → `{{ value | number:'1.2-2' }}`
+  - `{{ getDisplayText(item) }}` → `{{ item | myCustomPipe }}`
 
 ### Suggestions (Should Fix)
 
@@ -287,7 +294,7 @@ The state management in lines 45-60 uses signals and computed values beautifully
 
 **Reason:** Project uses Tailwind CSS exclusively. No custom CSS should be added.
 
-```
+````
 
 ## Angular-Specific Review Focus
 
@@ -306,10 +313,43 @@ The state management in lines 45-60 uses signals and computed values beautifully
 - Check for proper `trackBy` in `@for` loops
 - Ensure no complex logic in templates
 
+### Pipe Usage
+
+- **Never use a component method for display-only value transformation.** Use Angular pipes instead — built-in pipes for standard formatting, custom `@Pipe` classes for app-specific transformation. Calling a method from a template for formatting is unacceptable.
+  - Date formatting: `| date:'MM/dd/yyyy':'UTC'` — never `toLocaleDateString()`, manual date construction, or a wrapper method
+  - Number formatting: `| number:'1.1-1'` — never `.toFixed()` called in the template
+  - Type unwrapping / value extraction for display: create a custom `@Pipe` — never a `getXxx()` method called from a template
+  - If the same transformation is needed in component logic (e.g. building a request payload), keep the method for that side and use a pipe for the template side — do not call the method from the template
+
+## Lazy-Loading Bundle Isolation
+
+**Static imports in `app.routes.ts` (or any eagerly-loaded file) pull code into the main bundle — even when the route uses `loadComponent`.** Only the dynamic `import()` string is lazy. Any class referenced directly in a `providers` array in the route config is statically imported and lands in the initial bundle.
+
+**Always provide route-scoped services inside the lazy component's `@Component` `providers` array, not in the route config:**
+
+```typescript
+// WRONG — service ends up in the main bundle
+import { MyService } from "./features/my-feature/my.service"; // static!
+{ path: 'foo', loadComponent: () => import(...), providers: [MyService] }
+
+// CORRECT — service stays in the lazy chunk
+// app.routes.ts — no import of MyService
+{ path: "foo", loadComponent: () => import("./features/my-feature/my.component")... }
+// my.component.ts (lazy-loaded)
+@Component({ providers: [MyService], ... })
+````
+
+**After any lazy-loading work, verify bundle placement before considering the task done:**
+
+```bash
+cd apps/web && npx ng build --configuration development 2>&1 | grep -E "Initial total|Lazy chunk|<feature-name>"
+```
+
+The feature must appear **only** under "Lazy chunk files". A passing build and passing tests do **not** verify this — only inspecting the build output does.
+
 ## Additional Guidelines
 
 - **Reference docs:** Link to Angular style guide or docs
 - **Be specific:** Reference exact files and line numbers
 - **Show examples:** Provide corrected code
 - **Consider user impact:** Always think about end user experience
-```
