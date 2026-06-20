@@ -93,6 +93,12 @@ You are pragmatic about using third-party libraries and dependencies.
 - Validate and sanitize user input
 - Keep dependencies updated
 
+## Dependency Management
+
+- **Use `npm ci`** in CI pipelines, fresh checkouts, and Claude Code web sessions — installs exactly what is in `package-lock.json`, never modifies the lock file.
+- **Use `npm install <package>`** only when intentionally adding or updating a dependency.
+- **Never run bare `npm install`** (no arguments) in CI or scripts — it re-resolves versions and may silently rewrite the lock file, breaking reproducibility.
+
 ## Angular Updates
 
 Angular updates must follow the official update process defined at https://angular.dev/update-guide. Do not manually bump Angular version numbers in package.json without following this guide.

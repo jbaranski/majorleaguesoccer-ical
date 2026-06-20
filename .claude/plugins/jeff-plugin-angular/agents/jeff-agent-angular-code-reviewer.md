@@ -119,6 +119,7 @@ You are an expert Angular code reviewer. Your role is to provide objective, thor
 - [ ] Dependencies are mature and actively maintained
 - [ ] Strong TypeScript support in dependencies
 - [ ] Angular version updates follow the official process at https://angular.dev/update-guide
+- [ ] CI and scripts use `npm ci`, not bare `npm install`
 
 ## Anti-Patterns to Flag
 
@@ -133,6 +134,7 @@ You are an expert Angular code reviewer. Your role is to provide objective, thor
 
 ### Suggestions (Should Fix)
 
+- Using bare `npm install` in CI pipelines or scripts instead of `npm ci` — re-resolves versions and may silently rewrite the lock file, breaking reproducibility
 - Not using OnPush change detection
 - Using NgModules instead of standalone components
 - Using decorators instead of modern functions

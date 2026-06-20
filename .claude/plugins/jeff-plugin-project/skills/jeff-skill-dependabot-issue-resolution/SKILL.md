@@ -11,7 +11,7 @@ passes its tests, and dropping any update that breaks the build.
 
 ```
 ## Setup
-- [ ] Listed every open Dependabot PR and its linked issue (if any)
+- [ ] Listed every open Dependabot PR and its linked issue (if any) — skipped closed/merged items and ignored non-Dependabot PRs/issues
 - [ ] Created branch chore/dependabot-batch-<date> off main
 
 ## Angular
@@ -57,7 +57,11 @@ passes its tests, and dropping any update that breaks the build.
 
 ## Setup
 
-1. Identify all open Dependabot PRs (and their associated issues, if any).
+1. Identify all open Dependabot PRs and their associated issues (if any).
+   - **Only consider PRs and issues that are currently open.** Do not revisit
+     closed issues or merged PRs — they are already resolved.
+   - **Only consider PRs and issues authored by Dependabot.** Ignore any open
+     PRs or issues created by other authors — they are out of scope for this skill.
 2. Create a new feature branch off `main` (e.g. `chore/dependabot-batch-<date>`).
    All consolidated changes go here — do not commit directly to `main`.
 3. Note that this repo may contain multiple independent sub-projects in
