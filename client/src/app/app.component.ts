@@ -41,11 +41,14 @@ export class AppComponent {
     'St. Louis City SC',
     'Toronto FC',
     'Vancouver Whitecaps FC'
-  ].map(name => name == 'All Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()])
-   .map(([name, urlName]) => ({ 
-    name,
-    url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${urlName}.ics`
-  }));
+  ]
+    .map((name) =>
+      name == 'All Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()]
+    )
+    .map(([name, urlName]) => ({
+      name,
+      url: `https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/${urlName}.ics`
+    }));
   copyToClipboardText = signal(Array(this.teams.length).fill('Copy to clipboard'));
 
   onCopyToClipboard(event: Event, teamUrl: string, i: number) {
