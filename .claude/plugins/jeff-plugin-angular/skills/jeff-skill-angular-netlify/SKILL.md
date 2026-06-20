@@ -154,6 +154,16 @@ jobs:
       - name: Test
         run: make test
 
+      - name: Commit netlify.toml if CSP hash was updated
+        working-directory: ${{ github.workspace }}
+        run: |
+          git diff --quiet <app-directory>/netlify.toml && exit 0
+          git config user.name "JEFF-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add <app-directory>/netlify.toml
+          git commit -m "chore: update PostHog CSP hash [skip ci]"
+          git push
+
       - name: Deploy
         run: make deploy
         env:
@@ -226,15 +236,10 @@ Add a headers block for `/*`. The `sha256-...` value covers the PostHog inline s
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-hashes' 'sha256-PLACEHOLDER' 'sha256-MhtPZXr7+LpJUY5qtMutB+qWfQtMaPccfe7QXtCcEYc=' <posthog-proxy-or-asset-domain>; connect-src 'self' <posthog-proxy-or-asset-domain>; img-src 'self' data:; style-src 'self' 'unsafe-inline';"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-hashes' 'sha256-PLACEHOLDER' 'sha256-MhtPZXr7+LpJUY5qtMutB+qWfQtMaPccfe7QXtCcEYc=' https://p.jeffsoftware.com; connect-src 'self' https://p.jeffsoftware.com; img-src 'self' data:; style-src 'self' 'unsafe-inline';"
 ```
 
-Replace `PLACEHOLDER` by running `npm run update-csp` (see below). Replace `<posthog-proxy-or-asset-domain>` with the PostHog domain used by this project:
-
-- **Custom proxy** (e.g. `https://p.jeffsoftware.com`): use that proxy URL
-- **PostHog cloud, US region**: `https://us-assets.i.posthog.com` in `script-src`; add `https://us.i.posthog.com` to `connect-src` as well
-
-**Critical:** the PostHog proxy/asset domain must appear in **both** `script-src` and `connect-src`. PostHog's inline init snippet (covered by the sha256 hash) dynamically fetches and injects `array.js` as a `<script>` element. That is a script load, governed by `script-src` -- `connect-src` alone only covers XHR/fetch and will not unblock the script. Omitting the domain from `script-src` results in a browser CSP violation that silently kills PostHog.
+Replace `PLACEHOLDER` by running `npm run update-csp` (see below). The PostHog custom proxy `https://p.jeffsoftware.com` must appear in both `script-src` and `connect-src` — PostHog's inline init snippet dynamically fetches and injects `array.js` as a `<script>` element, so `connect-src` alone will not unblock it.
 
 ### 3. Add `scripts/update-csp-hash.js`
 
@@ -300,7 +305,7 @@ If the repo's root `.gitignore` blocks `*.js`, add an exception in the Angular a
 
 ### 6. Add `.prettierignore` entries in the Angular app directory
 
-Create (or update) a `.prettierignore` file **inside the Angular app directory** (same level as `angular.json`), not only at the repo root. CI invokes prettier from the Angular app directory, and prettier resolves ignore patterns relative to the CWD where it is invoked -- patterns in a parent-directory `.prettierignore` are also resolved relative to that same CWD, so `scripts/update-csp-hash.js` in the repo-root `.prettierignore` resolves to `<app-dir>/scripts/update-csp-hash.js` correctly only when prettier runs from `<app-dir>`. To be explicit and safe, always put these entries in the app-directory `.prettierignore`:
+Create (or update) a `.prettierignore` file **inside the Angular app directory** (same level as `angular.json`), not only at the repo root. CI invokes prettier from the Angular app directory, and prettier resolves ignore patterns relative to the CWD where it is invoked — patterns in a parent-directory `.prettierignore` are also resolved relative to that same CWD, so always put these entries in the app-directory `.prettierignore` to be explicit and safe:
 
 ```
 # CommonJS require() in the CSP hash script may be flagged by prettier
