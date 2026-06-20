@@ -6,6 +6,7 @@ skills:
   - jeff-skill-install-prettier
   - jeff-skill-angular-project
   - jeff-skill-angular-aws-cognito
+  - jeff-skill-angular-netlify
   - jeff-skill-tailwind-design-system
   - jeff-skill-install-dependabot
 ---

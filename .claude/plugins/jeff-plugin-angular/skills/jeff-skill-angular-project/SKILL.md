@@ -38,14 +38,7 @@ Before proceeding:
 
      - `src/styles.css` should contain `@import "tailwindcss"`;
 
-5. Create a `netlify.toml` file in the root of the Angular project directory with the following content:
-
-   ```
-    [[redirects]]
-      from = "/*"
-      to = "/index.html"
-      status = 200
-   ```
+5. Set up Netlify deployment using the `jeff-skill-angular-netlify` skill.
 
 6. Create `.nvmrc` in the project root with the current Node LTS major version (visit https://nodejs.org/en and look for the "LTS" badge):
 
@@ -83,6 +76,7 @@ Before proceeding:
 
 - **jeff-skill-error-debugging-rca**: Use when debugging errors or test failures in Angular projects or related tools
 - **jeff-skill-angular-aws-cognito**: Integrate AWS Cognito authentication into the Angular app
+- **jeff-skill-angular-netlify**: Set up production Netlify deployment — full `netlify.toml` with caching headers, Makefile deploy target, and GitHub Actions CI/CD workflow
 - **jeff-skill-tailwind-design-system**: Apply Tailwind v4 design tokens, component patterns, and theming after initial project setup
 
 ## Additional resources
