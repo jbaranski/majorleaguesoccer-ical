@@ -3828,30 +3828,30 @@ DESCRIPTION:FIFA World Cup\n\nUzbekistan 1 - Colombia 3
 LOCATION:Mexico City Stadium\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Czech Republic vs. South Africa
+SUMMARY:Czech Republic* vs. South Africa*
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 DTSTAMP:20260618T160000Z
 UID:MLS-MAT-000A9D
-DESCRIPTION:FIFA World Cup\n\nCzech Republic vs. South Africa
+DESCRIPTION:FIFA World Cup\n\nCzech Republic 1 - South Africa 1
 LOCATION:Atlanta Stadium\, Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Switzerland vs. Bosnia and Herzegovina
+SUMMARY:Switzerland* vs. Bosnia and Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 DTSTAMP:20260618T190000Z
 UID:MLS-MAT-000A9E
-DESCRIPTION:FIFA World Cup\n\nSwitzerland vs. Bosnia and Herzegovina
+DESCRIPTION:FIFA World Cup\n\nSwitzerland 4 - Bosnia and Herzegovina 1
 LOCATION:Los Angeles Stadium\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Qatar
+SUMMARY:Canada* vs. Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 DTSTAMP:20260618T220000Z
 UID:MLS-MAT-000A9F
-DESCRIPTION:FIFA World Cup\n\nCanada vs. Qatar
+DESCRIPTION:FIFA World Cup\n\nCanada 6 - Qatar 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
