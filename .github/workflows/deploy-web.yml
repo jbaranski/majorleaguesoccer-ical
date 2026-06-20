@@ -12,7 +12,7 @@ concurrency:
 
 jobs:
   deploy:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push') }}
     name: Angular -- lint, test & deploy to Netlify
     runs-on: ubuntu-latest
     environment: prod # GitHub environment gate; secrets live here
