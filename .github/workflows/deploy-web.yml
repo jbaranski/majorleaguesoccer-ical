@@ -1,8 +1,9 @@
 name: deploy-web
 
 on:
-  push:
-    branches: [main]
+  workflow_run:
+    workflows: ["generate_calendar"]
+    types: [completed]
   workflow_dispatch: # also triggerable ad-hoc from the GitHub Actions UI
 
 concurrency:
@@ -11,6 +12,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push') }}
     name: Angular -- lint, test & deploy to Netlify
     runs-on: ubuntu-latest
     environment: prod # GitHub environment gate; secrets live here
