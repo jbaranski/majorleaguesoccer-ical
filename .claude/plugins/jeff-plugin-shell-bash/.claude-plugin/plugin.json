@@ -1,0 +1,8 @@
+{
+  "name": "jeff-plugin-shell-bash",
+  "description": "Agents and skills for shell/Bash scripting, automation, and CLI tool development.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jeff Baranski"
+  }
+}
