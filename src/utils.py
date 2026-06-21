@@ -1,18 +1,37 @@
 from datetime import datetime, timedelta
 from functools import cache
 
-COMPETITION_TRANSLATE = {
-
-}
+COMPETITION_TRANSLATE = {}
 
 TEAMS_FIX = {
-    'Los Angeles Football Club': 'Los Angeles FC',
-    'CF Montréal': 'CF Montreal',
-    'St. Louis CITY SC': 'St. Louis City SC',
-    'Minnesota United FC': 'Minnesota United',
-    'San Diego Football Club': 'San Diego FC',
-    'New York City Football Club': 'New York City FC'
+    "Los Angeles Football Club": "Los Angeles FC",
+    "CF Montréal": "CF Montreal",
+    "St. Louis CITY SC": "St. Louis City SC",
+    "Minnesota United FC": "Minnesota United",
+    "San Diego Football Club": "San Diego FC",
+    "New York City Football Club": "New York City FC",
 }
+
+COMPETITION_FILENAME_MAP = {
+    "FIFA World Cup": "worldcup",
+    "CONCACAF Gold Cup": "goldcup",
+    "CONCACAF Nations League": "concacafnationsleague",
+    "Copa America": "copamerica",
+}
+
+
+def get_competition_filename(competition_name: str) -> str:
+    """Return the output filename stem for a competition.
+
+    Args:
+        competition_name: The competition name to convert.
+
+    Returns:
+        A mapped filename stem, or a lowercased, space-stripped version of the name.
+    """
+    return COMPETITION_FILENAME_MAP.get(
+        competition_name, competition_name.replace(" ", "").lower()
+    )
 
 
 @cache
@@ -27,15 +46,23 @@ def get_end_datetime(start_time: datetime, delta_hours: int) -> datetime:
 
 @cache
 def get_competition_txt(input_str: str) -> str:
-    competition = COMPETITION_TRANSLATE[input_str] if input_str in COMPETITION_TRANSLATE else input_str
-    competition = competition.replace('Major League Soccer', 'MLS')
+    competition = (
+        COMPETITION_TRANSLATE[input_str]
+        if input_str in COMPETITION_TRANSLATE
+        else input_str
+    )
+    competition = competition.replace("Major League Soccer", "MLS")
     return competition
 
 
 @cache
 def get_correct_team_name(input_team_name: str) -> str:
-    correct_name = TEAMS_FIX[input_team_name] if input_team_name in TEAMS_FIX else (input_team_name or '')
-    return correct_name or '???'
+    correct_name = (
+        TEAMS_FIX[input_team_name]
+        if input_team_name in TEAMS_FIX
+        else (input_team_name or "")
+    )
+    return correct_name or "???"
 
 
 @cache
@@ -46,4 +73,4 @@ def get_correct_venue_name(name: str | None, city: str | None) -> str | None:
         return name
     if city and not name:
         return city
-    return '???'
+    return "???"
