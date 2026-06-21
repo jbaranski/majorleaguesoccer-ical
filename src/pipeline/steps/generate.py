@@ -69,7 +69,6 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
     else:
         # Tournament mode: per-team calendars from all tournament fixtures
         fixtures_map = defaultdict(list)
-        all_fixture_ids: set[str] = set()
 
         for fixture in ctx.fixtures:
             home_id = fixture.get("home_team_id")
@@ -78,9 +77,6 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 fixtures_map[home_id].append(fixture)
             if away_id in ctx.teams:
                 fixtures_map[away_id].append(fixture)
-            all_fixture_ids.add(
-                fixture.get("match_id", (home_id or "") + (away_id or ""))
-            )
 
         for t_id, team_fixtures in fixtures_map.items():
             team_name = get_correct_team_name(ctx.teams[t_id])

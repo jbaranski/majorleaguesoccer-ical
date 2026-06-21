@@ -1,5 +1,6 @@
 import logging
 import os
+from collections.abc import Callable
 
 from src.pipeline.context import CompetitionContext, CompetitionType
 from src.pipeline.steps.fetch_fixtures import fetch_fixtures
@@ -10,11 +11,11 @@ from src.providers.mls_stats_api import MLSStatsAPIProvider
 
 # Format: "season_id:season_year,season_id:season_year"
 SEASONS_RAW = os.getenv("SEASONS", "")
-SEASONS: list[tuple[str, str]] = [
+SEASONS: tuple[tuple[str, str], ...] = tuple(
     tuple(s.split(":"))
     for s in SEASONS_RAW.split(",")
     if s  # type: ignore[misc]
-]
+)
 
 LEAGUE = os.getenv("LEAGUE")
 OUTPUT_ROOT = os.getenv("OUTPUT_ROOT")
@@ -37,12 +38,20 @@ assert NUM_TEAMS_EXPECTED, "NUM_TEAMS_EXPECTED must be > 0"
 
 logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == "DEBUG" else logging.INFO)
 
+if not MLS_EXCLUDED_COMPETITIONS:
+    logging.warning(
+        "MLS_EXCLUDED_COMPETITIONS is empty — non-MLS competitions will not be excluded "
+        "from the league calendar. If this is unintentional, check that the GitHub Actions "
+        "repository variable has been renamed from EXCLUDED_COMPETITIONS to "
+        "MLS_EXCLUDED_COMPETITIONS."
+    )
+
 pipeline = [fetch_teams, fetch_fixtures, generate_calendars, write_calendars]
 
 
 def run_pipeline(
     ctx: CompetitionContext,
-    steps: list,
+    steps: list[Callable[[CompetitionContext], CompetitionContext]],
 ) -> CompetitionContext:
     """Run a sequence of pipeline steps, threading context through each.
 

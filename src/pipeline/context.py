@@ -20,7 +20,7 @@ class CompetitionContext:
     Attributes:
         competition_id: The competition identifier.
         competition_type: Whether this is a league or tournament.
-        seasons: A list of (season_id, season_year) tuples.
+        seasons: An immutable tuple of (season_id, season_year) tuples.
         excluded_competition_ids: Competition IDs to exclude from fixtures.
         output_root: Root directory for output files.
         provider: The data provider instance.
@@ -32,7 +32,7 @@ class CompetitionContext:
 
     competition_id: str
     competition_type: CompetitionType
-    seasons: list[tuple[str, str]]
+    seasons: tuple[tuple[str, str], ...]
     excluded_competition_ids: frozenset[str]
     output_root: str
     provider: DataProvider

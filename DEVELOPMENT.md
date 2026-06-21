@@ -164,10 +164,9 @@ pipenv requirements > requirements.txt
 ## Development Tips
 
 1. Use `LOG_LEVEL=DEBUG` to see detailed logging output
-2. The `calendars/` directory must exist before running (create it manually or update OUTPUT_ROOT)
-3. The application validates that all required environment variables are set before running
-4. Season standings must be available in the API before that season can be processed
-5. Always regenerate `requirements.txt` after updating dependencies in Pipfile
+2. The application validates that all required environment variables are set before running
+3. Season standings must be available in the API before that season can be processed
+4. Always regenerate `requirements.txt` after updating dependencies in Pipfile
 
 ## Troubleshooting
 
@@ -176,12 +175,6 @@ If you see `AssertionError`, check that all required environment variables are s
 - SEASONS
 - LEAGUE
 - OUTPUT_ROOT
-
-### Calendar directory doesn't exist
-Create the output directory:
-```bash
-mkdir -p calendars
-```
 
 ### Incorrect number of teams
 Adjust `NUM_TEAMS_EXPECTED` to match the actual number of teams in the league for your season. For the 2026 season no standings are available yet, so to determine all the MLS teams we have to call and fetch the 2025 standings. We will remove that once the 2026 seasons become available.

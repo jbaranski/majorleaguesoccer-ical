@@ -27,6 +27,10 @@ jobs:
           LEAGUE: ${{ vars.LEAGUE }}
           OUTPUT_ROOT: ${{ github.workspace }}
           NUM_TEAMS_EXPECTED: ${{ vars.NUM_TEAMS_EXPECTED }}
+          # IMPORTANT: This variable was renamed from EXCLUDED_COMPETITIONS to MLS_EXCLUDED_COMPETITIONS.
+          # If the GitHub Actions repository variable has not been renamed in the repo settings,
+          # MLS_EXCLUDED_COMPETITIONS will be empty and non-MLS competitions will silently flood
+          # the league calendar. Rename the variable in Settings → Variables → Actions before merging.
           MLS_EXCLUDED_COMPETITIONS: ${{ vars.MLS_EXCLUDED_COMPETITIONS }}
           TOURNAMENT_COMPETITIONS: ${{ vars.TOURNAMENT_COMPETITIONS }}
         run: |-
