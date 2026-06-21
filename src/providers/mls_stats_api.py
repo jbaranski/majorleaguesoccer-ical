@@ -12,18 +12,7 @@ class MLSStatsAPIProvider:
         competition_id: str,
         seasons: tuple[tuple[str, str], ...],
     ) -> dict[str, str]:
-        """Fetch teams from the MLS Stats API standings endpoint.
-
-        A 404 response for a season's standings is treated as a warning rather
-        than an error, since future seasons may not have standings yet.
-
-        Args:
-            competition_id: The competition identifier.
-            seasons: An immutable tuple of (season_id, season_year) tuples.
-
-        Returns:
-            A dict mapping team_id to team_name.
-        """
+        """Fetch teams from the MLS Stats API standings endpoint."""
         teams: dict[str, str] = {}
         for season_id, season_year in seasons:
             url = (
@@ -50,22 +39,7 @@ class MLSStatsAPIProvider:
         competition_id: str | None = None,
         excluded_competition_ids: frozenset[str] = frozenset(),
     ) -> list[dict]:
-        """Fetch fixtures from the MLS Stats API matches endpoint.
-
-        Supports two modes:
-        - Tournament mode: if competition_id is provided, only include fixtures
-          where fixture['competition_id'] == competition_id.
-        - League mode: exclude fixtures where fixture['competition_id'] is in
-          excluded_competition_ids.
-
-        Args:
-            seasons: An immutable tuple of (season_id, season_year) tuples.
-            competition_id: If provided, only include fixtures for this competition.
-            excluded_competition_ids: Competition IDs to exclude (league mode).
-
-        Returns:
-            A flat list of fixture dicts.
-        """
+        """Fetch fixtures from the MLS Stats API matches endpoint."""
         all_fixtures: list[dict] = []
         for season_id, season_year in seasons:
             logging.info(f"Processing season: {season_id} ({season_year})")

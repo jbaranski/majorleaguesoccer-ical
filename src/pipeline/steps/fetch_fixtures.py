@@ -5,18 +5,7 @@ from src.pipeline.context import CompetitionContext, CompetitionType
 
 
 def fetch_fixtures(ctx: CompetitionContext) -> CompetitionContext:
-    """Fetch fixtures for the competition and return an updated context.
-
-    For LEAGUE competitions, fetches all fixtures excluding the configured
-    excluded_competition_ids. For TOURNAMENT competitions, fetches only fixtures
-    belonging to the specific competition_id.
-
-    Args:
-        ctx: The current pipeline context.
-
-    Returns:
-        A new context with the fixtures field populated.
-    """
+    """Fetch fixtures for the competition and return an updated context."""
     if ctx.competition_type == CompetitionType.LEAGUE:
         fixtures = ctx.provider.get_fixtures(
             seasons=ctx.seasons,

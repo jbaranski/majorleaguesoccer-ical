@@ -57,9 +57,9 @@ The following environment variables are required to run the application:
   - `curl -X GET  https://stats-api.mlssoccer.com/competitions  | jq .` to see what they mean
   - Note: This was previously called `EXCLUDED_COMPETITIONS`
 
-- **TOURNAMENT_COMPETITIONS**: Comma-separated list of competition IDs for which separate tournament calendars should be generated
+- **INTERNATIONAL_COMPETITIONS**: Comma-separated list of competition IDs for which separate international calendars should be generated
   - Example: `MLS-COM-00002W,MLS-COM-00002Z,MLS-COM-000030,MLS-COM-000035`
-  - Each competition ID listed here will produce its own set of per-team `.ics` files plus a master tournament `.ics`
+  - Each competition ID listed here will produce its own set of per-team `.ics` files plus a master competition `.ics`
   - These competitions are also automatically excluded from the main league calendar
   - To find competition IDs: `curl -X GET https://stats-api.mlssoccer.com/competitions | jq .`
 
@@ -76,7 +76,7 @@ export OUTPUT_ROOT="."
 export LOG_LEVEL="DEBUG"
 export NUM_TEAMS_EXPECTED="30"
 export MLS_EXCLUDED_COMPETITIONS="MLS-COM-000003,MLS-COM-000004,MLS-COM-000005,MLS-COM-00002X,MLS-COM-00002R"
-export TOURNAMENT_COMPETITIONS="MLS-COM-00002W,MLS-COM-00002Z,MLS-COM-000030,MLS-COM-000035"
+export INTERNATIONAL_COMPETITIONS="MLS-COM-00002W,MLS-COM-00002Z,MLS-COM-000030,MLS-COM-000035"
 ```
 
 These will persist for your current shell session.
@@ -98,7 +98,7 @@ pipenv run python -m src.main
 ### With environment variables inline
 
 ```bash
-SEASONS="MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025" LEAGUE="MLS-COM-000001" OUTPUT_ROOT="." LOG_LEVEL="DEBUG" NUM_TEAMS_EXPECTED="30" MLS_EXCLUDED_COMPETITIONS="MLS-COM-000003,MLS-COM-000004,MLS-COM-000005,MLS-COM-00002X,MLS-COM-00002R" TOURNAMENT_COMPETITIONS="MLS-COM-00002W,MLS-COM-00002Z,MLS-COM-000030,MLS-COM-000035" python -m src.main
+SEASONS="MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025" LEAGUE="MLS-COM-000001" OUTPUT_ROOT="." LOG_LEVEL="DEBUG" NUM_TEAMS_EXPECTED="30" MLS_EXCLUDED_COMPETITIONS="MLS-COM-000003,MLS-COM-000004,MLS-COM-000005,MLS-COM-00002X,MLS-COM-00002R" INTERNATIONAL_COMPETITIONS="MLS-COM-00002W,MLS-COM-00002Z,MLS-COM-000030,MLS-COM-000035" python -m src.main
 ```
 
 ## Output
@@ -106,13 +106,13 @@ SEASONS="MLS-SEA-0001KA:2026,MLS-SEA-0001K9:2025" LEAGUE="MLS-COM-000001" OUTPUT
 The application will:
 
 1. Fetch team standings and fixtures from the MLS Stats API
-2. Generate iCalendar (.ics) files for each team and each configured tournament
+2. Generate iCalendar (.ics) files for each team and each configured international competition
 3. Save calendar files to `{OUTPUT_ROOT}/calendars/`
 4. League calendar files are named using the team name (lowercased, spaces/punctuation removed)
    - Example: `dcunited.ics`, `intermiamicf.ics`
    - Each team also gets `_home.ics` and `_away.ics` variants
    - A master `mls.ics` contains all league fixtures deduplicated
-5. Tournament calendar files are named using the team name plus a master file named by competition
+5. International calendar files are named using the team name plus a master file named by competition
    - Example: `goldcup.ics` for CONCACAF Gold Cup
 
 ## Architecture

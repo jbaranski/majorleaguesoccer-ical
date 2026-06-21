@@ -24,8 +24,8 @@ NUM_TEAMS_EXPECTED = int(os.getenv("NUM_TEAMS_EXPECTED", 30))
 MLS_EXCLUDED_COMPETITIONS: frozenset[str] = frozenset(
     os.getenv("MLS_EXCLUDED_COMPETITIONS", "").split(",")
 ) - {""}
-TOURNAMENT_COMPETITIONS: frozenset[str] = frozenset(
-    os.getenv("TOURNAMENT_COMPETITIONS", "").split(",")
+INTERNATIONAL_COMPETITIONS: frozenset[str] = frozenset(
+    os.getenv("INTERNATIONAL_COMPETITIONS", "").split(",")
 ) - {""}
 
 assert SEASONS, "SEASONS env var is required"
@@ -53,25 +53,17 @@ def run_pipeline(
     ctx: CompetitionContext,
     steps: list[Callable[[CompetitionContext], CompetitionContext]],
 ) -> CompetitionContext:
-    """Run a sequence of pipeline steps, threading context through each.
-
-    Args:
-        ctx: The initial competition context.
-        steps: Ordered list of step callables, each (ctx) -> ctx.
-
-    Returns:
-        The final context after all steps have run.
-    """
+    """Thread context through each pipeline step in order."""
     for step in steps:
         ctx = step(ctx)
     return ctx
 
 
 def main() -> None:
-    """Entry point: build competition contexts and run the full pipeline for each."""
+    """Build competition contexts and run the full pipeline for each."""
     provider = MLSStatsAPIProvider()
-    # For the league, exclude both explicit exclusions and tournament competitions
-    all_excluded = MLS_EXCLUDED_COMPETITIONS | TOURNAMENT_COMPETITIONS
+    # For the league, exclude both explicit exclusions and international competitions
+    all_excluded = MLS_EXCLUDED_COMPETITIONS | INTERNATIONAL_COMPETITIONS
 
     competitions: list[CompetitionContext] = [
         CompetitionContext(
@@ -86,13 +78,13 @@ def main() -> None:
         *[
             CompetitionContext(
                 competition_id=t_id,
-                competition_type=CompetitionType.TOURNAMENT,
+                competition_type=CompetitionType.INTERNATIONAL,
                 seasons=SEASONS,
                 excluded_competition_ids=frozenset(),
                 output_root=OUTPUT_ROOT,
                 provider=provider,
             )
-            for t_id in TOURNAMENT_COMPETITIONS
+            for t_id in INTERNATIONAL_COMPETITIONS
         ],
     ]
 

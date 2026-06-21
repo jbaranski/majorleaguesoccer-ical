@@ -8,18 +8,7 @@ from src.utils import get_correct_team_name
 
 
 def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
-    """Generate calendar objects for each team and a master calendar.
-
-    For LEAGUE competitions, builds per-team calendars from fixtures filtered
-    to that team's matches. For TOURNAMENT competitions, builds per-team calendars
-    from all tournament fixtures. Also generates a master calendar with all fixtures.
-
-    Args:
-        ctx: The current pipeline context (teams and fixtures must be populated).
-
-    Returns:
-        A new context with the calendars field populated as a list of FootballCalendar.
-    """
+    """Generate per-team and master calendar objects."""
     season_years_str = ",".join([year for _, year in ctx.seasons])
     calendars: list[FootballCalendar] = []
 
@@ -54,7 +43,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
 
         # Master calendar with all deduplicated fixtures
         master_cal = FootballCalendar.to_football_calendar(
-            "MLS",
+            ctx.competition_id,
             season_years_str,
             FootballCalendarEvent.to_football_calendar_events(
                 list(all_fixtures.values())
@@ -63,11 +52,11 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
         calendars.append(master_cal)
         logging.info(
             f"Calendar generated: num_fixtures={len(all_fixtures)}, "
-            f"calendar=MLS, seasons={season_years_str}"
+            f"competition={ctx.competition_id}, seasons={season_years_str}"
         )
 
     else:
-        # Tournament mode: per-team calendars from all tournament fixtures
+        # International mode: per-team calendars from all competition fixtures
         fixtures_map = defaultdict(list)
 
         for fixture in ctx.fixtures:
@@ -87,12 +76,12 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
             )
             calendars.append(cal)
             logging.info(
-                f"Tournament calendar generated: num_fixtures={len(team_fixtures)}, "
+                f"International calendar generated: num_fixtures={len(team_fixtures)}, "
                 f"team={t_id}|{team_name}, seasons={season_years_str}, "
                 f"competition={ctx.competition_id}"
             )
 
-        # Master tournament calendar
+        # Master international calendar
         master_cal = FootballCalendar.to_football_calendar(
             ctx.competition_id,
             season_years_str,
@@ -100,7 +89,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
         )
         calendars.append(master_cal)
         logging.info(
-            f"Tournament master calendar generated: num_fixtures={len(ctx.fixtures)}, "
+            f"International master calendar generated: num_fixtures={len(ctx.fixtures)}, "
             f"competition={ctx.competition_id}, seasons={season_years_str}"
         )
 
