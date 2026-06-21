@@ -3891,12 +3891,12 @@ DESCRIPTION:FIFA World Cup\n\nBrazil 3 - Haiti 0
 LOCATION:Philadelphia Stadium\, Philadelphia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Turkey vs. Paraguay
+SUMMARY:Turkey vs. Paraguay*
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 DTSTAMP:20260620T030000Z
 UID:MLS-MAT-000A9K
-DESCRIPTION:FIFA World Cup\n\nTurkey vs. Paraguay
+DESCRIPTION:FIFA World Cup\n\nTurkey 0 - Paraguay 1
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
