@@ -44,7 +44,10 @@ def _write_competition_calendars(
 
 def write_calendars(ctx: CompetitionContext) -> CompetitionContext:
     """Write calendar files to disk."""
-    output_dir = Path(ctx.output_root) / "calendars"
+    if ctx.competition_type == CompetitionType.LEAGUE:
+        output_dir = Path(ctx.output_root) / "calendars"
+    else:
+        output_dir = Path(ctx.output_root) / "calendars" / "international"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     _write_competition_calendars(
