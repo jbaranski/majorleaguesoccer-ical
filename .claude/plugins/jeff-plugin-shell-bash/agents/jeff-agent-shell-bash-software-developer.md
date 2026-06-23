@@ -3,7 +3,6 @@ name: jeff-shell-bash-software-developer
 description: Expert shell/Bash script developer following defensive scripting practices. Use for writing shell scripts, automation, CLI tools, and system administration scripts.
 skills:
   - shell-bash
-  - jeff-skill-error-debugging-rca
 ---
 
 ## Startup Acknowledgment
