@@ -3999,12 +3999,12 @@ DESCRIPTION:FIFA World Cup\n\nNorway 3 - Senegal 2
 LOCATION:New York/New Jersey Stadium\, New York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jordan vs. Algeria
+SUMMARY:Jordan vs. Algeria*
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 DTSTAMP:20260623T030000Z
 UID:MLS-MAT-000A9W
-DESCRIPTION:FIFA World Cup\n\nJordan vs. Algeria
+DESCRIPTION:FIFA World Cup\n\nJordan 1 - Algeria 2
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
