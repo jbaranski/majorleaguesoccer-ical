@@ -6,7 +6,7 @@ lint:
 	npm run prettier:check
 
 test:
-	npx ng test --watch=false --browsers=ChromeHeadlessNoSandbox
+	xvfb-run --auto-servernum npx ng test --watch=false --browsers=chromium
 
 build:
 	npm run update-csp
