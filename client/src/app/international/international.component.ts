@@ -14,8 +14,9 @@ export class InternationalComponent {
   readonly lastUpdated = '2026-06-27T18:48:13Z';
   readonly competitions = [
     { name: 'World Cup', urlName: 'worldcup' },
-    { name: 'Tournament', urlName: 'tournament' },
-    { name: 'International Friendlies', urlName: 'internationalfriendlies' }
+    { name: 'Gold Cup', urlName: 'goldcup' },
+    { name: 'Copa América', urlName: 'copamerica' },
+    { name: 'CONCACAF Nations League', urlName: 'concacafnationsleague' }
   ].map(({ name, urlName }) => ({ name, url: `${BASE}/${urlName}.ics` }));
 
   readonly teams = [
