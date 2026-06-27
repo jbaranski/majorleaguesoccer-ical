@@ -29,7 +29,7 @@ COMPETITION_FILENAME_MAP = {
     "MLS-COM-00002Y": "fifaclubworldcup",  # FIFA Club World Cup
     "MLS-COM-00002Z": "concacafnationsleague",  # CONCACAF Nations League
     "MLS-COM-000030": "goldcup",  # Gold Cup
-    "MLS-COM-000032": "internationalfriendlies",  # International Friendlies
+    # "MLS-COM-000032": "internationalfriendlies",  # International Friendlies — no aggregated calendar, team-specific only
     "MLS-COM-000034": "mls",  # Preseason Friendlies
     "MLS-COM-000035": "worldcup",  # FIFA World Cup
 }
@@ -56,11 +56,9 @@ def team_filename(team_name: str) -> str:
     return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
 
 
-def competition_filename(competition_id: str) -> str:
-    """Return the output filename stem for a competition."""
-    if competition_id not in COMPETITION_FILENAME_MAP:
-        raise ValueError(f"Unknown competition_id: {competition_id!r}")
-    return COMPETITION_FILENAME_MAP[competition_id]
+def competition_filename(competition_id: str) -> str | None:
+    """Return the output filename stem for a competition, or None if no aggregated calendar should be generated."""
+    return COMPETITION_FILENAME_MAP.get(competition_id)
 
 
 @cache

@@ -83,7 +83,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
             )
 
         comp_file = competition_filename(ctx.competition_id)
-        if comp_file != "internationalfriendlies":
+        if comp_file is not None:
             master_cal = FootballCalendar.to_football_calendar(
                 comp_file,
                 season_years_str,
