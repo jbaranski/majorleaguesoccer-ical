@@ -14,20 +14,20 @@ TEAMS_FIX = {
 
 COMPETITION_FILENAME_MAP = {
     "MLS-COM-000001": "mls",  # Major League Soccer
-    "MLS-COM-000002": "mlscupplayoffs",  # MLS Cup Playoffs
-    "MLS-COM-000005": "mlsallstar",  # MLS All-Star Game
-    "MLS-COM-000006": "leaguescup",  # Leagues Cup
-    "MLS-COM-000007": "campeonescup",  # Campeones Cup
-    "MLS-COM-00000K": "concacafchampionscup",  # CONCACAF Champions Cup
-    "MLS-COM-00002S": "clubfriendlies",  # Club Friendly Matches
-    "MLS-COM-00002U": "usopencup",  # U.S. Open Cup
-    "MLS-COM-00002V": "canadianchampionship",  # Canadian Championship
+    "MLS-COM-000002": "mls",  # MLS Cup Playoffs
+    "MLS-COM-000005": "mls",  # MLS All-Star Game
+    "MLS-COM-000006": "mls",  # Leagues Cup
+    "MLS-COM-000007": "mls",  # Campeones Cup
+    "MLS-COM-00000K": "mls",  # CONCACAF Champions Cup
+    "MLS-COM-00002S": "mls",  # Club Friendly Matches
+    "MLS-COM-00002U": "mls",  # U.S. Open Cup
+    "MLS-COM-00002V": "mls",  # Canadian Championship
     "MLS-COM-00002W": "copamerica",  # Copa América
     "MLS-COM-00002Y": "fifaclubworldcup",  # FIFA Club World Cup
     "MLS-COM-00002Z": "concacafnationsleague",  # CONCACAF Nations League
     "MLS-COM-000030": "goldcup",  # Gold Cup
     "MLS-COM-000032": "internationalfriendlies",  # International Friendlies
-    "MLS-COM-000034": "preseasonfriendlies",  # Preseason Friendlies
+    "MLS-COM-000034": "mls",  # Preseason Friendlies
     "MLS-COM-000035": "worldcup",  # FIFA World Cup
 }
 
