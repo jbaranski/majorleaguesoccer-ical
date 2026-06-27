@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
 export class AppComponent {
   readonly lastUpdated = '2026-06-27T18:48:13Z';
   readonly teams = [
-    'All Fixtures',
+    'All MLS Fixtures',
     'Atlanta United',
     'Austin FC',
     'CF Montreal',
@@ -43,7 +43,7 @@ export class AppComponent {
     'Vancouver Whitecaps FC'
   ]
     .map((name) =>
-      name == 'All Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()]
+      name == 'All MLS Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()]
     )
     .map(([name, urlName]) => ({
       name,
