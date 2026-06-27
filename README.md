@@ -58,7 +58,7 @@ All competitions: league, cup, friendlies, etc...
 ### Can you access my email address or calendar data?
 No. We cannot and do not collect any information or calendar data when you subscribe to our iCalendar files.
 
-### Do you offer any other calendars/services?
+### Do you offer any other calendars or services?
 For World Cup and international team calendars see [https://mlscalendar.jeffsoftware.com/international](https://mlscalendar.jeffsoftware.com/international).
 
 For daily fixture lists delivered to your inbox every morning see [https://mlstoday.jeffsoftware.com](https://mlstoday.jeffsoftware.com).
