@@ -3,6 +3,7 @@ from datetime import datetime, timedelta, timezone
 from typing import List
 from icalendar import Calendar, Event
 from src.utils import (
+    get_competition_display_name,
     get_datetime_from_str,
     get_competition_txt,
     get_correct_team_name,
@@ -146,13 +147,18 @@ class FootballCalendar:
         if (not home and not away) and self.cal is not None:
             return self.cal
         team_name_modified = team_filename(self.team_name)
+        display_name = (
+            get_competition_display_name(self.team_name)
+            if self.is_competition_calendar
+            else self.team_name
+        )
         cal = Calendar()
         home_away_suffix = "_home" if home else "_away" if away else ""
         # https://en.wikipedia.org/wiki/ICalendar
-        cal.add("X-WR-CALNAME", f"{self.team_name}{home_away_suffix}")
+        cal.add("X-WR-CALNAME", f"{display_name}{home_away_suffix.replace('_', ' ')}")
         cal.add(
             "X-WR-CALDESC",
-            f"All {self.team_name}{home_away_suffix} fixtures for {self.seasons} season",
+            f"All {display_name}{home_away_suffix.replace('_', ' ')} fixtures for {self.seasons} season",
         )
         cal.add(
             "X-WR-RELCALID",

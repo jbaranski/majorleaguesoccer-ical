@@ -32,6 +32,22 @@ COMPETITION_FILENAME_MAP = {
 }
 
 
+COMPETITION_DISPLAY_NAMES: dict[str, str] = {
+    "mls": "Major League Soccer",
+    "copamerica": "Copa América",
+    "fifaclubworldcup": "FIFA Club World Cup",
+    "concacafnationsleague": "CONCACAF Nations League",
+    "goldcup": "Gold Cup",
+    "internationalfriendlies": "International Friendlies",
+    "worldcup": "FIFA World Cup",
+}
+
+
+def get_competition_display_name(slug: str) -> str:
+    """Return a human-readable competition name for a filename slug."""
+    return COMPETITION_DISPLAY_NAMES.get(slug, slug)
+
+
 def team_filename(team_name: str) -> str:
     """Return a filesystem-safe slug for a team name."""
     return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
