@@ -8,6 +8,7 @@ from src.utils import (
     get_correct_team_name,
     get_correct_venue_name,
     get_end_datetime,
+    team_filename,
 )
 
 
@@ -144,9 +145,7 @@ class FootballCalendar:
             return self.cal_away
         if (not home and not away) and self.cal is not None:
             return self.cal
-        team_name_modified = (
-            self.team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
-        )
+        team_name_modified = team_filename(self.team_name)
         cal = Calendar()
         home_away_suffix = "_home" if home else "_away" if away else ""
         # https://en.wikipedia.org/wiki/ICalendar
