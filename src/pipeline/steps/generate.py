@@ -24,9 +24,8 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 fixtures_map[home_id].append(fixture)
             if away_id in ctx.teams:
                 fixtures_map[away_id].append(fixture)
-            comp_file = competition_filename(fixture.get("competition_id", ""))
-            match_id = fixture.get("match_id", (home_id or "") + (away_id or ""))
-            comp_groups[comp_file][match_id] = fixture
+            comp_file = competition_filename(fixture["competition_id"])
+            comp_groups[comp_file][fixture["match_id"]] = fixture
 
         for t_id, team_fixtures in fixtures_map.items():
             team_name = get_correct_team_name(ctx.teams[t_id])
