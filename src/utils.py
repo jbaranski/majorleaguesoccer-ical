@@ -10,6 +10,9 @@ TEAMS_FIX = {
     "Minnesota United FC": "Minnesota United",
     "San Diego Football Club": "San Diego FC",
     "New York City Football Club": "New York City FC",
+
+    "Curaçao": "Curacao",
+    "Türkiye": "Turkiye"
 }
 
 COMPETITION_FILENAME_MAP = {
