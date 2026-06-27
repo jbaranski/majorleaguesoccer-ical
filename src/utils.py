@@ -13,22 +13,22 @@ TEAMS_FIX = {
 }
 
 COMPETITION_FILENAME_MAP = {
-    "MLS-COM-000001": "mls",
-    "MLS-COM-000002": "mlscupplayoffs",
-    "MLS-COM-000005": "mlsallstar",
-    "MLS-COM-000006": "leaguescup",
-    "MLS-COM-000007": "campeonescup",
-    "MLS-COM-00000K": "concacafchampionscup",
-    "MLS-COM-00002S": "clubfriendlies",
-    "MLS-COM-00002U": "usopencup",
-    "MLS-COM-00002V": "canadianchampionship",
-    "MLS-COM-00002W": "copamerica",
-    "MLS-COM-00002Y": "fifaclubworldcup",
-    "MLS-COM-00002Z": "concacafnationsleague",
-    "MLS-COM-000030": "goldcup",
-    "MLS-COM-000032": "internationalfriendlies",
-    "MLS-COM-000034": "preseasonfriendlies",
-    "MLS-COM-000035": "worldcup",
+    "MLS-COM-000001": "mls",  # Major League Soccer
+    "MLS-COM-000002": "mlscupplayoffs",  # MLS Cup Playoffs
+    "MLS-COM-000005": "mlsallstar",  # MLS All-Star Game
+    "MLS-COM-000006": "leaguescup",  # Leagues Cup
+    "MLS-COM-000007": "campeonescup",  # Campeones Cup
+    "MLS-COM-00000K": "concacafchampionscup",  # CONCACAF Champions Cup
+    "MLS-COM-00002S": "clubfriendlies",  # Club Friendly Matches
+    "MLS-COM-00002U": "usopencup",  # U.S. Open Cup
+    "MLS-COM-00002V": "canadianchampionship",  # Canadian Championship
+    "MLS-COM-00002W": "copamerica",  # Copa América
+    "MLS-COM-00002Y": "fifaclubworldcup",  # FIFA Club World Cup
+    "MLS-COM-00002Z": "concacafnationsleague",  # CONCACAF Nations League
+    "MLS-COM-000030": "goldcup",  # Gold Cup
+    "MLS-COM-000032": "internationalfriendlies",  # International Friendlies
+    "MLS-COM-000034": "preseasonfriendlies",  # Preseason Friendlies
+    "MLS-COM-000035": "worldcup",  # FIFA World Cup
 }
 
 
