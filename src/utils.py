@@ -21,6 +21,11 @@ COMPETITION_FILENAME_MAP = {
 }
 
 
+def team_filename(team_name: str) -> str:
+    """Return a filesystem-safe slug for a team name."""
+    return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
+
+
 def get_competition_filename(competition_id: str) -> str:
     """Return the output filename stem for a competition."""
     return COMPETITION_FILENAME_MAP.get(

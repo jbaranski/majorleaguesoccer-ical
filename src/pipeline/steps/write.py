@@ -3,11 +3,7 @@ from pathlib import Path
 
 from src.football_calendar import FootballCalendar
 from src.pipeline.context import CompetitionContext, CompetitionType
-from src.utils import get_competition_filename
-
-
-def _team_filename(team_name: str) -> str:
-    return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
+from src.utils import get_competition_filename, team_filename
 
 
 def _write_league_calendars(
@@ -23,7 +19,7 @@ def _write_league_calendars(
             master_path.write_bytes(cal.to_bytes(url_path))
             logging.info(f"Written master calendar: {master_path}")
         else:
-            stem = _team_filename(cal.team_name)
+            stem = team_filename(cal.team_name)
             url_path = f"calendars/{stem}"
             team_path = output_dir / f"{stem}.ics"
             team_path.write_bytes(cal.to_bytes(url_path))

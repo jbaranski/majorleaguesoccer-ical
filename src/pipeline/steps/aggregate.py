@@ -3,6 +3,7 @@ from pathlib import Path
 
 from src.football_calendar import FootballCalendar, FootballCalendarEvent
 from src.pipeline.context import CompetitionContext
+from src.utils import team_filename
 
 
 def aggregate_international_calendars(
@@ -12,11 +13,9 @@ def aggregate_international_calendars(
     if not contexts:
         return
 
-    seen_years: dict[str, None] = {}
-    for ctx in contexts:
-        for _, year in ctx.seasons:
-            seen_years[year] = None
-    seasons_str = ",".join(seen_years.keys())
+    seasons_str = ",".join(
+        dict.fromkeys(year for ctx in contexts for _, year in ctx.seasons)
+    )
 
     all_events: dict[str, FootballCalendarEvent] = {}
     events_by_country: dict[str, dict[str, FootballCalendarEvent]] = {}
@@ -36,7 +35,7 @@ def aggregate_international_calendars(
     countries_dir.mkdir(parents=True, exist_ok=True)
 
     for country_name, events_map in events_by_country.items():
-        slug = country_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
+        slug = team_filename(country_name)
         url_path = f"calendars/international/countries/{slug}"
         cal = FootballCalendar.to_football_calendar(
             country_name, seasons_str, list(events_map.values())
