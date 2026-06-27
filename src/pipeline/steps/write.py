@@ -7,54 +7,59 @@ from src.utils import get_competition_filename
 
 
 def _team_filename(team_name: str) -> str:
-    """Return the output filename stem for a team."""
     return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
 
 
-def _write_competition_calendars(
+def _write_league_calendars(
     calendars: list[FootballCalendar],
     output_dir: Path,
     competition_id: str,
-    include_home_away: bool,
 ) -> None:
-    """Write calendar files: per-team .ics plus a master competition .ics."""
     for cal in calendars:
         if cal.team_name == competition_id:
-            # Master calendar — use a friendly filename
             comp_filename = get_competition_filename(cal.team_name)
+            url_path = f"calendars/{comp_filename}"
             master_path = output_dir / f"{comp_filename}.ics"
-            master_path.write_bytes(cal.to_bytes())
+            master_path.write_bytes(cal.to_bytes(url_path))
             logging.info(f"Written master calendar: {master_path}")
         else:
             stem = _team_filename(cal.team_name)
+            url_path = f"calendars/{stem}"
             team_path = output_dir / f"{stem}.ics"
-            team_path.write_bytes(cal.to_bytes())
-            if include_home_away:
-                team_path_home = output_dir / f"{stem}_home.ics"
-                team_path_away = output_dir / f"{stem}_away.ics"
-                team_path_home.write_bytes(cal.to_bytes(home=True))
-                team_path_away.write_bytes(cal.to_bytes(away=True))
-                logging.info(
-                    f"Written calendars: path={team_path}, "
-                    f"home path={team_path_home}, away path={team_path_away}"
-                )
-            else:
-                logging.info(f"Written calendar: {team_path}")
+            team_path.write_bytes(cal.to_bytes(url_path))
+            team_path_home = output_dir / f"{stem}_home.ics"
+            team_path_away = output_dir / f"{stem}_away.ics"
+            team_path_home.write_bytes(cal.to_bytes(url_path, home=True))
+            team_path_away.write_bytes(cal.to_bytes(url_path, away=True))
+            logging.info(
+                f"Written calendars: path={team_path}, "
+                f"home path={team_path_home}, away path={team_path_away}"
+            )
+
+
+def _write_international_master(
+    calendars: list[FootballCalendar],
+    output_dir: Path,
+    competition_id: str,
+) -> None:
+    for cal in calendars:
+        if cal.team_name == competition_id:
+            comp_filename = get_competition_filename(cal.team_name)
+            url_path = f"calendars/international/{comp_filename}"
+            master_path = output_dir / f"{comp_filename}.ics"
+            master_path.write_bytes(cal.to_bytes(url_path))
+            logging.info(f"Written international master calendar: {master_path}")
 
 
 def write_calendars(ctx: CompetitionContext) -> CompetitionContext:
     """Write calendar files to disk."""
     if ctx.competition_type == CompetitionType.LEAGUE:
         output_dir = Path(ctx.output_root) / "calendars"
+        output_dir.mkdir(parents=True, exist_ok=True)
+        _write_league_calendars(ctx.calendars, output_dir, ctx.competition_id)
     else:
         output_dir = Path(ctx.output_root) / "calendars" / "international"
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    _write_competition_calendars(
-        ctx.calendars,
-        output_dir,
-        ctx.competition_id,
-        include_home_away=(ctx.competition_type == CompetitionType.LEAGUE),
-    )
+        output_dir.mkdir(parents=True, exist_ok=True)
+        _write_international_master(ctx.calendars, output_dir, ctx.competition_id)
 
     return ctx

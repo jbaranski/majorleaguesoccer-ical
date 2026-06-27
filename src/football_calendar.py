@@ -128,7 +128,7 @@ class FootballCalendar:
     ):
         return FootballCalendar(team_name=team_name, seasons=seasons, events=events)
 
-    def to_calendar(self, home=False, away=False) -> Calendar:
+    def to_calendar(self, url_path: str, home=False, away=False) -> Calendar:
         if home and self.cal_home is not None:
             return self.cal_home
         if away and self.cal_away is not None:
@@ -153,7 +153,7 @@ class FootballCalendar:
         cal.add("X-PUBLISHED-TTL", "PT6H")
         cal.add(
             "URL",
-            f"https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/{team_name_modified}{home_away_suffix}.ics",
+            f"https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/{url_path}{home_away_suffix}.ics",
         )
         cal.add("METHOD", "PUBLISH")
         cal.add("VERSION", "2.0")
@@ -174,16 +174,20 @@ class FootballCalendar:
             self.cal = cal
         return cal
 
-    def to_bytes(self, home=False, away=False) -> bytes:
+    def to_bytes(self, url_path: str, home=False, away=False) -> bytes:
         if home:
             if self.cal_bytes_home is None:
-                self.cal_bytes_home = self.to_calendar(home=True).to_ical(sorted=True)
+                self.cal_bytes_home = self.to_calendar(url_path, home=True).to_ical(
+                    sorted=True
+                )
             return self.cal_bytes_home
         elif away:
             if self.cal_bytes_away is None:
-                self.cal_bytes_away = self.to_calendar(away=True).to_ical(sorted=True)
+                self.cal_bytes_away = self.to_calendar(url_path, away=True).to_ical(
+                    sorted=True
+                )
             return self.cal_bytes_away
         else:
             if self.cal_bytes is None:
-                self.cal_bytes = self.to_calendar().to_ical(sorted=True)
+                self.cal_bytes = self.to_calendar(url_path).to_ical(sorted=True)
             return self.cal_bytes

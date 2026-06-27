@@ -3,6 +3,7 @@ import os
 from collections.abc import Callable
 
 from src.pipeline.context import CompetitionContext, CompetitionType
+from src.pipeline.steps.aggregate import aggregate_international_calendars
 from src.pipeline.steps.fetch_fixtures import fetch_fixtures
 from src.pipeline.steps.fetch_teams import fetch_teams
 from src.pipeline.steps.generate import generate_calendars
@@ -88,8 +89,11 @@ def main() -> None:
         ],
     ]
 
-    for ctx in competitions:
-        run_pipeline(ctx, pipeline)
+    final_contexts = [run_pipeline(ctx, pipeline) for ctx in competitions]
+    international_contexts = [
+        c for c in final_contexts if c.competition_type == CompetitionType.INTERNATIONAL
+    ]
+    aggregate_international_calendars(international_contexts, OUTPUT_ROOT)
 
 
 if __name__ == "__main__":
