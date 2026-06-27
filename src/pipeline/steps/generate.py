@@ -4,7 +4,7 @@ from collections import defaultdict
 
 from src.football_calendar import FootballCalendar, FootballCalendarEvent
 from src.pipeline.context import CompetitionContext, CompetitionType
-from src.utils import get_competition_filename, get_correct_team_name
+from src.utils import competition_filename, get_correct_team_name
 
 
 def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
@@ -24,7 +24,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 fixtures_map[home_id].append(fixture)
             if away_id in ctx.teams:
                 fixtures_map[away_id].append(fixture)
-            comp_file = get_competition_filename(fixture.get("competition_id", ""))
+            comp_file = competition_filename(fixture.get("competition_id", ""))
             match_id = fixture.get("match_id", (home_id or "") + (away_id or ""))
             comp_groups[comp_file][match_id] = fixture
 
@@ -49,6 +49,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 FootballCalendarEvent.to_football_calendar_events(
                     list(group_fixtures.values())
                 ),
+                is_competition_calendar=True,
             )
             calendars.append(master_cal)
             logging.info(
@@ -84,9 +85,10 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
 
         # Master international calendar
         master_cal = FootballCalendar.to_football_calendar(
-            ctx.competition_id,
+            competition_filename(ctx.competition_id),
             season_years_str,
             FootballCalendarEvent.to_football_calendar_events(ctx.fixtures),
+            is_competition_calendar=True,
         )
         calendars.append(master_cal)
         logging.info(

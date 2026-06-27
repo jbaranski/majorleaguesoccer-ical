@@ -107,6 +107,7 @@ class FootballCalendar:
     team_name: str
     seasons: str
     events: List[FootballCalendarEvent]
+    is_competition_calendar: bool = False
     cal: Calendar | None = field(init=False)
     cal_home: Calendar | None = field(init=False)
     cal_away: Calendar | None = field(init=False)
@@ -124,9 +125,17 @@ class FootballCalendar:
 
     @staticmethod
     def to_football_calendar(
-        team_name: str, seasons: str, events: List[FootballCalendarEvent]
+        team_name: str,
+        seasons: str,
+        events: List[FootballCalendarEvent],
+        is_competition_calendar: bool = False,
     ):
-        return FootballCalendar(team_name=team_name, seasons=seasons, events=events)
+        return FootballCalendar(
+            team_name=team_name,
+            seasons=seasons,
+            events=events,
+            is_competition_calendar=is_competition_calendar,
+        )
 
     def to_calendar(self, url_path: str, home=False, away=False) -> Calendar:
         if home and self.cal_home is not None:

@@ -37,11 +37,11 @@ def team_filename(team_name: str) -> str:
     return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
 
 
-def get_competition_filename(competition_id: str) -> str:
+def competition_filename(competition_id: str) -> str:
     """Return the output filename stem for a competition."""
-    return COMPETITION_FILENAME_MAP.get(
-        competition_id, competition_id.replace("-", "").lower()
-    )
+    if competition_id not in COMPETITION_FILENAME_MAP:
+        raise ValueError(f"Unknown competition_id: {competition_id!r}")
+    return COMPETITION_FILENAME_MAP[competition_id]
 
 
 @cache

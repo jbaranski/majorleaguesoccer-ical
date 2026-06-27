@@ -22,7 +22,7 @@ def aggregate_international_calendars(
 
     for ctx in contexts:
         for cal in ctx.calendars:
-            if cal.team_name == ctx.competition_id:
+            if cal.is_competition_calendar:
                 continue
             for event in cal.events:
                 all_events.setdefault(event.match_id, event)
