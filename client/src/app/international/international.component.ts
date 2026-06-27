@@ -1,7 +1,8 @@
 import { Component, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-const BASE = 'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/international';
+const BASE =
+  'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/international';
 
 @Component({
   selector: 'app-international',
@@ -79,9 +80,17 @@ export class InternationalComponent {
 
   private copyAndReset(url: string, i: number, sig: ReturnType<typeof signal<string[]>>) {
     navigator.clipboard.writeText(url);
-    sig.update((values) => { const v = [...values]; v[i] = 'Copied!'; return v; });
+    sig.update((values) => {
+      const v = [...values];
+      v[i] = 'Copied!';
+      return v;
+    });
     setTimeout(() => {
-      sig.update((values) => { const v = [...values]; v[i] = 'Copy to clipboard'; return v; });
+      sig.update((values) => {
+        const v = [...values];
+        v[i] = 'Copy to clipboard';
+        return v;
+      });
     }, 2500);
   }
 }
