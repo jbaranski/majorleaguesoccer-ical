@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All Austin FC_home fixtures for 2026 season
-X-WR-CALNAME:Austin FC_home
+X-WR-CALDESC:All Austin FC home fixtures for 2026 season
+X-WR-CALNAME:Austin FC home
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/austinfc_home.ics
 X-MICROSOFT-CALSCALE:GREGORIAN

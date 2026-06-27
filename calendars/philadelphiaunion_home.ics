@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All Philadelphia Union_home fixtures for 2026 season
-X-WR-CALNAME:Philadelphia Union_home
+X-WR-CALDESC:All Philadelphia Union home fixtures for 2026 season
+X-WR-CALNAME:Philadelphia Union home
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/philadelphiaunion_home.ics
 X-MICROSOFT-CALSCALE:GREGORIAN

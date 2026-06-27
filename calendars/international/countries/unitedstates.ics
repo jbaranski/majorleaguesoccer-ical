@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All United States fixtures for 2026 season
+X-WR-CALNAME:United States
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/international/countries/unitedstates.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-RELCALID:unitedstates-2026
+BEGIN:VEVENT
+SUMMARY:United States* vs. Paraguay
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+DTSTAMP:20260613T010000Z
+UID:MLS-MAT-000A8S
+DESCRIPTION:FIFA World Cup\n\nUnited States 4 - Paraguay 1
+LOCATION:Los Angeles Stadium\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United States* vs. Australia
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+DTSTAMP:20260619T190000Z
+UID:MLS-MAT-000A9H
+DESCRIPTION:FIFA World Cup\n\nUnited States 2 - Australia 0
+LOCATION:Seattle Stadium\, Seattle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turkiye* vs. United States
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+DTSTAMP:20260626T020000Z
+UID:MLS-MAT-000AAB
+DESCRIPTION:FIFA World Cup\n\nTurkiye 3 - United States 2
+LOCATION:Los Angeles Stadium\, Los Angeles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United States vs. Bosnia and Herzegovina
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+DTSTAMP:20260702T000000Z
+UID:MLS-MAT-000AAY
+DESCRIPTION:FIFA World Cup\n\nUnited States vs. Bosnia and Herzegovina
+LOCATION:San Francisco Bay Area Stadium\, San Francisco
+END:VEVENT
+END:VCALENDAR

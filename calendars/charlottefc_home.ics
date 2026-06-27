@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:mlscalendar.jeffsoftware.com
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:All Charlotte FC_home fixtures for 2026 season
-X-WR-CALNAME:Charlotte FC_home
+X-WR-CALDESC:All Charlotte FC home fixtures for 2026 season
+X-WR-CALNAME:Charlotte FC home
 URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
  s/heads/main/calendars/charlottefc_home.ics
 X-MICROSOFT-CALSCALE:GREGORIAN

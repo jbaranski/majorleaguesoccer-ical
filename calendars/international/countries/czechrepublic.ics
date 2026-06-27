@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:mlscalendar.jeffsoftware.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:All Czech Republic fixtures for 2026 season
+X-WR-CALNAME:Czech Republic
+URL:https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/ref
+ s/heads/main/calendars/international/countries/czechrepublic.ics
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT6H
+X-WR-RELCALID:czechrepublic-2026
+BEGIN:VEVENT
+SUMMARY:South Korea* vs. Czech Republic
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+DTSTAMP:20260612T020000Z
+UID:MLS-MAT-000A8Q
+DESCRIPTION:FIFA World Cup\n\nSouth Korea 2 - Czech Republic 1
+LOCATION:Guadalajara Stadium\, Guadalajara
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Republic* vs. South Africa*
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+DTSTAMP:20260618T160000Z
+UID:MLS-MAT-000A9D
+DESCRIPTION:FIFA World Cup\n\nCzech Republic 1 - South Africa 1
+LOCATION:Atlanta Stadium\, Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Czech Republic vs. Mexico*
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+DTSTAMP:20260625T010000Z
+UID:MLS-MAT-000AA5
+DESCRIPTION:FIFA World Cup\n\nCzech Republic 0 - Mexico 3
+LOCATION:Mexico City Stadium\, Mexico City
+END:VEVENT
+END:VCALENDAR
