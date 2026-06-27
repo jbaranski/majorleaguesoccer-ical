@@ -27,7 +27,7 @@ jobs:
           LEAGUE: ${{ vars.LEAGUE }}
           OUTPUT_ROOT: ${{ github.workspace }}
           NUM_TEAMS_EXPECTED: ${{ vars.NUM_TEAMS_EXPECTED }}
-          MLS_EXCLUDED_COMPETITIONS: ${{ vars.MLS_EXCLUDED_COMPETITIONS }}
+          LEAGUE_COMPETITIONS: ${{ vars.LEAGUE_COMPETITIONS }}
           INTERNATIONAL_COMPETITIONS: ${{ vars.INTERNATIONAL_COMPETITIONS }}
         run: |-
           cd $GITHUB_WORKSPACE

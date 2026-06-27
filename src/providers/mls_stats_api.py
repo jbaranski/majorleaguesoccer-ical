@@ -36,8 +36,7 @@ class MLSStatsAPIProvider:
     def get_fixtures(
         self,
         seasons: tuple[tuple[str, str], ...],
-        competition_id: str | None = None,
-        excluded_competition_ids: frozenset[str] = frozenset(),
+        included_competition_ids: frozenset[str],
     ) -> list[dict]:
         """Fetch fixtures from the MLS Stats API matches endpoint."""
         all_fixtures: list[dict] = []
@@ -59,13 +58,7 @@ class MLSStatsAPIProvider:
                 temp_fixtures = response.get("schedule", [])
 
                 for fixture in temp_fixtures:
-                    fixture_competition_id = fixture.get("competition_id")
-                    if competition_id is not None:
-                        # Tournament mode: only include fixtures for this competition
-                        if fixture_competition_id == competition_id:
-                            all_fixtures.append(fixture)
-                    elif fixture_competition_id not in excluded_competition_ids:
-                        # League mode: exclude specified competitions
+                    if fixture.get("competition_id") in included_competition_ids:
                         all_fixtures.append(fixture)
 
                 count += 1

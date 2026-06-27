@@ -13,6 +13,5 @@ class DataProvider(Protocol):
     def get_fixtures(
         self,
         seasons: tuple[tuple[str, str], ...],
-        competition_id: str | None = None,
-        excluded_competition_ids: frozenset[str] = frozenset(),
+        included_competition_ids: frozenset[str],
     ) -> list[dict]: ...

@@ -22,8 +22,8 @@ LEAGUE = os.getenv("LEAGUE")
 OUTPUT_ROOT = os.getenv("OUTPUT_ROOT")
 LOG_LEVEL = os.getenv("LOG_LEVEL")
 NUM_TEAMS_EXPECTED = int(os.getenv("NUM_TEAMS_EXPECTED", 30))
-MLS_EXCLUDED_COMPETITIONS: frozenset[str] = frozenset(
-    os.getenv("MLS_EXCLUDED_COMPETITIONS", "").split(",")
+LEAGUE_COMPETITIONS: frozenset[str] = frozenset(
+    os.getenv("LEAGUE_COMPETITIONS", "").split(",")
 ) - {""}
 INTERNATIONAL_COMPETITIONS: frozenset[str] = frozenset(
     os.getenv("INTERNATIONAL_COMPETITIONS", "").split(",")
@@ -39,13 +39,8 @@ assert NUM_TEAMS_EXPECTED, "NUM_TEAMS_EXPECTED must be > 0"
 
 logging.getLogger().setLevel(logging.DEBUG if LOG_LEVEL == "DEBUG" else logging.INFO)
 
-if not MLS_EXCLUDED_COMPETITIONS:
-    logging.warning(
-        "MLS_EXCLUDED_COMPETITIONS is empty — non-MLS competitions will not be excluded "
-        "from the league calendar. If this is unintentional, check that the GitHub Actions "
-        "repository variable has been renamed from EXCLUDED_COMPETITIONS to "
-        "MLS_EXCLUDED_COMPETITIONS."
-    )
+if not LEAGUE_COMPETITIONS:
+    logging.warning("LEAGUE_COMPETITIONS is empty — no league fixtures will be fetched")
 
 pipeline = [fetch_teams, fetch_fixtures, generate_calendars, write_calendars]
 
@@ -63,15 +58,13 @@ def run_pipeline(
 def main() -> None:
     """Build competition contexts and run the full pipeline for each."""
     provider = MLSStatsAPIProvider()
-    # For the league, exclude both explicit exclusions and international competitions
-    all_excluded = MLS_EXCLUDED_COMPETITIONS | INTERNATIONAL_COMPETITIONS
 
     competitions: list[CompetitionContext] = [
         CompetitionContext(
             competition_id=LEAGUE,
             competition_type=CompetitionType.LEAGUE,
             seasons=SEASONS,
-            excluded_competition_ids=all_excluded,
+            included_competition_ids=LEAGUE_COMPETITIONS,
             output_root=OUTPUT_ROOT,
             provider=provider,
             num_teams_expected=NUM_TEAMS_EXPECTED,
@@ -81,7 +74,7 @@ def main() -> None:
                 competition_id=t_id,
                 competition_type=CompetitionType.INTERNATIONAL,
                 seasons=SEASONS,
-                excluded_competition_ids=frozenset(),
+                included_competition_ids=frozenset(),
                 output_root=OUTPUT_ROOT,
                 provider=provider,
             )

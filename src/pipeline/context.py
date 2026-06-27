@@ -20,7 +20,7 @@ class CompetitionContext:
     competition_id: str
     competition_type: CompetitionType
     seasons: tuple[tuple[str, str], ...]
-    excluded_competition_ids: frozenset[str]
+    included_competition_ids: frozenset[str]
     output_root: str
     provider: DataProvider
     num_teams_expected: int | None = None
