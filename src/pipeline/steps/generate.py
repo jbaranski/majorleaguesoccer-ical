@@ -4,7 +4,7 @@ from collections import defaultdict
 
 from src.football_calendar import FootballCalendar, FootballCalendarEvent
 from src.pipeline.context import CompetitionContext, CompetitionType
-from src.utils import get_correct_team_name
+from src.utils import get_competition_filename, get_correct_team_name
 
 
 def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
@@ -13,9 +13,9 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
     calendars: list[FootballCalendar] = []
 
     if ctx.competition_type == CompetitionType.LEAGUE:
-        # Build per-team fixture maps and deduplicated all_fixtures dict
+        # Build per-team fixture maps and per-competition-filename fixture groups
         fixtures_map: dict[str, list[dict]] = defaultdict(list)
-        all_fixtures: dict[str, dict] = {}
+        comp_groups: dict[str, dict[str, dict]] = defaultdict(dict)
 
         for fixture in ctx.fixtures:
             home_id = fixture.get("home_team_id")
@@ -24,9 +24,9 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 fixtures_map[home_id].append(fixture)
             if away_id in ctx.teams:
                 fixtures_map[away_id].append(fixture)
-            all_fixtures[fixture.get("match_id", (home_id or "") + (away_id or ""))] = (
-                fixture
-            )
+            comp_file = get_competition_filename(fixture.get("competition_id", ""))
+            match_id = fixture.get("match_id", (home_id or "") + (away_id or ""))
+            comp_groups[comp_file][match_id] = fixture
 
         for t_id, team_fixtures in fixtures_map.items():
             team_name = get_correct_team_name(ctx.teams[t_id])
@@ -41,19 +41,20 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 f"team={t_id}|{team_name}, seasons={season_years_str}"
             )
 
-        # Master calendar with all deduplicated fixtures
-        master_cal = FootballCalendar.to_football_calendar(
-            ctx.competition_id,
-            season_years_str,
-            FootballCalendarEvent.to_football_calendar_events(
-                list(all_fixtures.values())
-            ),
-        )
-        calendars.append(master_cal)
-        logging.info(
-            f"Calendar generated: num_fixtures={len(all_fixtures)}, "
-            f"competition={ctx.competition_id}, seasons={season_years_str}"
-        )
+        # One master calendar per unique competition filename group
+        for comp_file, group_fixtures in comp_groups.items():
+            master_cal = FootballCalendar.to_football_calendar(
+                comp_file,
+                season_years_str,
+                FootballCalendarEvent.to_football_calendar_events(
+                    list(group_fixtures.values())
+                ),
+            )
+            calendars.append(master_cal)
+            logging.info(
+                f"Calendar generated: num_fixtures={len(group_fixtures)}, "
+                f"competition_file={comp_file}, seasons={season_years_str}"
+            )
 
     else:
         # International mode: per-team calendars from all competition fixtures

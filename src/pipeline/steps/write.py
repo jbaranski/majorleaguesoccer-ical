@@ -9,13 +9,15 @@ from src.utils import get_competition_filename, team_filename
 def _write_league_calendars(
     calendars: list[FootballCalendar],
     output_dir: Path,
-    competition_id: str,
+    included_competition_ids: frozenset[str],
 ) -> None:
+    master_filenames = {
+        get_competition_filename(cid) for cid in included_competition_ids
+    }
     for cal in calendars:
-        if cal.team_name == competition_id:
-            comp_filename = get_competition_filename(cal.team_name)
-            url_path = f"calendars/{comp_filename}"
-            master_path = output_dir / f"{comp_filename}.ics"
+        if cal.team_name in master_filenames:
+            url_path = f"calendars/{cal.team_name}"
+            master_path = output_dir / f"{cal.team_name}.ics"
             master_path.write_bytes(cal.to_bytes(url_path))
             logging.info(f"Written master calendar: {master_path}")
         else:
@@ -52,7 +54,7 @@ def write_calendars(ctx: CompetitionContext) -> CompetitionContext:
     if ctx.competition_type == CompetitionType.LEAGUE:
         output_dir = Path(ctx.output_root) / "calendars"
         output_dir.mkdir(parents=True, exist_ok=True)
-        _write_league_calendars(ctx.calendars, output_dir, ctx.competition_id)
+        _write_league_calendars(ctx.calendars, output_dir, ctx.included_competition_ids)
     else:
         output_dir = Path(ctx.output_root) / "calendars" / "international"
         output_dir.mkdir(parents=True, exist_ok=True)
