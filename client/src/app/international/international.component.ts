@@ -10,6 +10,7 @@ const BASE =
   templateUrl: './international.component.html'
 })
 export class InternationalComponent {
+  readonly lastUpdated = '2026-06-27T18:48:13Z';
   readonly competitions = [
     { name: 'World Cup', urlName: 'worldcup' },
     { name: 'Tournament', urlName: 'tournament' },
