@@ -12,9 +12,10 @@ const BASE =
 })
 export class InternationalComponent {
   readonly lastUpdated = '2026-06-27T18:48:13Z';
-  readonly competitions = [
-    { name: 'World Cup', urlName: 'worldcup' }
-  ].map(({ name, urlName }) => ({ name, url: `${BASE}/${urlName}.ics` }));
+  readonly competitions = [{ name: 'World Cup', urlName: 'worldcup' }].map(({ name, urlName }) => ({
+    name,
+    url: `${BASE}/${urlName}.ics`
+  }));
 
   readonly teams = [
     { name: 'Algeria', urlName: 'algeria' },
