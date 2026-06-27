@@ -1,12 +1,13 @@
 import { Component, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { RouterLink } from '@angular/router';
 
 const BASE =
   'https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/international';
 
 @Component({
   selector: 'app-international',
-  imports: [CommonModule],
+  imports: [CommonModule, RouterLink],
   templateUrl: './international.component.html'
 })
 export class InternationalComponent {
