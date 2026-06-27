@@ -154,11 +154,12 @@ class FootballCalendar:
         )
         cal = Calendar()
         home_away_suffix = "_home" if home else "_away" if away else ""
+        home_away_display_suffix = home_away_suffix.replace("_", " ")
         # https://en.wikipedia.org/wiki/ICalendar
-        cal.add("X-WR-CALNAME", f"{display_name}{home_away_suffix.replace('_', ' ')}")
+        cal.add("X-WR-CALNAME", f"{display_name}{home_away_display_suffix}")
         cal.add(
             "X-WR-CALDESC",
-            f"All {display_name}{home_away_suffix.replace('_', ' ')} fixtures for {self.seasons} season",
+            f"All {display_name}{home_away_display_suffix} fixtures for {self.seasons} season",
         )
         cal.add(
             "X-WR-RELCALID",
