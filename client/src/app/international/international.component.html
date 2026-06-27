@@ -1,0 +1,101 @@
+<main class="container mx-auto p-4 max-w-2xl">
+  <h1 class="text-3xl font-bold mb-2 text-center">International Soccer iCalendar</h1>
+  <hr class="mt-6" />
+  <p class="text-sm text-gray-600 text-center mb-2 mt-4">Last updated: {{ lastUpdated | date: 'MM/dd/yyyy' }}</p>
+  <div class="border-l-2 border-orange-400 pl-3 mt-4 mb-6 text-gray-500">
+    <p>
+      Looking for Major League Soccer team calendars? See
+      <a class="text-blue-400" routerLink="/">https://mlscalendar.jeffsoftware.com</a>.
+    </p>
+  </div>
+  <div class="mt-4">
+    <p>International teams and competition fixture schedules for the 2026 season.</p>
+    <br />
+    <p>
+      Find your favorite team or competition in the table below. Copy the iCalendar url to your clipboard. Paste the
+      iCalendar url from your clipboard into your calendar's subscription field.
+    </p>
+    <br />
+    <p>
+      When you subscribe to a calendar, it will auto update when fixtures are added or modified. We check for and
+      publish any fixture changes twice a day.
+    </p>
+    <br />
+
+    <h2 class="text-xl font-bold mb-4">Competitions</h2>
+    @for (item of competitions; track item.name; let i = $index) {
+      <div class="flex flex-row border-2 border-gray-200 mt-4 mb-4">
+        <div class="basis-1/3 border-2 border-gray-200">
+          <p class="px-3 py-2 text-sm">
+            <b>{{ item.name }}</b>
+          </p>
+          <p class="px-3 pb-2">
+            <button
+              (click)="onCopyCompetition($event, item.url, i)"
+              class="bg-gray-100 px-1 text-sm border border-gray-300 rounded-md"
+              type="button"
+            >
+              {{ competitionCopyText()[i] }}
+            </button>
+          </p>
+        </div>
+        <div class="basis-2/3 border-2 border-gray-200">
+          <textarea
+            rows="2"
+            class="bg-purple-100 w-full h-full px-3 py-2 focus:outline-none focus:ring-2 cursor-auto text-sm text-pretty"
+            type="text"
+            readonly
+            >{{ item.url }}</textarea
+          >
+        </div>
+      </div>
+    }
+
+    <h2 class="text-xl font-bold mb-4 mt-8">Teams</h2>
+    @for (item of teams; track item.name; let i = $index) {
+      <div class="flex flex-row border-2 border-gray-200 mt-4 mb-4">
+        <div class="basis-1/3 border-2 border-gray-200">
+          <p class="px-3 py-2 text-sm">
+            <b>{{ item.name }}</b>
+          </p>
+          <p class="px-3 pb-2">
+            <button
+              (click)="onCopyTeam($event, item.url, i)"
+              class="bg-gray-100 px-1 text-sm border border-gray-300 rounded-md"
+              type="button"
+            >
+              {{ teamCopyText()[i] }}
+            </button>
+          </p>
+        </div>
+        <div class="basis-2/3 border-2 border-gray-200">
+          <textarea
+            rows="2"
+            class="bg-purple-100 w-full h-full px-3 py-2 focus:outline-none focus:ring-2 cursor-auto text-sm text-pretty"
+            type="text"
+            readonly
+            >{{ item.url }}</textarea
+          >
+        </div>
+      </div>
+    }
+  </div>
+  <div class="border-l-2 border-orange-400 pl-3 mt-4 mb-6 space-y-2 text-gray-500">
+    <p>
+      Want daily fixture lists delivered to your inbox? Check out
+      <a class="text-blue-400" href="https://mlstoday.jeffsoftware.com/" target="_blank">https://mlstoday.jeffsoftware.com</a>.
+    </p>
+    <p>
+      <a class="text-blue-400" href="https://github.com/jbaranski/majorleaguesoccer-ical" target="_blank"
+        >Calendar generator source code</a
+      >
+      is free and open source :)
+    </p>
+  </div>
+  <hr class="mt-4" />
+  <p class="mt-4 text-xs font-light text-gray-600 text-center">
+    Copyright 2026 <a class="text-blue-500" href="https://www.jeffsoftware.com" target="_blank">Jeff Software</a> |
+    admin&commat;jeffsoftware.com |
+    <a class="text-blue-500" href="https://x.com/jeffsoftware" target="_blank">&commat;jeffsoftware</a>
+  </p>
+</main>

@@ -82,17 +82,18 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 f"competition={ctx.competition_id}"
             )
 
-        # Master international calendar
-        master_cal = FootballCalendar.to_football_calendar(
-            competition_filename(ctx.competition_id),
-            season_years_str,
-            FootballCalendarEvent.to_football_calendar_events(ctx.fixtures),
-            is_competition_calendar=True,
-        )
-        calendars.append(master_cal)
-        logging.info(
-            f"International master calendar generated: num_fixtures={len(ctx.fixtures)}, "
-            f"competition={ctx.competition_id}, seasons={season_years_str}"
-        )
+        comp_file = competition_filename(ctx.competition_id)
+        if comp_file is not None:
+            master_cal = FootballCalendar.to_football_calendar(
+                comp_file,
+                season_years_str,
+                FootballCalendarEvent.to_football_calendar_events(ctx.fixtures),
+                is_competition_calendar=True,
+            )
+            calendars.append(master_cal)
+            logging.info(
+                f"International master calendar generated: num_fixtures={len(ctx.fixtures)}, "
+                f"competition={ctx.competition_id}, seasons={season_years_str}"
+            )
 
     return dataclasses.replace(ctx, calendars=calendars)

@@ -7,7 +7,7 @@ Find your favorite team in the table below. Copy the iCalendar url to your clipb
 
 | Team | URL |
 | ---- | --- |
-| All Fixtures | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/mls.ics |
+| All MLS Fixtures | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/mls.ics |
 | Atlanta United | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/atlantaunited.ics |
 | Austin FC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/austinfc.ics |
 | CF Montreal | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/cfmontreal.ics |
@@ -57,3 +57,8 @@ All competitions: league, cup, friendlies, etc...
 
 ### Can you access my email address or calendar data?
 No. We cannot and do not collect any information or calendar data when you subscribe to our iCalendar files.
+
+### Do you offer any other calendars or services?
+For World Cup and international team calendars see [https://mlscalendar.jeffsoftware.com/international](https://mlscalendar.jeffsoftware.com/international).
+
+For daily fixture lists delivered to your inbox every morning see [https://mlstoday.jeffsoftware.com](https://mlstoday.jeffsoftware.com).
