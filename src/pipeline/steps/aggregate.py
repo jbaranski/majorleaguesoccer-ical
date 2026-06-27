@@ -43,12 +43,3 @@ def aggregate_international_calendars(
         country_path = countries_dir / f"{slug}.ics"
         country_path.write_bytes(cal.to_bytes(url_path))
         logging.info(f"Written aggregate country calendar: {country_path}")
-
-    tournament_cal = FootballCalendar.to_football_calendar(
-        "International", seasons_str, list(all_events.values())
-    )
-    tournament_path = output_dir / "tournament.ics"
-    tournament_path.write_bytes(
-        tournament_cal.to_bytes("calendars/international/tournament")
-    )
-    logging.info(f"Written aggregate tournament calendar: {tournament_path}")
