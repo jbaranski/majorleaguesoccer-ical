@@ -5,7 +5,7 @@ Generates an iCalendar file for each Major League Soccer team's fixture schedule
 ### How to subscribe?
 Find your favorite team in the table below. Copy the iCalendar url to your clipboard. Paste the iCalendar url from your clipboard into your calendar's subscription field.
 
-Interested in international fixtures and the World Cup? Subscribe at [https://mlscalendar.jeffsoftware.com/international](https://mlscalendar.jeffsoftware.com/international)
+Interested in international fixtures and the World Cup? See subscription info at [https://mlscalendar.jeffsoftware.com/international](https://mlscalendar.jeffsoftware.com/international)
 
 | Team | URL |
 | ---- | --- |
