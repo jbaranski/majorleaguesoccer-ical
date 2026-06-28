@@ -749,12 +749,12 @@ DESCRIPTION:FIFA World Cup\n\nUnited States vs. Bosnia and Herzegovina
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spain vs. TBC Away
+SUMMARY:Spain vs. Austria
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 DTSTAMP:20260702T190000Z
 UID:MLS-MAT-000AAZ
-DESCRIPTION:FIFA World Cup\n\nSpain vs. TBC Away
+DESCRIPTION:FIFA World Cup\n\nSpain vs. Austria
 LOCATION:Los Angeles Stadium\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -767,12 +767,12 @@ DESCRIPTION:FIFA World Cup\n\nPortugal vs. Croatia
 LOCATION:Toronto Stadium\, Toronto
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Switzerland vs. TBC Away
+SUMMARY:Switzerland vs. Algeria
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 DTSTAMP:20260703T030000Z
 UID:MLS-MAT-000AB1
-DESCRIPTION:FIFA World Cup\n\nSwitzerland vs. TBC Away
+DESCRIPTION:FIFA World Cup\n\nSwitzerland vs. Algeria
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
