@@ -29,12 +29,12 @@ DESCRIPTION:FIFA World Cup\n\nUruguay 2 - Cape Verde 2
 LOCATION:Miami Stadium\, Miami
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cape Verde vs. Saudi Arabia
+SUMMARY:Cape Verde* vs. Saudi Arabia*
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 DTSTAMP:20260627T000000Z
 UID:MLS-MAT-000AAF
-DESCRIPTION:FIFA World Cup\n\nCape Verde vs. Saudi Arabia
+DESCRIPTION:FIFA World Cup\n\nCape Verde 0 - Saudi Arabia 0
 LOCATION:Houston Stadium\, Houston
 END:VEVENT
 BEGIN:VEVENT
