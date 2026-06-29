@@ -29,12 +29,12 @@ DESCRIPTION:FIFA World Cup\n\nJordan 1 - Algeria 2
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Algeria vs. Austria
+SUMMARY:Algeria* vs. Austria*
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 DTSTAMP:20260628T020000Z
 UID:MLS-MAT-000AAN
-DESCRIPTION:FIFA World Cup\n\nAlgeria vs. Austria
+DESCRIPTION:FIFA World Cup\n\nAlgeria 3 - Austria 3
 LOCATION:Kansas City Stadium\, Kansas City
 END:VEVENT
 BEGIN:VEVENT

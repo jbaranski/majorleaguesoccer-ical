@@ -29,12 +29,12 @@ DESCRIPTION:FIFA World Cup\n\nPortugal 5 - Uzbekistan 0
 LOCATION:Houston Stadium\, Houston
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colombia vs. Portugal
+SUMMARY:Colombia* vs. Portugal*
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 DTSTAMP:20260627T233000Z
 UID:MLS-MAT-000AAL
-DESCRIPTION:FIFA World Cup\n\nColombia vs. Portugal
+DESCRIPTION:FIFA World Cup\n\nColombia 0 - Portugal 0
 LOCATION:Miami Stadium\, Miami
 END:VEVENT
 BEGIN:VEVENT
