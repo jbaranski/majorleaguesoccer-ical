@@ -38,12 +38,12 @@ DESCRIPTION:FIFA World Cup\n\nSwitzerland 2 - Canada 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:South Africa vs. Canada
+SUMMARY:South Africa vs. Canada*
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 DTSTAMP:20260628T190000Z
 UID:MLS-MAT-000AAQ
-DESCRIPTION:FIFA World Cup\n\nSouth Africa vs. Canada
+DESCRIPTION:FIFA World Cup\n\nSouth Africa 0 - Canada 1
 LOCATION:Los Angeles Stadium\, Los Angeles
 END:VEVENT
 BEGIN:VEVENT
