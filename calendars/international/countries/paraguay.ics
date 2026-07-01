@@ -38,21 +38,22 @@ DESCRIPTION:FIFA World Cup\n\nParaguay 0 - Australia 0
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Germany vs. Paraguay
+SUMMARY:Germany vs. Paraguay*
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 DTSTAMP:20260629T203000Z
 UID:MLS-MAT-000AAP
-DESCRIPTION:FIFA World Cup\n\nGermany vs. Paraguay
+DESCRIPTION:FIFA World Cup\n\nGermany 1 (penalties: 3) - Paraguay 1 (penal
+ ties: 4)
 LOCATION:Boston Stadium\, Boston
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paraguay vs. TBC Away
+SUMMARY:Paraguay vs. France
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 DTSTAMP:20260704T210000Z
 UID:MLS-MAT-000AB6
-DESCRIPTION:FIFA World Cup\n\nParaguay vs. TBC Away
+DESCRIPTION:FIFA World Cup\n\nParaguay vs. France
 LOCATION:Philadelphia Stadium\, Philadelphia
 END:VEVENT
 END:VCALENDAR

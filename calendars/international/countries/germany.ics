@@ -38,12 +38,13 @@ DESCRIPTION:FIFA World Cup\n\nEcuador 2 - Germany 1
 LOCATION:New York/New Jersey Stadium\, New York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Germany vs. Paraguay
+SUMMARY:Germany vs. Paraguay*
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 DTSTAMP:20260629T203000Z
 UID:MLS-MAT-000AAP
-DESCRIPTION:FIFA World Cup\n\nGermany vs. Paraguay
+DESCRIPTION:FIFA World Cup\n\nGermany 1 (penalties: 3) - Paraguay 1 (penal
+ ties: 4)
 LOCATION:Boston Stadium\, Boston
 END:VEVENT
 END:VCALENDAR

@@ -38,12 +38,13 @@ DESCRIPTION:FIFA World Cup\n\nTunisia 1 - Netherlands 3
 LOCATION:Kansas City Stadium\, Kansas City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Netherlands vs. Morocco
+SUMMARY:Netherlands vs. Morocco*
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 DTSTAMP:20260630T010000Z
 UID:MLS-MAT-000AAS
-DESCRIPTION:FIFA World Cup\n\nNetherlands vs. Morocco
+DESCRIPTION:FIFA World Cup\n\nNetherlands 1 (penalties: 2) - Morocco 1 (pe
+ nalties: 3)
 LOCATION:Monterrey Stadium\, Monterrey
 END:VEVENT
 END:VCALENDAR
