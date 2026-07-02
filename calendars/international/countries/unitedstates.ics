@@ -46,4 +46,13 @@ UID:MLS-MAT-000AAY
 DESCRIPTION:FIFA World Cup\n\nUnited States vs. Bosnia and Herzegovina
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United States vs. Belgium
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+DTSTAMP:20260707T000000Z
+UID:MLS-MAT-000ABA
+DESCRIPTION:FIFA World Cup\n\nUnited States vs. Belgium
+LOCATION:Seattle Stadium\, Seattle
+END:VEVENT
 END:VCALENDAR

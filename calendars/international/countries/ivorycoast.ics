@@ -38,12 +38,12 @@ DESCRIPTION:FIFA World Cup\n\nCuracao 0 - Ivory Coast 2
 LOCATION:Philadelphia Stadium\, Philadelphia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ivory Coast vs. Norway
+SUMMARY:Ivory Coast vs. Norway*
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 DTSTAMP:20260630T170000Z
 UID:MLS-MAT-000AAT
-DESCRIPTION:FIFA World Cup\n\nIvory Coast vs. Norway
+DESCRIPTION:FIFA World Cup\n\nIvory Coast 1 - Norway 2
 LOCATION:Dallas Stadium\, Dallas
 END:VEVENT
 END:VCALENDAR
