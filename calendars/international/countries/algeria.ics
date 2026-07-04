@@ -38,12 +38,12 @@ DESCRIPTION:FIFA World Cup\n\nAlgeria 3 - Austria 3
 LOCATION:Kansas City Stadium\, Kansas City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Switzerland vs. Algeria
+SUMMARY:Switzerland* vs. Algeria
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 DTSTAMP:20260703T030000Z
 UID:MLS-MAT-000AB1
-DESCRIPTION:FIFA World Cup\n\nSwitzerland vs. Algeria
+DESCRIPTION:FIFA World Cup\n\nSwitzerland 2 - Algeria 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 END:VCALENDAR
