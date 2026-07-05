@@ -38,12 +38,13 @@ DESCRIPTION:FIFA World Cup\n\nEgypt 1 - Iran 1
 LOCATION:Seattle Stadium\, Seattle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Australia vs. Egypt
+SUMMARY:Australia vs. Egypt*
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 DTSTAMP:20260703T180000Z
 UID:MLS-MAT-000AB2
-DESCRIPTION:FIFA World Cup\n\nAustralia vs. Egypt
+DESCRIPTION:FIFA World Cup\n\nAustralia 1 (penalties: 2) - Egypt 1 (penalt
+ ies: 4)
 LOCATION:Dallas Stadium\, Dallas
 END:VEVENT
 BEGIN:VEVENT

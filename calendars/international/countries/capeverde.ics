@@ -38,12 +38,12 @@ DESCRIPTION:FIFA World Cup\n\nCape Verde 0 - Saudi Arabia 0
 LOCATION:Houston Stadium\, Houston
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Argentina vs. Cape Verde
+SUMMARY:Argentina* vs. Cape Verde
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 DTSTAMP:20260703T220000Z
 UID:MLS-MAT-000AB3
-DESCRIPTION:FIFA World Cup\n\nArgentina vs. Cape Verde
+DESCRIPTION:FIFA World Cup\n\nArgentina 3 - Cape Verde 2
 LOCATION:Miami Stadium\, Miami
 END:VEVENT
 END:VCALENDAR
