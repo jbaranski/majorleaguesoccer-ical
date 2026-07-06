@@ -48,12 +48,12 @@ DESCRIPTION:FIFA World Cup\n\nNetherlands 1 (penalties: 2) - Morocco 1 (pe
 LOCATION:Monterrey Stadium\, Monterrey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canada vs. Morocco
+SUMMARY:Canada vs. Morocco*
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 DTSTAMP:20260704T170000Z
 UID:MLS-MAT-000AB5
-DESCRIPTION:FIFA World Cup\n\nCanada vs. Morocco
+DESCRIPTION:FIFA World Cup\n\nCanada 0 - Morocco 3
 LOCATION:Houston Stadium\, Houston
 END:VEVENT
 BEGIN:VEVENT
