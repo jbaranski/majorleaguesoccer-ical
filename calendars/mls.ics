@@ -3486,12 +3486,12 @@ DESCRIPTION:CONCACAF Champions Cup\n\nToluca FC 1 (penalties: 6) - Club Ti
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. El Salvador
+SUMMARY:Los Angeles FC vs. El Salvador (result unknown)
 DTSTART:20260705T220000Z
 DTEND:20260706T000000Z
 DTSTAMP:20260705T220000Z
 UID:MLS-MAT-000AFB
-DESCRIPTION:Club Friendly Matches\n\nLos Angeles FC vs. El Salvador
+DESCRIPTION:Club Friendly Matches\n\nLos Angeles FC ??? - El Salvador ???
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
