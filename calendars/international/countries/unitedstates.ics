@@ -47,12 +47,12 @@ DESCRIPTION:FIFA World Cup\n\nUnited States 2 - Bosnia and Herzegovina 0
 LOCATION:San Francisco Bay Area Stadium\, San Francisco
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United States vs. Belgium
+SUMMARY:United States vs. Belgium*
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 DTSTAMP:20260707T000000Z
 UID:MLS-MAT-000ABA
-DESCRIPTION:FIFA World Cup\n\nUnited States vs. Belgium
+DESCRIPTION:FIFA World Cup\n\nUnited States 1 - Belgium 4
 LOCATION:Seattle Stadium\, Seattle
 END:VEVENT
 END:VCALENDAR
