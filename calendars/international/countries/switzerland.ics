@@ -47,12 +47,13 @@ DESCRIPTION:FIFA World Cup\n\nSwitzerland 2 - Algeria 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Switzerland vs. Colombia
+SUMMARY:Switzerland* vs. Colombia
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 DTSTAMP:20260707T200000Z
 UID:MLS-MAT-000ABC
-DESCRIPTION:FIFA World Cup\n\nSwitzerland vs. Colombia
+DESCRIPTION:FIFA World Cup\n\nSwitzerland 0 (penalties: 4) - Colombia 0 (p
+ enalties: 3)
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
