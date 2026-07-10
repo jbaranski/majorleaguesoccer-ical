@@ -3495,41 +3495,41 @@ DESCRIPTION:Club Friendly Matches\n\nLos Angeles FC ??? - El Salvador ???
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Saint-Laurent vs. Forge FC
+SUMMARY:CS Saint-Laurent* vs. Forge FC*
 DTSTART:20260708T190000Z
 DTEND:20260708T210000Z
 DTSTAMP:20260708T190000Z
 UID:MLS-MAT-000ABY
-DESCRIPTION:TELUS Canadian Championship\n\nCS Saint-Laurent vs. Forge FC
+DESCRIPTION:TELUS Canadian Championship\n\nCS Saint-Laurent 1 - Forge FC 1
 LOCATION:Stade Boréale\, Laval\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Supra du Québec vs. Atlético Ottawa
+SUMMARY:FC Supra du Québec* vs. Atlético Ottawa
 DTSTART:20260708T230000Z
 DTEND:20260709T010000Z
 DTSTAMP:20260708T230000Z
 UID:MLS-MAT-000AC0
-DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec vs. Atléti
- co Ottawa
+DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec 3 - Atléti
+ co Ottawa 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Cavalry FC
+SUMMARY:Vancouver Whitecaps FC* vs. Cavalry FC
 DTSTART:20260709T023000Z
 DTEND:20260709T043000Z
 DTSTAMP:20260709T023000Z
 UID:MLS-MAT-000ABT
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. Cava
- lry FC
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC 4 - Cava
+ lry FC 1
 LOCATION:Swangard Stadium\, Burnaby
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver FC vs. CF Montreal
+SUMMARY:Vancouver FC vs. CF Montreal*
 DTSTART:20260709T020000Z
 DTEND:20260709T040000Z
 DTSTAMP:20260709T020000Z
 UID:MLS-MAT-000ABW
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC vs. CF Montreal
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC 1 - CF Montreal 2
 LOCATION:Willoughby Community Park\, Langley
 END:VEVENT
 BEGIN:VEVENT

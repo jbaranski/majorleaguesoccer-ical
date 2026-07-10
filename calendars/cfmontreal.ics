@@ -148,12 +148,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 4 - CF Montreal 4
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver FC vs. CF Montreal
+SUMMARY:Vancouver FC vs. CF Montreal*
 DTSTART:20260709T020000Z
 DTEND:20260709T040000Z
 DTSTAMP:20260709T020000Z
 UID:MLS-MAT-000ABW
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC vs. CF Montreal
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC 1 - CF Montreal 2
 LOCATION:Willoughby Community Park\, Langley
 END:VEVENT
 BEGIN:VEVENT

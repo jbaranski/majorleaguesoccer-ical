@@ -189,13 +189,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Cavalry FC
+SUMMARY:Vancouver Whitecaps FC* vs. Cavalry FC
 DTSTART:20260709T023000Z
 DTEND:20260709T043000Z
 DTSTAMP:20260709T023000Z
 UID:MLS-MAT-000ABT
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. Cava
- lry FC
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC 4 - Cava
+ lry FC 1
 LOCATION:Swangard Stadium\, Burnaby
 END:VEVENT
 BEGIN:VEVENT
