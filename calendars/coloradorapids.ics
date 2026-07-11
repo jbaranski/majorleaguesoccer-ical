@@ -180,12 +180,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - FC Dallas 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. FC Juárez
+SUMMARY:Colorado Rapids vs. FC Juárez (result unknown)
 DTSTART:20260710T010000Z
 DTEND:20260710T030000Z
 DTSTAMP:20260710T010000Z
 UID:MLS-MAT-000AF9
-DESCRIPTION:Club Friendly Matches\n\nColorado Rapids vs. FC Juárez
+DESCRIPTION:Club Friendly Matches\n\nColorado Rapids ??? - FC Juárez ???
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

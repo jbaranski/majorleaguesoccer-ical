@@ -879,12 +879,12 @@ DESCRIPTION:FIFA World Cup\n\nSwitzerland 0 (penalties: 4) - Colombia 0 (p
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:France vs. Morocco
+SUMMARY:France* vs. Morocco
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 DTSTAMP:20260709T200000Z
 UID:MLS-MAT-000ABD
-DESCRIPTION:FIFA World Cup\n\nFrance vs. Morocco
+DESCRIPTION:FIFA World Cup\n\nFrance 2 - Morocco 0
 LOCATION:Boston Stadium\, Boston
 END:VEVENT
 BEGIN:VEVENT
