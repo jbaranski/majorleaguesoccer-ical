@@ -3578,12 +3578,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nForge FC vs. CS Saint-Laurent
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Club América
+SUMMARY:LA Galaxy vs. Club América (result unknown)
 DTSTART:20260712T023000Z
 DTEND:20260712T043000Z
 DTSTAMP:20260712T023000Z
 UID:MLS-MAT-000AF6
-DESCRIPTION:Club Friendly Matches\n\nLA Galaxy vs. Club América
+DESCRIPTION:Club Friendly Matches\n\nLA Galaxy ??? - Club América ???
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

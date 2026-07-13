@@ -57,12 +57,12 @@ DESCRIPTION:FIFA World Cup\n\nSwitzerland 0 (penalties: 4) - Colombia 0 (p
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Argentina vs. Switzerland
+SUMMARY:Argentina* vs. Switzerland
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 DTSTAMP:20260712T010000Z
 UID:MLS-MAT-000ABG
-DESCRIPTION:FIFA World Cup\n\nArgentina vs. Switzerland
+DESCRIPTION:FIFA World Cup\n\nArgentina 3 - Switzerland 1
 LOCATION:Kansas City Stadium\, Kansas City
 END:VEVENT
 END:VCALENDAR
