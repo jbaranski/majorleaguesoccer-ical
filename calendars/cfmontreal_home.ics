@@ -138,12 +138,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Charlotte FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. TBC Away
+SUMMARY:CF Montreal vs. Vancouver Whitecaps FC
 DTSTART:20260915T160000Z
 DTEND:20260915T180000Z
 DTSTAMP:20260915T160000Z
 UID:MLS-MAT-000AC2
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. TBC Away
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver White
+ caps FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT

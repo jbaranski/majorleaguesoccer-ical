@@ -89,13 +89,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cavalry FC vs. Vancouver Whitecaps FC
+SUMMARY:Cavalry FC* vs. Vancouver Whitecaps FC*
 DTSTART:20260714T013000Z
 DTEND:20260714T033000Z
 DTSTAMP:20260714T013000Z
 UID:MLS-MAT-000ABU
-DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC vs. Vancouver Whitec
- aps FC
+DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC 1 - Vancouver Whitec
+ aps FC 1
 LOCATION:ATCO Field\, Calgary
 END:VEVENT
 BEGIN:VEVENT
@@ -156,6 +156,16 @@ UID:MLS-MAT-0009K0
 DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Vancouver Whi
  tecaps FC
 LOCATION:Sporting Park\, Kansas City\, KS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF Montreal vs. Vancouver Whitecaps FC
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+DTSTAMP:20260915T160000Z
+UID:MLS-MAT-000AC2
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver White
+ caps FC
+LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC

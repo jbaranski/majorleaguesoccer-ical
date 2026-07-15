@@ -3587,13 +3587,13 @@ DESCRIPTION:Club Friendly Matches\n\nLA Galaxy ??? - Club América ???
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cavalry FC vs. Vancouver Whitecaps FC
+SUMMARY:Cavalry FC* vs. Vancouver Whitecaps FC*
 DTSTART:20260714T013000Z
 DTEND:20260714T033000Z
 DTSTAMP:20260714T013000Z
 UID:MLS-MAT-000ABU
-DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC vs. Vancouver Whitec
- aps FC
+DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC 1 - Vancouver Whitec
+ aps FC 1
 LOCATION:ATCO Field\, Calgary
 END:VEVENT
 BEGIN:VEVENT
@@ -5196,12 +5196,13 @@ DESCRIPTION:Leagues Cup\n\nTBC Home vs. TBC Away
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. CF Montreal
+SUMMARY:Vancouver Whitecaps FC vs. CF Montreal
 DTSTART:20260901T160000Z
 DTEND:20260901T180000Z
 DTSTAMP:20260901T160000Z
 UID:MLS-MAT-000AC1
-DESCRIPTION:TELUS Canadian Championship\n\nTBC Home vs. CF Montreal
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. CF M
+ ontreal
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -5643,12 +5644,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Philadelphia Union
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. TBC Away
+SUMMARY:CF Montreal vs. Vancouver Whitecaps FC
 DTSTART:20260915T160000Z
 DTEND:20260915T180000Z
 DTSTAMP:20260915T160000Z
 UID:MLS-MAT-000AC2
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. TBC Away
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver White
+ caps FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
