@@ -99,16 +99,6 @@ DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC 1 - Vancouver Whitec
 LOCATION:ATCO Field\, Calgary
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Vancouver Whitecaps FC
-DTSTART:20260717T003000Z
-DTEND:20260717T023000Z
-DTSTAMP:20260717T003000Z
-UID:MLS-MAT-0009H7
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Vancouver Whitecap
- s FC
-LOCATION:Soldier Field\, Chicago\, IL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FC Cincinnati vs. Vancouver Whitecaps FC
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
@@ -176,6 +166,16 @@ UID:MLS-MAT-0009LU
 DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Vancouver Whitecaps
   FC
 LOCATION:America First Field\, Sandy\, UT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Fire FC vs. Vancouver Whitecaps FC
+DTSTART:20261007T003000Z
+DTEND:20261007T023000Z
+DTSTAMP:20261007T003000Z
+UID:MLS-MAT-0009H7
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Vancouver Whitecap
+ s FC
+LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Vancouver Whitecaps FC
