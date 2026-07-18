@@ -84,12 +84,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal 2 - Vancouver FC 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Toronto FC
+SUMMARY:CF Montreal* vs. Toronto FC*
 DTSTART:20260716T233000Z
 DTEND:20260717T013000Z
 DTSTAMP:20260716T233000Z
 UID:MLS-MAT-0009H8
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Toronto FC 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

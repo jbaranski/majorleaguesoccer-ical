@@ -3597,12 +3597,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nCavalry FC 1 - Vancouver Whitec
 LOCATION:ATCO Field\, Calgary
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Toronto FC
+SUMMARY:CF Montreal* vs. Toronto FC*
 DTSTART:20260716T233000Z
 DTEND:20260717T013000Z
 DTSTAMP:20260716T233000Z
 UID:MLS-MAT-0009H8
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Toronto FC 0
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
@@ -3616,13 +3616,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Portland Timbe
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Sporting Kansas City
+SUMMARY:St. Louis City SC* vs. Sporting Kansas City
 DTSTART:20260717T003000Z
 DTEND:20260717T023000Z
 DTSTAMP:20260717T003000Z
 UID:MLS-MAT-0009HA
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Sporting Kansas 
- City
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Sporting Kansas 
+ City 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

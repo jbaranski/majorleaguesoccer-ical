@@ -189,13 +189,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Austin FC 0
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Sporting Kansas City
+SUMMARY:St. Louis City SC* vs. Sporting Kansas City
 DTSTART:20260717T003000Z
 DTEND:20260717T023000Z
 DTSTAMP:20260717T003000Z
 UID:MLS-MAT-0009HA
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Sporting Kansas 
- City
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Sporting Kansas 
+ City 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
