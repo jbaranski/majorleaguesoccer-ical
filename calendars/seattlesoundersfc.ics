@@ -178,13 +178,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Seattle Sounders FC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Portland Timbers
+SUMMARY:Seattle Sounders FC vs. Portland Timbers*
 DTSTART:20260717T023000Z
 DTEND:20260717T043000Z
 DTSTAMP:20260717T023000Z
 UID:MLS-MAT-0009H9
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Portland Timbe
- rs
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Portland Timbe
+ rs 5
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
