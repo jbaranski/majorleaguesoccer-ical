@@ -3738,21 +3738,21 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Minnesota Uni
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. St. Louis City SC
+SUMMARY:LA Galaxy vs. St. Louis City SC*
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HK
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - St. Louis City SC 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Real Salt Lake
+SUMMARY:Los Angeles FC* vs. Real Salt Lake
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HL
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Real Salt Lake 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -3765,21 +3765,22 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - CF Montreal 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. FC Dallas
+SUMMARY:Portland Timbers* vs. FC Dallas*
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HQ
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - FC Dallas 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Orlando City
+SUMMARY:San Jose Earthquakes vs. Orlando City*
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HR
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Orlando City 
+ 4
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

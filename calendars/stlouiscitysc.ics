@@ -199,12 +199,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Sporting Kansas
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. St. Louis City SC
+SUMMARY:LA Galaxy vs. St. Louis City SC*
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HK
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - St. Louis City SC 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

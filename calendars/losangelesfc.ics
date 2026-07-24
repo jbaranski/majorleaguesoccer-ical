@@ -252,12 +252,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 0 - Los Angeles FC 3
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Real Salt Lake
+SUMMARY:Los Angeles FC* vs. Real Salt Lake
 DTSTART:20260723T023000Z
 DTEND:20260723T043000Z
 DTSTAMP:20260723T023000Z
 UID:MLS-MAT-0009HL
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Real Salt Lake 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
