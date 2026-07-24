@@ -185,12 +185,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Vancouver Whitecaps F
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Diego FC
-DTSTART:20260723T020500Z
-DTEND:20260723T040500Z
-DTSTAMP:20260723T020500Z
+SUMMARY:Colorado Rapids* vs. San Diego FC
+DTSTART:20260723T013000Z
+DTEND:20260723T033000Z
+DTSTAMP:20260723T013000Z
 UID:MLS-MAT-0009HG
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - San Diego FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +281,7 @@ DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KI
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. San Diego FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Diego FC vs. San Jose Earthquakes

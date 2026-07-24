@@ -88,13 +88,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Columbus Crew 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Red Bull New York
+SUMMARY:Philadelphia Union* vs. Red Bull New York
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HP
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Red Bull New Yo
- rk
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Red Bull New Yo
+ rk 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

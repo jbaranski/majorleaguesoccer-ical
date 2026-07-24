@@ -93,12 +93,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - D.C. United 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. D.C. United
+SUMMARY:Houston Dynamo FC* vs. D.C. United*
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HI
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - D.C. United 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009NG
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. D.C. United
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. D.C. United

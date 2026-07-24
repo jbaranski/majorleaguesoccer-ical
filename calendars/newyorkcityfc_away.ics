@@ -124,12 +124,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 2 - New York City FC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New York City FC
+SUMMARY:Columbus Crew vs. New York City FC*
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HH
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New York City FC 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -212,7 +212,7 @@ DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NV
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. New York City FC

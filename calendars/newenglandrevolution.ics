@@ -170,12 +170,13 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 1 - New England Revolutio
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Toronto FC
+SUMMARY:New England Revolution* vs. Toronto FC*
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HO
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Toronto FC 
+ 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -362,6 +363,6 @@ DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P4
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
  n
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 END:VCALENDAR

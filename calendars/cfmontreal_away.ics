@@ -93,12 +93,12 @@ DESCRIPTION:TELUS Canadian Championship\n\nVancouver FC 1 - CF Montreal 2
 LOCATION:Willoughby Community Park\, Langley
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. CF Montreal
+SUMMARY:Nashville SC* vs. CF Montreal
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HN
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - CF Montreal 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

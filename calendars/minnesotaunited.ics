@@ -198,13 +198,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Real Salt Lake 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Minnesota United
+SUMMARY:Sporting Kansas City* vs. Minnesota United
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HJ
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Minnesota Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Minnesota Uni
+ ted 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

@@ -92,12 +92,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Atlanta United 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New York City FC
+SUMMARY:Columbus Crew vs. New York City FC*
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HH
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New York City FC 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

@@ -94,12 +94,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Chicago Fire FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Chicago Fire FC
+SUMMARY:Inter Miami CF* vs. Chicago Fire FC
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HM
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Chicago Fire FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +127,7 @@ DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J9
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull New York vs. Chicago Fire FC

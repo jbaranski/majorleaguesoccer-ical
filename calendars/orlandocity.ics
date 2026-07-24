@@ -188,7 +188,7 @@ DTEND:20260726T013000Z
 DTSTAMP:20260725T233000Z
 UID:MLS-MAT-0009I1
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull New York vs. Orlando City
@@ -207,7 +207,7 @@ DTSTAMP:20260805T233000Z
 UID:MLS-MAT-000A38
 DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
  lando City
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Club León
@@ -216,7 +216,7 @@ DTEND:20260809T003000Z
 DTSTAMP:20260808T223000Z
 UID:MLS-MAT-000A3O
 DESCRIPTION:Leagues Cup\n\nOrlando City vs. Club León
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Atlético de San Luis
@@ -225,7 +225,7 @@ DTEND:20260813T013000Z
 DTSTAMP:20260812T233000Z
 UID:MLS-MAT-000A46
 DESCRIPTION:Leagues Cup\n\nOrlando City vs. Atlético de San Luis
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. FC Cincinnati
@@ -234,7 +234,7 @@ DTEND:20260816T013000Z
 DTSTAMP:20260815T233000Z
 UID:MLS-MAT-0009IU
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. FC Cincinnati
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Chicago Fire FC
@@ -243,7 +243,7 @@ DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J9
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. Real Salt Lake
@@ -252,7 +252,7 @@ DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JO
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Real Salt Lake
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota United vs. Orlando City
@@ -270,7 +270,7 @@ DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KI
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. San Diego FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlanta United vs. Orlando City
@@ -288,7 +288,7 @@ DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009LC
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Toronto FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Orlando City
@@ -325,7 +325,7 @@ DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MO
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Columbus Crew
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. Orlando City
@@ -343,7 +343,7 @@ DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009NG
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. D.C. United
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orlando City vs. New York City FC
@@ -352,7 +352,7 @@ DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NV
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Orlando City
@@ -380,6 +380,6 @@ DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P4
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
  n
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 END:VCALENDAR

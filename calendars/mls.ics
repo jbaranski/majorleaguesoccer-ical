@@ -3644,96 +3644,97 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - Atlanta United 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Vancouver Whitecaps FC
+SUMMARY:FC Cincinnati* vs. Vancouver Whitecaps FC
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HF
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Vancouver Whitecaps 
- FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 4 - Vancouver Whitecaps 
+ FC 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New York City FC
+SUMMARY:Columbus Crew vs. New York City FC*
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HH
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New York City FC 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Chicago Fire FC
+SUMMARY:Inter Miami CF* vs. Chicago Fire FC
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HM
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Chicago Fire FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Toronto FC
+SUMMARY:New England Revolution* vs. Toronto FC*
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HO
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Toronto FC 
+ 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Red Bull New York
+SUMMARY:Philadelphia Union* vs. Red Bull New York
 DTSTART:20260722T233000Z
 DTEND:20260723T013000Z
 DTSTAMP:20260722T233000Z
 UID:MLS-MAT-0009HP
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Red Bull New Yo
- rk
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Red Bull New Yo
+ rk 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Seattle Sounders FC
+SUMMARY:Austin FC* vs. Seattle Sounders FC
 DTSTART:20260723T013000Z
 DTEND:20260723T033000Z
 DTSTAMP:20260723T013000Z
 UID:MLS-MAT-0009HD
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 3 - Seattle Sounders FC 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Atlanta United
+SUMMARY:Charlotte FC* vs. Atlanta United*
 DTSTART:20260723T001500Z
 DTEND:20260723T021500Z
 DTSTAMP:20260723T001500Z
 UID:MLS-MAT-0009HE
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 2 - Atlanta United 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Diego FC
-DTSTART:20260723T020500Z
-DTEND:20260723T040500Z
-DTSTAMP:20260723T020500Z
+SUMMARY:Colorado Rapids* vs. San Diego FC
+DTSTART:20260723T013000Z
+DTEND:20260723T033000Z
+DTSTAMP:20260723T013000Z
 UID:MLS-MAT-0009HG
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - San Diego FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. D.C. United
+SUMMARY:Houston Dynamo FC* vs. D.C. United*
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HI
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - D.C. United 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Minnesota United
+SUMMARY:Sporting Kansas City* vs. Minnesota United
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HJ
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Minnesota Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Minnesota Uni
+ ted 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
@@ -3755,12 +3756,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Real Salt Lake
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. CF Montreal
+SUMMARY:Nashville SC* vs. CF Montreal
 DTSTART:20260723T003000Z
 DTEND:20260723T023000Z
 DTSTAMP:20260723T003000Z
 UID:MLS-MAT-0009HN
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - CF Montreal 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -3843,7 +3844,7 @@ DTEND:20260726T013000Z
 DTSTAMP:20260725T233000Z
 UID:MLS-MAT-0009I1
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Seattle Sounders FC
@@ -4138,7 +4139,7 @@ DTSTAMP:20260805T233000Z
 UID:MLS-MAT-000A38
 DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
  lando City
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D.C. United vs. Loudoun United FC
@@ -4301,7 +4302,7 @@ DTEND:20260809T003000Z
 DTSTAMP:20260808T223000Z
 UID:MLS-MAT-000A3O
 DESCRIPTION:Leagues Cup\n\nOrlando City vs. Club León
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Salt Lake vs. Atlante FC
@@ -4473,7 +4474,7 @@ DTEND:20260813T013000Z
 DTSTAMP:20260812T233000Z
 UID:MLS-MAT-000A46
 DESCRIPTION:Leagues Cup\n\nOrlando City vs. Atlético de San Luis
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Club León
@@ -4619,7 +4620,7 @@ DTEND:20260816T013000Z
 DTSTAMP:20260815T233000Z
 UID:MLS-MAT-0009IU
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. FC Cincinnati
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toronto FC vs. New England Revolution
@@ -4767,7 +4768,7 @@ DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J9
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Inter Miami CF
@@ -4913,7 +4914,7 @@ DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JO
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Real Salt Lake
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austin FC vs. Philadelphia Union
@@ -5265,7 +5266,7 @@ DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KI
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. San Diego FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. CF Montreal
@@ -5538,7 +5539,7 @@ DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009LC
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Toronto FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colorado Rapids vs. CF Montreal
@@ -6068,7 +6069,7 @@ DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MO
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Columbus Crew
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Real Salt Lake
@@ -6327,7 +6328,7 @@ DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009NG
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. D.C. United
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Charlotte FC
@@ -6481,7 +6482,7 @@ DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NV
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. New England Revolution
@@ -6906,7 +6907,7 @@ DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P4
 DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
  n
-LOCATION:Inter&Co Stadium\, Orlando\, FL
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philadelphia Union vs. Toronto FC
