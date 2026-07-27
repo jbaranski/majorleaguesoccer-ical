@@ -101,12 +101,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - Austin FC 0
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. Austin FC
+SUMMARY:Houston Dynamo FC* vs. Austin FC
 DTSTART:20260726T003000Z
 DTEND:20260726T023000Z
 DTSTAMP:20260726T003000Z
 UID:MLS-MAT-0009HU
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 3 - Austin FC 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

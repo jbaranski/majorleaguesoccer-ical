@@ -75,12 +75,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Real Salt Lake 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Real Salt Lake
+SUMMARY:Portland Timbers* vs. Real Salt Lake
 DTSTART:20260726T023000Z
 DTEND:20260726T043000Z
 DTSTAMP:20260726T023000Z
 UID:MLS-MAT-0009I3
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Real Salt Lake 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

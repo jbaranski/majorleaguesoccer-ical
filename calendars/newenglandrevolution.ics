@@ -180,13 +180,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Toronto FC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Atlanta United
+SUMMARY:New England Revolution* vs. Atlanta United
 DTSTART:20260725T233000Z
 DTEND:20260726T013000Z
 DTSTAMP:20260725T233000Z
 UID:MLS-MAT-0009HY
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Atlanta Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 4 - Atlanta Uni
+ ted 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

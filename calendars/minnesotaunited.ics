@@ -208,13 +208,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Minnesota Uni
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Vancouver Whitecaps FC
+SUMMARY:Minnesota United* vs. Vancouver Whitecaps FC*
 DTSTART:20260726T003000Z
 DTEND:20260726T023000Z
 DTSTAMP:20260726T003000Z
 UID:MLS-MAT-0009HW
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Vancouver Whiteca
- ps FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 0 - Vancouver Whiteca
+ ps FC 0
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

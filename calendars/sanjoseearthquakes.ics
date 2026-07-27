@@ -225,12 +225,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Orlando City
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. LA Galaxy
+SUMMARY:San Jose Earthquakes* vs. LA Galaxy*
 DTSTART:20260726T023000Z
 DTEND:20260726T043000Z
 DTSTAMP:20260726T023000Z
 UID:MLS-MAT-0009I5
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - LA Galaxy 1
 LOCATION:Stanford Stadium\, Stanford\, CA
 END:VEVENT
 BEGIN:VEVENT

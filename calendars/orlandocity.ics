@@ -183,12 +183,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 0 - Orlando City
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Nashville SC
+SUMMARY:Orlando City* vs. Nashville SC
 DTSTART:20260726T004600Z
 DTEND:20260726T024600Z
 DTSTAMP:20260726T004600Z
 UID:MLS-MAT-0009I1
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Nashville SC 0
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

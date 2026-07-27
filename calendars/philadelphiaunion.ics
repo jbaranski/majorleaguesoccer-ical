@@ -202,13 +202,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Red Bull New Yo
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Seattle Sounders FC
+SUMMARY:Philadelphia Union* vs. Seattle Sounders FC
 DTSTART:20260725T233000Z
 DTEND:20260726T013000Z
 DTSTAMP:20260725T233000Z
 UID:MLS-MAT-0009I2
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Seattle Sounder
- s FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Seattle Sounder
+ s FC 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
