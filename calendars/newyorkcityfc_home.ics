@@ -103,12 +103,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 3 - Chicago Fire FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Toronto FC
+SUMMARY:New York City FC* vs. Toronto FC*
 DTSTART:20260731T233000Z
 DTEND:20260801T013000Z
 DTSTAMP:20260731T233000Z
 UID:MLS-MAT-0009I7
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Toronto FC 1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
