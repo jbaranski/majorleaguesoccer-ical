@@ -207,13 +207,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Seattle Sounder
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Seattle Sounders FC
+SUMMARY:Portland Timbers* vs. Seattle Sounders FC
 DTSTART:20260802T024500Z
 DTEND:20260802T044500Z
 DTSTAMP:20260802T024500Z
 UID:MLS-MAT-0009IJ
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Seattle Sounders 
- FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Seattle Sounders 
+ FC 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
