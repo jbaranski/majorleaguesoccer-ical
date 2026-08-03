@@ -218,12 +218,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Colorado Rapids
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Real Salt Lake
+SUMMARY:St. Louis City SC* vs. Real Salt Lake*
 DTSTART:20260802T003000Z
 DTEND:20260802T023000Z
 DTSTAMP:20260802T003000Z
 UID:MLS-MAT-0009IK
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Real Salt Lake 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

@@ -108,12 +108,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - Seattle Sounder
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Atlanta United
+SUMMARY:Philadelphia Union* vs. Atlanta United
 DTSTART:20260801T233000Z
 DTEND:20260802T013000Z
 DTSTAMP:20260801T233000Z
 UID:MLS-MAT-0009II
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 3 - Atlanta United 
+ 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

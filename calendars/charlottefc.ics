@@ -204,12 +204,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - Charlotte FC 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Charlotte FC
+SUMMARY:Chicago Fire FC* vs. Charlotte FC
 DTSTART:20260802T003000Z
 DTEND:20260802T023000Z
 DTSTAMP:20260802T003000Z
 UID:MLS-MAT-0009I8
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Charlotte FC 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

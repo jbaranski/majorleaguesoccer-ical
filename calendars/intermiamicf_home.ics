@@ -115,12 +115,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Chicago Fire FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Columbus Crew
+SUMMARY:Inter Miami CF* vs. Columbus Crew*
 DTSTART:20260801T233000Z
 DTEND:20260802T013000Z
 DTSTAMP:20260801T233000Z
 UID:MLS-MAT-0009IE
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Columbus Crew 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

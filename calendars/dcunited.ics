@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Toronto FC 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Nashville SC
+SUMMARY:D.C. United* vs. Nashville SC*
 DTSTART:20260801T233000Z
 DTEND:20260802T013000Z
 DTSTAMP:20260801T233000Z
 UID:MLS-MAT-0009IB
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Nashville SC 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

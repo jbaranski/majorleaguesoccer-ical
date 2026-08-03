@@ -100,13 +100,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 2 - Minnesota Uni
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Houston Dynamo FC
+SUMMARY:Sporting Kansas City vs. Houston Dynamo FC*
 DTSTART:20260802T003000Z
 DTEND:20260802T023000Z
 DTSTAMP:20260802T003000Z
 UID:MLS-MAT-0009IC
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Houston Dynam
- o FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Houston Dynam
+ o FC 2
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
