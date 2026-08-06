@@ -213,12 +213,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Charlotte FC 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Pumas
+SUMMARY:Charlotte FC* vs. Pumas
 DTSTART:20260805T012200Z
 DTEND:20260805T032200Z
 DTSTAMP:20260805T012200Z
 UID:MLS-MAT-000A31
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Pumas
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 3 - Pumas 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

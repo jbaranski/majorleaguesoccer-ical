@@ -4074,48 +4074,49 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 1 - Real Salt Lake 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Atlas FC
+SUMMARY:Columbus Crew* vs. Atlas FC
 DTSTART:20260804T234500Z
 DTEND:20260805T014500Z
 DTSTAMP:20260804T234500Z
 UID:MLS-MAT-000A30
-DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Atlas FC
+DESCRIPTION:Leagues Cup\n\nColumbus Crew 3 - Atlas FC 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Club de Fútbol Pachuca
+SUMMARY:FC Cincinnati* vs. Club de Fútbol Pachuca
 DTSTART:20260804T234500Z
 DTEND:20260805T014500Z
 DTSTAMP:20260804T234500Z
 UID:MLS-MAT-000A32
-DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati 3 - Club de Fútbol Pachuca 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Pumas
+SUMMARY:Charlotte FC* vs. Pumas
 DTSTART:20260805T012200Z
 DTEND:20260805T032200Z
 DTSTAMP:20260805T012200Z
 UID:MLS-MAT-000A31
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Pumas
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 3 - Pumas 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Juárez
+SUMMARY:Minnesota United vs. FC Juárez*
 DTSTART:20260805T003000Z
 DTEND:20260805T023000Z
 DTSTAMP:20260805T003000Z
 UID:MLS-MAT-000A33
-DESCRIPTION:Leagues Cup\n\nMinnesota United vs. FC Juárez
+DESCRIPTION:Leagues Cup\n\nMinnesota United 1 - FC Juárez 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Real Salt Lake
+SUMMARY:Club Tigres* vs. Real Salt Lake
 DTSTART:20260805T020000Z
 DTEND:20260805T040000Z
 DTSTAMP:20260805T020000Z
 UID:MLS-MAT-000A34
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Real Salt Lake
+DESCRIPTION:Leagues Cup\n\nClub Tigres 1 (penalties: 6) - Real Salt Lake 1
+  (penalties: 5)
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
@@ -4137,16 +4138,6 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Atlético de San Luis
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City
-DTSTART:20260805T233000Z
-DTEND:20260806T013000Z
-DTSTAMP:20260805T233000Z
-UID:MLS-MAT-000A38
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
- lando City
-LOCATION:Inter.co Stadium\, Orlando\, FL
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D.C. United vs. Loudoun United FC
 DTSTART:20260805T233000Z
 DTEND:20260806T013000Z
@@ -4163,6 +4154,16 @@ DTSTAMP:20260806T003000Z
 UID:MLS-MAT-000A37
 DESCRIPTION:Leagues Cup\n\nNashville SC vs. Club León
 LOCATION:GEODIS Park\, Nashville\, TN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City
+DTSTART:20260806T005500Z
+DTEND:20260806T025500Z
+DTSTAMP:20260806T005500Z
+UID:MLS-MAT-000A38
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
+ lando City
+LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Dallas vs. Club Querétaro
