@@ -201,13 +201,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 3 - Orlando City 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City*
 DTSTART:20260806T005500Z
 DTEND:20260806T025500Z
 DTSTAMP:20260806T005500Z
 UID:MLS-MAT-000A38
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
- lando City
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 1 - Or
+ lando City 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

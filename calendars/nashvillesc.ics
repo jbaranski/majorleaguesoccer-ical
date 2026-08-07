@@ -247,12 +247,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Nashville SC 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Club León
+SUMMARY:Nashville SC vs. Club León*
 DTSTART:20260806T003000Z
 DTEND:20260806T023000Z
 DTSTAMP:20260806T003000Z
 UID:MLS-MAT-000A37
-DESCRIPTION:Leagues Cup\n\nNashville SC vs. Club León
+DESCRIPTION:Leagues Cup\n\nNashville SC 0 - Club León 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

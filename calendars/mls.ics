@@ -4129,67 +4129,69 @@ DESCRIPTION:Leagues Cup\n\nVancouver Whitecaps FC 0 - Atlante FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Atlético de San Luis
+SUMMARY:Inter Miami CF* vs. Atlético de San Luis
 DTSTART:20260805T233000Z
 DTEND:20260806T013000Z
 DTSTAMP:20260805T233000Z
 UID:MLS-MAT-000A36
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 4 - Atlético de San Luis 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Loudoun United FC
+SUMMARY:D.C. United vs. Loudoun United FC (result unknown)
 DTSTART:20260805T233000Z
 DTEND:20260806T013000Z
 DTSTAMP:20260805T233000Z
 UID:MLS-MAT-000AFK
-DESCRIPTION:Club Friendly Matches\n\nD.C. United vs. Loudoun United FC
+DESCRIPTION:Club Friendly Matches\n\nD.C. United ??? - Loudoun United FC ?
+ ??
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Club León
+SUMMARY:Nashville SC vs. Club León*
 DTSTART:20260806T003000Z
 DTEND:20260806T023000Z
 DTSTAMP:20260806T003000Z
 UID:MLS-MAT-000A37
-DESCRIPTION:Leagues Cup\n\nNashville SC vs. Club León
+DESCRIPTION:Leagues Cup\n\nNashville SC 0 - Club León 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Orlando City*
 DTSTART:20260806T005500Z
 DTEND:20260806T025500Z
 DTSTAMP:20260806T005500Z
 UID:MLS-MAT-000A38
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Or
- lando City
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 1 - Or
+ lando City 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Club Querétaro
+SUMMARY:FC Dallas* vs. Club Querétaro
 DTSTART:20260806T003000Z
 DTEND:20260806T023000Z
 DTSTAMP:20260806T003000Z
 UID:MLS-MAT-000A39
-DESCRIPTION:Leagues Cup\n\nFC Dallas vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nFC Dallas 2 - Club Querétaro 0
 LOCATION:Mansfield Stadium\, Mansfield. TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Seattle Sounders FC
+SUMMARY:Toluca FC* vs. Seattle Sounders FC
 DTSTART:20260806T020000Z
 DTEND:20260806T040000Z
 DTSTAMP:20260806T020000Z
 UID:MLS-MAT-000A3A
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Seattle Sounders FC
+DESCRIPTION:Leagues Cup\n\nToluca FC 3 - Seattle Sounders FC 0
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Chivas de Guadalajara
+SUMMARY:Los Angeles FC* vs. Chivas de Guadalajara
 DTSTART:20260806T023000Z
 DTEND:20260806T043000Z
 DTSTAMP:20260806T023000Z
 UID:MLS-MAT-000A3B
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Chivas de Guadalajara
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Chivas de Gua
+ dalajara 1 (penalties: 4)
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

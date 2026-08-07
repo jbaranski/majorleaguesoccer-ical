@@ -101,12 +101,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Vancouver Whitecaps FC 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Club Querétaro
+SUMMARY:FC Dallas* vs. Club Querétaro
 DTSTART:20260806T003000Z
 DTEND:20260806T023000Z
 DTSTAMP:20260806T003000Z
 UID:MLS-MAT-000A39
-DESCRIPTION:Leagues Cup\n\nFC Dallas vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nFC Dallas 2 - Club Querétaro 0
 LOCATION:Mansfield Stadium\, Mansfield. TX
 END:VEVENT
 BEGIN:VEVENT

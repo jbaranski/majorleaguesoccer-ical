@@ -233,12 +233,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Columbus Crew 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Atlético de San Luis
+SUMMARY:Inter Miami CF* vs. Atlético de San Luis
 DTSTART:20260805T233000Z
 DTEND:20260806T013000Z
 DTSTAMP:20260805T233000Z
 UID:MLS-MAT-000A36
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 4 - Atlético de San Luis 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
