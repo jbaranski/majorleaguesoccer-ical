@@ -210,12 +210,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 2 - Seattle Sounders
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Club Puebla
+SUMMARY:Portland Timbers* vs. Club Puebla
 DTSTART:20260807T023000Z
 DTEND:20260807T043000Z
 DTSTAMP:20260807T023000Z
 UID:MLS-MAT-000A3H
-DESCRIPTION:Leagues Cup\n\nPortland Timbers vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nPortland Timbers 5 - Club Puebla 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

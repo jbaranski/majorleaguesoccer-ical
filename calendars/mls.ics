@@ -4231,21 +4231,21 @@ DESCRIPTION:Leagues Cup\n\nAustin FC 2 - Club Tijuana 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. San Diego FC
+SUMMARY:Club América* vs. San Diego FC
 DTSTART:20260807T020000Z
 DTEND:20260807T040000Z
 DTSTAMP:20260807T020000Z
 UID:MLS-MAT-000A3G
-DESCRIPTION:Leagues Cup\n\nClub América vs. San Diego FC
+DESCRIPTION:Leagues Cup\n\nClub América 3 - San Diego FC 1
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Club Puebla
+SUMMARY:Portland Timbers* vs. Club Puebla
 DTSTART:20260807T023000Z
 DTEND:20260807T043000Z
 DTSTAMP:20260807T023000Z
 UID:MLS-MAT-000A3H
-DESCRIPTION:Leagues Cup\n\nPortland Timbers vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nPortland Timbers 5 - Club Puebla 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
