@@ -210,12 +210,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Austin FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Club Tijuana
+SUMMARY:Austin FC* vs. Club Tijuana
 DTSTART:20260807T010000Z
 DTEND:20260807T030000Z
 DTSTAMP:20260807T010000Z
 UID:MLS-MAT-000A3F
-DESCRIPTION:Leagues Cup\n\nAustin FC vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nAustin FC 2 - Club Tijuana 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

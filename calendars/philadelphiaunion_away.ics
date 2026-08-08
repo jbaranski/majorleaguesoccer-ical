@@ -115,12 +115,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 6 - Philadelphia Union
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Philadelphia Union
+SUMMARY:Cruz Azul* vs. Philadelphia Union
 DTSTART:20260807T000000Z
 DTEND:20260807T020000Z
 DTSTAMP:20260807T000000Z
 UID:MLS-MAT-000A3E
-DESCRIPTION:Leagues Cup\n\nCruz Azul vs. Philadelphia Union
+DESCRIPTION:Leagues Cup\n\nCruz Azul 1 - Philadelphia Union 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
