@@ -119,12 +119,12 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew 3 - Atlas FC 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Club de Fútbol Pachuca
+SUMMARY:Columbus Crew* vs. Club de Fútbol Pachuca
 DTSTART:20260807T233000Z
 DTEND:20260808T013000Z
 DTSTAMP:20260807T233000Z
 UID:MLS-MAT-000A3J
-DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nColumbus Crew 2 - Club de Fútbol Pachuca 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

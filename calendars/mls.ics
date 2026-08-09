@@ -4249,21 +4249,21 @@ DESCRIPTION:Leagues Cup\n\nPortland Timbers 5 - Club Puebla 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Atlas FC
+SUMMARY:Charlotte FC* vs. Atlas FC
 DTSTART:20260807T233000Z
 DTEND:20260808T013000Z
 DTSTAMP:20260807T233000Z
 UID:MLS-MAT-000A3I
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Atlas FC
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 2 - Atlas FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Club de Fútbol Pachuca
+SUMMARY:Columbus Crew* vs. Club de Fútbol Pachuca
 DTSTART:20260807T233000Z
 DTEND:20260808T013000Z
 DTSTAMP:20260807T233000Z
 UID:MLS-MAT-000A3J
-DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nColumbus Crew 2 - Club de Fútbol Pachuca 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -4277,21 +4277,22 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Pumas
+SUMMARY:FC Cincinnati* vs. Pumas
 DTSTART:20260808T002700Z
 DTEND:20260808T022700Z
 DTSTAMP:20260808T002700Z
 UID:MLS-MAT-000A3K
-DESCRIPTION:Leagues Cup\n\nFC Cincinnati vs. Pumas
+DESCRIPTION:Leagues Cup\n\nFC Cincinnati 2 - Pumas 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Minnesota United
+SUMMARY:Club Tigres* vs. Minnesota United
 DTSTART:20260808T010000Z
 DTEND:20260808T030000Z
 DTSTAMP:20260808T010000Z
 UID:MLS-MAT-000A3L
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Minnesota United
+DESCRIPTION:Leagues Cup\n\nClub Tigres 0 (penalties: 4) - Minnesota United
+  0 (penalties: 2)
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

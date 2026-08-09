@@ -139,12 +139,12 @@ DESCRIPTION:Leagues Cup\n\nCharlotte FC 3 - Pumas 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Atlas FC
+SUMMARY:Charlotte FC* vs. Atlas FC
 DTSTART:20260807T233000Z
 DTEND:20260808T013000Z
 DTSTAMP:20260807T233000Z
 UID:MLS-MAT-000A3I
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Atlas FC
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 2 - Atlas FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
