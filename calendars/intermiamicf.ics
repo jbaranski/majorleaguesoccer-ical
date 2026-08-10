@@ -242,13 +242,13 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 4 - Atlético de San Luis 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club de Fútbol Monterrey Rayados\, A.C.
+SUMMARY:Inter Miami CF vs. Club de Fútbol Monterrey Rayados\, A.C.*
 DTSTART:20260809T000000Z
 DTEND:20260809T020000Z
 DTSTAMP:20260809T000000Z
 UID:MLS-MAT-000A3P
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Club de Fútbol Monterrey Ra
- yados\, A.C.
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 1 - Club de Fútbol Monterrey Ra
+ yados\, A.C. 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

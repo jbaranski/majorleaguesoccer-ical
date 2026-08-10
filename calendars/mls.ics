@@ -4267,13 +4267,13 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew 2 - Club de Fútbol Pachuca 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Houston Dynamo FC
+SUMMARY:New England Revolution vs. Houston Dynamo FC*
 DTSTART:20260808T203000Z
 DTEND:20260808T223000Z
 DTSTAMP:20260808T203000Z
 UID:MLS-MAT-0009C6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Houston Dyn
+ amo FC 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
@@ -4305,12 +4305,12 @@ DESCRIPTION:Leagues Cup\n\nVancouver Whitecaps FC 1 - FC Juárez 3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Club León
+SUMMARY:Orlando City vs. Club León*
 DTSTART:20260808T223000Z
 DTEND:20260809T003000Z
 DTSTAMP:20260808T223000Z
 UID:MLS-MAT-000A3O
-DESCRIPTION:Leagues Cup\n\nOrlando City vs. Club León
+DESCRIPTION:Leagues Cup\n\nOrlando City 1 - Club León 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
@@ -4323,22 +4323,22 @@ DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Atlante FC
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club de Fútbol Monterrey Rayados\, A.C.
+SUMMARY:Inter Miami CF vs. Club de Fútbol Monterrey Rayados\, A.C.*
 DTSTART:20260809T000000Z
 DTEND:20260809T020000Z
 DTSTAMP:20260809T000000Z
 UID:MLS-MAT-000A3P
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Club de Fútbol Monterrey Ra
- yados\, A.C.
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 1 - Club de Fútbol Monterrey Ra
+ yados\, A.C. 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chivas de Guadalajara vs. FC Dallas
+SUMMARY:Chivas de Guadalajara vs. FC Dallas*
 DTSTART:20260809T010000Z
 DTEND:20260809T030000Z
 DTSTAMP:20260809T010000Z
 UID:MLS-MAT-000A3Q
-DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara vs. FC Dallas
+DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara 0 - FC Dallas 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

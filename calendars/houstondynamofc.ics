@@ -199,13 +199,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 0 - Houston Dynam
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Houston Dynamo FC
+SUMMARY:New England Revolution vs. Houston Dynamo FC*
 DTSTART:20260808T203000Z
 DTEND:20260808T223000Z
 DTSTAMP:20260808T203000Z
 UID:MLS-MAT-0009C6
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Houston Dyn
+ amo FC 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
