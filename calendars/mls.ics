@@ -4314,12 +4314,12 @@ DESCRIPTION:Leagues Cup\n\nOrlando City 1 - Club León 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Atlante FC
+SUMMARY:Real Salt Lake* vs. Atlante FC
 DTSTART:20260809T020000Z
 DTEND:20260809T040000Z
 DTSTAMP:20260809T020000Z
 UID:MLS-MAT-000A3M
-DESCRIPTION:Leagues Cup\n\nReal Salt Lake vs. Atlante FC
+DESCRIPTION:Leagues Cup\n\nReal Salt Lake 4 - Atlante FC 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
@@ -4342,12 +4342,12 @@ DESCRIPTION:Leagues Cup\n\nChivas de Guadalajara 0 - FC Dallas 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Los Angeles FC
+SUMMARY:Toluca FC vs. Los Angeles FC*
 DTSTART:20260809T031000Z
 DTEND:20260809T051000Z
 DTSTAMP:20260809T031000Z
 UID:MLS-MAT-000A3R
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Los Angeles FC
+DESCRIPTION:Leagues Cup\n\nToluca FC 0 - Los Angeles FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -291,12 +291,12 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Chivas de Gua
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Los Angeles FC
+SUMMARY:Toluca FC vs. Los Angeles FC*
 DTSTART:20260809T031000Z
 DTEND:20260809T051000Z
 DTSTAMP:20260809T031000Z
 UID:MLS-MAT-000A3R
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Los Angeles FC
+DESCRIPTION:Leagues Cup\n\nToluca FC 0 - Los Angeles FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
