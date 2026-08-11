@@ -221,12 +221,12 @@ DESCRIPTION:Leagues Cup\n\nClub América 3 - San Diego FC 1
 LOCATION:Estadio Banorte\, Mexico City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Tijuana
+SUMMARY:San Diego FC* vs. Club Tijuana
 DTSTART:20260810T020000Z
 DTEND:20260810T040000Z
 DTSTAMP:20260810T020000Z
 UID:MLS-MAT-000A3Z
-DESCRIPTION:Leagues Cup\n\nSan Diego FC vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nSan Diego FC 1 - Club Tijuana 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

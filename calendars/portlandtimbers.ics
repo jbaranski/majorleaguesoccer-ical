@@ -219,12 +219,12 @@ DESCRIPTION:Leagues Cup\n\nPortland Timbers 5 - Club Puebla 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Portland Timbers
+SUMMARY:Club América* vs. Portland Timbers
 DTSTART:20260810T021500Z
 DTEND:20260810T041500Z
 DTSTAMP:20260810T021500Z
 UID:MLS-MAT-000A3X
-DESCRIPTION:Leagues Cup\n\nClub América vs. Portland Timbers
+DESCRIPTION:Leagues Cup\n\nClub América 3 - Portland Timbers 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
