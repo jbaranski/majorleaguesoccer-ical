@@ -231,12 +231,12 @@ DESCRIPTION:Leagues Cup\n\nCruz Azul 1 - Philadelphia Union 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Club Necaxa
+SUMMARY:Philadelphia Union* vs. Club Necaxa
 DTSTART:20260809T233000Z
 DTEND:20260810T013000Z
 DTSTAMP:20260809T233000Z
 UID:MLS-MAT-000A3S
-DESCRIPTION:Leagues Cup\n\nPhiladelphia Union vs. Club Necaxa
+DESCRIPTION:Leagues Cup\n\nPhiladelphia Union 3 - Club Necaxa 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

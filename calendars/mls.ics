@@ -4351,57 +4351,57 @@ DESCRIPTION:Leagues Cup\n\nToluca FC 0 - Los Angeles FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Club Necaxa
+SUMMARY:Philadelphia Union* vs. Club Necaxa
 DTSTART:20260809T233000Z
 DTEND:20260810T013000Z
 DTSTAMP:20260809T233000Z
 UID:MLS-MAT-000A3S
-DESCRIPTION:Leagues Cup\n\nPhiladelphia Union vs. Club Necaxa
+DESCRIPTION:Leagues Cup\n\nPhiladelphia Union 3 - Club Necaxa 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. New York City FC
+SUMMARY:Cruz Azul* vs. New York City FC
 DTSTART:20260809T233000Z
 DTEND:20260810T013000Z
 DTSTAMP:20260809T233000Z
 UID:MLS-MAT-000A3U
-DESCRIPTION:Leagues Cup\n\nCruz Azul vs. New York City FC
+DESCRIPTION:Leagues Cup\n\nCruz Azul 2 - New York City FC 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Club Querétaro
+SUMMARY:Seattle Sounders FC* vs. Club Querétaro
 DTSTART:20260809T193000Z
 DTEND:20260809T213000Z
 DTSTAMP:20260809T193000Z
 UID:MLS-MAT-000A3Y
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 3 - Club Querétaro 0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Club Santos Laguna
+SUMMARY:Chicago Fire FC* vs. Club Santos Laguna
 DTSTART:20260810T000000Z
 DTEND:20260810T020000Z
 DTSTAMP:20260810T000000Z
 UID:MLS-MAT-000A3T
-DESCRIPTION:Leagues Cup\n\nChicago Fire FC vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nChicago Fire FC 3 - Club Santos Laguna 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Atlético de San Luis
+SUMMARY:Nashville SC* vs. Atlético de San Luis
 DTSTART:20260810T000000Z
 DTEND:20260810T020000Z
 DTSTAMP:20260810T000000Z
 UID:MLS-MAT-000A3V
-DESCRIPTION:Leagues Cup\n\nNashville SC vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nNashville SC 4 - Atlético de San Luis 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Club Puebla
+SUMMARY:Austin FC* vs. Club Puebla
 DTSTART:20260810T010000Z
 DTEND:20260810T030000Z
 DTSTAMP:20260810T010000Z
 UID:MLS-MAT-000A3W
-DESCRIPTION:Leagues Cup\n\nAustin FC vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nAustin FC 3 - Club Puebla 0
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
@@ -5672,15 +5672,6 @@ DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver White
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Tijuana
-DTSTART:20260916T160000Z
-DTEND:20260916T180000Z
-DTSTAMP:20260916T160000Z
-UID:MLS-MAT-000AC6
-DESCRIPTION:Club Friendly Matches\n\nSan Diego FC vs. Club Tijuana
-LOCATION:Snapdragon Stadium\, San Diego
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inter Miami CF vs. Cruz Azul
 DTSTART:20260916T160000Z
 DTEND:20260916T180000Z
@@ -5697,6 +5688,15 @@ DTSTAMP:20260917T013000Z
 UID:MLS-MAT-000A8N
 DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. St. Louis City SC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego FC vs. Club Tijuana
+DTSTART:20260917T020000Z
+DTEND:20260917T040000Z
+DTSTAMP:20260917T020000Z
+UID:MLS-MAT-000AC6
+DESCRIPTION:Club Friendly Matches\n\nSan Diego FC vs. Club Tijuana
+LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York City FC vs. Red Bull New York

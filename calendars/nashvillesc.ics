@@ -256,12 +256,12 @@ DESCRIPTION:Leagues Cup\n\nNashville SC 0 - Club León 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Atlético de San Luis
+SUMMARY:Nashville SC* vs. Atlético de San Luis
 DTSTART:20260810T000000Z
 DTEND:20260810T020000Z
 DTSTAMP:20260810T000000Z
 UID:MLS-MAT-000A3V
-DESCRIPTION:Leagues Cup\n\nNashville SC vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nNashville SC 4 - Atlético de San Luis 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

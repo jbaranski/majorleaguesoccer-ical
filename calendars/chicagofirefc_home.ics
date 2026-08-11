@@ -122,12 +122,12 @@ DESCRIPTION:Leagues Cup\n\nChicago Fire FC 2 - Club Necaxa 0
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Club Santos Laguna
+SUMMARY:Chicago Fire FC* vs. Club Santos Laguna
 DTSTART:20260810T000000Z
 DTEND:20260810T020000Z
 DTSTAMP:20260810T000000Z
 UID:MLS-MAT-000A3T
-DESCRIPTION:Leagues Cup\n\nChicago Fire FC vs. Club Santos Laguna
+DESCRIPTION:Leagues Cup\n\nChicago Fire FC 3 - Club Santos Laguna 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
