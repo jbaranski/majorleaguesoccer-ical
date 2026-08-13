@@ -257,12 +257,13 @@ DESCRIPTION:Leagues Cup\n\nVancouver Whitecaps FC 1 - FC Juárez 3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Tigres vs. Vancouver Whitecaps FC
+SUMMARY:Club Tigres* vs. Vancouver Whitecaps FC
 DTSTART:20260812T020000Z
 DTEND:20260812T040000Z
 DTSTAMP:20260812T020000Z
 UID:MLS-MAT-000A45
-DESCRIPTION:Leagues Cup\n\nClub Tigres vs. Vancouver Whitecaps FC
+DESCRIPTION:Leagues Cup\n\nClub Tigres 1 (penalties: 5) - Vancouver Whitec
+ aps FC 1 (penalties: 4)
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
