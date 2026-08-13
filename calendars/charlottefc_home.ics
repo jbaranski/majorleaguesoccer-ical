@@ -148,12 +148,12 @@ DESCRIPTION:Leagues Cup\n\nCharlotte FC 2 - Atlas FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Club de Fútbol Pachuca
+SUMMARY:Charlotte FC vs. Club de Fútbol Pachuca*
 DTSTART:20260812T005200Z
 DTEND:20260812T025200Z
 DTSTAMP:20260812T005200Z
 UID:MLS-MAT-000A41
-DESCRIPTION:Leagues Cup\n\nCharlotte FC vs. Club de Fútbol Pachuca
+DESCRIPTION:Leagues Cup\n\nCharlotte FC 0 - Club de Fútbol Pachuca 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

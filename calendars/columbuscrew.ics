@@ -220,12 +220,13 @@ DESCRIPTION:Leagues Cup\n\nColumbus Crew 2 - Club de Fútbol Pachuca 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Pumas
+SUMMARY:Columbus Crew* vs. Pumas
 DTSTART:20260811T233000Z
 DTEND:20260812T013000Z
 DTSTAMP:20260811T233000Z
 UID:MLS-MAT-000A40
-DESCRIPTION:Leagues Cup\n\nColumbus Crew vs. Pumas
+DESCRIPTION:Leagues Cup\n\nColumbus Crew 1 (penalties: 3) - Pumas 1 (penal
+ ties: 2)
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
