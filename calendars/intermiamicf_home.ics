@@ -143,12 +143,12 @@ DESCRIPTION:Leagues Cup\n\nInter Miami CF 1 - Club de Fútbol Monterrey Ra
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club León
+SUMMARY:Inter Miami CF vs. Club León*
 DTSTART:20260812T233000Z
 DTEND:20260813T013000Z
 DTSTAMP:20260812T233000Z
 UID:MLS-MAT-000A47
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Club León
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 - Club León 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

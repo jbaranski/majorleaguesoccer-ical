@@ -4489,31 +4489,32 @@ DESCRIPTION:Leagues Cup\n\nClub Tigres 1 (penalties: 5) - Vancouver Whitec
 LOCATION:Estadio Universitario\, San Nicolás de los Garza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Atlético de San Luis
+SUMMARY:Orlando City* vs. Atlético de San Luis
 DTSTART:20260812T233000Z
 DTEND:20260813T013000Z
 DTSTAMP:20260812T233000Z
 UID:MLS-MAT-000A46
-DESCRIPTION:Leagues Cup\n\nOrlando City vs. Atlético de San Luis
+DESCRIPTION:Leagues Cup\n\nOrlando City 2 (penalties: 5) - Atlético de Sa
+ n Luis 2 (penalties: 3)
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Club León
+SUMMARY:Inter Miami CF vs. Club León*
 DTSTART:20260812T233000Z
 DTEND:20260813T013000Z
 DTSTAMP:20260812T233000Z
 UID:MLS-MAT-000A47
-DESCRIPTION:Leagues Cup\n\nInter Miami CF vs. Club León
+DESCRIPTION:Leagues Cup\n\nInter Miami CF 2 - Club León 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Nashville SC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C.* vs. Nashville SC
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 DTSTAMP:20260813T000000Z
 UID:MLS-MAT-000A48
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Na
- shville SC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - Na
+ shville SC 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
