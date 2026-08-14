@@ -230,12 +230,12 @@ DESCRIPTION:Leagues Cup\n\nSan Diego FC 1 - Club Tijuana 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Puebla
+SUMMARY:San Diego FC* vs. Club Puebla
 DTSTART:20260813T021500Z
 DTEND:20260813T041500Z
 DTSTAMP:20260813T021500Z
 UID:MLS-MAT-000A4F
-DESCRIPTION:Leagues Cup\n\nSan Diego FC vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nSan Diego FC 3 - Club Puebla 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

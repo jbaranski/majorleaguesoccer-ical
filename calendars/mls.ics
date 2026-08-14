@@ -4518,21 +4518,22 @@ DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - Na
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. FC Dallas
+SUMMARY:Toluca FC* vs. FC Dallas
 DTSTART:20260813T020000Z
 DTEND:20260813T040000Z
 DTSTAMP:20260813T020000Z
 UID:MLS-MAT-000A49
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. FC Dallas
+DESCRIPTION:Leagues Cup\n\nToluca FC 3 - FC Dallas 1
 LOCATION:Estadio Nemesio Diez\, Toluca
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club Querétaro
+SUMMARY:Los Angeles FC* vs. Club Querétaro
 DTSTART:20260813T023000Z
 DTEND:20260813T043000Z
 DTSTAMP:20260813T023000Z
 UID:MLS-MAT-000A4A
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Club Queréta
+ ro 1 (penalties: 3)
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -4554,21 +4555,21 @@ DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club Necaxa
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Puebla
+SUMMARY:San Diego FC* vs. Club Puebla
 DTSTART:20260813T021500Z
 DTEND:20260813T041500Z
 DTSTAMP:20260813T021500Z
 UID:MLS-MAT-000A4F
-DESCRIPTION:Leagues Cup\n\nSan Diego FC vs. Club Puebla
+DESCRIPTION:Leagues Cup\n\nSan Diego FC 3 - Club Puebla 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Chivas de Guadalajara
+SUMMARY:Seattle Sounders FC vs. Chivas de Guadalajara*
 DTSTART:20260813T023000Z
 DTEND:20260813T043000Z
 DTSTAMP:20260813T023000Z
 UID:MLS-MAT-000A4H
-DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC vs. Chivas de Guadalajara
+DESCRIPTION:Leagues Cup\n\nSeattle Sounders FC 1 - Chivas de Guadalajara 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -5014,39 +5015,40 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. New York Ci
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Club León vs. Real Salt Lake
 DTSTART:20260825T160000Z
 DTEND:20260825T180000Z
 DTSTAMP:20260825T160000Z
 UID:MLS-MAT-000A5I
-DESCRIPTION:Leagues Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:Leagues Cup\n\nClub León vs. Real Salt Lake
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Toluca FC vs. Austin FC
 DTSTART:20260826T160000Z
 DTEND:20260826T180000Z
 DTSTAMP:20260826T160000Z
 UID:MLS-MAT-000A5J
-DESCRIPTION:Leagues Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:Leagues Cup\n\nToluca FC vs. Austin FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Chicago Fire FC
 DTSTART:20260827T160000Z
 DTEND:20260827T180000Z
 DTSTAMP:20260827T160000Z
 UID:MLS-MAT-000A5K
-DESCRIPTION:Leagues Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
+ icago Fire FC
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. TBC Away
+SUMMARY:Club América vs. Columbus Crew
 DTSTART:20260827T160000Z
 DTEND:20260827T180000Z
 DTSTAMP:20260827T160000Z
 UID:MLS-MAT-000A5L
-DESCRIPTION:Leagues Cup\n\nTBC Home vs. TBC Away
+DESCRIPTION:Leagues Cup\n\nClub América vs. Columbus Crew
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT

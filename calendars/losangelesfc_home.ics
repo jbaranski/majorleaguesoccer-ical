@@ -171,12 +171,13 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Chivas de Gua
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Club Querétaro
+SUMMARY:Los Angeles FC* vs. Club Querétaro
 DTSTART:20260813T023000Z
 DTEND:20260813T043000Z
 DTSTAMP:20260813T023000Z
 UID:MLS-MAT-000A4A
-DESCRIPTION:Leagues Cup\n\nLos Angeles FC vs. Club Querétaro
+DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Club Queréta
+ ro 1 (penalties: 3)
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
