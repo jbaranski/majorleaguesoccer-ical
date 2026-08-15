@@ -4592,12 +4592,12 @@ DESCRIPTION:Leagues Cup\n\nClub América 1 (penalties: 5) - Austin FC 1 (p
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Club Tijuana
+SUMMARY:Portland Timbers* vs. Club Tijuana
 DTSTART:20260814T023000Z
 DTEND:20260814T043000Z
 DTSTAMP:20260814T023000Z
 UID:MLS-MAT-000A4G
-DESCRIPTION:Leagues Cup\n\nPortland Timbers vs. Club Tijuana
+DESCRIPTION:Leagues Cup\n\nPortland Timbers 3 - Club Tijuana 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
