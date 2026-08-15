@@ -232,12 +232,12 @@ DESCRIPTION:Leagues Cup\n\nChicago Fire FC 3 - Club Santos Laguna 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cruz Azul vs. Chicago Fire FC
+SUMMARY:Cruz Azul vs. Chicago Fire FC*
 DTSTART:20260814T010000Z
 DTEND:20260814T030000Z
 DTSTAMP:20260814T010000Z
 UID:MLS-MAT-000A4D
-DESCRIPTION:Leagues Cup\n\nCruz Azul vs. Chicago Fire FC
+DESCRIPTION:Leagues Cup\n\nCruz Azul 1 - Chicago Fire FC 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -269,13 +269,13 @@ LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Chicago Fire FC
-DTSTART:20260827T160000Z
-DTEND:20260827T180000Z
-DTSTAMP:20260827T160000Z
+DTSTART:20260826T003000Z
+DTEND:20260826T023000Z
+DTSTAMP:20260826T003000Z
 UID:MLS-MAT-000A5K
 DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
  icago Fire FC
-LOCATION:TBC\, unknown
+LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Sounders FC vs. Chicago Fire FC

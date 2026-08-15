@@ -121,12 +121,12 @@ DESCRIPTION:Leagues Cup\n\nNew York City FC 2 - Club Santos Laguna 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Club Necaxa
+SUMMARY:New York City FC vs. Club Necaxa*
 DTSTART:20260813T233000Z
 DTEND:20260814T013000Z
 DTSTAMP:20260813T233000Z
 UID:MLS-MAT-000A4C
-DESCRIPTION:Leagues Cup\n\nNew York City FC vs. Club Necaxa
+DESCRIPTION:Leagues Cup\n\nNew York City FC 1 - Club Necaxa 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
