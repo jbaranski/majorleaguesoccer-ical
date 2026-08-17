@@ -248,12 +248,12 @@ DESCRIPTION:Leagues Cup\n\nFC Cincinnati 1 - Atlas FC 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. FC Cincinnati
+SUMMARY:Orlando City* vs. FC Cincinnati*
 DTSTART:20260815T233000Z
 DTEND:20260816T013000Z
 DTSTAMP:20260815T233000Z
 UID:MLS-MAT-0009IU
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - FC Cincinnati 1
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

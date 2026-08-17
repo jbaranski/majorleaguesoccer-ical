@@ -209,12 +209,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Houston Dyn
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. LA Galaxy
+SUMMARY:Houston Dynamo FC* vs. LA Galaxy
 DTSTART:20260816T003000Z
 DTEND:20260816T023000Z
 DTSTAMP:20260816T003000Z
 UID:MLS-MAT-0009IQ
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - LA Galaxy 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

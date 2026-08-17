@@ -103,12 +103,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Columbus Crew 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Columbus Crew
+SUMMARY:Charlotte FC* vs. Columbus Crew
 DTSTART:20260815T233000Z
 DTEND:20260816T013000Z
 DTSTAMP:20260815T233000Z
 UID:MLS-MAT-0009IO
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Columbus Crew 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

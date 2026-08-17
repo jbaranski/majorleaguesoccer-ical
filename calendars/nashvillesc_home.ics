@@ -147,12 +147,12 @@ DESCRIPTION:Leagues Cup\n\nNashville SC 4 - Atlético de San Luis 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Inter Miami CF
+SUMMARY:Nashville SC* vs. Inter Miami CF
 DTSTART:20260816T003000Z
 DTEND:20260816T023000Z
 DTSTAMP:20260816T003000Z
 UID:MLS-MAT-0009IT
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - Inter Miami CF 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
