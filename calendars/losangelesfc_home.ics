@@ -181,12 +181,12 @@ DESCRIPTION:Leagues Cup\n\nLos Angeles FC 1 (penalties: 5) - Club Queréta
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. San Diego FC
+SUMMARY:Los Angeles FC vs. San Diego FC*
 DTSTART:20260816T023000Z
 DTEND:20260816T043000Z
 DTSTAMP:20260816T023000Z
 UID:MLS-MAT-0009IR
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 0 - San Diego FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

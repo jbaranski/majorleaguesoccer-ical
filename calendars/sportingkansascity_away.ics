@@ -129,13 +129,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 4 - Sporting Kansas Cit
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Sporting Kansas City
+SUMMARY:Colorado Rapids* vs. Sporting Kansas City
 DTSTART:20260816T013000Z
 DTEND:20260816T033000Z
 DTSTAMP:20260816T013000Z
 UID:MLS-MAT-0009IP
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Sporting Kansas Ci
- ty
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Sporting Kansas Ci
+ ty 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

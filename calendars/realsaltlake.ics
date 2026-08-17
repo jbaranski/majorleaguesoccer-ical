@@ -195,12 +195,12 @@ DESCRIPTION:Leagues Cup\n\nReal Salt Lake 3 - FC Juárez 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. Minnesota United
+SUMMARY:Real Salt Lake* vs. Minnesota United*
 DTSTART:20260816T013000Z
 DTEND:20260816T033000Z
 DTSTAMP:20260816T013000Z
 UID:MLS-MAT-0009IV
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Minnesota United 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
