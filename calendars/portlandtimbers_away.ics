@@ -125,12 +125,12 @@ DESCRIPTION:Leagues Cup\n\nClub América 3 - Portland Timbers 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Portland Timbers
+SUMMARY:Chicago Fire FC* vs. Portland Timbers
 DTSTART:20260816T220000Z
 DTEND:20260817T000000Z
 DTSTAMP:20260816T220000Z
 UID:MLS-MAT-0009IY
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Portland Timbers 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
