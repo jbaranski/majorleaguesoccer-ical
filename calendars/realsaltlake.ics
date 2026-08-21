@@ -204,12 +204,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Minnesota United 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. FC Dallas
+SUMMARY:Real Salt Lake vs. FC Dallas*
 DTSTART:20260820T013000Z
 DTEND:20260820T033000Z
 DTSTAMP:20260820T013000Z
 UID:MLS-MAT-0009JC
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - FC Dallas 4
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

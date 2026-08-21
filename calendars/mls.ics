@@ -4806,12 +4806,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Charlotte FC 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Los Angeles FC
+SUMMARY:Colorado Rapids* vs. Los Angeles FC
 DTSTART:20260820T013000Z
 DTEND:20260820T033000Z
 DTSTAMP:20260820T013000Z
 UID:MLS-MAT-0009J2
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Los Angeles FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -4825,12 +4825,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - St. Louis Cit
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. San Jose Earthquakes
+SUMMARY:LA Galaxy* vs. San Jose Earthquakes
 DTSTART:20260820T023000Z
 DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009J6
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - San Jose Earthquakes 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -4843,40 +4843,40 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Atlanta United 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. San Diego FC
+SUMMARY:Portland Timbers* vs. San Diego FC
 DTSTART:20260820T023000Z
 DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009JB
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - San Diego FC 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. FC Dallas
+SUMMARY:Real Salt Lake vs. FC Dallas*
 DTSTART:20260820T013000Z
 DTEND:20260820T033000Z
 DTSTAMP:20260820T013000Z
 UID:MLS-MAT-0009JC
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - FC Dallas 4
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Austin FC
+SUMMARY:Seattle Sounders FC vs. Austin FC*
 DTSTART:20260820T013000Z
 DTEND:20260820T033000Z
 DTSTAMP:20260820T013000Z
 UID:MLS-MAT-0009JD
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Austin FC 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC
+SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC*
 DTSTART:20260820T023000Z
 DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009JF
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 0 - Houston Dyn
+ amo FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

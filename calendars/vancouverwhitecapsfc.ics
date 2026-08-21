@@ -277,13 +277,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 0 - Vancouver Whit
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC
+SUMMARY:Vancouver Whitecaps FC vs. Houston Dynamo FC*
 DTSTART:20260820T023000Z
 DTEND:20260820T043000Z
 DTSTAMP:20260820T023000Z
 UID:MLS-MAT-0009JF
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Houston Dyn
- amo FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 0 - Houston Dyn
+ amo FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
