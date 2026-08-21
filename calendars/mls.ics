@@ -4741,66 +4741,68 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 0 - Vancouver Whit
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New York City FC
+SUMMARY:FC Cincinnati* vs. New York City FC
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J1
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - New York City FC 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. CF Montreal
+SUMMARY:Columbus Crew vs. CF Montreal*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J3
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - CF Montreal 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New England Revolution
+SUMMARY:D.C. United vs. New England Revolution*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J4
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New England Revolution
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New England Revolution
+  3
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. Nashville SC
+SUMMARY:Red Bull New York vs. Nashville SC*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J8
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - Nashville SC 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Chicago Fire FC
+SUMMARY:Orlando City vs. Chicago Fire FC*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J9
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Chicago Fire FC 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Inter Miami CF
+SUMMARY:Philadelphia Union* vs. Inter Miami CF*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009JA
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Inter Miami CF 
+ 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Charlotte FC
+SUMMARY:Toronto FC* vs. Charlotte FC*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009JE
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Charlotte FC 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
@@ -4813,13 +4815,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Los Angeles FC
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. St. Louis City SC
+SUMMARY:Sporting Kansas City* vs. St. Louis City SC*
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 DTSTAMP:20260820T000000Z
 UID:MLS-MAT-0009J5
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. St. Louis Cit
- y SC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - St. Louis Cit
+ y SC 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
@@ -4832,12 +4834,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Jose Earthquakes
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Atlanta United
+SUMMARY:Minnesota United vs. Atlanta United*
 DTSTART:20260820T003000Z
 DTEND:20260820T023000Z
 DTSTAMP:20260820T003000Z
 UID:MLS-MAT-0009J7
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Atlanta United 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

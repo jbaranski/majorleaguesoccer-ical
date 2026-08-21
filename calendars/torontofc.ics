@@ -204,12 +204,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - New England Revolution
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Charlotte FC
+SUMMARY:Toronto FC* vs. Charlotte FC*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009JE
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Charlotte FC 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

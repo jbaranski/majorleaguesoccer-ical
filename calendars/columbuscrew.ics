@@ -239,12 +239,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - Columbus Crew 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. CF Montreal
+SUMMARY:Columbus Crew vs. CF Montreal*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J3
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - CF Montreal 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

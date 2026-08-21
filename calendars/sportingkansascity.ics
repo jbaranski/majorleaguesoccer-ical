@@ -238,13 +238,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Sporting Kansas Ci
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. St. Louis City SC
+SUMMARY:Sporting Kansas City* vs. St. Louis City SC*
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 DTSTAMP:20260820T000000Z
 UID:MLS-MAT-0009J5
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. St. Louis Cit
- y SC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - St. Louis Cit
+ y SC 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

@@ -120,12 +120,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - FC Cincinnati 1
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Chicago Fire FC
+SUMMARY:Orlando City vs. Chicago Fire FC*
 DTSTART:20260819T233000Z
 DTEND:20260820T013000Z
 DTSTAMP:20260819T233000Z
 UID:MLS-MAT-0009J9
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Chicago Fire FC 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
