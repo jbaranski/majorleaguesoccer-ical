@@ -3,7 +3,9 @@ import os
 from collections.abc import Callable
 
 from src.pipeline.context import CompetitionContext, CompetitionType
-from src.pipeline.steps.aggregate import aggregate_international_calendars
+
+# International team handling disabled for now
+# from src.pipeline.steps.aggregate import aggregate_international_calendars
 from src.pipeline.steps.fetch_fixtures import fetch_fixtures
 from src.pipeline.steps.fetch_teams import fetch_teams
 from src.pipeline.steps.generate import generate_calendars
@@ -25,9 +27,10 @@ MLS_NUM_TEAMS_EXPECTED = int(os.getenv("MLS_NUM_TEAMS_EXPECTED", 30))
 MLS_LEAGUE_COMPETITIONS: frozenset[str] = frozenset(
     os.getenv("MLS_LEAGUE_COMPETITIONS", "").split(",")
 ) - {""}
-MLS_INTERNATIONAL_COMPETITIONS: frozenset[str] = frozenset(
-    os.getenv("MLS_INTERNATIONAL_COMPETITIONS", "").split(",")
-) - {""}
+# International team handling disabled for now
+# MLS_INTERNATIONAL_COMPETITIONS: frozenset[str] = frozenset(
+#     os.getenv("MLS_INTERNATIONAL_COMPETITIONS", "").split(",")
+# ) - {""}
 
 assert MLS_SEASONS, "MLS_SEASONS env var is required"
 assert all(len(s) == 2 for s in MLS_SEASONS), (
@@ -71,24 +74,28 @@ def main() -> None:
             provider=provider,
             num_teams_expected=MLS_NUM_TEAMS_EXPECTED,
         ),
-        *[
-            CompetitionContext(
-                competition_id=t_id,
-                competition_type=CompetitionType.INTERNATIONAL,
-                seasons=MLS_SEASONS,
-                included_competition_ids=frozenset(),
-                output_root=OUTPUT_ROOT,
-                provider=provider,
-            )
-            for t_id in MLS_INTERNATIONAL_COMPETITIONS
-        ],
+        # International team handling disabled for now
+        # *[
+        #     CompetitionContext(
+        #         competition_id=t_id,
+        #         competition_type=CompetitionType.INTERNATIONAL,
+        #         seasons=MLS_SEASONS,
+        #         included_competition_ids=frozenset(),
+        #         output_root=OUTPUT_ROOT,
+        #         provider=provider,
+        #     )
+        #     for t_id in MLS_INTERNATIONAL_COMPETITIONS
+        # ],
     ]
 
-    final_contexts = [run_pipeline(ctx, pipeline) for ctx in competitions]
-    international_contexts = [
-        c for c in final_contexts if c.competition_type == CompetitionType.INTERNATIONAL
-    ]
-    aggregate_international_calendars(international_contexts, OUTPUT_ROOT)
+    for ctx in competitions:
+        run_pipeline(ctx, pipeline)
+    # International team handling disabled for now
+    # final_contexts = [run_pipeline(ctx, pipeline) for ctx in competitions]
+    # international_contexts = [
+    #     c for c in final_contexts if c.competition_type == CompetitionType.INTERNATIONAL
+    # ]
+    # aggregate_international_calendars(international_contexts, OUTPUT_ROOT)
 
 
 if __name__ == "__main__":
