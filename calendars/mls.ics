@@ -4945,12 +4945,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Philadelphia Union 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Portland Timbers
+SUMMARY:Los Angeles FC* vs. Portland Timbers*
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JJ
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -4963,22 +4963,22 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Columbus Crew 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Colorado Rapids
+SUMMARY:San Diego FC* vs. Colorado Rapids
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JP
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Colorado Rapids 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United
+SUMMARY:San Jose Earthquakes vs. Minnesota United*
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JQ
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Minnesota Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Minnesota Uni
+ ted 5
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -4992,12 +4992,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Houston Dynamo F
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. FC Dallas
+SUMMARY:Vancouver Whitecaps FC* vs. FC Dallas
 DTSTART:20260823T013000Z
 DTEND:20260823T033000Z
 DTSTAMP:20260823T013000Z
 UID:MLS-MAT-0009JS
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 5 - FC Dallas 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

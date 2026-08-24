@@ -255,12 +255,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - San Diego FC 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Portland Timbers
+SUMMARY:Los Angeles FC* vs. Portland Timbers*
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JJ
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

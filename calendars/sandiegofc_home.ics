@@ -138,12 +138,12 @@ DESCRIPTION:Leagues Cup\n\nSan Diego FC 3 - Club Puebla 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Colorado Rapids
+SUMMARY:San Diego FC* vs. Colorado Rapids
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JP
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Colorado Rapids 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

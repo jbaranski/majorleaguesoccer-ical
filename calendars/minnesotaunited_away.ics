@@ -152,13 +152,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - Minnesota United 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Minnesota United
+SUMMARY:San Jose Earthquakes vs. Minnesota United*
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JQ
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Minnesota Uni
- ted
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Minnesota Uni
+ ted 5
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

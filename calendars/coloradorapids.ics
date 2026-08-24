@@ -236,12 +236,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Los Angeles FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Colorado Rapids
+SUMMARY:San Diego FC* vs. Colorado Rapids
 DTSTART:20260823T023000Z
 DTEND:20260823T043000Z
 DTSTAMP:20260823T023000Z
 UID:MLS-MAT-0009JP
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - Colorado Rapids 0
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
