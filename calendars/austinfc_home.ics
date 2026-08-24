@@ -129,12 +129,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - FC Dallas 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Philadelphia Union
+SUMMARY:Austin FC* vs. Philadelphia Union*
 DTSTART:20260823T010000Z
 DTEND:20260823T030000Z
 DTSTAMP:20260823T010000Z
 UID:MLS-MAT-0009JG
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Philadelphia Union 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

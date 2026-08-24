@@ -248,12 +248,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - CF Montreal 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Columbus Crew
+SUMMARY:Nashville SC* vs. Columbus Crew
 DTSTART:20260823T003000Z
 DTEND:20260823T023000Z
 DTSTAMP:20260823T003000Z
 UID:MLS-MAT-0009JM
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Columbus Crew 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

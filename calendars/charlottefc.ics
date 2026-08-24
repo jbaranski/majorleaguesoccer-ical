@@ -258,12 +258,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Charlotte FC 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. D.C. United
+SUMMARY:Charlotte FC* vs. D.C. United
 DTSTART:20260822T233000Z
 DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JH
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - D.C. United 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

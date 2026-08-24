@@ -285,12 +285,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - San Jose Earthquakes 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. LA Galaxy
+SUMMARY:CF Montreal* vs. LA Galaxy*
 DTSTART:20260822T233000Z
 DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JL
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - LA Galaxy 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

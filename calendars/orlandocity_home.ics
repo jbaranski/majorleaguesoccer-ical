@@ -129,12 +129,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - Chicago Fire FC 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Real Salt Lake
+SUMMARY:Orlando City* vs. Real Salt Lake
 DTSTART:20260822T233000Z
 DTEND:20260823T013000Z
 DTSTAMP:20260822T233000Z
 UID:MLS-MAT-0009JO
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - Real Salt Lake 1
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -293,12 +293,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - Nashville SC 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Columbus Crew
+SUMMARY:Nashville SC* vs. Columbus Crew
 DTSTART:20260823T003000Z
 DTEND:20260823T023000Z
 DTSTAMP:20260823T003000Z
 UID:MLS-MAT-0009JM
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Columbus Crew 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
