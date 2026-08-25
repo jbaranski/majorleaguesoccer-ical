@@ -140,13 +140,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Houston Dyn
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. New York City FC
+SUMMARY:New England Revolution* vs. New York City FC*
 DTSTART:20260823T203000Z
 DTEND:20260823T223000Z
 DTSTAMP:20260823T203000Z
 UID:MLS-MAT-0009JU
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. New York Ci
- ty FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - New York Ci
+ ty FC 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

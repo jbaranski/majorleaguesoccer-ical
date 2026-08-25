@@ -139,13 +139,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Sporting Kansas Ci
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Sporting Kansas City
+SUMMARY:Atlanta United* vs. Sporting Kansas City
 DTSTART:20260823T230000Z
 DTEND:20260824T010000Z
 DTSTAMP:20260823T230000Z
 UID:MLS-MAT-0009JT
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Sporting Kansas Cit
+ y 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

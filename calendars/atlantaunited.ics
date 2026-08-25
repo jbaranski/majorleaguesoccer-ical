@@ -232,13 +232,13 @@ DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - Atlanta United 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Sporting Kansas City
+SUMMARY:Atlanta United* vs. Sporting Kansas City
 DTSTART:20260823T230000Z
 DTEND:20260824T010000Z
 DTSTAMP:20260823T230000Z
 UID:MLS-MAT-0009JT
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Sporting Kansas Cit
+ y 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

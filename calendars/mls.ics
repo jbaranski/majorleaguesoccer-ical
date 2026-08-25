@@ -5001,23 +5001,23 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 5 - FC Dallas 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Sporting Kansas City
+SUMMARY:Atlanta United* vs. Sporting Kansas City
 DTSTART:20260823T230000Z
 DTEND:20260824T010000Z
 DTSTAMP:20260823T230000Z
 UID:MLS-MAT-0009JT
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Sporting Kansas Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Sporting Kansas Cit
+ y 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. New York City FC
+SUMMARY:New England Revolution* vs. New York City FC*
 DTSTART:20260823T203000Z
 DTEND:20260823T223000Z
 DTSTAMP:20260823T203000Z
 UID:MLS-MAT-0009JU
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. New York Ci
- ty FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - New York Ci
+ ty FC 1
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
