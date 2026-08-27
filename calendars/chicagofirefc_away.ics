@@ -140,13 +140,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - Chicago Fire FC
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Chicago Fire FC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C.* vs. Chicago Fire FC
 DTSTART:20260826T003000Z
 DTEND:20260826T023000Z
 DTSTAMP:20260826T003000Z
 UID:MLS-MAT-000A5K
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
- icago Fire FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - Ch
+ icago Fire FC 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT

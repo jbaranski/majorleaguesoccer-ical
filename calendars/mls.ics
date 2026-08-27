@@ -5021,22 +5021,22 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - New York Ci
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club León vs. Real Salt Lake
+SUMMARY:Club León* vs. Real Salt Lake
 DTSTART:20260826T023000Z
 DTEND:20260826T043000Z
 DTSTAMP:20260826T023000Z
 UID:MLS-MAT-000A5I
-DESCRIPTION:Leagues Cup\n\nClub León vs. Real Salt Lake
+DESCRIPTION:Leagues Cup\n\nClub León 3 - Real Salt Lake 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. Chicago Fire FC
+SUMMARY:Club de Fútbol Monterrey Rayados\, A.C.* vs. Chicago Fire FC
 DTSTART:20260826T003000Z
 DTEND:20260826T023000Z
 DTSTAMP:20260826T003000Z
 UID:MLS-MAT-000A5K
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. Ch
- icago Fire FC
+DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. 2 - Ch
+ icago Fire FC 1
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
@@ -5198,12 +5198,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. FC Dallas
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club León vs. TBC Away
+SUMMARY:Toluca FC vs. Club León
 DTSTART:20260901T160000Z
 DTEND:20260901T180000Z
 DTSTAMP:20260901T160000Z
 UID:MLS-MAT-000A5M
-DESCRIPTION:Leagues Cup\n\nClub León vs. TBC Away
+DESCRIPTION:Leagues Cup\n\nToluca FC vs. Club León
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
@@ -5217,13 +5217,13 @@ DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec vs. Forge F
 LOCATION:Stade Boréale\, Laval\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club de Fútbol Monterrey Rayados\, A.C. vs. TBC Away
+SUMMARY:Club América vs. Club de Fútbol Monterrey Rayados\, A.C.
 DTSTART:20260902T160000Z
 DTEND:20260902T180000Z
 DTSTAMP:20260902T160000Z
 UID:MLS-MAT-000A5N
-DESCRIPTION:Leagues Cup\n\nClub de Fútbol Monterrey Rayados\, A.C. vs. TB
- C Away
+DESCRIPTION:Leagues Cup\n\nClub América vs. Club de Fútbol Monterrey Ray
+ ados\, A.C.
 LOCATION:TBC\, unknown
 END:VEVENT
 BEGIN:VEVENT
