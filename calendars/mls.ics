@@ -5067,16 +5067,6 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Charlotte FC
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New England Revolution
-DTSTART:20260829T233000Z
-DTEND:20260830T013000Z
-DTSTAMP:20260829T233000Z
-UID:MLS-MAT-0009JX
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
- on
-LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D.C. United vs. Los Angeles FC
 DTSTART:20260829T233000Z
 DTEND:20260830T013000Z
@@ -5131,6 +5121,16 @@ DTSTAMP:20260830T013000Z
 UID:MLS-MAT-0009JW
 DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Real Salt Lake
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Crew vs. New England Revolution
+DTSTART:20260830T203000Z
+DTEND:20260830T223000Z
+DTSTAMP:20260830T203000Z
+UID:MLS-MAT-0009JX
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
+ on
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
