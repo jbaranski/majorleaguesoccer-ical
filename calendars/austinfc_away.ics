@@ -138,12 +138,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - Austin FC 2
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Austin FC
+SUMMARY:Toluca FC* vs. Austin FC
 DTSTART:20260827T003000Z
 DTEND:20260827T023000Z
 DTSTAMP:20260827T003000Z
 UID:MLS-MAT-000A5J
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Austin FC
+DESCRIPTION:Leagues Cup\n\nToluca FC 2 - Austin FC 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

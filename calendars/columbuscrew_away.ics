@@ -121,12 +121,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Columbus Crew 2
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club América vs. Columbus Crew
+SUMMARY:Club América* vs. Columbus Crew
 DTSTART:20260827T024500Z
 DTEND:20260827T044500Z
 DTSTAMP:20260827T024500Z
 UID:MLS-MAT-000A5L
-DESCRIPTION:Leagues Cup\n\nClub América vs. Columbus Crew
+DESCRIPTION:Leagues Cup\n\nClub América 2 - Columbus Crew 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
