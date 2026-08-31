@@ -161,12 +161,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 1 - Toronto FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. CF Montreal
+SUMMARY:Inter Miami CF* vs. CF Montreal
 DTSTART:20260829T233000Z
 DTEND:20260830T013000Z
 DTSTAMP:20260829T233000Z
 UID:MLS-MAT-0009K1
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 7 - CF Montreal 1
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

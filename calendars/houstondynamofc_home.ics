@@ -124,13 +124,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 1 - LA Galaxy 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
+SUMMARY:Houston Dynamo FC* vs. San Jose Earthquakes*
 DTSTART:20260830T003000Z
 DTEND:20260830T023000Z
 DTSTAMP:20260830T003000Z
 UID:MLS-MAT-0009JZ
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. San Jose Earthqu
- akes
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - San Jose Earthqu
+ akes 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

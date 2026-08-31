@@ -337,12 +337,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Los Angeles FC
+SUMMARY:D.C. United* vs. Los Angeles FC*
 DTSTART:20260829T233000Z
 DTEND:20260830T013000Z
 DTSTAMP:20260829T233000Z
 UID:MLS-MAT-0009JY
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Los Angeles FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Los Angeles FC 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

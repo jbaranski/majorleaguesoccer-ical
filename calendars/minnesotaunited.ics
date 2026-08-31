@@ -283,12 +283,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Minnesota Uni
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Orlando City
+SUMMARY:Minnesota United* vs. Orlando City*
 DTSTART:20260830T003000Z
 DTEND:20260830T023000Z
 DTSTAMP:20260830T003000Z
 UID:MLS-MAT-0009K2
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - Orlando City 3
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

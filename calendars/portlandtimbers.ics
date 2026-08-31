@@ -264,12 +264,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Portland Timbers 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Austin FC
+SUMMARY:Portland Timbers vs. Austin FC*
 DTSTART:20260830T023000Z
 DTEND:20260830T043000Z
 DTSTAMP:20260830T023000Z
 UID:MLS-MAT-0009K5
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Austin FC 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

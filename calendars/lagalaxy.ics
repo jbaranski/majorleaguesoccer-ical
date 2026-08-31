@@ -294,12 +294,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - LA Galaxy 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. LA Galaxy
+SUMMARY:San Diego FC* vs. LA Galaxy
 DTSTART:20260830T023000Z
 DTEND:20260830T043000Z
 DTSTAMP:20260830T023000Z
 UID:MLS-MAT-0009K6
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - LA Galaxy 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

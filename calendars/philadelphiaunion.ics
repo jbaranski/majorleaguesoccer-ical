@@ -278,13 +278,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Philadelphia Union 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. Philadelphia Union
+SUMMARY:Red Bull New York vs. Philadelphia Union*
 DTSTART:20260829T233000Z
 DTEND:20260830T013000Z
 DTSTAMP:20260829T233000Z
 UID:MLS-MAT-0009K4
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Philadelphia Uni
- on
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - Philadelphia Uni
+ on 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
