@@ -5123,13 +5123,13 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Real Salt Lake 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New England Revolution
+SUMMARY:Columbus Crew vs. New England Revolution*
 DTSTART:20260830T203000Z
 DTEND:20260830T223000Z
 DTSTAMP:20260830T203000Z
 UID:MLS-MAT-0009JX
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
- on
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New England Revoluti
+ on 3
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
@@ -5189,19 +5189,19 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 3 - LA Galaxy 1
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. FC Dallas
+SUMMARY:St. Louis City SC* vs. FC Dallas*
 DTSTART:20260830T230000Z
 DTEND:20260831T010000Z
 DTSTAMP:20260830T230000Z
 UID:MLS-MAT-0009K9
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - FC Dallas 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Supra du Québec vs. Forge FC
-DTSTART:20260901T163000Z
-DTEND:20260901T183000Z
-DTSTAMP:20260901T163000Z
+DTSTART:20260901T220000Z
+DTEND:20260902T000000Z
+DTSTAMP:20260901T220000Z
 UID:MLS-MAT-000AC3
 DESCRIPTION:TELUS Canadian Championship\n\nFC Supra du Québec vs. Forge F
  C

@@ -240,13 +240,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - New York Ci
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. New England Revolution
+SUMMARY:Columbus Crew vs. New England Revolution*
 DTSTART:20260830T203000Z
 DTEND:20260830T223000Z
 DTSTAMP:20260830T203000Z
 UID:MLS-MAT-0009JX
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. New England Revoluti
- on
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 1 - New England Revoluti
+ on 3
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

@@ -135,12 +135,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 2 - Houston Dynamo F
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. FC Dallas
+SUMMARY:St. Louis City SC* vs. FC Dallas*
 DTSTART:20260830T230000Z
 DTEND:20260831T010000Z
 DTSTAMP:20260830T230000Z
 UID:MLS-MAT-0009K9
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - FC Dallas 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
