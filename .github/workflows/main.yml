@@ -40,8 +40,8 @@ jobs:
           git add calendars/
           if git commit -m "Updated calendars"; then
             TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-            sed -i "s/lastUpdated = '.*'/lastUpdated = '$TIMESTAMP'/" client/src/app/app.component.ts
-            git add client/src/app/app.component.ts
+            sed -i "s/lastUpdated = '.*'/lastUpdated = '$TIMESTAMP'/" client/src/app/home/home.component.ts
+            git add client/src/app/home/home.component.ts
             git commit --amend --no-edit
             git push
           else
