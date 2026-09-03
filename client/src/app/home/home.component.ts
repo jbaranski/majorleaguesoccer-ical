@@ -7,7 +7,7 @@ import { CommonModule } from '@angular/common';
   templateUrl: './home.component.html'
 })
 export class HomeComponent {
-  readonly lastUpdated = '2026-09-03T02:51:36Z';
+  readonly lastUpdated = '2026-09-03T15:44:50Z';
   readonly teams = [
     'All MLS Fixtures',
     'Atlanta United',
