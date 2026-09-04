@@ -239,13 +239,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 7 - CF Montreal 1
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. CF Montreal
+SUMMARY:Vancouver Whitecaps FC* vs. CF Montreal*
 DTSTART:20260903T020000Z
 DTEND:20260903T040000Z
 DTSTAMP:20260903T020000Z
 UID:MLS-MAT-000AC1
-DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC vs. CF M
- ontreal
+DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC 1 - CF M
+ ontreal 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
