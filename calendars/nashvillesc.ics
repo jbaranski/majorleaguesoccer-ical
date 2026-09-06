@@ -311,12 +311,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - FC Cincinnati 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Nashville SC
+SUMMARY:New York City FC* vs. Nashville SC*
 DTSTART:20260904T233000Z
 DTEND:20260905T013000Z
 DTSTAMP:20260904T233000Z
 UID:MLS-MAT-0009KA
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Nashville SC 0
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
