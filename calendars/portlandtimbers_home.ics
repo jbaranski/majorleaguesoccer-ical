@@ -141,12 +141,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 1 - Austin FC 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Minnesota United
+SUMMARY:Portland Timbers* vs. Minnesota United
 DTSTART:20260906T023000Z
 DTEND:20260906T043000Z
 DTSTAMP:20260906T023000Z
 UID:MLS-MAT-0009KK
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 5 - Minnesota United 
+ 4
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

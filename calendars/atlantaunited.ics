@@ -251,12 +251,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 0 - Charlotte FC 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Atlanta United
+SUMMARY:Inter Miami CF* vs. Atlanta United*
 DTSTART:20260906T010500Z
 DTEND:20260906T030500Z
 DTSTAMP:20260906T010500Z
 UID:MLS-MAT-0009KH
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Atlanta United 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -178,13 +178,13 @@ DESCRIPTION:TELUS Canadian Championship\n\nVancouver Whitecaps FC 1 - CF M
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. St. Louis City SC
+SUMMARY:Vancouver Whitecaps FC vs. St. Louis City SC*
 DTSTART:20260906T023000Z
 DTEND:20260906T043000Z
 DTSTAMP:20260906T023000Z
 UID:MLS-MAT-0009KO
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. St. Louis C
- ity SC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - St. Louis C
+ ity SC 3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

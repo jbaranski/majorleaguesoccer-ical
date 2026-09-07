@@ -254,12 +254,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Real Salt Lake 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Colorado Rapids
+SUMMARY:Columbus Crew* vs. Colorado Rapids
 DTSTART:20260905T233000Z
 DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KE
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Colorado Rapids 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

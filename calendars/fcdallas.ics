@@ -245,12 +245,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - FC Dallas 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Sporting Kansas City
+SUMMARY:FC Dallas* vs. Sporting Kansas City
 DTSTART:20260906T003000Z
 DTEND:20260906T023000Z
 DTSTAMP:20260906T003000Z
 UID:MLS-MAT-0009KF
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 4 - Sporting Kansas City 3
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

@@ -285,12 +285,12 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - FC Cincinnati 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. D.C. United
+SUMMARY:FC Cincinnati vs. D.C. United (result unknown)
 DTSTART:20260905T233000Z
 DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KD
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati ??? - D.C. United ???
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

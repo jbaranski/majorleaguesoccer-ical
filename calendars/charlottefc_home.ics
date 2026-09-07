@@ -175,12 +175,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - D.C. United 1
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Houston Dynamo FC
+SUMMARY:Charlotte FC* vs. Houston Dynamo FC*
 DTSTART:20260905T233000Z
 DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KC
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 0 - Houston Dynamo FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT

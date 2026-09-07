@@ -138,12 +138,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Philadelphia Union 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. San Jose Earthquakes
+SUMMARY:Austin FC* vs. San Jose Earthquakes*
 DTSTART:20260906T003000Z
 DTEND:20260906T023000Z
 DTSTAMP:20260906T003000Z
 UID:MLS-MAT-0009KB
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - San Jose Earthquakes 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

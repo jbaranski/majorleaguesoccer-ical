@@ -146,12 +146,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Inter Miami CF
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. CF Montreal
+SUMMARY:Philadelphia Union* vs. CF Montreal
 DTSTART:20260905T233000Z
 DTEND:20260906T013000Z
 DTSTAMP:20260905T233000Z
 UID:MLS-MAT-0009KJ
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - CF Montreal 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
