@@ -5375,22 +5375,22 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - St. Louis C
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club León vs. Club América
+SUMMARY:Club León* vs. Club América
 DTSTART:20260906T220000Z
 DTEND:20260907T000000Z
 DTSTAMP:20260906T220000Z
 UID:MLS-MAT-000A5P
-DESCRIPTION:Leagues Cup\n\nClub León vs. Club América
+DESCRIPTION:Leagues Cup\n\nClub León 1 - Club América 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toluca FC vs. Club de Fútbol Monterrey Rayados\, A.C.
+SUMMARY:Toluca FC* vs. Club de Fútbol Monterrey Rayados\, A.C.
 DTSTART:20260907T011500Z
 DTEND:20260907T031500Z
 DTSTAMP:20260907T011500Z
 UID:MLS-MAT-000A5O
-DESCRIPTION:Leagues Cup\n\nToluca FC vs. Club de Fútbol Monterrey Rayados
- \, A.C.
+DESCRIPTION:Leagues Cup\n\nToluca FC 2 - Club de Fútbol Monterrey Rayados
+ \, A.C. 0
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
