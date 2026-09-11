@@ -157,12 +157,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Nashville SC 0
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Nashville SC
+SUMMARY:Toronto FC* vs. Nashville SC
 DTSTART:20260909T233000Z
 DTEND:20260910T013000Z
 DTSTAMP:20260909T233000Z
 UID:MLS-MAT-0009L2
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - Nashville SC 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

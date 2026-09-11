@@ -139,12 +139,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Inter Miami CF
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Inter Miami CF
+SUMMARY:Chicago Fire FC* vs. Inter Miami CF*
 DTSTART:20260910T003000Z
 DTEND:20260910T023000Z
 DTSTAMP:20260910T003000Z
 UID:MLS-MAT-0009KR
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Inter Miami CF 1
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

@@ -312,12 +312,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - New England Revolution 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. LA Galaxy
+SUMMARY:Vancouver Whitecaps FC* vs. LA Galaxy
 DTSTART:20260910T023000Z
 DTEND:20260910T043000Z
 DTSTAMP:20260910T023000Z
 UID:MLS-MAT-0009L3
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - LA Galaxy 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

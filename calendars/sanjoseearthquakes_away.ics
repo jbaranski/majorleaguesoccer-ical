@@ -147,12 +147,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - San Jose Earthquakes 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. San Jose Earthquakes
+SUMMARY:San Diego FC vs. San Jose Earthquakes*
 DTSTART:20260910T023000Z
 DTEND:20260910T043000Z
 DTSTAMP:20260910T023000Z
 UID:MLS-MAT-0009L0
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. San Jose Earthquakes
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - San Jose Earthquakes 
+ 3
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

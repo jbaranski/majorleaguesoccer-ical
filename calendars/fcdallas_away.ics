@@ -146,12 +146,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 3 - FC Dallas 3
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. FC Dallas
+SUMMARY:Minnesota United vs. FC Dallas*
 DTSTART:20260910T003000Z
 DTEND:20260910T023000Z
 DTSTAMP:20260910T003000Z
 UID:MLS-MAT-0009KV
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 1 - FC Dallas 2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

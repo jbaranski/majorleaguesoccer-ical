@@ -130,12 +130,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 2 - LA Galaxy 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Charlotte FC
+SUMMARY:CF Montreal vs. Charlotte FC*
 DTSTART:20260909T233000Z
 DTEND:20260910T013000Z
 DTSTAMP:20260909T233000Z
 UID:MLS-MAT-0009KW
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 1 - Charlotte FC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

@@ -294,12 +294,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati ??? - D.C. United ???
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. FC Cincinnati
+SUMMARY:Philadelphia Union* vs. FC Cincinnati
 DTSTART:20260909T234500Z
 DTEND:20260910T014500Z
 DTSTAMP:20260909T234500Z
 UID:MLS-MAT-0009KY
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 5 - FC Cincinnati 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

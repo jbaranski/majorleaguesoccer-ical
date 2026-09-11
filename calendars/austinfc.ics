@@ -292,12 +292,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - San Jose Earthquakes 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Colorado Rapids
+SUMMARY:Austin FC* vs. Colorado Rapids*
 DTSTART:20260910T003000Z
 DTEND:20260910T023000Z
 DTSTAMP:20260910T003000Z
 UID:MLS-MAT-0009KQ
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Colorado Rapids 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
