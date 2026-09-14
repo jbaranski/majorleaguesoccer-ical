@@ -293,12 +293,12 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 0 - Red Bull New Y
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Seattle Sounders FC
+SUMMARY:LA Galaxy* vs. Seattle Sounders FC*
 DTSTART:20260913T023000Z
 DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LA
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Seattle Sounders FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

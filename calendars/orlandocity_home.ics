@@ -147,12 +147,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - San Diego FC 0
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Toronto FC
+SUMMARY:Orlando City* vs. Toronto FC
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009LC
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Toronto FC 0
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

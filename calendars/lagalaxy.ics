@@ -321,12 +321,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - LA Galaxy 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Seattle Sounders FC
+SUMMARY:LA Galaxy* vs. Seattle Sounders FC*
 DTSTART:20260913T023000Z
 DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LA
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Seattle Sounders FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

@@ -272,12 +272,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Colorado Rapids 1
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. CF Montreal
+SUMMARY:Colorado Rapids* vs. CF Montreal
 DTSTART:20260913T013000Z
 DTEND:20260913T033000Z
 DTSTAMP:20260913T013000Z
 UID:MLS-MAT-0009L5
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - CF Montreal 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

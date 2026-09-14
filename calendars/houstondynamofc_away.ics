@@ -134,13 +134,13 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 0 - Houston Dynamo FC 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Houston Dynamo FC
+SUMMARY:San Jose Earthquakes* vs. Houston Dynamo FC
 DTSTART:20260913T023000Z
 DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LE
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Houston Dynam
- o FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Houston Dynam
+ o FC 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

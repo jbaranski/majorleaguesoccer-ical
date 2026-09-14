@@ -5523,113 +5523,114 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - LA Galaxy 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Charlotte FC
+SUMMARY:FC Cincinnati* vs. Charlotte FC*
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009L4
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Charlotte FC 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Red Bull New York
+SUMMARY:Columbus Crew vs. Red Bull New York*
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009L6
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Red Bull New York 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Atlanta United
+SUMMARY:D.C. United* vs. Atlanta United*
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009L8
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - Atlanta United 0
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Nashville SC
+SUMMARY:Inter Miami CF* vs. Nashville SC*
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009LB
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - Nashville SC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Toronto FC
+SUMMARY:Orlando City* vs. Toronto FC
 DTSTART:20260912T233000Z
 DTEND:20260913T013000Z
 DTSTAMP:20260912T233000Z
 UID:MLS-MAT-0009LC
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Toronto FC 0
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. CF Montreal
+SUMMARY:Colorado Rapids* vs. CF Montreal
 DTSTART:20260913T013000Z
 DTEND:20260913T033000Z
 DTSTAMP:20260913T013000Z
 UID:MLS-MAT-0009L5
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - CF Montreal 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Portland Timbers
+SUMMARY:FC Dallas* vs. Portland Timbers
 DTSTART:20260913T003000Z
 DTEND:20260913T023000Z
 DTSTAMP:20260913T003000Z
 UID:MLS-MAT-0009L7
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 2 - Portland Timbers 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Los Angeles FC
+SUMMARY:Sporting Kansas City* vs. Los Angeles FC
 DTSTART:20260913T003000Z
 DTEND:20260913T023000Z
 DTSTAMP:20260913T003000Z
 UID:MLS-MAT-0009L9
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Los Angeles F
- C
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - Los Angeles F
+ C 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Seattle Sounders FC
+SUMMARY:LA Galaxy* vs. Seattle Sounders FC*
 DTSTART:20260913T023000Z
 DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LA
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 1 - Seattle Sounders FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. New York City FC
+SUMMARY:Real Salt Lake vs. New York City FC*
 DTSTART:20260913T013000Z
 DTEND:20260913T033000Z
 DTSTAMP:20260913T013000Z
 UID:MLS-MAT-0009LD
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - New York City FC 2
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Houston Dynamo FC
+SUMMARY:San Jose Earthquakes* vs. Houston Dynamo FC
 DTSTART:20260913T023000Z
 DTEND:20260913T043000Z
 DTSTAMP:20260913T023000Z
 UID:MLS-MAT-0009LE
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Houston Dynam
- o FC
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Houston Dynam
+ o FC 0
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Minnesota United
+SUMMARY:St. Louis City SC* vs. Minnesota United
 DTSTART:20260913T003000Z
 DTEND:20260913T023000Z
 DTSTAMP:20260913T003000Z
 UID:MLS-MAT-0009LF
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 4 - Minnesota United
+  2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
