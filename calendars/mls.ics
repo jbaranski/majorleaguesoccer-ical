@@ -5625,31 +5625,31 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 4 - Minnesota United
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. New England Revolution
+SUMMARY:Chicago Fire FC vs. New England Revolution*
 DTSTART:20260913T213000Z
 DTEND:20260913T233000Z
 DTSTAMP:20260913T213000Z
 UID:MLS-MAT-0009LG
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. New England Revolu
- tion
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New England Revolu
+ tion 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Austin FC
+SUMMARY:Vancouver Whitecaps FC vs. Austin FC*
 DTSTART:20260913T223000Z
 DTEND:20260914T003000Z
 DTSTAMP:20260913T223000Z
 UID:MLS-MAT-0009LI
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Austin FC 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Philadelphia Union
+SUMMARY:San Diego FC vs. Philadelphia Union*
 DTSTART:20260914T010000Z
 DTEND:20260914T030000Z
 DTSTAMP:20260914T010000Z
 UID:MLS-MAT-0009LH
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Philadelphia Union 5
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

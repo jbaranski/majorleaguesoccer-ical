@@ -197,12 +197,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - LA Galaxy 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Austin FC
+SUMMARY:Vancouver Whitecaps FC vs. Austin FC*
 DTSTART:20260913T223000Z
 DTEND:20260914T003000Z
 DTSTAMP:20260913T223000Z
 UID:MLS-MAT-0009LI
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 1 - Austin FC 2
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

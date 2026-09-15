@@ -153,12 +153,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 1 - Philadelphia Uni
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Philadelphia Union
+SUMMARY:San Diego FC vs. Philadelphia Union*
 DTSTART:20260914T010000Z
 DTEND:20260914T030000Z
 DTSTAMP:20260914T010000Z
 UID:MLS-MAT-0009LH
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 0 - Philadelphia Union 5
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
