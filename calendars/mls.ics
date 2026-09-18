@@ -5663,49 +5663,49 @@ DESCRIPTION:TELUS Canadian Championship\n\nForge FC 1 - FC Supra du Québe
 LOCATION:Hamilton Stadium\, Hamilton\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Orlando City
+SUMMARY:Columbus Crew* vs. Orlando City
 DTSTART:20260916T230000Z
 DTEND:20260917T010000Z
 DTSTAMP:20260916T230000Z
 UID:MLS-MAT-000A8M
-DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. Orlando City
+DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 2 - Orlando City 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Vancouver Whitecaps FC
+SUMMARY:CF Montreal* vs. Vancouver Whitecaps FC
 DTSTART:20260916T230000Z
 DTEND:20260917T010000Z
 DTSTAMP:20260916T230000Z
 UID:MLS-MAT-000AC2
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Vancouver White
- caps FC
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal 2 - Vancouver White
+ caps FC 1
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. St. Louis City SC
+SUMMARY:Colorado Rapids vs. St. Louis City SC*
 DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
 DTSTAMP:20260917T013000Z
 UID:MLS-MAT-000A8N
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 0 - St. Louis City SC 3
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Club Tijuana
+SUMMARY:San Diego FC vs. Club Tijuana (result unknown)
 DTSTART:20260917T020000Z
 DTEND:20260917T040000Z
 DTSTAMP:20260917T020000Z
 UID:MLS-MAT-000AC6
-DESCRIPTION:Club Friendly Matches\n\nSan Diego FC vs. Club Tijuana
+DESCRIPTION:Club Friendly Matches\n\nSan Diego FC ??? - Club Tijuana ???
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Cruz Azul
+SUMMARY:Inter Miami CF* vs. Cruz Azul
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 DTSTAMP:20260917T000000Z
 UID:MLS-MAT-000AFN
-DESCRIPTION:Campeones Cup\n\nInter Miami CF vs. Cruz Azul
+DESCRIPTION:Campeones Cup\n\nInter Miami CF 2 - Cruz Azul 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

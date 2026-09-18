@@ -296,12 +296,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 4 - Minnesota United
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. St. Louis City SC
+SUMMARY:Colorado Rapids vs. St. Louis City SC*
 DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
 DTSTAMP:20260917T013000Z
 UID:MLS-MAT-000A8N
-DESCRIPTION:U.S. Open Cup\n\nColorado Rapids vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 0 - St. Louis City SC 3
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
