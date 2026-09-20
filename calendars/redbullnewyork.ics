@@ -263,12 +263,13 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 0 - Red Bull New York 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. Red Bull New York
+SUMMARY:New York City FC vs. Red Bull New York*
 DTSTART:20260918T233000Z
 DTEND:20260919T013000Z
 DTSTAMP:20260918T233000Z
 UID:MLS-MAT-0009LJ
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Red Bull New York
+  1
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
