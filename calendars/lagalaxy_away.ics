@@ -157,12 +157,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - LA Galaxy 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. LA Galaxy
+SUMMARY:Minnesota United vs. LA Galaxy*
 DTSTART:20260920T003000Z
 DTEND:20260920T023000Z
 DTSTAMP:20260920T003000Z
 UID:MLS-MAT-0009LP
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - LA Galaxy 3
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

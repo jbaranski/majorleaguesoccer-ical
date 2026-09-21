@@ -302,13 +302,13 @@ DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 2 - Orlando City 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Orlando City
+SUMMARY:New England Revolution* vs. Orlando City
 DTSTART:20260919T233000Z
 DTEND:20260920T013000Z
 DTSTAMP:20260919T233000Z
 UID:MLS-MAT-0009LS
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Orlando Cit
- y
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 4 - Orlando Cit
+ y 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

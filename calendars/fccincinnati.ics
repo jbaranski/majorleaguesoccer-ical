@@ -303,12 +303,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Charlotte FC 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. FC Cincinnati
+SUMMARY:Houston Dynamo FC* vs. FC Cincinnati*
 DTSTART:20260920T003000Z
 DTEND:20260920T023000Z
 DTSTAMP:20260920T003000Z
 UID:MLS-MAT-0009LN
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 2 - FC Cincinnati 2
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT

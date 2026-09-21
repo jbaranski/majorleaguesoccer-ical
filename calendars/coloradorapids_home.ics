@@ -168,13 +168,13 @@ DESCRIPTION:U.S. Open Cup\n\nColorado Rapids 0 - St. Louis City SC 3
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Seattle Sounders FC
-DTSTART:20260920T023000Z
-DTEND:20260920T043000Z
-DTSTAMP:20260920T023000Z
+SUMMARY:Colorado Rapids* vs. Seattle Sounders FC*
+DTSTART:20260920T013000Z
+DTEND:20260920T033000Z
+DTSTAMP:20260920T013000Z
 UID:MLS-MAT-0009LK
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Seattle Sounders F
- C
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Seattle Sounders F
+ C 3
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

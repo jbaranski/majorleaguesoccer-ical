@@ -374,13 +374,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - Los Angeles F
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Los Angeles FC
+SUMMARY:San Jose Earthquakes* vs. Los Angeles FC*
 DTSTART:20260919T233000Z
 DTEND:20260920T013000Z
 DTSTAMP:20260919T233000Z
 UID:MLS-MAT-0009LV
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Los Angeles F
- C
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Los Angeles F
+ C 2
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
@@ -400,7 +400,7 @@ DTSTAMP:20261011T023000Z
 UID:MLS-MAT-0009MJ
 DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Vancouver Whitecaps
   FC
-LOCATION:Dignity Health Sports Park\, Carson\, CA
+LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Angeles FC vs. Austin FC

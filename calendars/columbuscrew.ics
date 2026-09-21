@@ -312,12 +312,12 @@ DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 2 - Orlando City 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Columbus Crew
+SUMMARY:CF Montreal vs. Columbus Crew*
 DTSTART:20260919T233000Z
 DTEND:20260920T013000Z
 DTSTAMP:20260919T233000Z
 UID:MLS-MAT-0009LQ
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Columbus Crew 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

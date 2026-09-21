@@ -317,12 +317,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - New England Revolu
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Chicago Fire FC
+SUMMARY:Nashville SC* vs. Chicago Fire FC
 DTSTART:20260920T013000Z
 DTEND:20260920T033000Z
 DTSTAMP:20260920T013000Z
 UID:MLS-MAT-0009LR
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 3 - Chicago Fire FC 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

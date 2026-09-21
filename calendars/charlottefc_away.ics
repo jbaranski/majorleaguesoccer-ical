@@ -130,12 +130,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 3 - Charlotte FC 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Charlotte FC
+SUMMARY:D.C. United vs. Charlotte FC*
 DTSTART:20260919T233000Z
 DTEND:20260920T013000Z
 DTSTAMP:20260919T233000Z
 UID:MLS-MAT-0009LM
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 1 - Charlotte FC 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
