@@ -5850,12 +5850,13 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - San Diego FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Real Salt Lake
+SUMMARY:Seattle Sounders FC* vs. Real Salt Lake
 DTSTART:20260924T013000Z
 DTEND:20260924T033000Z
 DTSTAMP:20260924T013000Z
 UID:MLS-MAT-0009DZ
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Real Salt Lake
+  0
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
@@ -6016,6 +6017,15 @@ UID:MLS-MAT-0009L1
 DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Sporting Kansa
  s City
 LOCATION:Lumen Field\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA Galaxy vs. Cruz Azul
+DTSTART:20261005T003000Z
+DTEND:20261005T023000Z
+DTSTAMP:20261005T003000Z
+UID:MLS-MAT-000AH4
+DESCRIPTION:Club Friendly Matches\n\nLA Galaxy vs. Cruz Azul
+LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Fire FC vs. Vancouver Whitecaps FC
