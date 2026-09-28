@@ -916,12 +916,12 @@
     "develop": {
         "flake8": {
             "hashes": [
-                "sha256:7c8d371b6d1a2d0c1f9cdf9f865c91f16f880e6cf7b1da0fcfaba31006532f38",
-                "sha256:d3e0beb3d152209b4dc50fa5e3132844bf4ee4ff994cec87d6913d06b8eb5afc"
+                "sha256:78480274a6d7289d9cb8eafeda241fac57d4ea687d26e32dfdca37b72cdeddad",
+                "sha256:84ea5afcaf344487b0ea5baaebb8100f4cfaebc01f755998f75876664029f587"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==7.4.0"
+            "version": "==7.4.1"
         },
         "mccabe": {
             "hashes": [
