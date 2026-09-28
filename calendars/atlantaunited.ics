@@ -287,12 +287,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - Atlanta United 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. New York City FC
+SUMMARY:Atlanta United* vs. New York City FC*
 DTSTART:20260926T233000Z
 DTEND:20260927T013000Z
 DTSTAMP:20260926T233000Z
 UID:MLS-MAT-0009LY
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - New York City FC 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

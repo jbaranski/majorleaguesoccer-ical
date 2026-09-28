@@ -287,13 +287,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Real Salt Lake
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. New England Revolution
+SUMMARY:Real Salt Lake* vs. New England Revolution
 DTSTART:20260927T013000Z
 DTEND:20260927T033000Z
 DTSTAMP:20260927T013000Z
 UID:MLS-MAT-0009M9
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. New England Revolut
- ion
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - New England Revolut
+ ion 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

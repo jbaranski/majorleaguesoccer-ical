@@ -300,12 +300,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 3 - Seattle Sounders F
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Colorado Rapids
+SUMMARY:LA Galaxy* vs. Colorado Rapids
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
 DTSTAMP:20260927T023000Z
 UID:MLS-MAT-0009M4
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

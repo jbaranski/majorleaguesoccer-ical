@@ -182,13 +182,13 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 4 - Minnesota United
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Minnesota United
+SUMMARY:Seattle Sounders FC* vs. Minnesota United
 DTSTART:20260927T003000Z
 DTEND:20260927T023000Z
 DTSTAMP:20260927T003000Z
 UID:MLS-MAT-0009MB
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Minnesota Unit
- ed
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 3 - Minnesota Unit
+ ed 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

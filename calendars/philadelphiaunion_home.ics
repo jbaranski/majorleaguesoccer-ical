@@ -164,12 +164,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 5 - FC Cincinnati 0
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Orlando City
+SUMMARY:Philadelphia Union* vs. Orlando City
 DTSTART:20260926T233000Z
 DTEND:20260927T013000Z
 DTSTAMP:20260926T233000Z
 UID:MLS-MAT-0009M8
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - Orlando City 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

@@ -364,12 +364,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 0 - Vancouver Whitecaps
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. D.C. United
+SUMMARY:Vancouver Whitecaps FC* vs. D.C. United*
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
 DTSTAMP:20260927T023000Z
 UID:MLS-MAT-0009MC
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - D.C. United
+  3
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

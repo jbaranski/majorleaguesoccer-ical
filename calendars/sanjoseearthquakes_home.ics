@@ -176,13 +176,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Los Angeles F
 LOCATION:Levi's Stadium\, Santa Clara\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Portland Timbers
+SUMMARY:San Jose Earthquakes* vs. Portland Timbers
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
 DTSTAMP:20260927T023000Z
 UID:MLS-MAT-0009MA
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Portland Timb
- ers
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 3 - Portland Timb
+ ers 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
