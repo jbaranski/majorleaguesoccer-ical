@@ -343,12 +343,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - San Diego FC 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Inter Miami CF
+SUMMARY:Columbus Crew* vs. Inter Miami CF
 DTSTART:20260927T230000Z
 DTEND:20260928T010000Z
 DTSTAMP:20260927T230000Z
 UID:MLS-MAT-0009M1
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Inter Miami CF 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
