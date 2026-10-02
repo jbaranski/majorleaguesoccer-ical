@@ -5,7 +5,8 @@
   status = 200
 
 # CRITICAL: PostHog sha256 MUST be first -- `npm run update-csp` replaces only the first sha256 token.
-# Second sha256 = Beasties CSS preload handler (this.media='all') -- static, never changes, do not remove.
+# Second sha256 = Beasties inline script that swaps data-beasties-media -> media on the deferred stylesheet.
+# It changes when beasties (pulled in by @angular/build) changes its snippet -- recompute from dist/client/browser/index.html after Angular bumps.
 [[headers]]
   for = "/*"
   [headers.values]
@@ -13,7 +14,7 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-hashes' 'sha256-PPt4tVTdSgSYL8Mk6VLw5ftn8/hwhM+MI6uvCb0eQh0=' 'sha256-MhtPZXr7+LpJUY5qtMutB+qWfQtMaPccfe7QXtCcEYc=' https://p.jeffsoftware.com; connect-src 'self' https://p.jeffsoftware.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; object-src 'none'; frame-ancestors 'none'"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-hashes' 'sha256-PPt4tVTdSgSYL8Mk6VLw5ftn8/hwhM+MI6uvCb0eQh0=' 'sha256-LMY6wYoFV9I4wWzxaq1N/dTpl4iurQktw706UCHK3vM=' https://p.jeffsoftware.com; connect-src 'self' https://p.jeffsoftware.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; object-src 'none'; frame-ancestors 'none'"
 
 # index.html: browser must always revalidate; Netlify CDN holds it durably
 [[headers]]
