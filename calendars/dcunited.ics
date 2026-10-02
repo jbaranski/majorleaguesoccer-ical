@@ -286,12 +286,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 3 - D.C. United
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. SC Paderborn 07
+SUMMARY:D.C. United vs. SC Paderborn 07 (result unknown)
 DTSTART:20260930T233000Z
 DTEND:20261001T013000Z
 DTSTAMP:20260930T233000Z
 UID:MLS-MAT-000AFJ
-DESCRIPTION:Club Friendly Matches\n\nD.C. United vs. SC Paderborn 07
+DESCRIPTION:Club Friendly Matches\n\nD.C. United ??? - SC Paderborn 07 ???
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

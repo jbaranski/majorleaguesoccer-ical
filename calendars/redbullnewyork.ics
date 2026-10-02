@@ -273,13 +273,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 0 - Red Bull New York
 LOCATION:Yankee Stadium\, Bronx\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. St. Louis City SC
+SUMMARY:Red Bull New York vs. St. Louis City SC*
 DTSTART:20260930T233000Z
 DTEND:20261001T013000Z
 DTSTAMP:20260930T233000Z
 UID:MLS-MAT-0009M7
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. St. Louis City S
- C
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - St. Louis City S
+ C 3
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
