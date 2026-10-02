@@ -4,9 +4,8 @@
   to = "/index.html"
   status = 200
 
-# CRITICAL: PostHog sha256 MUST be first -- `npm run update-csp` replaces only the first sha256 token.
-# Second sha256 = Beasties inline script that swaps data-beasties-media -> media on the deferred stylesheet.
-# It changes when beasties (pulled in by @angular/build) changes its snippet -- recompute from dist/client/browser/index.html after Angular bumps.
+# script-src sha256 hashes are generated: `make build` hashes every inline <script> in the built
+# index.html (PostHog snippet + Beasties stylesheet loader) and rewrites this list. Don't edit by hand.
 [[headers]]
   for = "/*"
   [headers.values]

@@ -8,9 +8,10 @@ lint:
 test:
 	npx ng test --watch=false --browsers=ChromeHeadlessNoSandbox
 
+# update-csp hashes the inline scripts in the built index.html, so it must run after the build.
 build:
-	npm run update-csp
 	npm run prod:build
+	npm run update-csp
 
 # netlify-cli is NOT added as a devDependency -- npx downloads it at deploy time.
 deploy: build
