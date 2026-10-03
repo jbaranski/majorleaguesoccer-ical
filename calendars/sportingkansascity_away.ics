@@ -168,13 +168,13 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Sporting Kansas
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Sporting Kansas City
+SUMMARY:Seattle Sounders FC* vs. Sporting Kansas City
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
 DTSTAMP:20261002T013000Z
 UID:MLS-MAT-0009L1
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Sporting Kansa
- s City
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Sporting Kansa
+ s City 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
