@@ -348,12 +348,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 3 - Colorado Rapids 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Cruz Azul
+SUMMARY:LA Galaxy vs. Cruz Azul (result unknown)
 DTSTART:20261005T003000Z
 DTEND:20261005T023000Z
 DTSTAMP:20261005T003000Z
 UID:MLS-MAT-000AH4
-DESCRIPTION:Club Friendly Matches\n\nLA Galaxy vs. Cruz Azul
+DESCRIPTION:Club Friendly Matches\n\nLA Galaxy ??? - Cruz Azul ???
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
