@@ -6112,12 +6112,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Real Salt Lake
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. CF Montreal
+SUMMARY:Toronto FC* vs. CF Montreal
 DTSTART:20261010T170000Z
 DTEND:20261010T190000Z
 DTSTAMP:20261010T170000Z
 UID:MLS-MAT-0009MR
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - CF Montreal 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
