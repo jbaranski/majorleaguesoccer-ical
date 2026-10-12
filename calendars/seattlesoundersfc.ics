@@ -342,13 +342,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Sporting Kansa
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Seattle Sounders FC
+SUMMARY:New England Revolution vs. Seattle Sounders FC*
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MM
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Seattle Sou
- nders FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Seattle Sou
+ nders FC 3
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT

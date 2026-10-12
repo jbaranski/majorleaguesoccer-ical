@@ -131,12 +131,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - New York City FC 2
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. FC Cincinnati
+SUMMARY:Atlanta United vs. FC Cincinnati*
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MD
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - FC Cincinnati 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

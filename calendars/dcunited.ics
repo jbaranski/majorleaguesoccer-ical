@@ -295,12 +295,12 @@ DESCRIPTION:Club Friendly Matches\n\nD.C. United ??? - SC Paderborn 07 ???
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. D.C. United
+SUMMARY:Inter Miami CF* vs. D.C. United
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MK
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - D.C. United 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

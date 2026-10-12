@@ -144,12 +144,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Houston Dynam
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Houston Dynamo FC
+SUMMARY:Minnesota United* vs. Houston Dynamo FC*
 DTSTART:20261011T003000Z
 DTEND:20261011T023000Z
 DTSTAMP:20261011T003000Z
 UID:MLS-MAT-0009ML
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 2 - Houston Dynamo FC
+  2
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

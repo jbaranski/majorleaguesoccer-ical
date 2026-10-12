@@ -330,12 +330,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 2 - Inter Miami CF 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. Columbus Crew
+SUMMARY:Orlando City* vs. Columbus Crew
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MO
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 3 - Columbus Crew 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -150,13 +150,13 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - Philadelphia
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Portland Timbers
+SUMMARY:Sporting Kansas City* vs. Portland Timbers*
 DTSTART:20261011T003000Z
 DTEND:20261011T023000Z
 DTSTAMP:20261011T003000Z
 UID:MLS-MAT-0009MI
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Portland Timb
- ers
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 3 - Portland Timb
+ ers 3
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

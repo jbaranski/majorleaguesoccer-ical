@@ -157,13 +157,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - San Jose Earthquakes
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. San Jose Earthquakes
+SUMMARY:Colorado Rapids* vs. San Jose Earthquakes*
 DTSTART:20261011T013000Z
 DTEND:20261011T033000Z
 DTSTAMP:20261011T013000Z
 UID:MLS-MAT-0009MH
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. San Jose Earthquak
- es
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - San Jose Earthquak
+ es 1
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

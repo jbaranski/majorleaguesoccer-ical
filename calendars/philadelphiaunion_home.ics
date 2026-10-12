@@ -173,12 +173,13 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - Orlando City 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Real Salt Lake
+SUMMARY:Philadelphia Union* vs. Real Salt Lake
 DTSTART:20261010T233000Z
 DTEND:20261011T013000Z
 DTSTAMP:20261010T233000Z
 UID:MLS-MAT-0009MP
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Real Salt Lake 
+ 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
