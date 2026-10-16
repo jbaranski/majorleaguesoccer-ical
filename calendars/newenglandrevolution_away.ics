@@ -150,13 +150,13 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - New England Revolut
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. New England Revolution
+SUMMARY:FC Cincinnati vs. New England Revolution*
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009MT
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. New England Revoluti
- on
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - New England Revoluti
+ on 3
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT

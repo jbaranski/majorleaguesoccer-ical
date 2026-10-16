@@ -176,12 +176,12 @@ DESCRIPTION:Club Friendly Matches\n\nD.C. United ??? - SC Paderborn 07 ???
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. Red Bull New York
+SUMMARY:D.C. United* vs. Red Bull New York
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009MX
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. Red Bull New York
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 2 - Red Bull New York 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

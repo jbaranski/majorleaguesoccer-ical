@@ -174,12 +174,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Austin FC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Austin FC
+SUMMARY:Los Angeles FC* vs. Austin FC
 DTSTART:20261015T023000Z
 DTEND:20261015T043000Z
 DTSTAMP:20261015T023000Z
 UID:MLS-MAT-0009MZ
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Austin FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT

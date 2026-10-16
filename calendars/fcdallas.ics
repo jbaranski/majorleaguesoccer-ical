@@ -299,12 +299,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 3 - FC Dallas 2
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Seattle Sounders FC
+SUMMARY:FC Dallas* vs. Seattle Sounders FC
 DTSTART:20261015T003000Z
 DTEND:20261015T023000Z
 DTSTAMP:20261015T003000Z
 UID:MLS-MAT-0009MW
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 1 - Seattle Sounders FC 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

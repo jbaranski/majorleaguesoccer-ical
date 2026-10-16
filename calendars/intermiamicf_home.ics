@@ -215,12 +215,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 4 - D.C. United 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. New York City FC
+SUMMARY:Inter Miami CF* vs. New York City FC
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009N0
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - New York City FC 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

@@ -365,12 +365,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Nashville SC 4
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Sporting Kansas City
+SUMMARY:Nashville SC* vs. Sporting Kansas City
 DTSTART:20261015T003000Z
 DTEND:20261015T023000Z
 DTSTAMP:20261015T003000Z
 UID:MLS-MAT-0009N2
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Sporting Kansas City
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - Sporting Kansas City 
+ 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

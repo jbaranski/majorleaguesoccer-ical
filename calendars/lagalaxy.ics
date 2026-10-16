@@ -366,12 +366,12 @@ DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 6 - LA Galaxy 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Portland Timbers
+SUMMARY:LA Galaxy* vs. Portland Timbers
 DTSTART:20261015T023000Z
 DTEND:20261015T043000Z
 DTSTAMP:20261015T023000Z
 UID:MLS-MAT-0009MY
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - Portland Timbers 0
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

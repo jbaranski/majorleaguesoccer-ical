@@ -188,12 +188,12 @@ DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - San Jose Earthquak
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Minnesota United
+SUMMARY:Colorado Rapids* vs. Minnesota United*
 DTSTART:20261015T013000Z
 DTEND:20261015T033000Z
 DTSTAMP:20261015T013000Z
 UID:MLS-MAT-0009MU
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Minnesota United 2
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

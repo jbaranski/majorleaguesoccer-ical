@@ -157,12 +157,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - CF Montreal 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. Orlando City
+SUMMARY:Toronto FC* vs. Orlando City*
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009N6
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Orlando City 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

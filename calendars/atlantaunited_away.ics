@@ -176,12 +176,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - Atlanta United 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Atlanta United
+SUMMARY:CF Montreal vs. Atlanta United*
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 DTSTAMP:20261014T233000Z
 UID:MLS-MAT-0009N1
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Atlanta United 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
