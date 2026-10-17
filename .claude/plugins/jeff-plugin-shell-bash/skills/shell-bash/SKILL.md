@@ -1,16 +1,6 @@
 ---
 name: shell-bash
-description: Shell scripting and Bash programming patterns
-domain: programming-languages
-version: 1.0.0
-tags: [bash, shell, scripting, automation, cli]
-triggers:
-  keywords:
-    primary: [bash, shell, sh, zsh, script, terminal, cli]
-    secondary: [grep, sed, awk, pipe, cron, automation, makefile]
-  context_boost: [devops, linux, unix, automation, sysadmin]
-  context_penalty: [web, frontend, mobile, gui]
-  priority: medium
+description: Defensive Bash scripting conventions — mandatory strict-mode header, trap cleanup, long-option argument parsing, logging helpers, main guard, and common quoting/subshell mistakes. Use when writing, editing, or reviewing any shell script, or when a Makefile, CI step, or automation task needs non-trivial shell.
 ---
 
 # Shell & Bash Scripting
@@ -74,109 +64,14 @@ parse_args() {
 }
 ```
 
-## Variable Expansion
+## Conventions
+
+- Use `[[ ]]`, never `[ ]`; use `(( ))` for arithmetic.
+- Iterate arrays with `"${arr[@]}"`, never `${arr[*]}`.
+- Declare every function variable `local`.
+- Send errors to stderr and exit non-zero:
 
 ```bash
-# Defaults and guards
-"${var:-default}"     # use default if unset or empty
-"${var:=default}"     # assign default if unset or empty
-"${var:?error msg}"   # abort with error if unset or empty
-
-# String operations
-"${str#prefix}"       # remove shortest prefix match
-"${str##*/}"          # basename (remove longest prefix)
-"${str%suffix}"       # remove shortest suffix match
-"${str%/*}"           # dirname (remove last slash + rest)
-"${str%%.*}"          # remove all extensions
-"${str/old/new}"      # replace first match
-"${str//old/new}"     # replace all matches
-"${#str}"             # string length
-"${str^^}"            # uppercase
-"${str,,}"            # lowercase
-```
-
-## Arrays — Always Quote
-
-```bash
-declare -a items=("one" "two" "three")
-items+=("four")
-
-echo "${items[0]}"     # first element
-echo "${items[-1]}"    # last element
-echo "${#items[@]}"    # length
-echo "${items[@]}"     # all elements — ALWAYS quote with "${arr[@]}"
-
-# Iterate — NEVER use ${arr[*]}, always ${arr[@]}
-for item in "${items[@]}"; do
-  echo "$item"
-done
-
-# With index
-for i in "${!items[@]}"; do
-  echo "$i: ${items[$i]}"
-done
-
-# Associative arrays (bash 4+)
-declare -A config=([host]="localhost" [port]="5432")
-for key in "${!config[@]}"; do
-  echo "$key=${config[$key]}"
-done
-```
-
-## Test Operators
-
-Use `[[` not `[`. Never use `[` — it's POSIX sh and lacks regex, `&&`/`||`, etc.
-
-```bash
-# Files
-[[ -e "$path" ]]     # exists (any type)
-[[ -f "$path" ]]     # regular file
-[[ -d "$path" ]]     # directory
-[[ -r "$path" ]]     # readable
-[[ -w "$path" ]]     # writable
-[[ -x "$path" ]]     # executable
-[[ -s "$path" ]]     # size > 0
-
-# Strings
-[[ -z "$str" ]]      # empty
-[[ -n "$str" ]]      # not empty
-[[ "$a" == "$b" ]]
-[[ "$a" != "$b" ]]
-[[ "$str" =~ ^[0-9]+$ ]]  # regex match
-
-# Numbers (use (( )) for arithmetic)
-(( a == b ))
-(( a != b ))
-(( a < b ))
-(( a > b ))
-(( a <= b ))
-(( a >= b ))
-```
-
-## Functions
-
-Always use `local` for every variable inside a function:
-
-```bash
-# Good
-process_file() {
-  local file="$1"
-  local result
-  result=$(some_command "$file")
-  echo "$result"
-}
-
-# Return status
-is_valid() {
-  local value="$1"
-  [[ "$value" =~ ^[0-9]+$ ]]
-}
-
-if is_valid "$input"; then
-  echo "ok"
-fi
-
-# Error output
 die() {
   echo "ERROR: $*" >&2
   exit 1
@@ -197,7 +92,7 @@ while IFS= read -r entry; do
 done < <(find . -name "*.txt")
 
 # Read into array
-mapfile -t lines < "$file"
+mapfile -t lines < "$file"   # bash 4+; macOS /bin/bash is 3.2, so use a while-read loop there
 ```
 
 ## Common Mistakes to Avoid
