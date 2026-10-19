@@ -294,12 +294,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Orlando City 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. Toronto FC
+SUMMARY:Red Bull New York vs. Toronto FC*
 DTSTART:20261017T233000Z
 DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009NF
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 0 - Toronto FC 2
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT

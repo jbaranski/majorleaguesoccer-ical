@@ -140,12 +140,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - FC Cincinnati 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Inter Miami CF
+SUMMARY:Atlanta United vs. Inter Miami CF*
 DTSTART:20261017T233000Z
 DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009N7
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Inter Miami CF
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - Inter Miami CF 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

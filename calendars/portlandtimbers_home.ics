@@ -170,12 +170,12 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - Atlanta United 1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Colorado Rapids
+SUMMARY:Portland Timbers* vs. Colorado Rapids*
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
 DTSTAMP:20261018T023000Z
 UID:MLS-MAT-0009NI
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 0 - Colorado Rapids 0
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

@@ -166,12 +166,12 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 4 - San Diego FC 1
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. San Diego FC
+SUMMARY:LA Galaxy* vs. San Diego FC*
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
 DTSTAMP:20261018T023000Z
 UID:MLS-MAT-0009NB
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - San Diego FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT

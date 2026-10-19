@@ -339,12 +339,12 @@ DESCRIPTION:MLS - Regular Season\n\nToronto FC 3 - Orlando City 3
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. D.C. United
+SUMMARY:Orlando City* vs. D.C. United
 DTSTART:20261017T233000Z
 DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009NG
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 4 - D.C. United 1
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

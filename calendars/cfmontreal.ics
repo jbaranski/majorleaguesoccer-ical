@@ -322,12 +322,12 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Atlanta United 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. CF Montreal
+SUMMARY:Seattle Sounders FC* vs. CF Montreal*
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
 DTSTAMP:20261018T023000Z
 UID:MLS-MAT-0009NK
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 1 - CF Montreal 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

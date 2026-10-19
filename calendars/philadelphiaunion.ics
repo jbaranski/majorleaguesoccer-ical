@@ -354,12 +354,12 @@ DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 1 - Philadelphia Union
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Charlotte FC
+SUMMARY:Philadelphia Union* vs. Charlotte FC*
 DTSTART:20261017T183000Z
 DTEND:20261017T203000Z
 DTSTAMP:20261017T183000Z
 UID:MLS-MAT-0009NH
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Charlotte FC 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

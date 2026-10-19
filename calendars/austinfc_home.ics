@@ -174,12 +174,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Nashville SC 4
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Vancouver Whitecaps FC
+SUMMARY:Austin FC vs. Vancouver Whitecaps FC*
 DTSTART:20261018T003000Z
 DTEND:20261018T023000Z
 DTSTAMP:20261018T003000Z
 UID:MLS-MAT-0009N8
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Vancouver Whitecaps FC
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Vancouver Whitecaps FC 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

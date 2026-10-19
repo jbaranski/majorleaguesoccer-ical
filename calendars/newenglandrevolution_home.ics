@@ -170,13 +170,13 @@ DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 0 - Seattle Sou
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Chicago Fire FC
+SUMMARY:New England Revolution* vs. Chicago Fire FC
 DTSTART:20261017T233000Z
 DTEND:20261018T013000Z
 DTSTAMP:20261017T233000Z
 UID:MLS-MAT-0009ND
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Chicago Fir
- e FC
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Chicago Fir
+ e FC 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
