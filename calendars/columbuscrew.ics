@@ -348,12 +348,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - Charlotte FC 1
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Columbus Crew
+SUMMARY:FC Cincinnati vs. Columbus Crew*
 DTSTART:20261018T210000Z
 DTEND:20261018T230000Z
 DTSTAMP:20261018T210000Z
 UID:MLS-MAT-0009NL
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Columbus Crew 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
