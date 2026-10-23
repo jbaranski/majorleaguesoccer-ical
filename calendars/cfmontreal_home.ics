@@ -176,12 +176,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Atlanta United 3
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Forge FC
+SUMMARY:CF Montreal vs. Forge FC*
 DTSTART:20261021T230000Z
 DTEND:20261022T010000Z
 DTSTAMP:20261021T230000Z
 UID:MLS-MAT-000AC5
-DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal vs. Forge FC
+DESCRIPTION:TELUS Canadian Championship\n\nCF Montreal 1 (penalties: 2) - 
+ Forge FC 1 (penalties: 4)
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

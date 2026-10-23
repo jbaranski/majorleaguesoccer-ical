@@ -357,12 +357,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Columbus Crew 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. St. Louis City SC
+SUMMARY:Columbus Crew vs. St. Louis City SC*
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
 DTSTAMP:20261022T000000Z
 UID:MLS-MAT-000A8O
-DESCRIPTION:U.S. Open Cup\n\nColumbus Crew vs. St. Louis City SC
+DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 0 (penalties: 3) - St. Louis Ci
+ ty SC 0 (penalties: 5)
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
