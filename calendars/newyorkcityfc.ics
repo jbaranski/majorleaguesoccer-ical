@@ -373,12 +373,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Los Angeles FC 1
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New York City FC
+SUMMARY:Orlando City* vs. New York City FC*
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NV
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - New York City FC 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

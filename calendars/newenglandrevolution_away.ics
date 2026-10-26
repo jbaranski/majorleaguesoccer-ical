@@ -160,13 +160,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - New England Revoluti
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. New England Revolution
+SUMMARY:Philadelphia Union vs. New England Revolution*
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NW
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. New England Rev
- olution
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New England Rev
+ olution 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT

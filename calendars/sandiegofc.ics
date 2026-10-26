@@ -357,12 +357,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - San Diego FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Diego FC vs. Seattle Sounders FC
+SUMMARY:San Diego FC* vs. Seattle Sounders FC*
 DTSTART:20261025T023000Z
 DTEND:20261025T043000Z
 DTSTAMP:20261025T023000Z
 UID:MLS-MAT-0009NZ
-DESCRIPTION:MLS - Regular Season\n\nSan Diego FC vs. Seattle Sounders FC
+DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Seattle Sounders FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT

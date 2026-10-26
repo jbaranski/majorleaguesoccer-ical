@@ -165,12 +165,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - FC Cincinnati 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. FC Cincinnati
+SUMMARY:D.C. United vs. FC Cincinnati*
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NQ
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT

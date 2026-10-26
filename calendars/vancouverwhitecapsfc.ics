@@ -413,13 +413,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Vancouver Whitecaps FC 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Vancouver Whitecaps FC
+SUMMARY:Colorado Rapids* vs. Vancouver Whitecaps FC
 DTSTART:20261025T013000Z
 DTEND:20261025T033000Z
 DTSTAMP:20261025T013000Z
 UID:MLS-MAT-0009NN
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Vancouver Whitecap
- s FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 1 - Vancouver Whitecap
+ s FC 0
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

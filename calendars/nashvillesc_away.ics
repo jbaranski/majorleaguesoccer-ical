@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 1 - Nashville SC
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CF Montreal vs. Nashville SC
+SUMMARY:CF Montreal vs. Nashville SC*
 DTSTART:20261024T173000Z
 DTEND:20261024T193000Z
 DTSTAMP:20261024T173000Z
 UID:MLS-MAT-0009NT
-DESCRIPTION:MLS - Regular Season\n\nCF Montreal vs. Nashville SC
+DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Nashville SC 2
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT

@@ -323,12 +323,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 1 - Inter Miami CF 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlanta United vs. Chicago Fire FC
+SUMMARY:Atlanta United vs. Chicago Fire FC*
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NM
-DESCRIPTION:MLS - Regular Season\n\nAtlanta United vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Chicago Fire FC 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT

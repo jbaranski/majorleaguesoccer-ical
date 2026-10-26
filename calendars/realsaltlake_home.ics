@@ -169,12 +169,12 @@ DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 1 - San Jose Earthquake
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. St. Louis City SC
+SUMMARY:Real Salt Lake* vs. St. Louis City SC
 DTSTART:20261025T013000Z
 DTEND:20261025T033000Z
 DTSTAMP:20261025T013000Z
 UID:MLS-MAT-0009NY
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. St. Louis City SC
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 3 - St. Louis City SC 0
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT

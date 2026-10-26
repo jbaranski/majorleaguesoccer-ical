@@ -348,12 +348,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 2 - Charlotte FC 2
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Charlotte FC
+SUMMARY:Portland Timbers* vs. Charlotte FC
 DTSTART:20261025T023000Z
 DTEND:20261025T043000Z
 DTSTAMP:20261025T023000Z
 UID:MLS-MAT-0009NX
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Charlotte FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Charlotte FC 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT

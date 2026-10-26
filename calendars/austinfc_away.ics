@@ -183,12 +183,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 3 - Austin FC 1
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. Austin FC
+SUMMARY:Sporting Kansas City vs. Austin FC*
 DTSTART:20261025T003000Z
 DTEND:20261025T023000Z
 DTSTAMP:20261025T003000Z
 UID:MLS-MAT-0009NS
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Austin FC 2
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT

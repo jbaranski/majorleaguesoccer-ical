@@ -212,12 +212,12 @@ DESCRIPTION:U.S. Open Cup\n\nColumbus Crew 0 (penalties: 3) - St. Louis Ci
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. Toronto FC
+SUMMARY:Columbus Crew* vs. Toronto FC
 DTSTART:20261024T193000Z
 DTEND:20261024T213000Z
 DTSTAMP:20261024T193000Z
 UID:MLS-MAT-0009NO
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 4 - Toronto FC 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

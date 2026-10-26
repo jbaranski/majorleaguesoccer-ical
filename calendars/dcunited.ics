@@ -331,12 +331,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 2 - D.C. United 1
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. FC Cincinnati
+SUMMARY:D.C. United vs. FC Cincinnati*
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 DTSTAMP:20261024T233000Z
 UID:MLS-MAT-0009NQ
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
