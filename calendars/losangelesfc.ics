@@ -421,12 +421,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - Los Angeles FC 1
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. LA Galaxy
+SUMMARY:Los Angeles FC* vs. LA Galaxy*
 DTSTART:20261026T010000Z
 DTEND:20261026T030000Z
 DTSTAMP:20261026T010000Z
 UID:MLS-MAT-0009O0
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - LA Galaxy 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
