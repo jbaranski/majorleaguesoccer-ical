@@ -188,13 +188,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC 4 - Sporting Kansas City
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. Sporting Kansas City
+SUMMARY:Minnesota United* vs. Sporting Kansas City
 DTSTART:20261029T003000Z
 DTEND:20261029T023000Z
 DTSTAMP:20261029T003000Z
 UID:MLS-MAT-0009O6
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. Sporting Kansas C
- ity
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - Sporting Kansas C
+ ity 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 BEGIN:VEVENT

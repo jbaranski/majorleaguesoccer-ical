@@ -164,12 +164,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - San Jose Earthquakes 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Columbus Crew
+SUMMARY:FC Dallas vs. Columbus Crew*
 DTSTART:20261029T003000Z
 DTEND:20261029T023000Z
 DTSTAMP:20261029T003000Z
 UID:MLS-MAT-0009O4
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Columbus Crew
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Columbus Crew 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT

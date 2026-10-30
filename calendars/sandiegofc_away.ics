@@ -175,13 +175,13 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 2 - San Diego FC 2
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. San Diego FC
+SUMMARY:Vancouver Whitecaps FC* vs. San Diego FC
 DTSTART:20261029T023000Z
 DTEND:20261029T043000Z
 DTSTAMP:20261029T023000Z
 UID:MLS-MAT-0009OE
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. San Diego F
- C
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 4 - San Diego F
+ C 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

@@ -312,12 +312,12 @@ DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 4 - Toronto FC 2
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toronto FC vs. D.C. United
+SUMMARY:Toronto FC* vs. D.C. United
 DTSTART:20261028T233000Z
 DTEND:20261029T013000Z
 DTSTAMP:20261028T233000Z
 UID:MLS-MAT-0009OD
-DESCRIPTION:MLS - Regular Season\n\nToronto FC vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nToronto FC 2 - D.C. United 1
 LOCATION:BMO Field\, Toronto\, ON
 END:VEVENT
 BEGIN:VEVENT

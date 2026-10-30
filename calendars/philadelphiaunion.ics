@@ -373,12 +373,12 @@ DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 1 - New England Rev
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Philadelphia Union
+SUMMARY:Nashville SC* vs. Philadelphia Union*
 DTSTART:20261029T003000Z
 DTEND:20261029T023000Z
 DTSTAMP:20261029T003000Z
 UID:MLS-MAT-0009O7
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 0 - Philadelphia Union 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

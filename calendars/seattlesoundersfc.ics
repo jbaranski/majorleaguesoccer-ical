@@ -379,13 +379,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Diego FC 2 - Seattle Sounders FC 2
 LOCATION:Snapdragon Stadium\, San Diego
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Houston Dynamo FC
+SUMMARY:Seattle Sounders FC vs. Houston Dynamo FC*
 DTSTART:20261029T023000Z
 DTEND:20261029T043000Z
 DTSTAMP:20261029T023000Z
 UID:MLS-MAT-0009OB
-DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC vs. Houston Dynamo
-  FC
+DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 0 - Houston Dynamo
+  FC 1
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT

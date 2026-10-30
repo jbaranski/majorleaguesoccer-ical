@@ -224,12 +224,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - New York City FC 0
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. FC Cincinnati
+SUMMARY:Inter Miami CF* vs. FC Cincinnati*
 DTSTART:20261028T233000Z
 DTEND:20261029T013000Z
 DTSTAMP:20261028T233000Z
 UID:MLS-MAT-0009O5
-DESCRIPTION:MLS - Regular Season\n\nInter Miami CF vs. FC Cincinnati
+DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 2 - FC Cincinnati 2
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

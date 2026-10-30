@@ -383,12 +383,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 2 - Chicago Fire FC 3
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Orlando City
+SUMMARY:Chicago Fire FC* vs. Orlando City*
 DTSTART:20261029T003000Z
 DTEND:20261029T023000Z
 DTSTAMP:20261029T003000Z
 UID:MLS-MAT-0009O3
-DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nChicago Fire FC 2 - Orlando City 2
 LOCATION:Soldier Field\, Chicago\, IL
 END:VEVENT
 BEGIN:VEVENT

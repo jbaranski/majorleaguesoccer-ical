@@ -364,12 +364,12 @@ DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - Austin FC 2
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Real Salt Lake
+SUMMARY:Austin FC vs. Real Salt Lake*
 DTSTART:20261029T003000Z
 DTEND:20261029T023000Z
 DTSTAMP:20261029T003000Z
 UID:MLS-MAT-0009O1
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Real Salt Lake
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT

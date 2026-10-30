@@ -371,13 +371,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - San Jose Earthquakes 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Colorado Rapids
+SUMMARY:San Jose Earthquakes* vs. Colorado Rapids*
 DTSTART:20261029T023000Z
 DTEND:20261029T043000Z
 DTSTAMP:20261029T023000Z
 UID:MLS-MAT-0009OA
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Colorado Rapi
- ds
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Colorado Rapi
+ ds 2
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
