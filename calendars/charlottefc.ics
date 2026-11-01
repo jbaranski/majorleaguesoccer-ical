@@ -366,12 +366,12 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 4 - CF Montreal 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlotte FC vs. Orlando City
+SUMMARY:Charlotte FC* vs. Orlando City
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 DTSTAMP:20261031T170000Z
 UID:MLS-MAT-0009OF
-DESCRIPTION:MLS - Regular Season\n\nCharlotte FC vs. Orlando City
+DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 4 - Orlando City 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
