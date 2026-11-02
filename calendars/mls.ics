@@ -6849,13 +6849,13 @@ DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Red Bull New York
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Seattle Sounders FC
+SUMMARY:Vancouver Whitecaps FC* vs. Seattle Sounders FC
 DTSTART:20261101T203000Z
 DTEND:20261101T223000Z
 DTSTAMP:20261101T203000Z
 UID:MLS-MAT-0009OP
-DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC vs. Seattle Sou
- nders FC
+DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 5 - Seattle Sou
+ nders FC 1
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
