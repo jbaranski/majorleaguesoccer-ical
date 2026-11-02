@@ -385,12 +385,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Dallas 0 - Columbus Crew 2
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. D.C. United
+SUMMARY:Columbus Crew* vs. D.C. United
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 DTSTAMP:20261031T180000Z
 UID:MLS-MAT-0009OI
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - D.C. United 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT

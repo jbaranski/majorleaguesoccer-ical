@@ -185,12 +185,12 @@ DESCRIPTION:MLS - Regular Season\n\nVancouver Whitecaps FC 4 - San Diego F
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. San Diego FC
+SUMMARY:St. Louis City SC vs. San Diego FC*
 DTSTART:20261031T190000Z
 DTEND:20261031T210000Z
 DTSTAMP:20261031T190000Z
 UID:MLS-MAT-0009OO
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - San Diego FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 END:VCALENDAR

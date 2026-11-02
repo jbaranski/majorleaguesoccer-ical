@@ -357,12 +357,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Colorado Rapi
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Chicago Fire FC
+SUMMARY:Colorado Rapids vs. Chicago Fire FC*
 DTSTART:20261101T013000Z
 DTEND:20261101T033000Z
 DTSTAMP:20261101T013000Z
 UID:MLS-MAT-0009OH
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Chicago Fire FC 4
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT

@@ -345,13 +345,13 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Real Salt Lake
+SUMMARY:San Jose Earthquakes* vs. Real Salt Lake
 DTSTART:20261031T210000Z
 DTEND:20261031T230000Z
 DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009ON
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Real Salt Lak
- e
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Real Salt Lak
+ e 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT

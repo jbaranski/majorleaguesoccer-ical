@@ -6767,76 +6767,76 @@ DESCRIPTION:MLS - Regular Season\n\nCharlotte FC 4 - Orlando City 0
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Cincinnati vs. Philadelphia Union
+SUMMARY:FC Cincinnati* vs. Philadelphia Union
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 DTSTAMP:20261031T180000Z
 UID:MLS-MAT-0009OG
-DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati vs. Philadelphia Union
+DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - Philadelphia Union 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Columbus Crew vs. D.C. United
+SUMMARY:Columbus Crew* vs. D.C. United
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 DTSTAMP:20261031T180000Z
 UID:MLS-MAT-0009OI
-DESCRIPTION:MLS - Regular Season\n\nColumbus Crew vs. D.C. United
+DESCRIPTION:MLS - Regular Season\n\nColumbus Crew 3 - D.C. United 0
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sporting Kansas City vs. FC Dallas
+SUMMARY:Sporting Kansas City* vs. FC Dallas*
 DTSTART:20261031T190000Z
 DTEND:20261031T210000Z
 DTSTAMP:20261031T190000Z
 UID:MLS-MAT-0009OJ
-DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City vs. FC Dallas
+DESCRIPTION:MLS - Regular Season\n\nSporting Kansas City 1 - FC Dallas 1
 LOCATION:Sporting Park\, Kansas City\, KS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA Galaxy vs. Austin FC
+SUMMARY:LA Galaxy* vs. Austin FC
 DTSTART:20261031T210000Z
 DTEND:20261031T230000Z
 DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009OK
-DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Austin FC
+DESCRIPTION:MLS - Regular Season\n\nLA Galaxy 4 - Austin FC 1
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City FC vs. CF Montreal
+SUMMARY:New York City FC* vs. CF Montreal*
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 DTSTAMP:20261031T180000Z
 UID:MLS-MAT-0009OM
-DESCRIPTION:MLS - Regular Season\n\nNew York City FC vs. CF Montreal
+DESCRIPTION:MLS - Regular Season\n\nNew York City FC 1 - CF Montreal 1
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Real Salt Lake
+SUMMARY:San Jose Earthquakes* vs. Real Salt Lake
 DTSTART:20261031T210000Z
 DTEND:20261031T230000Z
 DTSTAMP:20261031T210000Z
 UID:MLS-MAT-0009ON
-DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes vs. Real Salt Lak
- e
+DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Real Salt Lak
+ e 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. San Diego FC
+SUMMARY:St. Louis City SC vs. San Diego FC*
 DTSTART:20261031T190000Z
 DTEND:20261031T210000Z
 DTSTAMP:20261031T190000Z
 UID:MLS-MAT-0009OO
-DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC vs. San Diego FC
+DESCRIPTION:MLS - Regular Season\n\nSt. Louis City SC 0 - San Diego FC 1
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Rapids vs. Chicago Fire FC
+SUMMARY:Colorado Rapids vs. Chicago Fire FC*
 DTSTART:20261101T013000Z
 DTEND:20261101T033000Z
 DTSTAMP:20261101T013000Z
 UID:MLS-MAT-0009OH
-DESCRIPTION:MLS - Regular Season\n\nColorado Rapids vs. Chicago Fire FC
+DESCRIPTION:MLS - Regular Season\n\nColorado Rapids 2 - Chicago Fire FC 4
 LOCATION:DICK'S Sporting Goods Park\, Commerce City\, CO
 END:VEVENT
 BEGIN:VEVENT
