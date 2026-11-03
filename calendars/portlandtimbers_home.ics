@@ -188,12 +188,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Charlotte FC 2
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portland Timbers vs. Houston Dynamo FC
+SUMMARY:Portland Timbers* vs. Houston Dynamo FC
 DTSTART:20261102T024500Z
 DTEND:20261102T044500Z
 DTSTAMP:20261102T024500Z
 UID:MLS-MAT-0009OT
-DESCRIPTION:MLS - Regular Season\n\nPortland Timbers vs. Houston Dynamo FC
+DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Houston Dynamo FC
+  1
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 END:VCALENDAR

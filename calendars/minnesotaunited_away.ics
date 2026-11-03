@@ -211,12 +211,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Minnesota United
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Los Angeles FC vs. Minnesota United
+SUMMARY:Los Angeles FC vs. Minnesota United*
 DTSTART:20261102T013000Z
 DTEND:20261102T033000Z
 DTSTAMP:20261102T013000Z
 UID:MLS-MAT-0009OR
-DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC vs. Minnesota United
+DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Minnesota United 3
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 END:VCALENDAR

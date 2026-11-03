@@ -175,13 +175,13 @@ DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 2 - Inter Miami CF 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Inter Miami CF
+SUMMARY:New England Revolution vs. Inter Miami CF*
 DTSTART:20261102T000000Z
 DTEND:20261102T020000Z
 DTSTAMP:20261102T000000Z
 UID:MLS-MAT-0009OS
-DESCRIPTION:MLS - Regular Season\n\nNew England Revolution vs. Inter Miami
-  CF
+DESCRIPTION:MLS - Regular Season\n\nNew England Revolution 1 - Inter Miami
+  CF 2
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 END:VCALENDAR
