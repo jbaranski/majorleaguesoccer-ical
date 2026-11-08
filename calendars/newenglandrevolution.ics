@@ -368,4 +368,34 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
  n
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Philadelphia Union
+DTSTART:20261120T170000Z
+DTEND:20261120T190000Z
+DTSTAMP:20261120T170000Z
+UID:MLS-MAT-000ADE
+DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution vs. Philadelphia 
+ Union
+LOCATION:TBC\, unknown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. New England Revolution
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+DTSTAMP:20261125T170000Z
+UID:MLS-MAT-000ADF
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. New England Revol
+ ution
+LOCATION:TBC\, unknown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Revolution vs. Philadelphia Union
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+DTSTAMP:20261201T170000Z
+UID:MLS-MAT-000ADG
+DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution vs. Philadelphia 
+ Union
+LOCATION:TBC\, unknown
+END:VEVENT
 END:VCALENDAR

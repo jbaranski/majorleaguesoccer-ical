@@ -210,4 +210,14 @@ UID:MLS-MAT-0009P5
 DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Toronto FC
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Union vs. New England Revolution
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+DTSTAMP:20261125T170000Z
+UID:MLS-MAT-000ADF
+DESCRIPTION:MLS - Cup Playoffs\n\nPhiladelphia Union vs. New England Revol
+ ution
+LOCATION:TBC\, unknown
+END:VEVENT
 END:VCALENDAR

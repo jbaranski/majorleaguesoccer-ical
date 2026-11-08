@@ -187,4 +187,13 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Real Salt Lak
  e 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Sounders FC vs. Real Salt Lake
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+DTSTAMP:20261120T030000Z
+UID:MLS-MAT-000ACP
+DESCRIPTION:MLS - Cup Playoffs\n\nSeattle Sounders FC vs. Real Salt Lake
+LOCATION:Lumen Field\, Seattle\, WA
+END:VEVENT
 END:VCALENDAR
