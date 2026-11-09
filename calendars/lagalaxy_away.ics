@@ -184,12 +184,12 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 2 - LA Galaxy 2
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Real Salt Lake vs. LA Galaxy
+SUMMARY:Real Salt Lake* vs. LA Galaxy
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009P6
-DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake vs. LA Galaxy
+DESCRIPTION:MLS - Regular Season\n\nReal Salt Lake 2 - LA Galaxy 1
 LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 END:VCALENDAR

@@ -398,13 +398,13 @@ DESCRIPTION:MLS - Regular Season\n\nLos Angeles FC 1 - Minnesota United 3
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minnesota United vs. San Jose Earthquakes
+SUMMARY:Minnesota United* vs. San Jose Earthquakes
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009P1
-DESCRIPTION:MLS - Regular Season\n\nMinnesota United vs. San Jose Earthqua
- kes
+DESCRIPTION:MLS - Regular Season\n\nMinnesota United 3 - San Jose Earthqua
+ kes 1
 LOCATION:Allianz Field\, St. Paul\, MN
 END:VEVENT
 END:VCALENDAR

@@ -192,12 +192,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 1 - Real Salt Lake 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Austin FC vs. Portland Timbers
+SUMMARY:Austin FC vs. Portland Timbers*
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009OU
-DESCRIPTION:MLS - Regular Season\n\nAustin FC vs. Portland Timbers
+DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Portland Timbers 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 END:VCALENDAR

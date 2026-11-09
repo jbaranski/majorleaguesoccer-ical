@@ -183,13 +183,13 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 2 - New York City FC 2
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. New England Revolution
+SUMMARY:Orlando City* vs. New England Revolution
 DTSTART:20261107T210000Z
 DTEND:20261107T230000Z
 DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P4
-DESCRIPTION:MLS - Regular Season\n\nOrlando City vs. New England Revolutio
- n
+DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - New England Revolutio
+ n 0
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT

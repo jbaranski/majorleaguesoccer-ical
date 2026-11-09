@@ -161,12 +161,12 @@ DESCRIPTION:MLS - Regular Season\n\nSan Jose Earthquakes 2 - Colorado Rapi
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Colorado Rapids
+SUMMARY:FC Dallas* vs. Colorado Rapids
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009OX
-DESCRIPTION:MLS - Regular Season\n\nFC Dallas vs. Colorado Rapids
+DESCRIPTION:MLS - Regular Season\n\nFC Dallas 3 - Colorado Rapids 1
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 END:VCALENDAR

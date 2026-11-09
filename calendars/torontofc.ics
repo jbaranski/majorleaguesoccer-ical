@@ -330,12 +330,12 @@ DESCRIPTION:MLS - Regular Season\n\nAtlanta United 3 - Toronto FC 1
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philadelphia Union vs. Toronto FC
+SUMMARY:Philadelphia Union* vs. Toronto FC
 DTSTART:20261107T210000Z
 DTEND:20261107T230000Z
 DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P5
-DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union vs. Toronto FC
+DESCRIPTION:MLS - Regular Season\n\nPhiladelphia Union 4 - Toronto FC 1
 LOCATION:Subaru Park\, Chester\, PA
 END:VEVENT
 END:VCALENDAR

@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nNew York City FC 2 - Atlanta United 1
 LOCATION:Citi Field\, Flushing\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull New York vs. Atlanta United
+SUMMARY:Red Bull New York* vs. Atlanta United
 DTSTART:20261107T210000Z
 DTEND:20261107T230000Z
 DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009P3
-DESCRIPTION:MLS - Regular Season\n\nRed Bull New York vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nRed Bull New York 3 - Atlanta United 0
 LOCATION:Sports Illustrated Stadium\, Harrison\, NJ
 END:VEVENT
 END:VCALENDAR

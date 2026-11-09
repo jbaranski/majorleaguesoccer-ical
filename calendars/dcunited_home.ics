@@ -194,12 +194,12 @@ DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - FC Cincinnati 2
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.C. United vs. New York City FC
+SUMMARY:D.C. United vs. New York City FC*
 DTSTART:20261107T210000Z
 DTEND:20261107T230000Z
 DTSTAMP:20261107T210000Z
 UID:MLS-MAT-0009OY
-DESCRIPTION:MLS - Regular Season\n\nD.C. United vs. New York City FC
+DESCRIPTION:MLS - Regular Season\n\nD.C. United 0 - New York City FC 1
 LOCATION:Audi Field\, Washington D.C.
 END:VEVENT
 END:VCALENDAR

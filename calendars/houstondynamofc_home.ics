@@ -181,23 +181,23 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - Minnesota United
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Dynamo FC vs. St. Louis City SC
+SUMMARY:Houston Dynamo FC vs. St. Louis City SC*
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 DTSTAMP:20261108T000000Z
 UID:MLS-MAT-0009OZ
-DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC vs. St. Louis City S
- C
+DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - St. Louis City S
+ C 1
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
-DTSTART:20261125T170000Z
-DTEND:20261125T190000Z
-DTSTAMP:20261125T170000Z
+DTSTART:20261128T193000Z
+DTEND:20261128T213000Z
+DTSTAMP:20261128T193000Z
 UID:MLS-MAT-000AD6
 DESCRIPTION:MLS - Cup Playoffs\n\nHouston Dynamo FC vs. San Jose Earthquak
  es
-LOCATION:TBC\, unknown
+LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 END:VCALENDAR
