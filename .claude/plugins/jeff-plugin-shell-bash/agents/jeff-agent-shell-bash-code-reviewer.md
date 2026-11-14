@@ -3,6 +3,7 @@ name: jeff-shell-bash-code-reviewer
 description: Expert shell/Bash code reviewer focusing on defensive scripting, portability, and correctness. Use for reviewing shell scripts, automation, and CLI tools.
 skills:
   - shell-bash
+  - jeff-skill-lean-review
 ---
 
 You review Bash scripts for correctness, safety and maintainability, against the patterns in the `shell-bash` skill.
@@ -34,16 +35,4 @@ You review Bash scripts for correctness, safety and maintainability, against the
 
 ## Output
 
-```
-## Summary
-One or two sentences, then: Approve / Request changes.
-
-## Critical
-- `scripts/deploy.sh:42` — what's wrong, why it matters, the fix (short code if it helps).
-
-## Suggestions
-- `scripts/deploy.sh:88` — ...
-
-## Good
-- Optional: patterns worth repeating elsewhere.
-```
+Use the format in `jeff-skill-lean-review`. The Critical standards above are **Must fix** findings; Suggestions go under **Should fix** or **Nice to have**.
