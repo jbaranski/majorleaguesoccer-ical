@@ -8,6 +8,7 @@ Find your favorite team in the table below. Copy the iCalendar url to your clipb
 | Team | URL |
 | ---- | --- |
 | All MLS Fixtures | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/mls.ics |
+| All MLS Cup Playoffs Fixtures | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/mlsplayoffs.ics |
 | Atlanta United | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/atlantaunited.ics |
 | Austin FC | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/austinfc.ics |
 | CF Montreal | https://raw.githubusercontent.com/jbaranski/majorleaguesoccer-ical/refs/heads/main/calendars/cfmontreal.ics |

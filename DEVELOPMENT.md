@@ -112,6 +112,7 @@ The application will:
    - Example: `dcunited.ics`, `intermiamicf.ics`
    - Each team also gets `_home.ics` and `_away.ics` variants
    - A master `mls.ics` contains all league fixtures deduplicated
+   - A master `mlsplayoffs.ics` contains only MLS Cup Playoffs fixtures (requires `MLS-COM-000002` in `MLS_LEAGUE_COMPETITIONS`)
 5. International calendar files are named using the team name plus a master file named by competition
    - Example: `goldcup.ics` for CONCACAF Gold Cup
 

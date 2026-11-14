@@ -1,6 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
+const specialCalendars: Record<string, string> = {
+  'All MLS Fixtures': 'mls',
+  'All MLS Cup Playoffs Fixtures': 'mlsplayoffs'
+};
+
 @Component({
   selector: 'app-home',
   imports: [CommonModule],
@@ -10,6 +15,7 @@ export class HomeComponent {
   readonly lastUpdated = '2026-11-10T19:16:37Z';
   readonly teams = [
     'All MLS Fixtures',
+    'All MLS Cup Playoffs Fixtures',
     'Atlanta United',
     'Austin FC',
     'CF Montreal',
@@ -42,7 +48,9 @@ export class HomeComponent {
     'Vancouver Whitecaps FC'
   ]
     .map((name) =>
-      name == 'All MLS Fixtures' ? [name, 'mls'] : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()]
+      name in specialCalendars
+        ? [name, specialCalendars[name]]
+        : [name, name.replaceAll('.', '').replaceAll(' ', '').toLowerCase()]
     )
     .map(([name, urlName]) => ({
       name,

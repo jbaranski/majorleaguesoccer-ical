@@ -15,28 +15,30 @@ TEAMS_FIX = {
     "Türkiye": "Turkiye"
 }
 
-COMPETITION_FILENAME_MAP = {
-    "MLS-COM-000001": "mls",  # Major League Soccer
-    "MLS-COM-000002": "mls",  # MLS Cup Playoffs
-    "MLS-COM-000005": "mls",  # MLS All-Star Game
-    "MLS-COM-000006": "mls",  # Leagues Cup
-    "MLS-COM-000007": "mls",  # Campeones Cup
-    "MLS-COM-00000K": "mls",  # CONCACAF Champions Cup
-    "MLS-COM-00002S": "mls",  # Club Friendly Matches
-    "MLS-COM-00002U": "mls",  # U.S. Open Cup
-    "MLS-COM-00002V": "mls",  # Canadian Championship
-    "MLS-COM-00002W": "copamerica",  # Copa América
-    "MLS-COM-00002Y": "fifaclubworldcup",  # FIFA Club World Cup
-    "MLS-COM-00002Z": "concacafnationsleague",  # CONCACAF Nations League
-    "MLS-COM-000030": "goldcup",  # Gold Cup
-    # "MLS-COM-000032": "internationalfriendlies",  # International Friendlies — no aggregated calendar, team-specific only
-    "MLS-COM-000034": "mls",  # Preseason Friendlies
-    "MLS-COM-000035": "worldcup",  # FIFA World Cup
+# Master calendar filename stems each competition's fixtures are written to.
+COMPETITION_FILENAME_MAP: dict[str, tuple[str, ...]] = {
+    "MLS-COM-000001": ("mls",),  # Major League Soccer
+    "MLS-COM-000002": ("mls", "mlsplayoffs"),  # MLS Cup Playoffs
+    "MLS-COM-000005": ("mls",),  # MLS All-Star Game
+    "MLS-COM-000006": ("mls",),  # Leagues Cup
+    "MLS-COM-000007": ("mls",),  # Campeones Cup
+    "MLS-COM-00000K": ("mls",),  # CONCACAF Champions Cup
+    "MLS-COM-00002S": ("mls",),  # Club Friendly Matches
+    "MLS-COM-00002U": ("mls",),  # U.S. Open Cup
+    "MLS-COM-00002V": ("mls",),  # Canadian Championship
+    "MLS-COM-00002W": ("copamerica",),  # Copa América
+    "MLS-COM-00002Y": ("fifaclubworldcup",),  # FIFA Club World Cup
+    "MLS-COM-00002Z": ("concacafnationsleague",),  # CONCACAF Nations League
+    "MLS-COM-000030": ("goldcup",),  # Gold Cup
+    # "MLS-COM-000032": ("internationalfriendlies",),  # International Friendlies — no aggregated calendar, team-specific only
+    "MLS-COM-000034": ("mls",),  # Preseason Friendlies
+    "MLS-COM-000035": ("worldcup",),  # FIFA World Cup
 }
 
 
 COMPETITION_DISPLAY_NAMES: dict[str, str] = {
     "mls": "Major League Soccer",
+    "mlsplayoffs": "MLS Cup Playoffs",
     "copamerica": "Copa América",
     "fifaclubworldcup": "FIFA Club World Cup",
     "concacafnationsleague": "CONCACAF Nations League",
@@ -56,9 +58,9 @@ def team_filename(team_name: str) -> str:
     return team_name.replace(".", "").replace(" ", "").replace("\n", "").lower()
 
 
-def competition_filename(competition_id: str) -> str | None:
-    """Return the output filename stem for a competition, or None if no aggregated calendar should be generated."""
-    return COMPETITION_FILENAME_MAP.get(competition_id)
+def competition_filenames(competition_id: str) -> tuple[str, ...]:
+    """Return the master calendar filename stems for a competition, or () if it gets no aggregated calendar."""
+    return COMPETITION_FILENAME_MAP.get(competition_id, ())
 
 
 @cache
