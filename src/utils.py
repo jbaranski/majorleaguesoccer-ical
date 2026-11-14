@@ -34,9 +34,16 @@ COMPETITION_FILENAME_MAP = {
     "MLS-COM-000035": "worldcup",  # FIFA World Cup
 }
 
+# Additional master calendars a competition's fixtures are also written to,
+# on top of the primary COMPETITION_FILENAME_MAP entry.
+COMPETITION_EXTRA_FILENAMES_MAP: dict[str, tuple[str, ...]] = {
+    "MLS-COM-000002": ("mlsplayoffs",),  # MLS Cup Playoffs
+}
+
 
 COMPETITION_DISPLAY_NAMES: dict[str, str] = {
     "mls": "Major League Soccer",
+    "mlsplayoffs": "MLS Cup Playoffs",
     "copamerica": "Copa América",
     "fifaclubworldcup": "FIFA Club World Cup",
     "concacafnationsleague": "CONCACAF Nations League",
@@ -59,6 +66,13 @@ def team_filename(team_name: str) -> str:
 def competition_filename(competition_id: str) -> str | None:
     """Return the output filename stem for a competition, or None if no aggregated calendar should be generated."""
     return COMPETITION_FILENAME_MAP.get(competition_id)
+
+
+def competition_filenames(competition_id: str) -> tuple[str, ...]:
+    """Return every master calendar filename stem a competition's fixtures belong to."""
+    primary = competition_filename(competition_id)
+    extras = COMPETITION_EXTRA_FILENAMES_MAP.get(competition_id, ())
+    return ((primary,) if primary is not None else ()) + extras
 
 
 @cache
