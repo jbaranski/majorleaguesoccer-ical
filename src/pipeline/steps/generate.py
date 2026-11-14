@@ -4,11 +4,7 @@ from collections import defaultdict
 
 from src.football_calendar import FootballCalendar, FootballCalendarEvent
 from src.pipeline.context import CompetitionContext, CompetitionType
-from src.utils import (
-    competition_filename,
-    competition_filenames,
-    get_correct_team_name,
-)
+from src.utils import competition_filenames, get_correct_team_name
 
 
 def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
@@ -86,8 +82,7 @@ def generate_calendars(ctx: CompetitionContext) -> CompetitionContext:
                 f"competition={ctx.competition_id}"
             )
 
-        comp_file = competition_filename(ctx.competition_id)
-        if comp_file is not None:
+        for comp_file in competition_filenames(ctx.competition_id):
             master_cal = FootballCalendar.to_football_calendar(
                 comp_file,
                 season_years_str,
