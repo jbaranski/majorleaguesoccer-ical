@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@angular/build": "^22.2.5",
-    "@angular/cli": "^22.2.5",
+    "@angular/cli": "^22.2.7",
     "@angular/compiler-cli": "^22.2.5",
     "@tailwindcss/postcss": "^4.3.5",
     "@types/jasmine": "^7.0.0",
