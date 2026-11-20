@@ -212,12 +212,12 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 0 - Nashville SC 2
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Nashville SC
+SUMMARY:FC Cincinnati vs. Nashville SC
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 DTSTAMP:20261128T233000Z
 UID:MLS-MAT-000AD9
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. Nashville SC
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati vs. Nashville SC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 END:VCALENDAR

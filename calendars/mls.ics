@@ -7084,12 +7084,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution vs. Philadelphia
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. TBC Away
+SUMMARY:Nashville SC vs. FC Cincinnati
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 DTSTAMP:20261122T210000Z
 UID:MLS-MAT-000AD8
-DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. FC Cincinnati
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
@@ -7102,12 +7102,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Charlotte FC
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. TBC Away
+SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
 DTSTART:20261123T013000Z
 DTEND:20261123T033000Z
 DTSTAMP:20261123T013000Z
 UID:MLS-MAT-000ACR
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. Real Salt Lak
+ e
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
@@ -7130,13 +7131,14 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSan Jose Earthquakes vs. Houston Dynamo
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Vancouver Whitecaps FC
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 DTSTAMP:20261128T030000Z
 UID:MLS-MAT-000ACS
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. Vancouver Whitecaps FC
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nReal Salt Lake vs. Vancouver Whitecaps F
+ C
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Dynamo FC vs. San Jose Earthquakes
@@ -7149,13 +7151,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nHouston Dynamo FC vs. San Jose Earthquak
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Nashville SC
+SUMMARY:FC Cincinnati vs. Nashville SC
 DTSTART:20261128T233000Z
 DTEND:20261129T013000Z
 DTSTAMP:20261128T233000Z
 UID:MLS-MAT-000AD9
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. Nashville SC
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Cincinnati vs. Nashville SC
+LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus Crew vs. Inter Miami CF
@@ -7204,12 +7206,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nLos Angeles FC vs. St. Louis City SC
 LOCATION:BMO Stadium\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. TBC Away
+SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
 DTSTART:20261202T170000Z
 DTEND:20261202T190000Z
 DTSTAMP:20261202T170000Z
 UID:MLS-MAT-000ACT
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. Real Salt Lak
+ e
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT
@@ -7241,12 +7244,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSan Jose Earthquakes vs. Houston Dynamo
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. TBC Away
+SUMMARY:Nashville SC vs. FC Cincinnati
 DTSTART:20261203T010000Z
 DTEND:20261203T030000Z
 DTSTAMP:20261203T010000Z
 UID:MLS-MAT-000ADA
-DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. TBC Away
+DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. FC Cincinnati
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

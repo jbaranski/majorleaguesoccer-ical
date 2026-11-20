@@ -228,12 +228,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Vancouver Whitecaps FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBC Home vs. Vancouver Whitecaps FC
+SUMMARY:Real Salt Lake vs. Vancouver Whitecaps FC
 DTSTART:20261128T030000Z
 DTEND:20261128T050000Z
 DTSTAMP:20261128T030000Z
 UID:MLS-MAT-000ACS
-DESCRIPTION:MLS - Cup Playoffs\n\nTBC Home vs. Vancouver Whitecaps FC
-LOCATION:TBC\, unknown
+DESCRIPTION:MLS - Cup Playoffs\n\nReal Salt Lake vs. Vancouver Whitecaps F
+ C
+LOCATION:America First Field\, Sandy\, UT
 END:VEVENT
 END:VCALENDAR
