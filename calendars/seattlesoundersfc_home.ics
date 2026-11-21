@@ -214,12 +214,13 @@ DESCRIPTION:MLS - Regular Season\n\nSeattle Sounders FC 2 - Los Angeles FC
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle Sounders FC vs. Real Salt Lake
+SUMMARY:Seattle Sounders FC vs. Real Salt Lake*
 DTSTART:20261120T030000Z
 DTEND:20261120T050000Z
 DTSTAMP:20261120T030000Z
 UID:MLS-MAT-000ACP
-DESCRIPTION:MLS - Cup Playoffs\n\nSeattle Sounders FC vs. Real Salt Lake
+DESCRIPTION:MLS - Cup Playoffs\n\nSeattle Sounders FC 1 (penalties: 2) - R
+ eal Salt Lake 1 (penalties: 4)
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 END:VCALENDAR

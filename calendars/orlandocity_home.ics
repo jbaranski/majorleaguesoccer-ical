@@ -193,12 +193,12 @@ DESCRIPTION:MLS - Regular Season\n\nOrlando City 1 - New England Revolutio
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Orlando City vs. FC Cincinnati
+SUMMARY:Orlando City vs. FC Cincinnati*
 DTSTART:20261120T003000Z
 DTEND:20261120T023000Z
 DTSTAMP:20261120T003000Z
 UID:MLS-MAT-000ACQ
-DESCRIPTION:MLS - Cup Playoffs\n\nOrlando City vs. FC Cincinnati
+DESCRIPTION:MLS - Cup Playoffs\n\nOrlando City 1 - FC Cincinnati 3
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 END:VCALENDAR
