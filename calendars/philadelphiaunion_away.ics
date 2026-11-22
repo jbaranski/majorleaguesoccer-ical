@@ -200,13 +200,13 @@ DESCRIPTION:MLS - Regular Season\n\nFC Cincinnati 1 - Philadelphia Union 0
 LOCATION:TQL Stadium\, Cincinnati\, OH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New England Revolution vs. Philadelphia Union
+SUMMARY:New England Revolution* vs. Philadelphia Union
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
 DTSTAMP:20261121T190000Z
 UID:MLS-MAT-000ADE
-DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution vs. Philadelphia 
- Union
+DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution 2 - Philadelphia 
+ Union 0
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
