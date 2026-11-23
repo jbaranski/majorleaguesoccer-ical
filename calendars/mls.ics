@@ -7085,12 +7085,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nNew England Revolution 2 - Philadelphia
 LOCATION:Gillette Stadium\, Foxborough\, MA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. FC Cincinnati
+SUMMARY:Nashville SC vs. FC Cincinnati*
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 DTSTAMP:20261122T210000Z
 UID:MLS-MAT-000AD8
-DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. FC Cincinnati
+DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC 0 - FC Cincinnati 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT

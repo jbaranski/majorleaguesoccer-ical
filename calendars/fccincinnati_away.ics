@@ -192,12 +192,12 @@ DESCRIPTION:MLS - Cup Playoffs\n\nOrlando City 1 - FC Cincinnati 3
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. FC Cincinnati
+SUMMARY:Nashville SC vs. FC Cincinnati*
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 DTSTAMP:20261122T210000Z
 UID:MLS-MAT-000AD8
-DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC vs. FC Cincinnati
+DESCRIPTION:MLS - Cup Playoffs\n\nNashville SC 0 - FC Cincinnati 1
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
