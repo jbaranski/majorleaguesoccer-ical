@@ -7057,21 +7057,21 @@ DESCRIPTION:MLS - Cup Playoffs\n\nOrlando City 1 - FC Cincinnati 3
 LOCATION:Inter.co Stadium\, Orlando\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Portland Timbers
+SUMMARY:FC Dallas* vs. Portland Timbers
 DTSTART:20261121T210000Z
 DTEND:20261121T230000Z
 DTSTAMP:20261121T210000Z
 UID:MLS-MAT-000ACU
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas vs. Portland Timbers
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas 3 - Portland Timbers 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Columbus Crew
+SUMMARY:Inter Miami CF vs. Columbus Crew*
 DTSTART:20261121T230000Z
 DTEND:20261122T010000Z
 DTSTAMP:20261121T230000Z
 UID:MLS-MAT-000ADB
-DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF vs. Columbus Crew
+DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 0 - Columbus Crew 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

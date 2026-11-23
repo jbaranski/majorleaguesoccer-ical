@@ -242,12 +242,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Charlotte FC 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inter Miami CF vs. Columbus Crew
+SUMMARY:Inter Miami CF vs. Columbus Crew*
 DTSTART:20261121T230000Z
 DTEND:20261122T010000Z
 DTSTAMP:20261121T230000Z
 UID:MLS-MAT-000ADB
-DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF vs. Columbus Crew
+DESCRIPTION:MLS - Cup Playoffs\n\nInter Miami CF 0 - Columbus Crew 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT

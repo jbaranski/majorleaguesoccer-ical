@@ -387,12 +387,12 @@ DESCRIPTION:MLS - Regular Season\n\nAustin FC 0 - Portland Timbers 2
 LOCATION:Q2 Stadium\, Austin\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FC Dallas vs. Portland Timbers
+SUMMARY:FC Dallas* vs. Portland Timbers
 DTSTART:20261121T210000Z
 DTEND:20261121T230000Z
 DTSTAMP:20261121T210000Z
 UID:MLS-MAT-000ACU
-DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas vs. Portland Timbers
+DESCRIPTION:MLS - Cup Playoffs\n\nFC Dallas 3 - Portland Timbers 0
 LOCATION:Toyota Stadium\, Frisco\, TX
 END:VEVENT
 BEGIN:VEVENT
