@@ -374,13 +374,13 @@ DESCRIPTION:MLS - Cup Playoffs\n\nSeattle Sounders FC 1 (penalties: 2) - R
 LOCATION:Lumen Field\, Seattle\, WA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+SUMMARY:Vancouver Whitecaps FC* vs. Real Salt Lake
 DTSTART:20261123T013000Z
 DTEND:20261123T033000Z
 DTSTAMP:20261123T013000Z
 UID:MLS-MAT-000ACR
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. Real Salt Lak
- e
+DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC 2 - Real Salt Lak
+ e 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

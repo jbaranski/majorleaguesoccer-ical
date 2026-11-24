@@ -453,13 +453,13 @@ DESCRIPTION:MLS - Regular Season\n\nCF Montreal 0 - Vancouver Whitecaps FC
 LOCATION:Stade Saputo\, Montréal\, QC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vancouver Whitecaps FC vs. Real Salt Lake
+SUMMARY:Vancouver Whitecaps FC* vs. Real Salt Lake
 DTSTART:20261123T013000Z
 DTEND:20261123T033000Z
 DTSTAMP:20261123T013000Z
 UID:MLS-MAT-000ACR
-DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC vs. Real Salt Lak
- e
+DESCRIPTION:MLS - Cup Playoffs\n\nVancouver Whitecaps FC 2 - Real Salt Lak
+ e 0
 LOCATION:BC Place\, Vancouver\, BC
 END:VEVENT
 BEGIN:VEVENT

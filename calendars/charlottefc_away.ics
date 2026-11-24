@@ -175,12 +175,12 @@ DESCRIPTION:MLS - Regular Season\n\nInter Miami CF 3 - Charlotte FC 3
 LOCATION:Nu Stadium\, Miami\, FL
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chicago Fire FC vs. Charlotte FC
+SUMMARY:Chicago Fire FC vs. Charlotte FC*
 DTSTART:20261122T233000Z
 DTEND:20261123T013000Z
 DTSTAMP:20261122T233000Z
 UID:MLS-MAT-000ADH
-DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC vs. Charlotte FC
+DESCRIPTION:MLS - Cup Playoffs\n\nChicago Fire FC 1 - Charlotte FC 2
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 END:VEVENT
 BEGIN:VEVENT
