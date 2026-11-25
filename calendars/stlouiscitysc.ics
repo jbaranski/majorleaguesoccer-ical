@@ -401,12 +401,12 @@ DESCRIPTION:MLS - Regular Season\n\nHouston Dynamo FC 0 - St. Louis City S
 LOCATION:Shell Energy Stadium\, Houston\, TX
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:St. Louis City SC vs. Los Angeles FC
+SUMMARY:St. Louis City SC* vs. Los Angeles FC
 DTSTART:20261124T011500Z
 DTEND:20261124T031500Z
 DTSTAMP:20261124T011500Z
 UID:MLS-MAT-000ACY
-DESCRIPTION:MLS - Cup Playoffs\n\nSt. Louis City SC vs. Los Angeles FC
+DESCRIPTION:MLS - Cup Playoffs\n\nSt. Louis City SC 3 - Los Angeles FC 2
 LOCATION:Energizer Park\, St. Louis\, MO
 END:VEVENT
 BEGIN:VEVENT

@@ -12,7 +12,7 @@ const specialCalendars: Record<string, string> = {
   templateUrl: './home.component.html'
 })
 export class HomeComponent {
-  readonly lastUpdated = '2026-11-24T21:54:10Z';
+  readonly lastUpdated = '2026-11-25T06:55:34Z';
   readonly teams = [
     'All MLS Fixtures',
     'All MLS Cup Playoffs Fixtures',
