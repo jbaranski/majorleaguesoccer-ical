@@ -183,13 +183,13 @@ DESCRIPTION:MLS - Regular Season\n\nPortland Timbers 3 - Houston Dynamo FC
 LOCATION:Providence Park\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Jose Earthquakes vs. Houston Dynamo FC
+SUMMARY:San Jose Earthquakes* vs. Houston Dynamo FC
 DTSTART:20261125T033000Z
 DTEND:20261125T053000Z
 DTSTAMP:20261125T033000Z
 UID:MLS-MAT-000AD4
-DESCRIPTION:MLS - Cup Playoffs\n\nSan Jose Earthquakes vs. Houston Dynamo 
- FC
+DESCRIPTION:MLS - Cup Playoffs\n\nSan Jose Earthquakes 2 - Houston Dynamo 
+ FC 1
 LOCATION:PayPal Park\, San Jose\, CA
 END:VEVENT
 BEGIN:VEVENT
